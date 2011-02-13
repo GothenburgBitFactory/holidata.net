@@ -1,0 +1,12 @@
+# Language, Country,  Region, Date,         Description,              Type, Notes.
+  "fr",     "France", ,       "2011-01-01", "Jour de l'an",           "N",
+  "fr",     "France", ,       "2011-05-01", "Fête du premier mai",    "N",
+  "fr",     "France", ,       "2011-05-08", "la Fête de Victoire 45", "N",
+  "fr",     "France", ,       "2011-06-02", "l'Ascencion",            "N",
+  "fr",     "France", ,       "2011-06-12", "la Pentecôte",           "N",
+  "fr",     "France", ,       "2011-07-14", "Fête nationale",         "N",
+  "fr",     "France", ,       "2011-08-15", "Assomption",             "N",
+  "fr",     "France", ,       "2011-11-01", "La Toussaint",           "N",
+  "fr",     "France", ,       "2011-11-11", "Jour d'armistice",       "N",
+  "fr",     "France", ,       "2011-12-25", "Noël",                   "N",
+
