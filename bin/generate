@@ -1,0 +1,107 @@
+#! /usr/bin/perl
+
+################################################################################
+## holidata.net - data generator
+##
+##   Scans a specified directory for authoritative CSV files that are to be read
+##   and rewritten into the docroot in various formats.
+##
+## Copyright 2011, Göteborg Bit Factory.
+## All rights reserved.
+##
+################################################################################
+
+use strict;
+use warnings;
+use Getopt::Long;
+
+my $help = 0;
+my $data_dir;
+my $docroot;
+
+# Command line options, argument validation.
+Getopt::Long::GetOptions (
+  'help'      => \$help,
+  'data=s'    => \$data_dir,
+  'docroot=s' => \$docroot);
+
+if ($help || !$data_dir || !$docroot)
+{
+  print <<EOF;
+
+usage: holidata [-help] -data /data/path -docroot /docroot/path
+
+  -help           Displays this message.
+  -data           Location of the authoritative CSV files.
+  -docroot        Location for generated output.
+
+EOF
+
+  exit 1;
+}
+
+die "'$data_dir' is not a directory\n" if ! -d $data_dir;
+die "'$docroot' is not a directory\n"  if ! -d $docroot;
+
+# For each file.
+for my $file (glob $data_dir . '/*.csv')
+{
+  print "# file $file\n";
+  if (open my $fh, '<', $file)
+  {
+    my @data;
+    while (my $line = <$fh>)
+    {
+      next if $line =~ /^\s*#/;
+      push @data, [$1,$2,$3,$4,$5,$6]
+        if $line =~ /^
+                     \s*"([^"]*)", # locale
+                     \s*"([^"]*)", # region
+                     \s*"([^"]*)", # date
+                     \s*"([^"]*)", # description
+                     \s*"([^"]*)", # type
+                     \s*"([^"]*)"  # notes
+                     \s*
+                     $/x;
+    }
+    close $fh;
+
+    # Determine years.
+    my %years;
+    for my $holiday (@data)
+    {
+      my ($year) = $holiday->[2] =~ /^(\d{4})-/;
+      $years{$year} = undef;
+    }
+
+    # Make sure the locale dir exists.
+    my $location = $docroot . '/' . $data[0]->[0];
+    mkdir $location unless -d $location;
+    print "# location $location\n";
+
+    # Generate a CSV file for each year.
+    for my $year (keys %years)
+    {
+      print "# year $year\n";
+=pod
+      if (open my $fh, '>', $location . '/' . $year . '.csv')
+      {
+        print $fh qq{"locale","region","date","description","type","notes"\n};
+        for my $holiday (@data)
+        {
+          next unless $holiday->[2] =~ /^$year/;
+          print $fh join (",", map {"\"$_\""} @$holiday), "\n";
+        }
+        close $fh;
+      }
+=cut
+
+      # TODO Generate XML file.
+      # TODO Generate YAML file.
+      # TODO Generate JSON file.
+    }
+  }
+}
+
+exit 0;
+
