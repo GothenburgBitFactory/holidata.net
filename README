@@ -1,0 +1,21 @@
+Holidata.net is a no-nonsense supplier of international holiday data.
+
+- The purpose of holidata.net is to provide a source for free, reliable,
+  international holiday data in machine-readable form via a stable API.
+- The site will serve only holiday data.
+- There will be no ads on the site.
+- There will be no impediment to obtaining the data.
+- There will be a CGI API for accessing the data, allowing the customer to
+  determine the LOCALE, start date, type of holiday, end date and format.
+- The holiday data will be provided in several different formats, such as XML,
+  CSV, YAML and perhaps HTML.
+- The holidays will be described in their native language, using UTF8.
+- There will be a guaranteed availability of data, for example, if a LOCALE is
+  supported, that means there is at least data for the current year and next
+  year available.
+- There will be a web form that allows submission of corrections, additions or
+  requests for a new LOCALE.
+- Where possible, through the use of kronisk, data will be automatically
+  generated.
+
+---
