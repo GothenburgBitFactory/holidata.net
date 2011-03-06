@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-01-01</date>
+    <description>Jour de l'an</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-05-01</date>
+    <description>Fête du premier mai</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-05-08</date>
+    <description>la Fête de Victoire 45</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-06-02</date>
+    <description>l'Ascencion</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-06-12</date>
+    <description>la Pentecôte</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-07-14</date>
+    <description>Fête nationale</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-08-15</date>
+    <description>Assomption</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-11-01</date>
+    <description>La Toussaint</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-11-11</date>
+    <description>Jour d'armistice</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2011-12-25</date>
+    <description>Noël</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+</holidays>

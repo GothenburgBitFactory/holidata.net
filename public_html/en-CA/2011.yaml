@@ -1,84 +1,91 @@
 %YAML 1.1
 ---
   holiday:
-    locale: en-US
+    locale: en-CA
     region: 
     date: 2011-01-01
     description: New Year's Day
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
     region: 
     date: 2011-01-17
-    description: Birthday of Martin Luther King, Jr.
+    description: Family Day
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
     region: 
-    date: 2011-02-21
-    description: Washington's Birthday
+    date: 2011-04-22
+    description: Good Friday
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
     region: 
-    date: 2011-04-19
-    description: Patriots' Day
+    date: 2011-04-25
+    description: Easter Monday
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
     region: 
-    date: 2011-05-30
-    description: Memorial Day
+    date: 2011-05-24
+    description: Victoria Day
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
     region: 
-    date: 2011-07-04
-    description: Independence Day
+    date: 2011-07-01
+    description: Canada Day
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
+    region: 
+    date: 2011-08-01
+    description: First Monday of August
+    type: N
+    notes: 
+  holiday:
+    locale: en-CA
     region: 
     date: 2011-09-05
-    description: Labor Day
+    description: Labour Day
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
     region: 
     date: 2011-10-10
-    description: Columbus Day
-    type: N
-    notes: 
-  holiday:
-    locale: en-US
-    region: 
-    date: 2011-11-11
-    description: Veterans Day
-    type: N
-    notes: 
-  holiday:
-    locale: en-US
-    region: 
-    date: 2011-11-24
     description: Thanksgiving Day
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
+    region: 
+    date: 2011-11-11
+    description: Remembrance Day
+    type: N
+    notes: 
+  holiday:
+    locale: en-CA
     region: 
     date: 2011-12-25
     description: Christmas Day
     type: N
     notes: 
   holiday:
-    locale: en-US
+    locale: en-CA
+    region: 
+    date: 2011-12-26
+    description: Boxing Day
+    type: N
+    notes: 
+  holiday:
+    locale: en-CA
     region: 
     date: 2011-12-31
     description: New Year's Eve

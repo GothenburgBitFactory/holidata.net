@@ -1,0 +1,164 @@
+%YAML 1.1
+---
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-01-01
+    description: Neujahr
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-01-06
+    description: Heilige drei KÃ¶nige
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-03-19
+    description: Josef (K, St, T, V)
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-04-22
+    description: Karfreitag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-04-24
+    description: Ostersonntag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-04-25
+    description: Ostermontag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-05-01
+    description: Staatsfeiertag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-05-04
+    description: Florian (OÃ)
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-06-02
+    description: Christi Himmelfahrt
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-06-12
+    description: Pfingstsonntag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-06-23
+    description: Fronleichnam
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-08-15
+    description: MariÃ€ Himmelfahrt
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-09-24
+    description: Rupert (S)
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-10-10
+    description: Tag der Volksabstimmung (K)
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-11-01
+    description: Allerheiligen
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-11-11
+    description: Martin (B)
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-11-15
+    description: Leopold (W, NÃ)
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-12-08
+    description: MariÃ€ EmpfÃ€ngnis
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-12-24
+    description: Heiliger Abend
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-12-25
+    description: Christtag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-12-26
+    description: Stefanitag
+    type: N
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
+    date: 2011-12-31
+    description: Silvester
+    type: N
+    notes: 
+...

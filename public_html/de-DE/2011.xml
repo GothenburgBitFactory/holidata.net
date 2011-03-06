@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-01-01</date>
+    <description>Neujahr</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-01-06</date>
+    <description>Heilige drei Könige (BW,BY,ST)</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-04-22</date>
+    <description>Karfreitag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-04-24</date>
+    <description>Ostern</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-04-25</date>
+    <description>Ostermontag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-05-01</date>
+    <description>Erster Maifeiertag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-06-12</date>
+    <description>Pfingstsonntag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-06-13</date>
+    <description>Pfingstmontag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-06-23</date>
+    <description>Fronleichnam (BW,BY,HE,NRW,RP,SL,(SN,TH))</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-08-15</date>
+    <description>Mariä Himmelfahrt (SL)</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-10-03</date>
+    <description>Tag der Deutschen Einheit</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-10-31</date>
+    <description>Reformationstag (BB,MV,SN,ST,TH)</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-11-01</date>
+    <description>Allerheiligen (BW,BY,NRW,RP,SL)</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-11-16</date>
+    <description>Buss und Bettag (SN)</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-12-24</date>
+    <description>Heilig Abend</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-12-25</date>
+    <description>Weihnachtstag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-12-26</date>
+    <description>Zweiter Weihnachtstag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
+    <date>2011-12-31</date>
+    <description>Sylvester</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+</holidays>

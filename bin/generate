@@ -46,12 +46,13 @@ die "'$docroot' is not a directory\n"  if ! -d $docroot;
 # For each file.
 for my $file (glob $data_dir . '/*.csv')
 {
-  print "# file $file\n";
+  print $file, "\n";
   if (open my $fh, '<', $file)
   {
     my @data;
     while (my $line = <$fh>)
     {
+      next if $line =~ /^\s*$/;
       next if $line =~ /^\s*#/;
       push @data, [$1,$2,$3,$4,$5,$6]
         if $line =~ /^
@@ -77,15 +78,14 @@ for my $file (glob $data_dir . '/*.csv')
     # Make sure the locale dir exists.
     my $location = $docroot . '/' . $data[0]->[0];
     mkdir $location unless -d $location;
-    print "# location $location\n";
 
-    # Generate a CSV file for each year.
-    for my $year (keys %years)
+    # For each year.
+    for my $year (sort keys %years)
     {
-      print "# year $year\n";
-=pod
+      # Generate CSV file.
       if (open my $fh, '>', $location . '/' . $year . '.csv')
       {
+        print "  $location/$year.csv\n";
         print $fh qq{"locale","region","date","description","type","notes"\n};
         for my $holiday (@data)
         {
@@ -94,11 +94,71 @@ for my $file (glob $data_dir . '/*.csv')
         }
         close $fh;
       }
-=cut
 
-      # TODO Generate XML file.
-      # TODO Generate YAML file.
-      # TODO Generate JSON file.
+      # Generate XML file.
+      if (open my $fh, '>', $location . '/' . $year . '.xml')
+      {
+        print "  $location/$year.xml\n";
+        print $fh "<?xml version=\"1.0\" ?>\n",
+                  "<holidays>\n";
+        for my $holiday (@data)
+        {
+          next unless $holiday->[2] =~ /^$year/;
+
+          print $fh "  <holiday>\n",
+                    "    <locale>",      $holiday->[0], "</locale>\n",
+                    "    <region>",      $holiday->[1], "</region>\n",
+                    "    <date>",        $holiday->[2], "</date>\n",
+                    "    <description>", $holiday->[3], "</description>\n",
+                    "    <type>",        $holiday->[4], "</type>\n",
+                    "    <notes>",       $holiday->[5], "</notes>\n",
+                    "  </holiday>\n";
+        }
+
+        print $fh "</holidays>\n";
+        close $fh;
+      }
+
+      # Generate YAML file.
+      if (open my $fh, '>', $location . '/' . $year . '.yaml')
+      {
+        print "  $location/$year.yaml\n";
+        print $fh "%YAML 1.1\n",
+                  "---\n";
+
+        for my $holiday (@data)
+        {
+          next unless $holiday->[2] =~ /^$year/;
+
+          print $fh "  holiday:\n",
+                    "    locale: ",      $holiday->[0], "\n",
+                    "    region: ",      $holiday->[1], "\n",
+                    "    date: ",        $holiday->[2], "\n",
+                    "    description: ", $holiday->[3], "\n",
+                    "    type: ",        $holiday->[4], "\n",
+                    "    notes: ",       $holiday->[5], "\n";
+        }
+
+        print $fh "...\n";
+        close $fh;
+      }
+
+      # Generate JSON file.
+      if (open my $fh, '>', $location . '/' . $year . '.json')
+      {
+        print "  $location/$year.json\n";
+        for my $holiday (@data)
+        {
+          next unless $holiday->[2] =~ /^$year/;
+          print $fh "{\"locale\":\"",     $holiday->[0], "\",",
+                    "\"region\":\"",      $holiday->[1], "\",",
+                    "\"date\":\"",        $holiday->[2], "\",",
+                    "\"description\":\"", $holiday->[3], "\",",
+                    "\"type\":\"",        $holiday->[4], "\",",
+                    "\"notes\":\"",       $holiday->[5], "\"}\n";
+        }
+        close $fh;
+      }
     }
   }
 }
