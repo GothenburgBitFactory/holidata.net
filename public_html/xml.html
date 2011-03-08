@@ -82,27 +82,73 @@
         <br />
         <a href="index2.html">&lt;&lt; Home</a>
 
-        <h1>Legal Disclaimer</h1>
+        <h1>XML Data Format</h1>
         <p>
-          Göteborg Bit Factory (GBF) has made every attempt to ensure the accuracy and
-          reliability of the information provided on this website.  However, the
-          information is provided "as is" without warranty of any kind.  GBF does not
-          accept any responsibility or liability for the accuracy, content, completeness,
-          legality, or reliability of the information contained on this website.
+          The XML (Extensible Markup Language) format is very common.
+          See
+          <a href="http://www.w3.org/XML/">http://www.w3.org/XML</a>
+          for a complete description.
         </p>
 
         <p>
-          No warranties, promises and/or representations of any kind, expressed orimplied,
-          are given as to the nature, standard, accuracy or otherwise of the information
-          provided in this website nor to the suitability or otherwise of the information
-          to your particular circumstances.
+          Empty fields are represented by empty tags.
         </p>
 
         <p>
-          GBF shall not be liable for any loss or damage of whatever nature (direct,
-          indirect, consequential, or other) whether arising in contract, tort or
-          otherwise, which may arise as a result of your use of (or inability to use) this
-          website, or from your use of (or failure to use) the information on this site.
+          All data is provided in UTF-8.
+        </p>
+
+        <h1>Example</h1>
+        <pre>
+&lt;?xml version="1.0" ?&gt;
+&lt;holidays&gt;
+  &lt;holiday&gt;
+    &lt;locale&gt;en-US&lt;/locale&gt;
+    &lt;region&gt;&lt;/region&gt;
+    &lt;date&gt;2011-01-01&lt;/date&gt;
+    &lt;description&gt;New Year's Day&lt;/description&gt;
+    &lt;type&gt;N&lt;/type&gt;
+    &lt;notes&gt;&lt;/notes&gt;
+  &lt;/holiday&gt;
+&lt;/holidays&gt;
+        </pre>
+
+        <h1>Fields</h1>
+        <p>
+          <b>locale</b>
+          is a combination of an ISO 639-1 language code, such as "en" (English),
+          and an ISO 3166-1 alpha-2 country code, such as "US" (United States),
+          separated by a hyphen.
+        </p>
+
+        <p>
+          <b>region</b>
+          is a subdivision of locale, for those locales that have regional
+          holidays.  This is mostly not used.
+        </p>
+
+        <p>
+          <b>date</b>
+          is provided in YYYY-MM-DD format.
+        </p>
+
+        <p>
+          <b>description</b>
+          is text that simply describes the holiday.
+        </p>
+
+        <p>
+          <b>type</b>
+          is a collection of single-character indicators, that describe the
+          holiday.  "N" means national holiday, which means locale-wide.
+          "R" means it is a religious holiday.  No other codes are currently
+          in use.
+        </p>
+
+        <p>
+          <b>notes</b>
+          are provided in some cases for clarification, but are not to be used
+          as part of the holiday description.
         </p>
       </div>
       </div>
