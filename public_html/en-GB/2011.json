@@ -1,9 +1,8 @@
-{"locale":"en-GB","region":"","date":"2011-01-01","description":"New Year's Day","type":"N","notes":""}
-{"locale":"en-GB","region":"","date":"2011-01-01","description":"New Year's Day","type":"N","notes":""}
-{"locale":"en-GB","region":"","date":"2011-04-02","description":"Good Friday","type":"NR","notes":""}
-{"locale":"en-GB","region":"","date":"2011-04-25","description":"Easter Monday","type":"N","notes":""}
-{"locale":"en-GB","region":"","date":"2011-05-02","description":"Early May Bank Holiday","type":"N","notes":""}
-{"locale":"en-GB","region":"","date":"2011-05-30","description":"Spring Bank Holiday","type":"N","notes":""}
-{"locale":"en-GB","region":"","date":"2011-08-29","description":"August Bank Holiday","type":"N","notes":""}
-{"locale":"en-GB","region":"","date":"2011-12-25","description":"Christmas Day","type":"N","notes":""}
-{"locale":"en-GB","region":"","date":"2011-12-26","description":"Boxing Day","type":"N","notes":""}
+{"locale":"en-GB","region":"","date":"2011-01-01","description":"New Year's Day","type":"NF","notes":""}
+{"locale":"en-GB","region":"","date":"2011-04-02","description":"Good Friday","type":"NRV","notes":""}
+{"locale":"en-GB","region":"","date":"2011-04-25","description":"Easter Monday","type":"NRV","notes":""}
+{"locale":"en-GB","region":"","date":"2011-05-02","description":"Early May Bank Holiday","type":"NV","notes":""}
+{"locale":"en-GB","region":"","date":"2011-05-30","description":"Spring Bank Holiday","type":"NV","notes":""}
+{"locale":"en-GB","region":"","date":"2011-08-29","description":"August Bank Holiday","type":"NV","notes":""}
+{"locale":"en-GB","region":"","date":"2011-12-25","description":"Christmas Day","type":"NRF","notes":""}
+{"locale":"en-GB","region":"","date":"2011-12-26","description":"Boxing Day","type":"NF","notes":""}

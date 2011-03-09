@@ -5,7 +5,7 @@
     <region></region>
     <date>2011-01-01</date>
     <description>Nytårsdag</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region></region>
     <date>2011-04-24</date>
     <description>Påskedag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -83,17 +83,9 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2011-12-25</date>
-    <description>Juledag</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>da-DK</locale>
-    <region></region>
     <date>2011-12-26</date>
     <description>Anden juledag</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
 </holidays>

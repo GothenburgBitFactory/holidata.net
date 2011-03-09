@@ -3,4 +3,21 @@ Legend
   Holiday Type:
     N  National holiday
     R  Religious holiday
+    F  Fixed date
+    V  Variable date
+
+Status                    Flags?
+  AT 2011
+  CA 2011 2012            Y
+  DE 2011 2012
+  DK 2011 2012
+  ES 2011 2012
+  FR 2011 2012            Y
+  GB 2011 2012 2013 2014  Y
+  IT 2011 2012            Y
+  NL 2011 2012
+  NO 2011 2012
+  NZ 2011 2012 2013       Y
+  SE 2011 2012
+  US 2011 2012 2013 2014  Y
 

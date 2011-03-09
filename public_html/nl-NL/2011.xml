@@ -27,6 +27,14 @@
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
+    <date>2011-04-25</date>
+    <description>Tweede Paasdag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
     <date>2011-04-30</date>
     <description>Koninginnedag</description>
     <type>N</type>

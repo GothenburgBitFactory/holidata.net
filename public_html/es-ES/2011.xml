@@ -27,6 +27,14 @@
   <holiday>
     <locale>es-ES</locale>
     <region></region>
+    <date>2011-04-24</date>
+    <description>Pascua</description>
+    <type>NR</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
     <date>2011-05-01</date>
     <description>Fiesta del Trabajo</description>
     <type>N</type>
@@ -85,7 +93,7 @@
     <region></region>
     <date>2011-12-25</date>
     <description>Navidad</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -93,7 +101,15 @@
     <region></region>
     <date>2011-12-31</date>
     <description>Noche Vieja</description>
-    <type>N</type>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2011-04-08</date>
+    <description>Pascua</description>
+    <type>NR</type>
     <notes></notes>
   </holiday>
 </holidays>

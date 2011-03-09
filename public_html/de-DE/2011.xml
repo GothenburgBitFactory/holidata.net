@@ -10,9 +10,25 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region></region>
+    <region>BW</region>
     <date>2011-01-06</date>
-    <description>Heilige drei Könige (BW,BY,ST)</description>
+    <description>Heilige drei Könige</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>BY</region>
+    <date>2011-01-06</date>
+    <description>Heilige drei Könige</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>ST</region>
+    <date>2011-01-06</date>
+    <description>Heilige drei Könige</description>
     <type>N</type>
     <notes></notes>
   </holiday>
@@ -51,6 +67,14 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
+    <date>2011-06-02</date>
+    <description>Christi Himmelfahrt</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region></region>
     <date>2011-06-12</date>
     <description>Pfingstsonntag</description>
     <type>N</type>
@@ -66,17 +90,57 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region></region>
+    <region>BW</region>
     <date>2011-06-23</date>
-    <description>Fronleichnam (BW,BY,HE,NRW,RP,SL,(SN,TH))</description>
+    <description>Fronleichnam</description>
     <type>N</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region></region>
+    <region>BY</region>
+    <date>2011-06-23</date>
+    <description>Fronleichnam</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>HE</region>
+    <date>2011-06-23</date>
+    <description>Fronleichnam</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>NRW</region>
+    <date>2011-06-23</date>
+    <description>Fronleichnam</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>RP</region>
+    <date>2011-06-23</date>
+    <description>Fronleichnam</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>SL</region>
+    <date>2011-06-23</date>
+    <description>Fronleichnam</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>SL</region>
     <date>2011-08-15</date>
-    <description>Mariä Himmelfahrt (SL)</description>
+    <description>Mariä Himmelfahrt</description>
     <type>N</type>
     <notes></notes>
   </holiday>
@@ -90,25 +154,89 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region></region>
+    <region>BB</region>
     <date>2011-10-31</date>
-    <description>Reformationstag (BB,MV,SN,ST,TH)</description>
+    <description>Reformationstag</description>
     <type>N</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region></region>
+    <region>MV</region>
+    <date>2011-10-31</date>
+    <description>Reformationstag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>SN</region>
+    <date>2011-10-31</date>
+    <description>Reformationstag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>ST</region>
+    <date>2011-10-31</date>
+    <description>Reformationstag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>TH</region>
+    <date>2011-10-31</date>
+    <description>Reformationstag</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>BW</region>
     <date>2011-11-01</date>
-    <description>Allerheiligen (BW,BY,NRW,RP,SL)</description>
+    <description>Allerheiligen</description>
     <type>N</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region></region>
+    <region>BY</region>
+    <date>2011-11-01</date>
+    <description>Allerheiligen</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>NRW</region>
+    <date>2011-11-01</date>
+    <description>Allerheiligen</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>RP</region>
+    <date>2011-11-01</date>
+    <description>Allerheiligen</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>SL</region>
+    <date>2011-11-01</date>
+    <description>Allerheiligen</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>SN</region>
     <date>2011-11-16</date>
-    <description>Buss und Bettag (SN)</description>
+    <description>Buss und Bettag</description>
     <type>N</type>
     <notes></notes>
   </holiday>

@@ -1,10 +1,12 @@
-{"locale":"fr-FR","region":"","date":"2011-01-01","description":"Jour de l'an","type":"N","notes":""}
-{"locale":"fr-FR","region":"","date":"2011-05-01","description":"Fête du premier mai","type":"N","notes":""}
-{"locale":"fr-FR","region":"","date":"2011-05-08","description":"la Fête de Victoire 45","type":"N","notes":""}
-{"locale":"fr-FR","region":"","date":"2011-06-02","description":"l'Ascencion","type":"N","notes":""}
-{"locale":"fr-FR","region":"","date":"2011-06-12","description":"la Pentecôte","type":"N","notes":""}
-{"locale":"fr-FR","region":"","date":"2011-07-14","description":"Fête nationale","type":"N","notes":""}
-{"locale":"fr-FR","region":"","date":"2011-08-15","description":"Assomption","type":"N","notes":""}
-{"locale":"fr-FR","region":"","date":"2011-11-01","description":"La Toussaint","type":"N","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-01-01","description":"Jour de l'an","type":"NF","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-04-05","description":"Lundi de Pâques","type":"NRV","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-05-01","description":"Fête du premier mai","type":"NV","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-05-08","description":"la Fête de Victoire 45","type":"NF","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-06-02","description":"l'Ascencion","type":"NR","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-06-12","description":"la Pentecôte","type":"NR","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-07-14","description":"Fête nationale","type":"NF","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-07-15","description":"Fête nationale","type":"NV","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-08-15","description":"Assomption","type":"NR","notes":""}
+{"locale":"fr-FR","region":"","date":"2011-11-01","description":"La Toussaint","type":"NR","notes":""}
 {"locale":"fr-FR","region":"","date":"2011-11-11","description":"Jour d'armistice","type":"N","notes":""}
 {"locale":"fr-FR","region":"","date":"2011-12-25","description":"Noël","type":"N","notes":""}

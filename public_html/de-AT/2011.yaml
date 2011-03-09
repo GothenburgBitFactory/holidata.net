@@ -5,14 +5,14 @@
     region: 
     date: 2011-01-01
     description: Neujahr
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-01-06
     description: Heilige drei KÃ¶nige
-    type: N
+    type: NRF
     notes: 
   holiday:
     locale: de-AT
@@ -26,21 +26,21 @@
     region: 
     date: 2011-04-22
     description: Karfreitag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-04-24
     description: Ostersonntag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-04-25
     description: Ostermontag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: de-AT
@@ -61,7 +61,7 @@
     region: 
     date: 2011-06-02
     description: Christi Himmelfahrt
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: de-AT
@@ -89,7 +89,7 @@
     region: 
     date: 2011-08-15
     description: MariÃ€ Himmelfahrt
-    type: N
+    type: NR
     notes: 
   holiday:
     locale: de-AT
@@ -110,7 +110,7 @@
     region: 
     date: 2011-11-01
     description: Allerheiligen
-    type: N
+    type: NRF
     notes: 
   holiday:
     locale: de-AT
@@ -131,34 +131,34 @@
     region: 
     date: 2011-12-08
     description: MariÃ€ EmpfÃ€ngnis
-    type: N
+    type: NRF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-12-24
     description: Heiliger Abend
-    type: N
+    type: NRF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-12-25
     description: Christtag
-    type: N
+    type: NRF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-12-26
     description: Stefanitag
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-12-31
     description: Silvester
-    type: N
+    type: NF
     notes: 
 ...

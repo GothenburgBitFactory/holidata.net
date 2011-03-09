@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-01-01</date>
+    <description>Capodanno</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-01-06</date>
+    <description>Epifania</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-03-08</date>
+    <description>Carnevale</description>
+    <type>NR</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-04-09</date>
+    <description>Pasqua</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-04-25</date>
+    <description>Festa della liberazione</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-05-01</date>
+    <description>Festa del lavoro</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-06-02</date>
+    <description>Festa della repubblica</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-08-15</date>
+    <description>Assunzione (ferragosto)</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-11-01</date>
+    <description>Ognissanti</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-12-18</date>
+    <description>Immacolata concezione</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-12-25</date>
+    <description>Natale</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2012-12-26</date>
+    <description>S.to Stefano</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

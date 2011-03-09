@@ -5,15 +5,7 @@
     <region></region>
     <date>2011-01-01</date>
     <description>New Year's Day</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-GB</locale>
-    <region></region>
-    <date>2011-01-01</date>
-    <description>New Year's Day</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -21,7 +13,7 @@
     <region></region>
     <date>2011-04-02</date>
     <description>Good Friday</description>
-    <type>NR</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +21,7 @@
     <region></region>
     <date>2011-04-25</date>
     <description>Easter Monday</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +29,7 @@
     <region></region>
     <date>2011-05-02</date>
     <description>Early May Bank Holiday</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -45,7 +37,7 @@
     <region></region>
     <date>2011-05-30</date>
     <description>Spring Bank Holiday</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -53,7 +45,7 @@
     <region></region>
     <date>2011-08-29</date>
     <description>August Bank Holiday</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -61,7 +53,7 @@
     <region></region>
     <date>2011-12-25</date>
     <description>Christmas Day</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -69,7 +61,7 @@
     <region></region>
     <date>2011-12-26</date>
     <description>Boxing Day</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
 </holidays>

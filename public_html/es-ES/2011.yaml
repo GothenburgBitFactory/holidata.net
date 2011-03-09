@@ -24,6 +24,13 @@
   holiday:
     locale: es-ES
     region: 
+    date: 2011-04-24
+    description: Pascua
+    type: NR
+    notes: 
+  holiday:
+    locale: es-ES
+    region: 
     date: 2011-05-01
     description: Fiesta del Trabajo
     type: N
@@ -75,13 +82,20 @@
     region: 
     date: 2011-12-25
     description: Navidad
-    type: N
+    type: NRF
     notes: 
   holiday:
     locale: es-ES
     region: 
     date: 2011-12-31
     description: Noche Vieja
-    type: N
+    type: NF
+    notes: 
+  holiday:
+    locale: es-ES
+    region: 
+    date: 2011-04-08
+    description: Pascua
+    type: NR
     notes: 
 ...

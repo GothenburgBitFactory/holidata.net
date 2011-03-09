@@ -9,9 +9,23 @@
     notes: 
   holiday:
     locale: de-DE
-    region: 
+    region: BW
     date: 2011-01-06
-    description: Heilige drei Könige (BW,BY,ST)
+    description: Heilige drei Könige
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: BY
+    date: 2011-01-06
+    description: Heilige drei Könige
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: ST
+    date: 2011-01-06
+    description: Heilige drei Könige
     type: N
     notes: 
   holiday:
@@ -45,6 +59,13 @@
   holiday:
     locale: de-DE
     region: 
+    date: 2011-06-02
+    description: Christi Himmelfahrt
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: 
     date: 2011-06-12
     description: Pfingstsonntag
     type: N
@@ -58,16 +79,51 @@
     notes: 
   holiday:
     locale: de-DE
-    region: 
+    region: BW
     date: 2011-06-23
-    description: Fronleichnam (BW,BY,HE,NRW,RP,SL,(SN,TH))
+    description: Fronleichnam
     type: N
     notes: 
   holiday:
     locale: de-DE
-    region: 
+    region: BY
+    date: 2011-06-23
+    description: Fronleichnam
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: HE
+    date: 2011-06-23
+    description: Fronleichnam
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: NRW
+    date: 2011-06-23
+    description: Fronleichnam
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: RP
+    date: 2011-06-23
+    description: Fronleichnam
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: SL
+    date: 2011-06-23
+    description: Fronleichnam
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: SL
     date: 2011-08-15
-    description: Mariä Himmelfahrt (SL)
+    description: Mariä Himmelfahrt
     type: N
     notes: 
   holiday:
@@ -79,23 +135,79 @@
     notes: 
   holiday:
     locale: de-DE
-    region: 
+    region: BB
     date: 2011-10-31
-    description: Reformationstag (BB,MV,SN,ST,TH)
+    description: Reformationstag
     type: N
     notes: 
   holiday:
     locale: de-DE
-    region: 
+    region: MV
+    date: 2011-10-31
+    description: Reformationstag
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: SN
+    date: 2011-10-31
+    description: Reformationstag
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: ST
+    date: 2011-10-31
+    description: Reformationstag
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: TH
+    date: 2011-10-31
+    description: Reformationstag
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: BW
     date: 2011-11-01
-    description: Allerheiligen (BW,BY,NRW,RP,SL)
+    description: Allerheiligen
     type: N
     notes: 
   holiday:
     locale: de-DE
-    region: 
+    region: BY
+    date: 2011-11-01
+    description: Allerheiligen
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: NRW
+    date: 2011-11-01
+    description: Allerheiligen
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: RP
+    date: 2011-11-01
+    description: Allerheiligen
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: SL
+    date: 2011-11-01
+    description: Allerheiligen
+    type: N
+    notes: 
+  holiday:
+    locale: de-DE
+    region: SN
     date: 2011-11-16
-    description: Buss und Bettag (SN)
+    description: Buss und Bettag
     type: N
     notes: 
   holiday:
