@@ -1,0 +1,346 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-AU
+    region: 
+    date: 2011-01-03
+    description: New Year's Day
+    type: NV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: 
+    date: 2011-01-26
+    description: Australia Day
+    type: NF
+    notes: 
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2011-02-14
+    description: Royal Hobart Regatta
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2011-03-07
+    description: Labour Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2011-03-14
+    description: Labour Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2011-03-14
+    description: Eight Hours Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2011-03-14
+    description: Canberra Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: 
+    date: 2011-04-22
+    description: Good Friday
+    type: NRV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: QL
+    date: 2011-04-23
+    description: Easter Saturday
+    type: RV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2011-04-23
+    description: Easter Saturday
+    type: RV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2011-04-23
+    description: Easter Saturday
+    type: RV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2011-04-23
+    description: Easter Saturday
+    type: RV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2011-04-23
+    description: Easter Saturday
+    type: RV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: 
+    date: 2011-04-25
+    description: Easter Monday
+    type: NRV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: QL
+    date: 2011-04-25
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2011-04-25
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2011-04-25
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2011-04-25
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2011-04-26
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2011-04-26
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2011-04-26
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2011-04-26
+    description: Anzac Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2011-05-02
+    description: May Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: QL
+    date: 2011-05-02
+    description: Labour Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2011-06-06
+    description: Foundation Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: QL
+    date: 2011-06-13
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2011-06-13
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2011-06-13
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2011-06-13
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2011-06-13
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2011-06-13
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2011-06-13
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2011-08-01
+    description: Picnic Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2011-08-01
+    description: Bank Holiday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2011-10-03
+    description: Queen's Birthday
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2011-10-03
+    description: Labour Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2011-10-03
+    description: Labour Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2011-10-03
+    description: Labour Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2011-11-07
+    description: Recreation Day
+    type: V
+    notes: 
+  holiday:
+    locale: en-AU
+    region: 
+    date: 2011-12-26
+    description: Christmas Day
+    type: NRV
+    notes: 
+  holiday:
+    locale: en-AU
+    region: QL
+    date: 2011-12-27
+    description: Boxing Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2011-12-27
+    description: Proclamation Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2011-12-27
+    description: Boxing Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2011-12-27
+    description: Boxing Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2011-12-27
+    description: Boxing Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2011-12-27
+    description: Boxing Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2011-12-27
+    description: Boxing Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2011-12-27
+    description: Boxing Day
+    type: F
+    notes: 
+  holiday:
+    locale: en-AU
+    region: 
+    date: 2011-04-06
+    description: Good Friday
+    type: NRV
+    notes: 
+...
