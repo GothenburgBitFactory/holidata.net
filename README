@@ -5,8 +5,7 @@ Holidata.net is a no-nonsense supplier of international holiday data.
 - The site will serve only holiday data.
 - There will be no ads on the site.
 - There will be no impediment to obtaining the data.
-- There will be a CGI API for accessing the data, allowing the customer to
-  determine the LOCALE, start date, type of holiday, end date and format.
+- Data access will be through clearly defined URLs.
 - The holiday data will be provided in several different formats, such as XML,
   CSV, YAML and perhaps HTML.
 - The holidays will be described in their native language, using UTF8.
@@ -19,3 +18,5 @@ Holidata.net is a no-nonsense supplier of international holiday data.
   generated.
 
 ---
+
+
