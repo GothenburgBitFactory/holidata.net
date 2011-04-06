@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-01-01</date>
+    <description>Ano Novo</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-03-08</date>
+    <description>Carnaval</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-04-22</date>
+    <description>Sexta-feira Santa</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-04-24</date>
+    <description>Páscoa</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-04-25</date>
+    <description>Dia da Liberdade</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-05-01</date>
+    <description>Dia do Trabalhador</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-06-23</date>
+    <description>Corpo de Deus</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-06-10</date>
+    <description>Dia de Portugal</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-08-15</date>
+    <description>Assunção de Nossa Senhora</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-10-05</date>
+    <description>Implantação da República</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-11-01</date>
+    <description>Todos os Santos</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-12-01</date>
+    <description>Restauração da Independência</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-12-08</date>
+    <description>Imaculada Conceição</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-12-25</date>
+    <description>Natal</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-02-21</date>
+    <description>Carnaval</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-04-06</date>
+    <description>Sexta-feira Santa</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-04-08</date>
+    <description>Páscoa</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2011-06-07</date>
+    <description>Corpo de Deus</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+</holidays>
