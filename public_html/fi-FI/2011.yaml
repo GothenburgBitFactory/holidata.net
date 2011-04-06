@@ -1,0 +1,108 @@
+%YAML 1.1
+---
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-01-01
+    description: Uudenvuodenpäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-01-06
+    description: Loppiainen
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-04-22
+    description: Pitkäperjantai
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-04-24
+    description: Pääsiäispäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-04-25
+    description: 2. pääsiäispäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-05-01
+    description: Vappu
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-06-02
+    description: Helatorstai
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-06-12
+    description: Helluntaipäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-06-24
+    description: Juhannusaatto
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-06-25
+    description: Juhannuspäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-11-05
+    description: Pyhäinpäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-12-06
+    description: Itsenäisyyspäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-12-24
+    description: Jouluaatto
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-12-25
+    description: Joulupäivä
+    type: N
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2011-12-26
+    description: 2. joulupäivä
+    type: N
+    notes: 
+...
