@@ -128,7 +128,7 @@ if ($html_file)
       {
         if (exists $data{$locale}{$year}{$format})
         {
-          $content .= "<a href=\"/$locale/$year.$format\">" . $format . "</a><br />";
+          $content .= "<a href=\"/$locale/$year." . lc ($format) . "\">" . $format . "</a><br />";
         }
       }
 
