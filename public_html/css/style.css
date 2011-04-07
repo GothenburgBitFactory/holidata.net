@@ -114,7 +114,7 @@ hr
   line-height: 0px;
 }
 
-table.members
+table.general
 {
 	border-width: 1px;
 	border-spacing: ;
@@ -124,21 +124,21 @@ table.members
 	background-color: #EEEEEE;
 }
 
-table.members th
+table.general th
 {
   text-align: left;
 	border-width: 2px;
-	padding: 1px;
+	padding: 3px;
 	border-style: solid;
 	border-color: white;
 	background-color: white;
 	-moz-border-radius: ;
 }
 
-table.members td
+table.general td
 {
 	border-width: 2px;
-	padding: 1px;
+	padding: 3px;
 	border-style: solid;
 	border-color: white;
 	background-color: #EEEEEE;

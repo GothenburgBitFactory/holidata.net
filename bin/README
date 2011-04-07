@@ -1,0 +1,11 @@
+How to update the data:
+
+  cd www-holidata.net.git/bin
+  git pull
+  ./build
+  git commit -a
+  git push
+
+The build script will generate the data files for each locale, year and format,
+then create locale_index.txt, local_index.html and map.html.
+

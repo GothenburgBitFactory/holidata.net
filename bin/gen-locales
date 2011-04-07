@@ -1,0 +1,147 @@
+#! /usr/bin/perl
+################################################################################
+## holidata.net - data generator
+##
+##   Scans a specified directory for authoritative CSV files and generates a
+##   text and an HTML summary table.
+##
+## Copyright 2011, Göteborg Bit Factory.
+## All rights reserved.
+##
+################################################################################
+
+use strict;
+use warnings;
+use Getopt::Long;
+use Holidata;
+
+my $help = 0;
+my $docroot_dir;
+my $text_file;
+my $html_file;
+my $template_file;
+
+# Command line options, argument validation.
+Getopt::Long::GetOptions (
+  'help'       => \$help,
+  'docroot=s'  => \$docroot_dir,
+  'text=s'     => \$text_file,
+  'html=s'     => \$html_file,
+  'template=s' => \$template_file);
+
+if ($help || !$docroot_dir || (!$text_file && !$html_file))
+{
+  print <<EOF;
+
+usage: gen-locales [--help]
+                   [--text <text file>]
+                   [--html <html file> --template <html template>]
+                   --docroot <docroot>
+
+  --help           Displays this message.
+  --text           Locale index text file name.
+  --html           Locale index HTML file name.
+  --template       HTML Template File, containing '%%%%'.
+  --docroot        Location of the authoritative CSV files.
+
+EOF
+
+  exit 1;
+}
+
+die "'$docroot_dir' is not a directory\n" if ! -d $docroot_dir;
+
+# Determine supported locales, formats and years by scanning $docroot_dir.
+my @files = grep {/\/..-..\/\d{4}\./}
+            Holidata::list_files ($docroot_dir);
+
+my %data;
+my %data_years;
+my %data_formats;
+for my $file (@files)
+{
+  if ($file =~ /([a-z]{2}-[A-Z]{2})\/(\d{4})\.(.+)$/)
+  {
+    my ($locale, $year, $format) = ($1, $2, $3);
+    $data{$locale}{$year}{uc $format} = undef;
+    $data_years{$year} = undef;
+    $data_formats{uc $format} = undef;
+  }
+}
+
+my @locales = sort {substr ($a, 3) cmp substr ($b, 3)} keys %data;
+my @years   = sort keys %data_years;
+my @formats = sort keys %data_formats;
+
+# Optionally generate text file.
+#
+#       2010 2011 2012 2013 2014
+# en-US    -    X    X    X    -
+#
+if ($text_file)
+{
+  if (open my $fh, '>', $text_file)
+  {
+    print $fh "      ", join (' ', @years), "\n";
+    for my $locale (@locales)
+    {
+      print $fh $locale;
+      for my $year (@years)
+      {
+        print $fh (exists $data{$locale}{$year}{'JSON'} ? '    X' : '    -');
+      }
+
+      print $fh "\n";
+    }
+
+    close $fh;
+  }
+}
+
+# Optionally generate html file.
+#
+#                     2010  2011  2012  2013  2014
+# United State en-US  -     CSV   CSV   CSV   CSV  
+#                     -     JSON  JSON  JSON  JSON 
+#                     -     XML   XML   XML   XML  
+#                     -     YAML  YAML  YAML  YAML 
+#
+if ($html_file)
+{
+  my $content = "<table class=\"general\">\n";
+
+  $content .= "<tr>\n"
+            . "  <th>Country</th>\n"
+            . "  <th>Locale</th>\n"
+            . join ('', map {"<th>$_</th>"} @years) . "</tr>\n";
+
+  for my $locale (@locales)
+  {
+    $content .= "<tr>\n";
+    $content .= "<td>" . Holidata::country_name (substr $locale, 3) . "</td><td>$locale</td>";
+
+    for my $year (@years)
+    {
+      $content .= "<td>";
+
+      for my $format (@formats)
+      {
+        if (exists $data{$locale}{$year}{$format})
+        {
+          $content .= "<a href=\"/$locale/$year.$format\">" . $format . "</a><br />";
+        }
+      }
+
+      $content .= "</td>\n";
+    }
+
+    $content .= "</tr>\n";
+  }
+
+  $content .= "</table>\n";
+  Holidata::inject ($template_file, $content, $html_file);
+}
+
+exit 0;
+
+################################################################################

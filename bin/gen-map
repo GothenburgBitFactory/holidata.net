@@ -1,0 +1,77 @@
+#! /usr/bin/perl
+################################################################################
+## holidata.net - data generator
+##
+##   Scans a specified directory for authoritative CSV files and generates a
+##   text and an HTML summary table.
+##
+## Copyright 2011, Göteborg Bit Factory.
+## All rights reserved.
+##
+################################################################################
+
+use strict;
+use warnings;
+use Getopt::Long;
+use Holidata;
+
+my $help = 0;
+my $docroot_dir;
+my $text_file;
+my $html_file;
+my $template_file;
+
+# Command line options, argument validation.
+Getopt::Long::GetOptions (
+  'help'       => \$help,
+  'docroot=s'  => \$docroot_dir,
+  'html=s'     => \$html_file,
+  'template=s' => \$template_file);
+
+if ($help || !$docroot_dir || !$html_file)
+{
+  print <<EOF;
+
+usage: gen-map [--help]
+               [--html <html file> --template <html template>]
+               --docroot <docroot>
+
+  --help           Displays this message.
+  --html           Map HTML file name.
+  --template       HTML Template File, containing '%%%%'.
+  --docroot        Location of the authoritative CSV files.
+
+EOF
+
+  exit 1;
+}
+
+die "'$docroot_dir' is not a directory\n" if ! -d $docroot_dir;
+
+# Determine supported locales, formats and years by scanning $docroot_dir.
+my @files = grep {/\/..-..\/\d{4}\./}
+            Holidata::list_files ($docroot_dir);
+
+my %countries;
+for my $file (@files)
+{
+  if ($file =~ /[a-z]{2}-([A-Z]{2})/)
+  {
+    $countries{$1} = undef;
+  }
+}
+
+# Generate map file using Google Chart API.
+my $content = "<img src=\"http://chart.apis.google.com/chart?"
+            . "cht=map:fixed=-60,-170,85,-170"
+            . "&chs=530x400"
+            . "&chco=CCCCCC|2C2C2E"
+            . "&chld="
+            . join ('|', sort keys %countries)
+            . "\"/>\n";
+
+Holidata::inject ($template_file, $content, $html_file);
+
+exit 0;
+
+################################################################################

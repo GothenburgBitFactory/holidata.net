@@ -1,0 +1,24 @@
+#! /bin/bash
+
+DATA=../data/
+DOCROOT=../public_html/
+LOCALE_TEXT=${DOCROOT}/locale_index.txt
+LOCALE_HTML=${DOCROOT}/locale_index.html
+LOCALE_TEMPLATE=./template_locale.html
+MAP_HTML=${DOCROOT}/map.html
+MAP_TEMPLATE=./template_map.html
+
+# 1. Generate the data files in all formats first.
+echo Generating data files...
+./gen-data --data $DATA --docroot $DOCROOT
+
+# 2. Generate the locale index page from the generated data formats from step 1.
+echo Generating locale index...
+./gen-locales --docroot $DOCROOT --text $LOCALE_TEXT --html $LOCALE_HTML --template $LOCALE_TEMPLATE
+
+# 3. Generate the map page from the generated data formats from step 1.
+echo Generating map page...
+./gen-map --docroot $DOCROOT --html $MAP_HTML --template $MAP_TEMPLATE
+
+echo Done
+

@@ -1,5 +1,4 @@
 #! /usr/bin/perl
-
 ################################################################################
 ## holidata.net - data generator
 ##
@@ -29,11 +28,11 @@ if ($help || !$data_dir || !$docroot)
 {
   print <<EOF;
 
-usage: holidata [-help] -data /data/path -docroot /docroot/path
+usage: gen-data [--help] --data /data/path --docroot /docroot/path
 
-  -help           Displays this message.
-  -data           Location of the authoritative CSV files.
-  -docroot        Location for generated output.
+  --help           Displays this message.
+  --data           Location of the authoritative CSV files.
+  --docroot        Location for generated output.
 
 EOF
 
