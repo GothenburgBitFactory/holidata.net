@@ -1,0 +1,983 @@
+%YAML 1.1
+---
+  holiday:
+    locale: de-CH
+    region: 
+    date: 2011-01-01
+    description: Neujahrstag
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Bern
+    date: 2011-01-02
+    description: Berchtoldstag
+    type: F
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Jura
+    date: 2011-01-02
+    description: Berchtoldstag
+    type: F
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Thurgau
+    date: 2011-01-02
+    description: Berchtoldstag
+    type: F
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Waadt
+    date: 2011-01-02
+    description: Berchtoldstag
+    type: F
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-01-06
+    description: Heilige Drei Könige
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-01-06
+    description: Heilige Drei Könige
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-01-06
+    description: Heilige Drei Könige
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Nidwalden
+    date: 2011-03-19
+    description: Josefstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-03-19
+    description: Josefstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-03-19
+    description: Josefstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-03-19
+    description: Josefstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Wallis
+    date: 2011-03-19
+    description: Josefstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Aargau
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Ausserrhoden
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Bern
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Landschaft
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Stadt
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Freiburg
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Genf
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Glarus
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Graubünden
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Jura
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Luzern
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Neuenburg
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Nidwalden
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Obwalden
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: St. Gallen
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schaffhausen
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Solothurn
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Thurgau
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Waadt
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zug
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zürich
+    date: 2011-04-22
+    description: Karfreitag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: 
+    date: 2011-04-24
+    description: Ostersonntag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Ausserrhoden
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Bern
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Landschaft
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Stadt
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Genf
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Glarus
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Graubünden
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Jura
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: St. Gallen
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schaffhausen
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Thurgau
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Waadt
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zürich
+    date: 2011-04-25
+    description: Ostermontag
+    type: NV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Landschaft
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Stadt
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Graubünden
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Neuenburg
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schaffhausen
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Thurgau
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zürich
+    date: 2011-05-01
+    description: Tag der Arbeit
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: 
+    date: 2011-06-02
+    description: Auffahrt
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: 
+    date: 2011-06-12
+    description: Pfingstsonntag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Ausserrhoden
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Bern
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Landschaft
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Stadt
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Genf
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Glarus
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Graubünden
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Jura
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: St. Gallen
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schaffhausen
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Thurgau
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Waadt
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zürich
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Jura
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Luzern
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Nidwalden
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Obwalden
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Wallis
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zug
+    date: 2011-06-23
+    description: Fronleichnam
+    type: RV
+    notes: 
+  holiday:
+    locale: de-CH
+    region: 
+    date: 2011-08-01
+    description: Bundesfeier
+    type: NF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Jura
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Luzern
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Nidwalden
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Obwalden
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Wallis
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zug
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Glarus
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Jura
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Luzern
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Nidwalden
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Obwalden
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: St. Gallen
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Wallis
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zug
+    date: 2011-11-01
+    description: Allerheiligen
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Luzern
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Nidwalden
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Obwalden
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Wallis
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zug
+    date: 2011-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: 
+    date: 2011-12-25
+    description: Weihnachtstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Innerrhoden
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Appenzell Ausserrhoden
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Bern
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Landschaft
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Basel-Stadt
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Glarus
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Graubünden
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Luzern
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: St. Gallen
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schaffhausen
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Schwyz
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Thurgau
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Tessin
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Uri
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+  holiday:
+    locale: de-CH
+    region: Zürich
+    date: 2011-12-26
+    description: Stephanstag
+    type: RF
+    notes: 
+...
