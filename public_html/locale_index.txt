@@ -1,22 +1,23 @@
-      2010 2011 2012 2013 2014
-de-AT    -    X    -    -    -
-en-AU    -    X    X    -    -
-be-BY    -    X    X    -    -
-en-CA    -    X    X    -    -
-de-CH    -    X    -    -    -
-cs-CZ    -    X    X    -    -
-de-DE    -    X    X    -    -
-da-DK    -    X    X    -    -
-es-ES    -    X    X    -    -
-fi-FI    -    X    X    -    -
-fr-FR    -    X    X    -    -
-en-GB    -    X    X    X    X
-ga-IE    -    X    X    X    X
-it-IT    -    X    X    -    -
-nl-NL    X    X    X    -    -
-nb-NO    -    X    X    -    -
-en-NZ    -    X    X    X    -
-pt-PT    -    X    X    -    -
-ru-RU    -    X    X    -    -
-sv-SE    -    X    X    -    -
-en-US    -    X    X    X    X
+      2011 2012 2013 2014
+de-AT    X    -    -    -
+en-AU    X    X    -    -
+be-BY    X    X    -    -
+en-CA    X    X    -    -
+de-CH    X    -    -    -
+cs-CZ    X    X    -    -
+de-DE    X    X    -    -
+da-DK    X    X    -    -
+es-ES    X    X    -    -
+fi-FI    X    X    -    -
+fr-FR    X    X    -    -
+en-GB    X    X    X    X
+ga-IE    X    X    X    X
+it-IT    X    X    -    -
+nl-NL    X    X    -    -
+nb-NO    X    X    -    -
+en-NZ    X    X    X    -
+pt-PT    X    X    -    -
+ru-RU    X    X    -    -
+sv-SE    X    X    -    -
+en-US    X    X    X    X
+es-US    X    X    X    X
