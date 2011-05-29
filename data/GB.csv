@@ -3,10 +3,10 @@
   "en-GB", "",     "2011-04-02", "Good Friday",            "NRV", ""
   "en-GB", "",     "2011-04-25", "Easter Monday",          "NRV", ""
   "en-GB", "",     "2011-05-02", "Early May Bank Holiday", "NV",  ""
-  "en-GB", "",     "2011-05-30", "Spring Bank Holiday",    "NV",  ""
+  "en-GB", "",     "2011-05-29", "Spring Bank Holiday",    "NV",  ""
   "en-GB", "",     "2011-08-29", "August Bank Holiday",    "NV",  ""
-  "en-GB", "",     "2011-12-25", "Christmas Day",          "NRF", ""
-  "en-GB", "",     "2011-12-26", "Boxing Day",             "NF",  ""
+  "en-GB", "",     "2011-12-26", "Christmas Day",          "NRF", ""
+  "en-GB", "",     "2011-12-27", "Boxing Day",             "NF",  ""
 
   "en-GB", "",     "2012-01-01", "New Year's Day",         "NF",  ""
   "en-GB", "",     "2012-01-02", "New Year's Day Holiday", "NV",  ""

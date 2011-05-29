@@ -31,7 +31,7 @@
   holiday:
     locale: en-GB
     region: 
-    date: 2011-05-30
+    date: 2011-05-29
     description: Spring Bank Holiday
     type: NV
     notes: 
@@ -45,14 +45,14 @@
   holiday:
     locale: en-GB
     region: 
-    date: 2011-12-25
+    date: 2011-12-26
     description: Christmas Day
     type: NRF
     notes: 
   holiday:
     locale: en-GB
     region: 
-    date: 2011-12-26
+    date: 2011-12-27
     description: Boxing Day
     type: NF
     notes: 

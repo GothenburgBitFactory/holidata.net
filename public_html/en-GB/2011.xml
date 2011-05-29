@@ -35,7 +35,7 @@
   <holiday>
     <locale>en-GB</locale>
     <region></region>
-    <date>2011-05-30</date>
+    <date>2011-05-29</date>
     <description>Spring Bank Holiday</description>
     <type>NV</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>en-GB</locale>
     <region></region>
-    <date>2011-12-25</date>
+    <date>2011-12-26</date>
     <description>Christmas Day</description>
     <type>NRF</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>en-GB</locale>
     <region></region>
-    <date>2011-12-26</date>
+    <date>2011-12-27</date>
     <description>Boxing Day</description>
     <type>NF</type>
     <notes></notes>
