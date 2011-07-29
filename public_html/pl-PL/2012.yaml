@@ -1,0 +1,17 @@
+%YAML 1.1
+---
+  holiday:
+    locale: pl-PL
+    region: 
+    date: 2012-04-08
+    description: Wielkanoc
+    type: NRV
+    notes: 
+  holiday:
+    locale: pl-PL
+    region: 
+    date: 2012-04-09
+    description: Poniedziałek Wielkanocny
+    type: NRV
+    notes: 
+...

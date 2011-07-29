@@ -1,0 +1,24 @@
+%YAML 1.1
+---
+  holiday:
+    locale: pl-PL
+    region: 
+    date: 2011-01-01
+    description: Nowy Rok
+    type: NF
+    notes: 
+  holiday:
+    locale: pl-PL
+    region: 
+    date: 2011-04-24
+    description: Wielkanoc
+    type: NRV
+    notes: 
+  holiday:
+    locale: pl-PL
+    region: 
+    date: 2011-04-25
+    description: Poniedziałek Wielkanocny
+    type: NRV
+    notes: 
+...

@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-01-01
+    description: Nytårsdag
+    type: NF
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-03-24
+    description: Palmesøndag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-03-28
+    description: Skærtorsdag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-03-29
+    description: Langfredag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-03-31
+    description: Påskedag
+    type: NRV
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-04-01
+    description: Anden påskedag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-04-26
+    description: Store bededag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-05-09
+    description: Kristi himmelfartsdag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-05-19
+    description: Pinsedag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-05-20
+    description: Anden pinsedag
+    type: N
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-12-25
+    description: Juledag
+    type: NRF
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2013-12-26
+    description: Anden juledag
+    type: NF
+    notes: 
+...

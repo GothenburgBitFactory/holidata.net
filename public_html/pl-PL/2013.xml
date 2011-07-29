@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2013-03-31</date>
+    <description>Wielkanoc</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2013-04-01</date>
+    <description>Poniedziałek Wielkanocny</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+</holidays>
