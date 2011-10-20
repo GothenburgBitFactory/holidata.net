@@ -51,6 +51,14 @@
   <holiday>
     <locale>en-GB</locale>
     <region></region>
+    <date>2012-06-05</date>
+    <description>Queen's Diamond Jubilee</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
     <date>2012-08-27</date>
     <description>August Bank Holiday</description>
     <type>NV</type>

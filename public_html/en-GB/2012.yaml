@@ -45,6 +45,13 @@
   holiday:
     locale: en-GB
     region: 
+    date: 2012-06-05
+    description: Queen's Diamond Jubilee
+    type: NV
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
     date: 2012-08-27
     description: August Bank Holiday
     type: NV
