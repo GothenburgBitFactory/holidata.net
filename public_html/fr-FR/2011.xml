@@ -28,7 +28,7 @@
     <locale>fr-FR</locale>
     <region></region>
     <date>2011-05-08</date>
-    <description>la Fête de Victoire 45</description>
+    <description>Armistice 1945</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
@@ -36,7 +36,7 @@
     <locale>fr-FR</locale>
     <region></region>
     <date>2011-06-02</date>
-    <description>l'Ascencion</description>
+    <description>Ascencion</description>
     <type>NR</type>
     <notes></notes>
   </holiday>
@@ -44,7 +44,7 @@
     <locale>fr-FR</locale>
     <region></region>
     <date>2011-06-12</date>
-    <description>la Pentecôte</description>
+    <description>Pentecôte</description>
     <type>NR</type>
     <notes></notes>
   </holiday>
@@ -76,7 +76,7 @@
     <locale>fr-FR</locale>
     <region></region>
     <date>2011-11-01</date>
-    <description>La Toussaint</description>
+    <description>Toussaint</description>
     <type>NR</type>
     <notes></notes>
   </holiday>
@@ -84,7 +84,7 @@
     <locale>fr-FR</locale>
     <region></region>
     <date>2011-11-11</date>
-    <description>Jour d'armistice</description>
+    <description>Armistice 1918</description>
     <type>N</type>
     <notes></notes>
   </holiday>

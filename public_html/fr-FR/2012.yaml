@@ -10,13 +10,6 @@
   holiday:
     locale: fr-FR
     region: 
-    date: 2012-01-02
-    description: Jour de l'an
-    type: NV
-    notes: 
-  holiday:
-    locale: fr-FR
-    region: 
     date: 2012-04-09
     description: Lundi de Pâques
     type: NRV
@@ -32,21 +25,21 @@
     locale: fr-FR
     region: 
     date: 2012-05-08
-    description: la Fête de Victoire 45
+    description: Armistice 1945
     type: NF
     notes: 
   holiday:
     locale: fr-FR
     region: 
     date: 2012-05-17
-    description: l'Ascencion
+    description: Ascencion
     type: NR
     notes: 
   holiday:
     locale: fr-FR
     region: 
     date: 2012-05-28
-    description: la Pentecôte
+    description: Pentecôte
     type: NR
     notes: 
   holiday:
@@ -67,22 +60,15 @@
     locale: fr-FR
     region: 
     date: 2012-11-01
-    description: La Toussaint
+    description: Toussaint
     type: NRF
     notes: 
   holiday:
     locale: fr-FR
     region: 
     date: 2012-11-11
-    description: Jour d'armistice
+    description: Armistice 1918
     type: NF
-    notes: 
-  holiday:
-    locale: fr-FR
-    region: 
-    date: 2012-11-12
-    description: Jour d'armistice
-    type: NV
     notes: 
   holiday:
     locale: fr-FR
