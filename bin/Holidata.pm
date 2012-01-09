@@ -5,7 +5,7 @@
 ##   Scans a specified directory for authoritative CSV files and generates a
 ##   text and an HTML summary table.
 ##
-## Copyright 2011, Göteborg Bit Factory.
+## Copyright 2011 - 2012, Göteborg Bit Factory.
 ## All rights reserved.
 ##
 ################################################################################
@@ -16,7 +16,7 @@ use warnings;
 package Holidata;
 
 # Data from http://www.iso.org/iso/list-en1-semic-3.txt
-# Last updated 2011-04-07.
+# Last updated 2012-01-08.
 our %country =
 (
   'AF' => "AFGHANISTAN",
@@ -46,7 +46,7 @@ our %country =
   'BM' => "BERMUDA",
   'BT' => "BHUTAN",
   'BO' => "BOLIVIA, PLURINATIONAL STATE OF",
-  'BQ' => "BONAIRE, SAINT EUSTATIUS AND SABA",
+  'BQ' => "BONAIRE, SINT EUSTATIUS AND SABA",
   'BA' => "BOSNIA AND HERZEGOVINA",
   'BW' => "BOTSWANA",
   'BV' => "BOUVET ISLAND",
@@ -145,7 +145,7 @@ our %country =
   'LB' => "LEBANON",
   'LS' => "LESOTHO",
   'LR' => "LIBERIA",
-  'LY' => "LIBYAN ARAB JAMAHIRIYA",
+  'LY' => "LIBYA",
   'LI' => "LIECHTENSTEIN",
   'LT' => "LITHUANIA",
   'LU' => "LUXEMBOURG",
@@ -226,6 +226,7 @@ our %country =
   'SO' => "SOMALIA",
   'ZA' => "SOUTH AFRICA",
   'GS' => "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+  'SS' => "SOUTH SUDAN",
   'ES' => "SPAIN",
   'LK' => "SRI LANKA",
   'SD' => "SUDAN",
