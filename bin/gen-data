@@ -53,6 +53,7 @@ for my $file (glob $data_dir . '/*.csv')
     {
       next if $line =~ /^\s*$/;
       next if $line =~ /^\s*#/;
+      $line =~ s/#.+$//;
       push @data, [$1,$2,$3,$4,$5,$6]
         if $line =~ /^
                      \s*"([^"]*)", # locale
