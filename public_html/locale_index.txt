@@ -11,6 +11,7 @@ es-ES    X    X    -    -
 fi-FI    X    X    -    -
 fr-FR    X    X    -    -
 en-GB    X    X    X    X
+el-GR    -    X    X    X
 ga-IE    X    X    X    X
 it-IT    X    X    -    -
 jp-JP    X    X    X    -

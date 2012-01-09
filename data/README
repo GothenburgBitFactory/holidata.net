@@ -6,7 +6,7 @@ Legend
     F  Fixed date
     V  Variable date
 
-Status                    Flags?
+Status                    Flags?  Algorithm?
   AT 2011
   AU 2011 2012            Y
   BY 2011 2012            Y
@@ -16,6 +16,7 @@ Status                    Flags?
   ES 2011 2012
   FR 2011 2012            Y
   GB 2011 2012 2013 2014  Y
+  GR      2012 2013 2014  Y       Y
   IT 2011 2012            Y
   NL 2011 2012
   NO 2011 2012
