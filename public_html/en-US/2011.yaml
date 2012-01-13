@@ -16,6 +16,13 @@
     notes: 
   holiday:
     locale: en-US
+    region: 
+    date: 2011-02-21
+    description: Washington's Birthday
+    type: NV
+    notes: 
+  holiday:
+    locale: en-US
     region: MA
     date: 2011-04-18
     description: Patriots' Day

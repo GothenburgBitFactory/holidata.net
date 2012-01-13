@@ -16,6 +16,13 @@
     notes: 
   holiday:
     locale: es-US
+    region: 
+    date: 2011-02-21
+    description: Día del Presidente
+    type: NV
+    notes: 
+  holiday:
+    locale: es-US
     region: MA
     date: 2011-04-18
     description: Día del Patriota

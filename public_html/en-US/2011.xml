@@ -18,6 +18,14 @@
   </holiday>
   <holiday>
     <locale>en-US</locale>
+    <region></region>
+    <date>2011-02-21</date>
+    <description>Washington's Birthday</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
     <region>MA</region>
     <date>2011-04-18</date>
     <description>Patriots' Day</description>

@@ -18,6 +18,14 @@
   </holiday>
   <holiday>
     <locale>es-US</locale>
+    <region></region>
+    <date>2011-02-21</date>
+    <description>Día del Presidente</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
     <region>MA</region>
     <date>2011-04-18</date>
     <description>Día del Patriota</description>
