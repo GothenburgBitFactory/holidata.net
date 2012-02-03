@@ -1,7 +1,7 @@
 ** Population of countries covered by hd
 ** fgrep -v '**' population.txt | cut -c 13- | paste -sd + - | bc
 **
-** Total   1091073729
+** Total   1101861419
 **
 Austria       8414638
 Australia    22664938
@@ -14,6 +14,7 @@ Denmark       5564219
 Spain        46030109
 Finland       5383383
 France       65821885
+Greece       10787690
 UnitedK      62262000 
 Ireland       6197100
 Italy        60642308
