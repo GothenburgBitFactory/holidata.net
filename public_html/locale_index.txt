@@ -1,5 +1,5 @@
       2011 2012 2013 2014
-de-AT    X    -    -    -
+de-AT    X    X    X    -
 en-AU    X    X    -    -
 be-BY    X    X    X    X
 en-CA    X    X    X    -
