@@ -16,7 +16,7 @@ ga-IE    X    X    X    X
 it-IT    X    X    -    -
 jp-JP    X    X    X    -
 nl-NL    X    X    -    -
-nb-NO    X    X    -    -
+nb-NO    X    X    X    -
 en-NZ    X    X    X    -
 pl-PL    X    X    X    X
 pt-PT    X    X    -    -
