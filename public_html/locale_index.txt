@@ -5,7 +5,7 @@ be-BY    X    X    -    -
 en-CA    X    X    -    -
 de-CH    X    X    -    -
 cs-CZ    X    X    -    -
-de-DE    X    X    -    -
+de-DE    X    X    X    X
 da-DK    X    X    X    -
 es-ES    X    X    -    -
 fi-FI    X    X    -    -
