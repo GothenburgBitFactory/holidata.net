@@ -1,0 +1,73 @@
+%YAML 1.1
+---
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-01-01
+    description: Новы Год
+    type: NF
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-01-07
+    description: Раство Хрыстова(праваслаўнае)
+    type: NRF
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-08-03
+    description: Міжнародны жаночы дзень
+    type: NF
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-04-20
+    description: Пасха(праваслаўная)
+    type: NRV
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-05-29
+    description: Радуніца
+    type: NRV
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-05-01
+    description: Свята працы
+    type: NF
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-05-09
+    description: Дзень Перамогі
+    type: NF
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-07-03
+    description: Дзень незалежнаці
+    type: NF
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-11-07
+    description: Дзень Кастрычніцкай рэвалюцыі
+    type: NF
+    notes: 
+  holiday:
+    locale: be-BY
+    region: 
+    date: 2014-12-25
+    description: Раство Хрыстова(у заходніх хрысціян)
+    type: NRF
+    notes: 
+...
