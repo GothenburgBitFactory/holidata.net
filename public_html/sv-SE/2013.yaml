@@ -3,119 +3,119 @@
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-01-01
+    date: 2013-01-01
     description: Nyårsdagen
     type: NF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-01-06
+    date: 2013-01-06
     description: Trettondedag jul
     type: NRF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-04-06
+    date: 2013-03-29
     description: Långfredagen
     type: NRV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-04-08
+    date: 2013-03-31
     description: Påskdagen
     type: NRV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-04-09
+    date: 2013-04-01
     description: Annandag påsk
     type: NRV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-04-30
+    date: 2013-04-30
     description: Valborgmässoafton
     type: NF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-05-01
+    date: 2013-05-01
     description: Första maj
     type: NF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-05-17
+    date: 2013-05-09
     description: Kristi Himmelsfärdsdag
     type: NRV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-05-27
+    date: 2013-05-19
     description: Pingstdagen
     type: NRV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-06-06
+    date: 2013-06-06
     description: Nationaldagen
     type: NF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-06-22
+    date: 2013-06-21
     description: Midsommarafton
     type: NV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-06-23
+    date: 2013-06-22
     description: Midsommardagen
     type: NV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-11-03
+    date: 2013-11-02
     description: Alla Helgons Dag
     type: NV
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-12-24
+    date: 2013-12-24
     description: Julafton
     type: NRF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-12-25
+    date: 2013-12-25
     description: Juldagen
     type: NRF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-12-26
+    date: 2013-12-26
     description: Annandag jul
     type: NRF
     notes: 
   holiday:
     locale: sv-SE
     region: 
-    date: 2012-12-31
+    date: 2013-12-31
     description: Nyårsafton
     type: NF
     notes: 

@@ -21,6 +21,6 @@ en-NZ    X    X    X    -
 pl-PL    X    X    X    X
 pt-PT    X    X    -    -
 ru-RU    X    X    -    -
-sv-SE    X    X    -    -
+sv-SE    X    X    X    X
 en-US    X    X    X    X
 es-US    X    X    X    X
