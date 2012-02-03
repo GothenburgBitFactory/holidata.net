@@ -98,32 +98,4 @@
     description: Natal
     type: N
     notes: 
-  holiday:
-    locale: pt-PT
-    region: 
-    date: 2011-02-21
-    description: Carnaval
-    type: N
-    notes: 
-  holiday:
-    locale: pt-PT
-    region: 
-    date: 2011-04-06
-    description: Sexta-feira Santa
-    type: N
-    notes: 
-  holiday:
-    locale: pt-PT
-    region: 
-    date: 2011-04-08
-    description: Páscoa
-    type: N
-    notes: 
-  holiday:
-    locale: pt-PT
-    region: 
-    date: 2011-06-07
-    description: Corpo de Deus
-    type: N
-    notes: 
 ...

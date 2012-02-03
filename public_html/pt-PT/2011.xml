@@ -112,36 +112,4 @@
     <type>N</type>
     <notes></notes>
   </holiday>
-  <holiday>
-    <locale>pt-PT</locale>
-    <region></region>
-    <date>2011-02-21</date>
-    <description>Carnaval</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-PT</locale>
-    <region></region>
-    <date>2011-04-06</date>
-    <description>Sexta-feira Santa</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-PT</locale>
-    <region></region>
-    <date>2011-04-08</date>
-    <description>Páscoa</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-PT</locale>
-    <region></region>
-    <date>2011-06-07</date>
-    <description>Corpo de Deus</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
 </holidays>
