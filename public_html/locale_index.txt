@@ -13,7 +13,7 @@ fr-FR    X    X    X    -
 en-GB    X    X    X    X
 el-GR    -    X    X    X
 ga-IE    X    X    X    X
-it-IT    X    X    -    -
+it-IT    X    X    X    -
 jp-JP    X    X    X    -
 nl-NL    X    X    X    -
 nb-NO    X    X    X    -
