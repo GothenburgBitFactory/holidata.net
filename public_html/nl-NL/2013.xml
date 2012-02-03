@@ -3,113 +3,113 @@
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-01-01</date>
+    <date>2013-01-01</date>
     <description>Nieuwjaar</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-04-06</date>
+    <date>2013-03-29</date>
     <description>Goede Vrijdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-04-08</date>
+    <date>2013-03-31</date>
     <description>Pasen</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-04-09</date>
+    <date>2013-04-01</date>
     <description>Tweede Pasdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-04-30</date>
+    <date>2013-04-30</date>
     <description>Koninginnedag</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-05-04</date>
+    <date>2013-05-04</date>
     <description>Dodenherdenking</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-05-05</date>
+    <date>2013-05-05</date>
     <description>Bevrijdingsdag</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-05-17</date>
+    <date>2013-05-09</date>
     <description>Hemelvaartsdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-05-27</date>
+    <date>2013-05-19</date>
     <description>Pinksteren</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-05-28</date>
+    <date>2013-05-20</date>
     <description>Tweede Pinksterdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-12-05</date>
+    <date>2013-12-05</date>
     <description>Sinterklaas</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-12-15</date>
+    <date>2013-12-15</date>
     <description>Koninkrijksdag</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-12-25</date>
+    <date>2013-12-25</date>
     <description>Kerstmis</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
-    <date>2012-12-26</date>
+    <date>2013-12-26</date>
     <description>Tweede Kerstdag</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
 </holidays>

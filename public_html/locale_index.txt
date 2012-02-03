@@ -15,7 +15,7 @@ el-GR    -    X    X    X
 ga-IE    X    X    X    X
 it-IT    X    X    -    -
 jp-JP    X    X    X    -
-nl-NL    X    X    -    -
+nl-NL    X    X    X    -
 nb-NO    X    X    X    -
 en-NZ    X    X    X    -
 pl-PL    X    X    X    X
