@@ -2,7 +2,7 @@
 de-AT    X    -    -    -
 en-AU    X    X    -    -
 be-BY    X    X    -    -
-en-CA    X    X    -    -
+en-CA    X    X    X    -
 de-CH    X    X    -    -
 cs-CZ    X    X    -    -
 de-DE    X    X    X    X
