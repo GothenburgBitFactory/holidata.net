@@ -9,7 +9,7 @@ de-DE    X    X    X    X
 da-DK    X    X    X    -
 es-ES    X    X    X    X
 fi-FI    X    X    X    -
-fr-FR    X    X    -    -
+fr-FR    X    X    X    -
 en-GB    X    X    X    X
 el-GR    -    X    X    X
 ga-IE    X    X    X    X
