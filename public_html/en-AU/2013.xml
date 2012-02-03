@@ -1,0 +1,387 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>en-AU</locale>
+    <region></region>
+    <date>2013-01-02</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region></region>
+    <date>2013-01-26</date>
+    <description>Australia Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2013-02-11</date>
+    <description>Royal Hobart Regatta</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2013-03-04</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2013-03-11</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2013-03-11</date>
+    <description>Canberra Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2013-03-11</date>
+    <description>Eight Hours Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region></region>
+    <date>2013-03-29</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QL</region>
+    <date>2013-03-30</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2013-03-30</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2013-03-30</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2013-03-30</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2013-03-30</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region></region>
+    <date>2013-04-01</date>
+    <description>Easter Monday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QL</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2013-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QL</region>
+    <date>2013-05-06</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2013-05-06</date>
+    <description>May Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2013-06-03</date>
+    <description>Foundation Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QL</region>
+    <date>2013-06-10</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2013-06-10</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2013-06-10</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2013-06-10</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2013-06-10</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2013-06-10</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2013-06-10</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2013-08-05</date>
+    <description>Picnic Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2013-08-05</date>
+    <description>Bank Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2013-09-30</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2013-10-07</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2013-10-07</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2013-10-07</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2013-11-04</date>
+    <description>Recreation Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region></region>
+    <date>2013-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QL</region>
+    <date>2013-12-26</date>
+    <description>Boxing Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2013-12-26</date>
+    <description>Proclamation Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2013-12-26</date>
+    <description>Boxing Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2013-12-26</date>
+    <description>Boxing Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2013-12-26</date>
+    <description>Boxing Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2013-12-26</date>
+    <description>Boxing Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2013-12-26</date>
+    <description>Boxing Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2013-12-26</date>
+    <description>Boxing Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+</holidays>
