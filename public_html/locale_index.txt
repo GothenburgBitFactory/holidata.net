@@ -1,6 +1,9 @@
       2011 2012 2013 2014
 de-AT    X    X    X    -
 en-AU    X    X    X    -
+de-BE    -    X    X    -
+fr-BE    -    X    X    -
+nl-BE    -    X    X    -
 be-BY    X    X    X    X
 en-CA    X    X    X    -
 de-CH    X    X    X    -
