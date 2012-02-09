@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-01-01</date>
+    <description>Año Nuevo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-02-04</date>
+    <description>Día de la Constitución</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-03-18</date>
+    <description>Natalicio de Benito Juárez</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-05-01</date>
+    <description>Día del Trabajo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-09-16</date>
+    <description>Día de la Independencia</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-11-18</date>
+    <description>Día de la Revolución</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-12-25</date>
+    <description>Navidad</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

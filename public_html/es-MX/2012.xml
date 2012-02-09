@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<holidays>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-01-01</date>
+    <description>Año Nuevo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-02-06</date>
+    <description>Día de la Constitución</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-03-19</date>
+    <description>Natalicio de Benito Juárez</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-05-01</date>
+    <description>Día del Trabajo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-09-16</date>
+    <description>Día de la Independencia</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-11-19</date>
+    <description>Día de la Revolución</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-12-01</date>
+    <description>Transmisión del Poder Ejecutivo Federal</description>
+    <type>N</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2012-12-25</date>
+    <description>Navidad</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
