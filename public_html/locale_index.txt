@@ -22,6 +22,7 @@ ga-IE    X    X    X    X
 is-IS    -    X    X    -
 it-IT    X    X    X    -
 jp-JP    X    X    X    -
+lt-LT    -    X    X    X
 lv-LV    -    X    X    X
 es-MX    -    X    X    -
 nl-NL    X    X    X    -
