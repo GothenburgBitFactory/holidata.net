@@ -29,3 +29,4 @@ ru-RU    X    X    X    X
 sv-SE    X    X    X    X
 en-US    X    X    X    X
 es-US    X    X    X    X
+en-ZA    -    X    X    X
