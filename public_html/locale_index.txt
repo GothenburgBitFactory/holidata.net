@@ -18,6 +18,7 @@ en-GB    X    X    X    X
 en-GL    -    X    X    -
 el-GR    -    X    X    X
 ga-IE    X    X    X    X
+is-IS    -    X    X    -
 it-IT    X    X    X    -
 jp-JP    X    X    X    -
 es-MX    -    X    X    -
