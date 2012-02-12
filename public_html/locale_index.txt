@@ -4,6 +4,7 @@ en-AU    X    X    X    -
 de-BE    -    X    X    -
 fr-BE    -    X    X    -
 nl-BE    -    X    X    -
+pt-BR    -    X    X    -
 be-BY    X    X    X    X
 en-CA    X    X    X    -
 de-CH    X    X    X    -
