@@ -107,7 +107,7 @@ for my $file (glob $data_dir . '/*.csv')
         if (open my $fh, '>', $location . '/' . $year . '.xml')
         {
           print "  $location/$year.xml\n";
-          print $fh "<?xml version=\"1.0\" ?>\n",
+          print $fh "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n",
                     "<holidays>\n";
           for my $holiday (@data)
           {
