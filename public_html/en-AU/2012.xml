@@ -58,7 +58,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2012-04-07</date>
     <description>Easter Saturday</description>
     <type>RV</type>
@@ -98,6 +98,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2012-04-08</date>
+    <description>Easter Sunday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region></region>
     <date>2012-04-09</date>
     <description>Easter Monday</description>
@@ -106,7 +114,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2012-04-25</date>
     <description>Anzac Day</description>
     <type>V</type>
@@ -170,7 +178,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2012-05-07</date>
     <description>Labour Day</description>
     <type>V</type>
@@ -194,7 +202,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2012-06-11</date>
     <description>Queen's Birthday</description>
     <type>V</type>
@@ -314,7 +322,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2012-12-26</date>
     <description>Boxing Day</description>
     <type>F</type>

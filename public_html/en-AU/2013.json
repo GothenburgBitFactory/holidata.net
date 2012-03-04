@@ -1,4 +1,4 @@
-{"locale":"en-AU","region":"","date":"2013-01-02","description":"New Year's Day","type":"NF","notes":""}
+{"locale":"en-AU","region":"","date":"2013-01-01","description":"New Year's Day","type":"NF","notes":""}
 {"locale":"en-AU","region":"","date":"2013-01-26","description":"Australia Day","type":"NF","notes":""}
 {"locale":"en-AU","region":"TAS","date":"2013-02-11","description":"Royal Hobart Regatta","type":"V","notes":""}
 {"locale":"en-AU","region":"WA","date":"2013-03-04","description":"Labour Day","type":"V","notes":""}
@@ -6,13 +6,14 @@
 {"locale":"en-AU","region":"ACT","date":"2013-03-11","description":"Canberra Day","type":"V","notes":""}
 {"locale":"en-AU","region":"TAS","date":"2013-03-11","description":"Eight Hours Day","type":"V","notes":""}
 {"locale":"en-AU","region":"","date":"2013-03-29","description":"Good Friday","type":"NRV","notes":""}
-{"locale":"en-AU","region":"QL","date":"2013-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2013-03-30","description":"Easter Saturday","type":"RV","notes":""}
 {"locale":"en-AU","region":"SA","date":"2013-03-30","description":"Easter Saturday","type":"RV","notes":""}
 {"locale":"en-AU","region":"NSW","date":"2013-03-30","description":"Easter Saturday","type":"RV","notes":""}
 {"locale":"en-AU","region":"VIC","date":"2013-03-30","description":"Easter Saturday","type":"RV","notes":""}
 {"locale":"en-AU","region":"NT","date":"2013-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2013-03-31","description":"Easter Sunday","type":"RV","notes":""}
 {"locale":"en-AU","region":"","date":"2013-04-01","description":"Easter Monday","type":"NRV","notes":""}
-{"locale":"en-AU","region":"QL","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
 {"locale":"en-AU","region":"SA","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
 {"locale":"en-AU","region":"NSW","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
 {"locale":"en-AU","region":"WA","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
@@ -20,10 +21,10 @@
 {"locale":"en-AU","region":"TAS","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
 {"locale":"en-AU","region":"NT","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
 {"locale":"en-AU","region":"ACT","date":"2013-04-25","description":"Anzac Day","type":"F","notes":""}
-{"locale":"en-AU","region":"QL","date":"2013-05-06","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2013-05-06","description":"Labour Day","type":"V","notes":""}
 {"locale":"en-AU","region":"NT","date":"2013-05-06","description":"May Day","type":"V","notes":""}
 {"locale":"en-AU","region":"WA","date":"2013-06-03","description":"Foundation Day","type":"V","notes":""}
-{"locale":"en-AU","region":"QL","date":"2013-06-10","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2013-06-10","description":"Queen's Birthday","type":"V","notes":""}
 {"locale":"en-AU","region":"SA","date":"2013-06-10","description":"Queen's Birthday","type":"V","notes":""}
 {"locale":"en-AU","region":"NSW","date":"2013-06-10","description":"Queen's Birthday","type":"V","notes":""}
 {"locale":"en-AU","region":"VIC","date":"2013-06-10","description":"Queen's Birthday","type":"V","notes":""}
@@ -38,7 +39,7 @@
 {"locale":"en-AU","region":"ACT","date":"2013-10-07","description":"Labour Day","type":"V","notes":""}
 {"locale":"en-AU","region":"TAS","date":"2013-11-04","description":"Recreation Day","type":"V","notes":""}
 {"locale":"en-AU","region":"","date":"2013-12-25","description":"Christmas Day","type":"NRF","notes":""}
-{"locale":"en-AU","region":"QL","date":"2013-12-26","description":"Boxing Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2013-12-26","description":"Boxing Day","type":"F","notes":""}
 {"locale":"en-AU","region":"SA","date":"2013-12-26","description":"Proclamation Day","type":"F","notes":""}
 {"locale":"en-AU","region":"NSW","date":"2013-12-26","description":"Boxing Day","type":"F","notes":""}
 {"locale":"en-AU","region":"WA","date":"2013-12-26","description":"Boxing Day","type":"F","notes":""}

@@ -58,7 +58,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2011-04-23
     description: Easter Saturday
     type: RV
@@ -100,7 +100,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2011-04-25
     description: Anzac Day
     type: V
@@ -163,7 +163,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2011-05-02
     description: Labour Day
     type: V
@@ -177,7 +177,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2011-06-13
     description: Queen's Birthday
     type: V
@@ -282,7 +282,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2011-12-27
     description: Boxing Day
     type: F

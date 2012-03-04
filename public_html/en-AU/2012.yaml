@@ -51,7 +51,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2012-04-07
     description: Easter Saturday
     type: RV
@@ -86,6 +86,13 @@
     notes: 
   holiday:
     locale: en-AU
+    region: NSW
+    date: 2012-04-08
+    description: Easter Sunday
+    type: RV
+    notes: 
+  holiday:
+    locale: en-AU
     region: 
     date: 2012-04-09
     description: Easter Monday
@@ -93,7 +100,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2012-04-25
     description: Anzac Day
     type: V
@@ -149,7 +156,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2012-05-07
     description: Labour Day
     type: V
@@ -170,7 +177,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2012-06-11
     description: Queen's Birthday
     type: V
@@ -275,7 +282,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2012-12-26
     description: Boxing Day
     type: F

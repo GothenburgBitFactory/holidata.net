@@ -3,7 +3,7 @@
   holiday:
     locale: en-AU
     region: 
-    date: 2013-01-02
+    date: 2013-01-01
     description: New Year's Day
     type: NF
     notes: 
@@ -58,7 +58,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2013-03-30
     description: Easter Saturday
     type: RV
@@ -93,6 +93,13 @@
     notes: 
   holiday:
     locale: en-AU
+    region: NSW
+    date: 2013-03-31
+    description: Easter Sunday
+    type: RV
+    notes: 
+  holiday:
+    locale: en-AU
     region: 
     date: 2013-04-01
     description: Easter Monday
@@ -100,7 +107,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2013-04-25
     description: Anzac Day
     type: F
@@ -156,7 +163,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2013-05-06
     description: Labour Day
     type: V
@@ -177,7 +184,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2013-06-10
     description: Queen's Birthday
     type: V
@@ -282,7 +289,7 @@
     notes: 
   holiday:
     locale: en-AU
-    region: QL
+    region: QLD
     date: 2013-12-26
     description: Boxing Day
     type: F

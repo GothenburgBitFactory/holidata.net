@@ -66,7 +66,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2011-04-23</date>
     <description>Easter Saturday</description>
     <type>RV</type>
@@ -114,7 +114,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2011-04-25</date>
     <description>Anzac Day</description>
     <type>V</type>
@@ -186,7 +186,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2011-05-02</date>
     <description>Labour Day</description>
     <type>V</type>
@@ -202,7 +202,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2011-06-13</date>
     <description>Queen's Birthday</description>
     <type>V</type>
@@ -322,7 +322,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2011-12-27</date>
     <description>Boxing Day</description>
     <type>F</type>

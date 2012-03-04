@@ -3,7 +3,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region></region>
-    <date>2013-01-02</date>
+    <date>2013-01-01</date>
     <description>New Year's Day</description>
     <type>NF</type>
     <notes></notes>
@@ -66,7 +66,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2013-03-30</date>
     <description>Easter Saturday</description>
     <type>RV</type>
@@ -106,6 +106,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2013-03-31</date>
+    <description>Easter Sunday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region></region>
     <date>2013-04-01</date>
     <description>Easter Monday</description>
@@ -114,7 +122,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2013-04-25</date>
     <description>Anzac Day</description>
     <type>F</type>
@@ -178,7 +186,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2013-05-06</date>
     <description>Labour Day</description>
     <type>V</type>
@@ -202,7 +210,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2013-06-10</date>
     <description>Queen's Birthday</description>
     <type>V</type>
@@ -322,7 +330,7 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>QL</region>
+    <region>QLD</region>
     <date>2013-12-26</date>
     <description>Boxing Day</description>
     <type>F</type>
