@@ -18,6 +18,7 @@ fr-FR    X    X    X    -
 en-GB    X    X    X    X
 en-GL    -    X    X    -
 el-GR    -    X    X    X
+en-HK    -    X    X    -
 hr-HR    -    X    X    X
 ga-IE    X    X    X    X
 is-IS    -    X    X    -
