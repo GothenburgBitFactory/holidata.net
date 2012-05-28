@@ -46,7 +46,7 @@ die "'$docroot' is not a directory\n"  if ! -d $docroot;
 for my $file (glob $data_dir . '/*.csv')
 {
   print $file, "\n";
-  if (open my $fh, '<', $file)
+  if (open my $fh, '<:encoding(utf8)', $file)
   {
     my @data;
     while (my $line = <$fh>)
@@ -90,7 +90,7 @@ for my $file (glob $data_dir . '/*.csv')
       for my $year (sort keys %years)
       {
         # Generate CSV file.
-        if (open my $fh, '>', $location . '/' . $year . '.csv')
+        if (open my $fh, '>:utf8', $location . '/' . $year . '.csv')
         {
           print "  $location/$year.csv\n";
           print $fh qq{"locale","region","date","description","type","notes"\n};
@@ -104,7 +104,7 @@ for my $file (glob $data_dir . '/*.csv')
         }
 
         # Generate XML file.
-        if (open my $fh, '>', $location . '/' . $year . '.xml')
+        if (open my $fh, '>:utf8', $location . '/' . $year . '.xml')
         {
           print "  $location/$year.xml\n";
           print $fh "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n",
@@ -129,7 +129,7 @@ for my $file (glob $data_dir . '/*.csv')
         }
 
         # Generate YAML file.
-        if (open my $fh, '>', $location . '/' . $year . '.yaml')
+        if (open my $fh, '>:utf8', $location . '/' . $year . '.yaml')
         {
           print "  $location/$year.yaml\n";
           print $fh "%YAML 1.1\n",
@@ -154,7 +154,7 @@ for my $file (glob $data_dir . '/*.csv')
         }
 
         # Generate JSON file.
-        if (open my $fh, '>', $location . '/' . $year . '.json')
+        if (open my $fh, '>:utf8', $location . '/' . $year . '.json')
         {
           print "  $location/$year.json\n";
           for my $holiday (@data)
