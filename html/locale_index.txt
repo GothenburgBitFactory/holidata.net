@@ -1,41 +1,41 @@
-      2011 2012 2013 2014
-de-AT    X    X    X    -
-en-AU    X    X    X    -
-de-BE    -    X    X    -
-fr-BE    -    X    X    -
-nl-BE    -    X    X    -
-pt-BR    -    X    X    -
-be-BY    X    X    X    X
-en-CA    X    X    X    -
-de-CH    X    X    X    -
-cs-CZ    X    X    X    X
-de-DE    X    X    X    X
-da-DK    X    X    X    -
-et-EE    -    X    X    X
-es-ES    X    X    X    X
-fi-FI    X    X    X    -
-fr-FR    X    X    X    -
-en-GB    X    X    X    X
-en-GL    -    X    X    -
-el-GR    -    X    X    X
-en-HK    -    X    X    -
-hr-HR    -    X    X    X
-ga-IE    X    X    X    X
-is-IS    -    X    X    -
-it-IT    X    X    X    -
-jp-JP    X    X    X    -
-lt-LT    -    X    X    X
-lv-LV    -    X    X    X
-es-MX    -    X    X    -
-nl-NL    X    X    X    -
-nb-NO    X    X    X    -
-en-NZ    X    X    X    -
-pl-PL    X    X    X    X
-pt-PT    X    X    X    X
-ru-RU    X    X    X    X
-sv-SE    X    X    X    X
-nb-SJ    -    X    X    -
-tr-TR    -    X    X    X
-en-US    X    X    X    X
-es-US    X    X    X    X
-en-ZA    -    X    X    X
+      2011 2012 2013 2014 2015 2016
+de-AT    X    X    X    -    -    -
+en-AU    X    X    X    -    -    -
+de-BE    -    X    X    -    -    -
+fr-BE    -    X    X    -    -    -
+nl-BE    -    X    X    -    -    -
+pt-BR    -    X    X    -    -    -
+be-BY    X    X    X    X    -    -
+en-CA    X    X    X    -    -    -
+de-CH    X    X    X    -    -    -
+cs-CZ    X    X    X    X    -    -
+de-DE    X    X    X    X    -    -
+da-DK    X    X    X    -    -    -
+et-EE    -    X    X    X    -    -
+es-ES    X    X    X    X    -    -
+fi-FI    X    X    X    -    -    -
+fr-FR    X    X    X    -    -    -
+en-GB    X    X    X    X    -    -
+en-GL    -    X    X    -    -    -
+el-GR    -    X    X    X    -    -
+en-HK    -    X    X    -    -    -
+hr-HR    -    X    X    X    -    -
+ga-IE    X    X    X    X    -    -
+is-IS    -    X    X    -    -    -
+it-IT    X    X    X    -    -    -
+jp-JP    X    X    X    -    -    -
+lt-LT    -    X    X    X    -    -
+lv-LV    -    X    X    X    -    -
+es-MX    -    X    X    -    -    -
+nl-NL    X    X    X    -    -    -
+nb-NO    X    X    X    -    -    -
+en-NZ    X    X    X    -    -    -
+pl-PL    X    X    X    X    -    -
+pt-PT    X    X    X    X    -    -
+ru-RU    X    X    X    X    -    -
+sv-SE    X    X    X    X    -    -
+nb-SJ    -    X    X    -    -    -
+tr-TR    -    X    X    X    -    -
+en-US    X    X    X    X    X    X
+es-US    X    X    X    X    X    X
+en-ZA    -    X    X    X    -    -
