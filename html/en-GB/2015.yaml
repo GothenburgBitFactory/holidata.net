@@ -1,0 +1,59 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-01-01
+    description: New Year's Day
+    type: NF
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-04-03
+    description: Good Friday
+    type: NRV
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-04-06
+    description: Easter Monday
+    type: NRV
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-05-04
+    description: Early May Bank Holiday
+    type: NV
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-05-25
+    description: Spring Bank Holiday
+    type: NV
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-08-31
+    description: August Bank Holiday
+    type: NV
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-12-25
+    description: Christmas Day
+    type: NRF
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2015-12-26
+    description: Boxing Day
+    type: NF
+    notes: 
+...
