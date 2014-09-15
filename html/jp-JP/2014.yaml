@@ -1,0 +1,115 @@
+%YAML 1.1
+---
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-01-01
+    description: 元日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-01-13
+    description: 成人の日
+    type: NV
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-02-11
+    description: 建国記念の日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-03-21
+    description: 春分の日
+    type: NV
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-04-29
+    description: 昭和の日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-05-03
+    description: 憲法記念日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-05-04
+    description: みどりの日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-05-05
+    description: こどもの日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-05-06
+    description: 振替休日
+    type: NV
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-07-21
+    description: 海の日
+    type: NV
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-09-15
+    description: 敬老の日
+    type: NV
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-09-23
+    description: 秋分の日
+    type: NV
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-10-13
+    description: 体育の日
+    type: NV
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-11-03
+    description: 文化の日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-11-24
+    description: 勤労感謝の日
+    type: NF
+    notes: 
+  holiday:
+    locale: jp-JP
+    region: 
+    date: 2014-12-23
+    description: 天皇誕生日
+    type: NF
+    notes: 
+...

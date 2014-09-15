@@ -3,7 +3,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-01-01</date>
+    <date>2016-01-01</date>
     <description>New Year's Day</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-01-02</date>
+    <date>2016-01-04</date>
     <description>Day after New Years Day</description>
     <type>NV</type>
     <notes></notes>
@@ -19,7 +19,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-02-06</date>
+    <date>2016-02-06</date>
     <description>Waitangi Day</description>
     <type>NF</type>
     <notes></notes>
@@ -27,7 +27,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-04-22</date>
+    <date>2016-03-25</date>
     <description>Good Friday</description>
     <type>NRV</type>
     <notes></notes>
@@ -35,7 +35,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-04-25</date>
+    <date>2016-03-28</date>
     <description>Easter Monday</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-04-25</date>
+    <date>2016-04-25</date>
     <description>ANZAC Day</description>
     <type>NF</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-06-06</date>
+    <date>2016-06-06</date>
     <description>Queen's Birthday</description>
     <type>NV</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-10-24</date>
+    <date>2016-10-24</date>
     <description>Labour Day</description>
     <type>NV</type>
     <notes></notes>
@@ -67,7 +67,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-12-25</date>
+    <date>2016-12-25</date>
     <description>Christmas Day</description>
     <type>NRF</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
-    <date>2011-12-26</date>
+    <date>2016-12-26</date>
     <description>Boxing Day</description>
     <type>NF</type>
     <notes></notes>
