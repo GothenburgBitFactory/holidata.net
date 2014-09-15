@@ -8,7 +8,7 @@ pt-BR    -    X    X    -    -    -
 be-BY    X    X    X    X    X    X
 en-CA    X    X    X    -    -    -
 de-CH    X    X    X    -    -    -
-cs-CZ    X    X    X    X    -    -
+cs-CZ    X    X    X    X    X    X
 de-DE    X    X    X    X    X    X
 da-DK    X    X    X    -    -    -
 et-EE    -    X    X    X    -    -
