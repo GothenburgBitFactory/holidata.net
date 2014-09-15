@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-01-01</date>
+    <description>Año Nuevo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-01-06</date>
+    <description>Día de los Reyes</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-03-25</date>
+    <description>Viernes Santo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-03-27</date>
+    <description>Pascua</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-05-01</date>
+    <description>Fiesta del Trabajo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-08-15</date>
+    <description>Asunción de la Virgen</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-10-12</date>
+    <description>Fiesta Nacional de España</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-11-01</date>
+    <description>Dia de todos los Santos</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-12-06</date>
+    <description>Dia de la Constitución</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-12-08</date>
+    <description>Inmaculada Concepción</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-12-24</date>
+    <description>Noche Buena</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-12-25</date>
+    <description>Navidad</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2016-12-31</date>
+    <description>Noche Vieja</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
