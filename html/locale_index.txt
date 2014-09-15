@@ -5,7 +5,7 @@ de-BE    -    X    X    -    -    -
 fr-BE    -    X    X    -    -    -
 nl-BE    -    X    X    -    -    -
 pt-BR    -    X    X    -    -    -
-be-BY    X    X    X    X    -    -
+be-BY    X    X    X    X    X    X
 en-CA    X    X    X    -    -    -
 de-CH    X    X    X    -    -    -
 cs-CZ    X    X    X    X    -    -

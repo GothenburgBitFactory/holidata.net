@@ -3,7 +3,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-01-01</date>
+    <date>2016-01-01</date>
     <description>Новы Год</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-01-07</date>
+    <date>2016-01-07</date>
     <description>Раство Хрыстова(праваслаўнае)</description>
     <type>NRF</type>
     <notes></notes>
@@ -19,7 +19,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-08-03</date>
+    <date>2016-08-03</date>
     <description>Міжнародны жаночы дзень</description>
     <type>NF</type>
     <notes></notes>
@@ -27,7 +27,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-04-20</date>
+    <date>2016-03-27</date>
     <description>Пасха(праваслаўная)</description>
     <type>NRV</type>
     <notes></notes>
@@ -35,7 +35,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-04-29</date>
+    <date>2016-05-10</date>
     <description>Радуніца</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-05-01</date>
+    <date>2016-05-01</date>
     <description>Свята працы</description>
     <type>NF</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-05-09</date>
+    <date>2016-05-09</date>
     <description>Дзень Перамогі</description>
     <type>NF</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-07-03</date>
+    <date>2016-07-03</date>
     <description>Дзень незалежнаці</description>
     <type>NF</type>
     <notes></notes>
@@ -67,7 +67,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-11-07</date>
+    <date>2016-11-07</date>
     <description>Дзень Кастрычніцкай рэвалюцыі</description>
     <type>NF</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>be-BY</locale>
     <region></region>
-    <date>2014-12-25</date>
+    <date>2016-12-25</date>
     <description>Раство Хрыстова(у заходніх хрысціян)</description>
     <type>NRF</type>
     <notes></notes>
