@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-02-17</date>
+    <description>Family Day</description>
+    <type>NV</type>
+    <notes>3rd monday in Feb.</notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-04-18</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-04-21</date>
+    <description>Easter Monday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-05-19</date>
+    <description>Victoria Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-07-01</date>
+    <description>Canada Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-08-04</date>
+    <description>First Monday of August</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-09-01</date>
+    <description>Labour Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-10-13</date>
+    <description>Thanksgiving Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-11-11</date>
+    <description>Remembrance Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2014-12-26</date>
+    <description>Boxing Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

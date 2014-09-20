@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-01-01</date>
+    <description>Jour de l'an</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-04-06</date>
+    <description>Lundi de Pâques</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-05-01</date>
+    <description>Fête du premier mai</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-05-08</date>
+    <description>Armistice 1945</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-05-14</date>
+    <description>Ascencion</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-05-24</date>
+    <description>Pentecôte</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-07-14</date>
+    <description>Fête nationale</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-08-15</date>
+    <description>Assomption</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-11-01</date>
+    <description>Toussaint</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-11-11</date>
+    <description>Armistice 1918</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2015-12-25</date>
+    <description>Noël</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

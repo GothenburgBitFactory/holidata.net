@@ -1,12 +1,12 @@
       2011 2012 2013 2014 2015 2016
 de-AT    X    X    X    -    -    -
 en-AU    X    X    X    -    -    -
-de-BE    -    X    X    -    -    -
-fr-BE    -    X    X    -    -    -
 nl-BE    -    X    X    -    -    -
+fr-BE    -    X    X    -    -    -
+de-BE    -    X    X    -    -    -
 pt-BR    -    X    X    -    -    -
 be-BY    X    X    X    X    X    X
-en-CA    X    X    X    -    -    -
+en-CA    X    X    X    X    X    -
 de-CH    X    X    X    -    -    -
 cs-CZ    X    X    X    X    X    X
 de-DE    X    X    X    X    X    X
@@ -14,11 +14,11 @@ da-DK    X    X    X    -    -    -
 et-EE    -    X    X    X    -    -
 es-ES    X    X    X    X    X    X
 fi-FI    X    X    X    -    -    -
-fr-FR    X    X    X    -    -    -
+fr-FR    X    X    X    X    X    -
 en-GB    X    X    X    X    X    X
 en-GL    -    X    X    -    -    -
 el-GR    -    X    X    X    -    -
-en-HK    -    X    X    -    -    -
+en-HK    -    X    X    X    -    -
 hr-HR    -    X    X    X    -    -
 ga-IE    X    X    X    X    -    -
 is-IS    -    X    X    -    -    -
