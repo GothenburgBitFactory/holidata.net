@@ -12,14 +12,28 @@
     region: 
     date: 2013-02-04
     description: Día de la Constitución
-    type: N
+    type: NV
     notes: 
   holiday:
     locale: es-MX
     region: 
     date: 2013-03-18
     description: Natalicio de Benito Juárez
-    type: N
+    type: NV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2013-03-28
+    description: Jueves Santo
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2013-03-29
+    description: Viernes Santo
+    type: NRV
     notes: 
   holiday:
     locale: es-MX
@@ -40,13 +54,20 @@
     region: 
     date: 2013-11-18
     description: Día de la Revolución
-    type: N
+    type: NV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2013-12-12
+    description: Nuestra Señora de Guadalupe
+    type: NRF
     notes: 
   holiday:
     locale: es-MX
     region: 
     date: 2013-12-25
     description: Navidad
-    type: NF
+    type: NRF
     notes: 
 ...

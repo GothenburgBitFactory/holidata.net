@@ -13,7 +13,7 @@
     <region></region>
     <date>2013-02-04</date>
     <description>Día de la Constitución</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -21,7 +21,23 @@
     <region></region>
     <date>2013-03-18</date>
     <description>Natalicio de Benito Juárez</description>
-    <type>N</type>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-03-28</date>
+    <description>Jueves Santo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-03-29</date>
+    <description>Viernes Santo</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -45,7 +61,15 @@
     <region></region>
     <date>2013-11-18</date>
     <description>Día de la Revolución</description>
-    <type>N</type>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-MX</locale>
+    <region></region>
+    <date>2013-12-12</date>
+    <description>Nuestra Señora de Guadalupe</description>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -53,7 +77,7 @@
     <region></region>
     <date>2013-12-25</date>
     <description>Navidad</description>
-    <type>NF</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
 </holidays>
