@@ -45,20 +45,6 @@
   holiday:
     locale: lt-LT
     region: 
-    date: 2013-05-05
-    description: Motinos diena
-    type: NV
-    notes: 
-  holiday:
-    locale: lt-LT
-    region: 
-    date: 2013-05-12
-    description: Tėvo diena
-    type: NV
-    notes: 
-  holiday:
-    locale: lt-LT
-    region: 
     date: 2013-06-24
     description: Joninės, Rasos
     type: NF
@@ -87,15 +73,22 @@
   holiday:
     locale: lt-LT
     region: 
+    date: 2013-12-24
+    description: Šv. Kalėdos
+    type: NRF
+    notes: 
+  holiday:
+    locale: lt-LT
+    region: 
     date: 2013-12-25
     description: Šv. Kalėdos
-    type: NRV
+    type: NRF
     notes: 
   holiday:
     locale: lt-LT
     region: 
     date: 2013-12-26
     description: Šv. Kalėdos
-    type: NRV
+    type: NRF
     notes: 
 ...

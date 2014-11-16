@@ -3,7 +3,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-01-01</date>
+    <date>2015-01-01</date>
     <description>Naujieji metai</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-02-16</date>
+    <date>2015-02-16</date>
     <description>Lietuvos valstybės atkūrimo diena</description>
     <type>NF</type>
     <notes></notes>
@@ -19,7 +19,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-03-11</date>
+    <date>2015-03-11</date>
     <description>Lietuvos nepriklausomybės atkūrimo diena</description>
     <type>NF</type>
     <notes></notes>
@@ -27,7 +27,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-04-20</date>
+    <date>2015-04-05</date>
     <description>Velykos</description>
     <type>NRV</type>
     <notes></notes>
@@ -35,7 +35,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-04-21</date>
+    <date>2015-04-06</date>
     <description>Velykos</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-05-01</date>
+    <date>2015-05-01</date>
     <description>Tarptautinė darbo diena</description>
     <type>NF</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-06-24</date>
+    <date>2015-06-24</date>
     <description>Joninės, Rasos</description>
     <type>NF</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-07-06</date>
+    <date>2015-07-06</date>
     <description>Valstybės diena</description>
     <type>NF</type>
     <notes></notes>
@@ -67,7 +67,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-08-15</date>
+    <date>2015-08-15</date>
     <description>Žolinė</description>
     <type>NRF</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-21-01</date>
+    <date>2015-21-01</date>
     <description>Visų šventųjų diena</description>
     <type>NRF</type>
     <notes></notes>
@@ -83,7 +83,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-12-24</date>
+    <date>2015-12-24</date>
     <description>Šv. Kalėdos</description>
     <type>NRF</type>
     <notes></notes>
@@ -91,7 +91,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-12-25</date>
+    <date>2015-12-25</date>
     <description>Šv. Kalėdos</description>
     <type>NRF</type>
     <notes></notes>
@@ -99,7 +99,7 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2014-12-26</date>
+    <date>2015-12-26</date>
     <description>Šv. Kalėdos</description>
     <type>NRF</type>
     <notes></notes>

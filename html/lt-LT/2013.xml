@@ -51,22 +51,6 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
-    <date>2013-05-05</date>
-    <description>Motinos diena</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>lt-LT</locale>
-    <region></region>
-    <date>2013-05-12</date>
-    <description>Tėvo diena</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>lt-LT</locale>
-    <region></region>
     <date>2013-06-24</date>
     <description>Joninės, Rasos</description>
     <type>NF</type>
@@ -99,9 +83,17 @@
   <holiday>
     <locale>lt-LT</locale>
     <region></region>
+    <date>2013-12-24</date>
+    <description>Šv. Kalėdos</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lt-LT</locale>
+    <region></region>
     <date>2013-12-25</date>
     <description>Šv. Kalėdos</description>
-    <type>NRV</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -109,7 +101,7 @@
     <region></region>
     <date>2013-12-26</date>
     <description>Šv. Kalėdos</description>
-    <type>NRV</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
 </holidays>

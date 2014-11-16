@@ -27,7 +27,7 @@ hr-HR    -    X    X    X    -    -
 is-IS    -    X    X    -    -    -
 it-IT    X    X    X    X    X    X
 jp-JP    X    X    X    X    X    X
-lt-LT    -    X    X    X    -    -
+lt-LT    -    X    X    X    X    X
 lv-LV    -    X    X    X    -    -
 nb-NO    X    X    X    -    -    -
 nb-SJ    -    X    X    -    -    -
