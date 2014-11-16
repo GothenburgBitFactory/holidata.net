@@ -3,7 +3,7 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-01-01</date>
+    <date>2016-01-01</date>
     <description>The first day of January</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,15 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-02-11</date>
+    <date>2016-02-08</date>
+    <description>Lunar New Year’s Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-HK</locale>
+    <region></region>
+    <date>2016-02-09</date>
     <description>The second day of Lunar New Year</description>
     <type>NV</type>
     <notes></notes>
@@ -19,7 +27,7 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-02-12</date>
+    <date>2016-02-10</date>
     <description>The third day of Lunar New Year</description>
     <type>NV</type>
     <notes></notes>
@@ -27,15 +35,7 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-02-13</date>
-    <description>The fourth day of Lunar New Year</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-HK</locale>
-    <region></region>
-    <date>2013-03-29</date>
+    <date>2016-03-25</date>
     <description>Good Friday</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-03-30</date>
+    <date>2016-03-26</date>
     <description>The day following Good Friday</description>
     <type>NV</type>
     <notes></notes>
@@ -51,23 +51,15 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-04-01</date>
-    <description>Easter Monday</description>
+    <date>2016-04-04</date>
+    <description>Ching Ming Festival</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-04-04</date>
-    <description>Ching Ming Festival</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-HK</locale>
-    <region></region>
-    <date>2013-05-01</date>
+    <date>2016-05-01</date>
     <description>Labour Day</description>
     <type>NF</type>
     <notes></notes>
@@ -75,7 +67,7 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-05-17</date>
+    <date>2016-05-14</date>
     <description>The Birthday of the Buddha</description>
     <type>NV</type>
     <notes></notes>
@@ -83,7 +75,7 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-06-12</date>
+    <date>2016-06-09</date>
     <description>Tuen Ng Festival</description>
     <type>NV</type>
     <notes></notes>
@@ -91,15 +83,15 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-07-01</date>
+    <date>2016-07-01</date>
     <description>Hong Kong Special Administrative Region Establishment Day</description>
-    <type>NV</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-09-20</date>
+    <date>2016-09-16</date>
     <description>The day following the Chinese Mid-Autumn Festival</description>
     <type>NV</type>
     <notes></notes>
@@ -107,23 +99,23 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-10-01</date>
+    <date>2016-10-01</date>
     <description>National Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-HK</locale>
+    <region></region>
+    <date>2016-10-10</date>
+    <description>Chung Yeung Festival</description>
     <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-10-14</date>
-    <description>The day following Chung Yeung Festival</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-HK</locale>
-    <region></region>
-    <date>2013-12-25</date>
+    <date>2016-12-25</date>
     <description>Christmas Day</description>
     <type>NRF</type>
     <notes></notes>
@@ -131,9 +123,9 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
-    <date>2013-12-26</date>
+    <date>2016-12-26</date>
     <description>The first weekday after Christmas Day</description>
-    <type>NV</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
 </holidays>

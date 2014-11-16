@@ -115,6 +115,14 @@
   <holiday>
     <locale>en-HK</locale>
     <region></region>
+    <date>2014-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-HK</locale>
+    <region></region>
     <date>2014-12-26</date>
     <description>The first weekday after Christmas Day</description>
     <type>NV</type>

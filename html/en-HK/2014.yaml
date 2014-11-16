@@ -101,6 +101,13 @@
   holiday:
     locale: en-HK
     region: 
+    date: 2014-12-25
+    description: Christmas Day
+    type: NRF
+    notes: 
+  holiday:
+    locale: en-HK
+    region: 
     date: 2014-12-26
     description: The first weekday after Christmas Day
     type: NV
