@@ -30,7 +30,7 @@ jp-JP    X    X    X    X    X    X
 lt-LT    -    X    X    X    X    X
 lv-LV    -    X    X    X    X    X
 nb-NO    X    X    X    X    X    X
-nb-SJ    -    X    X    -    -    -
+nb-SJ    -    X    X    X    X    X
 nl-BE    -    X    X    X    X    X
 nl-NL    X    X    X    X    X    X
 pl-PL    X    X    X    X    X    X
