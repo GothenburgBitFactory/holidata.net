@@ -3,98 +3,98 @@
   holiday:
     locale: el-GR
     region: 
-    date: 2014-01-01
+    date: 2015-01-01
     description: Πρωτοχρονιά
     type: NF
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-01-06
+    date: 2015-01-06
     description: Θεοφάνεια
     type: NRF
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-03-03
+    date: 2015-02-23
     description: Καθαρά Δευτέρα
     type: NRV
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-03-25
+    date: 2015-03-25
     description: Ευαγγελισμός της Θεοτόκου και Εθνική Ημέρα Ανεξαρτησίας της Ελλάδας
     type: NF
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-04-18
+    date: 2015-04-18
     description: Πρωτομαγιά
     type: NF
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-04-19
+    date: 2015-04-10
     description: Μεγάλη Παρασκευή
     type: NRV
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-04-20
+    date: 2015-04-11
     description: Μεγάλο Σάββατο
     type: NRV
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-04-21
+    date: 2015-04-12
     description: Πάσχα
     type: NRV
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-04-22
+    date: 2015-04-13
     description: Δευτέρα του Πάσχα
     type: NRV
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-06-09
+    date: 2015-06-01
     description: Δευτέρα του Αγίου Πνεύματος
     type: NRV
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-08-15
+    date: 2015-08-15
     description: Κοίμηση της Θεοτόκου
     type: NRF
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-10-28
+    date: 2015-10-28
     description: Ημέρα του ΌΧΙ
     type: NF
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-12-25
+    date: 2015-12-25
     description: Χριστούγεννα
     type: NRF
     notes: 
   holiday:
     locale: el-GR
     region: 
-    date: 2014-12-26
+    date: 2015-12-26
     description: Επόμενη ημέρα Χριστουγέννων
     type: NRF
     notes: 

@@ -3,7 +3,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-01-01</date>
+    <date>2016-01-01</date>
     <description>Πρωτοχρονιά</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-01-06</date>
+    <date>2016-01-06</date>
     <description>Θεοφάνεια</description>
     <type>NRF</type>
     <notes></notes>
@@ -19,7 +19,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-03-03</date>
+    <date>2016-03-14</date>
     <description>Καθαρά Δευτέρα</description>
     <type>NRV</type>
     <notes></notes>
@@ -27,7 +27,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-03-25</date>
+    <date>2016-03-25</date>
     <description>Ευαγγελισμός της Θεοτόκου και Εθνική Ημέρα Ανεξαρτησίας της Ελλάδας</description>
     <type>NF</type>
     <notes></notes>
@@ -35,7 +35,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-18</date>
+    <date>2016-04-18</date>
     <description>Πρωτομαγιά</description>
     <type>NF</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-19</date>
+    <date>2016-04-29</date>
     <description>Μεγάλη Παρασκευή</description>
     <type>NRV</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-20</date>
+    <date>2016-04-30</date>
     <description>Μεγάλο Σάββατο</description>
     <type>NRV</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-21</date>
+    <date>2016-05-01</date>
     <description>Πάσχα</description>
     <type>NRV</type>
     <notes></notes>
@@ -67,7 +67,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-22</date>
+    <date>2016-05-02</date>
     <description>Δευτέρα του Πάσχα</description>
     <type>NRV</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-06-09</date>
+    <date>2016-06-20</date>
     <description>Δευτέρα του Αγίου Πνεύματος</description>
     <type>NRV</type>
     <notes></notes>
@@ -83,7 +83,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-08-15</date>
+    <date>2016-08-15</date>
     <description>Κοίμηση της Θεοτόκου</description>
     <type>NRF</type>
     <notes></notes>
@@ -91,7 +91,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-10-28</date>
+    <date>2016-10-28</date>
     <description>Ημέρα του ΌΧΙ</description>
     <type>NF</type>
     <notes></notes>
@@ -99,7 +99,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-12-25</date>
+    <date>2016-12-25</date>
     <description>Χριστούγεννα</description>
     <type>NRF</type>
     <notes></notes>
@@ -107,7 +107,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-12-26</date>
+    <date>2016-12-26</date>
     <description>Επόμενη ημέρα Χριστουγέννων</description>
     <type>NRF</type>
     <notes></notes>
