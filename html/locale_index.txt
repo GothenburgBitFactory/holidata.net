@@ -33,7 +33,7 @@ nb-NO    X    X    X    -    -    -
 nb-SJ    -    X    X    -    -    -
 nl-BE    -    X    X    X    X    X
 nl-NL    X    X    X    X    X    X
-pl-PL    X    X    X    X    -    -
+pl-PL    X    X    X    X    X    X
 pt-BR    -    X    X    -    -    -
 pt-PT    X    X    X    X    X    X
 ru-RU    X    X    X    X    X    X
