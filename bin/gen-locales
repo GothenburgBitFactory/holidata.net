@@ -83,7 +83,7 @@ if ($text_file)
   if (open my $fh, '>', $text_file)
   {
     print $fh "      ", join (' ', @years), "\n";
-    for my $locale (@locales)
+    for my $locale (sort @locales)
     {
       print $fh $locale;
       for my $year (@years)
@@ -115,7 +115,7 @@ if ($html_file)
             . "  <th>Locale</th>\n"
             . join ('', map {"<th>$_</th>"} @years) . "</tr>\n";
 
-  for my $locale (@locales)
+  for my $locale (sort @locales)
   {
     $content .= "<tr>\n";
     $content .= "<td>" . Holidata::country_name (substr $locale, 3) . "</td><td>$locale</td>";
