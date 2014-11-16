@@ -1,139 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <holidays>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-01-01</date>
-    <description>Nyårsdagen</description>
+    <description>Uudenvuodenpäivä</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-01-06</date>
-    <description>Trettondedag jul</description>
+    <description>Loppiainen</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-04-18</date>
-    <description>Långfredagen</description>
+    <description>Pitkäperjantai</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-04-20</date>
-    <description>Påskdagen</description>
+    <description>Pääsiäispäivä</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-04-21</date>
-    <description>Annandag påsk</description>
+    <description>2. pääsiäispäivä</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
-    <region></region>
-    <date>2014-04-30</date>
-    <description>Valborgmässoafton</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-05-01</date>
-    <description>Första maj</description>
+    <description>Vappu</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-05-29</date>
-    <description>Kristi Himmelsfärdsdag</description>
+    <description>Helatorstai</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-06-08</date>
-    <description>Pingstdagen</description>
+    <description>Helluntaipäivä</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
-    <region></region>
-    <date>2014-06-06</date>
-    <description>Nationaldagen</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-06-20</date>
-    <description>Midsommarafton</description>
+    <description>Juhannusaatto</description>
     <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-06-21</date>
-    <description>Midsommardagen</description>
+    <description>Juhannuspäivä</description>
     <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-11-01</date>
-    <description>Alla Helgons Dag</description>
+    <description>Pyhäinpäivä</description>
     <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
+    <region></region>
+    <date>2014-12-06</date>
+    <description>Itsenäisyyspäivä</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-12-24</date>
-    <description>Julafton</description>
+    <description>Jouluaatto</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-12-25</date>
-    <description>Juldagen</description>
+    <description>Joulupäivä</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
-    <locale>sv-SE</locale>
+    <locale>fi-FI</locale>
     <region></region>
     <date>2014-12-26</date>
-    <description>Annandag jul</description>
+    <description>2. joulupäivä</description>
     <type>NRF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>sv-SE</locale>
-    <region></region>
-    <date>2014-12-31</date>
-    <description>Nyårsafton</description>
-    <type>NF</type>
     <notes></notes>
   </holiday>
 </holidays>
