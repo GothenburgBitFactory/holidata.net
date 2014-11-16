@@ -115,7 +115,7 @@ if ($html_file)
             . "  <th>Locale</th>\n"
             . join ('', map {"<th>$_</th>"} @years) . "</tr>\n";
 
-  for my $locale (sort @locales)
+  for my $locale (@locales)
   {
     $content .= "<tr>\n";
     $content .= "<td>" . Holidata::country_name (substr $locale, 3) . "</td><td>$locale</td>";
