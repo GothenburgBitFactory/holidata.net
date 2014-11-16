@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-01-01</date>
+    <description>Nova Godina</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-01-06</date>
+    <description>Bogojavljenje</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-03-27</date>
+    <description>Uskrs</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-03-28</date>
+    <description>Uskrsni ponedjeljak</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-05-01</date>
+    <description>Međunarodni praznik rada</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-05-26</date>
+    <description>Tijelovo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-06-22</date>
+    <description>Dan antifašističke borbe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-06-25</date>
+    <description>Dan državnosti</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-08-05</date>
+    <description>Dan pobjede</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-08-15</date>
+    <description>Velika Gospa</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-10-08</date>
+    <description>Dan neovisnosti</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-11-01</date>
+    <description>Dan svih svetih</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-12-25</date>
+    <description>Božić</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hr-HR</locale>
+    <region></region>
+    <date>2016-12-26</date>
+    <description>Prvi dan po Božiću</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

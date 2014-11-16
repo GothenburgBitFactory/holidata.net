@@ -23,7 +23,7 @@ fi-FI    X    X    X    -    -    -
 fr-BE    -    X    X    X    X    X
 fr-FR    X    X    X    X    X    X
 ga-IE    X    X    X    X    X    X
-hr-HR    -    X    X    X    -    -
+hr-HR    -    X    X    X    X    X
 is-IS    -    X    X    X    X    X
 it-IT    X    X    X    X    X    X
 jp-JP    X    X    X    X    X    X
