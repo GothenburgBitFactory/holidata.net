@@ -3,78 +3,99 @@
   holiday:
     locale: da-DK
     region: 
-    date: 2013-01-01
+    date: 2014-06-05
+    description: Grundlovsdag
+    type: NF
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2014-06-05
+    description: Grundlovsdag
+    type: NF
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2014-06-05
+    description: Grundlovsdag
+    type: NF
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2014-01-01
     description: Nytårsdag
     type: NF
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-03-28
+    date: 2014-04-17
     description: Skærtorsdag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-03-29
+    date: 2014-04-18
     description: Langfredag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-03-31
+    date: 2014-04-20
     description: Påskedag
     type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-04-01
+    date: 2014-04-21
     description: Anden påskedag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-04-26
-    description: Store bededag
-    type: N
-    notes: 
-  holiday:
-    locale: da-DK
-    region: 
-    date: 2013-05-09
+    date: 2014-05-29
     description: Kristi himmelfartsdag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-05-19
+    date: 2014-06-08
     description: Pinsedag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-05-20
+    date: 2014-06-09
     description: Anden pinsedag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-12-25
+    date: 2014-06-05
+    description: Grundlovsdag
+    type: NF
+    notes: 
+  holiday:
+    locale: da-DK
+    region: 
+    date: 2014-12-25
     description: Juledag
     type: NRF
     notes: 
   holiday:
     locale: da-DK
     region: 
-    date: 2013-12-26
+    date: 2014-12-26
     description: Anden juledag
-    type: NF
+    type: NRF
     notes: 
 ...

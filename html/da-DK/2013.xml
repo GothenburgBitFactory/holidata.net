@@ -11,14 +11,6 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2013-03-24</date>
-    <description>Palmesøndag</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>da-DK</locale>
-    <region></region>
     <date>2013-03-28</date>
     <description>Skærtorsdag</description>
     <type>N</type>

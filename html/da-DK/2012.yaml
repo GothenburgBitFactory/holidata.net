@@ -10,13 +10,6 @@
   holiday:
     locale: da-DK
     region: 
-    date: 2012-04-01
-    description: Palmesøndag
-    type: N
-    notes: 
-  holiday:
-    locale: da-DK
-    region: 
     date: 2012-04-05
     description: Skærtorsdag
     type: N
