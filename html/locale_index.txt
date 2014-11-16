@@ -18,7 +18,7 @@ en-ZA    -    X    X    X    X    X
 es-ES    X    X    X    X    X    X
 es-MX    -    X    X    -    -    -
 es-US    X    X    X    X    X    X
-et-EE    -    X    X    X    -    -
+et-EE    -    X    X    X    X    X
 fi-FI    X    X    X    -    -    -
 fr-BE    -    X    X    X    X    X
 fr-FR    X    X    X    X    X    -
