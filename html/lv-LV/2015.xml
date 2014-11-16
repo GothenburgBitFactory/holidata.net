@@ -3,7 +3,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-01-01</date>
+    <date>2015-01-01</date>
     <description>Jaunais Gads</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-03-29</date>
+    <date>2015-04-03</date>
     <description>Lielā Piektdiena</description>
     <type>NRV</type>
     <notes></notes>
@@ -19,7 +19,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-03-31</date>
+    <date>2015-04-05</date>
     <description>Lieldienas</description>
     <type>NRV</type>
     <notes></notes>
@@ -27,7 +27,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-04-01</date>
+    <date>2015-04-06</date>
     <description>2. Lieldienas</description>
     <type>NRV</type>
     <notes></notes>
@@ -35,7 +35,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-05-01</date>
+    <date>2015-05-01</date>
     <description>Darba svētki</description>
     <type>NF</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-05-06</date>
+    <date>2015-05-05</date>
     <description>Latvijas Republikas Neatkarības atjaunošanas dienu</description>
     <type>NF</type>
     <notes>05-04</notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-06-24</date>
+    <date>2015-06-24</date>
     <description>Jāņi</description>
     <type>NF</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-11-18</date>
+    <date>2015-11-18</date>
     <description>Latvijas Republikas proklamēšanas diena</description>
     <type>NF</type>
     <notes>11-18</notes>
@@ -67,7 +67,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-12-24</date>
+    <date>2015-12-24</date>
     <description>Ziemassvētku vakars</description>
     <type>NRF</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-12-25</date>
+    <date>2015-12-25</date>
     <description>Ziemassvētki</description>
     <type>NRF</type>
     <notes></notes>
@@ -83,7 +83,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-12-26</date>
+    <date>2015-12-26</date>
     <description>2. Ziemassvētki</description>
     <type>NRF</type>
     <notes></notes>
@@ -91,7 +91,7 @@
   <holiday>
     <locale>lv-LV</locale>
     <region></region>
-    <date>2013-12-31</date>
+    <date>2015-12-31</date>
     <description>Vecgada vakars</description>
     <type>NF</type>
     <notes></notes>

@@ -45,20 +45,6 @@
   holiday:
     locale: lv-LV
     region: 
-    date: 2014-05-11
-    description: Mātes diena
-    type: NV
-    notes: 2nd Sun May
-  holiday:
-    locale: lv-LV
-    region: 
-    date: 2014-06-23
-    description: Līgo Diena
-    type: NF
-    notes: 
-  holiday:
-    locale: lv-LV
-    region: 
     date: 2014-06-24
     description: Jāņi
     type: NF
