@@ -10,13 +10,6 @@
   holiday:
     locale: is-IS
     region: 
-    date: 2012-04-01
-    description: Pálmasunnudagur
-    type: NRV
-    notes: 
-  holiday:
-    locale: is-IS
-    region: 
     date: 2012-04-05
     description: Skírdagur
     type: NRV
@@ -61,13 +54,6 @@
     region: 
     date: 2012-05-17
     description: Uppstigningardagur
-    type: NRV
-    notes: 
-  holiday:
-    locale: is-IS
-    region: 
-    date: 2012-05-27
-    description: Hvítasunnudagur
     type: NRV
     notes: 
   holiday:

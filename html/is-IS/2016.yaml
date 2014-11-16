@@ -3,119 +3,105 @@
   holiday:
     locale: is-IS
     region: 
-    date: 2013-01-01
+    date: 2016-01-01
     description: Nýársdagur
     type: NF
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-03-28
+    date: 2016-03-24
     description: Skírdagur
     type: NRV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-03-29
+    date: 2016-03-25
     description: Föstudaginn langi
     type: NRV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-03-31
+    date: 2016-03-27
     description: Páskadagur
     type: NRV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-04-01
+    date: 2016-03-28
     description: Annar í páskum
     type: NRV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-04-25
+    date: 2016-04-21
     description: Sumardagurinn fyrsti
     type: NV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-05-01
+    date: 2016-05-01
     description: Verkalýðsdagurinn
     type: NF
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-05-09
+    date: 2016-05-05
     description: Uppstigningardagur
     type: NRV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-05-19
-    description: Hvítasunnudagur
-    type: NRV
-    notes: 
-  holiday:
-    locale: is-IS
-    region: 
-    date: 2013-05-20
+    date: 2016-05-16
     description: Annar í hvítasunnu
     type: NRV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-06-02
-    description: Sjómannadagurinn
-    type: NV
-    notes: 
-  holiday:
-    locale: is-IS
-    region: 
-    date: 2013-06-17
+    date: 2016-06-17
     description: Lýðveldisdagurinn
     type: NF
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-08-05
+    date: 2016-08-01
     description: Frídagur verslunarmanna
     type: NV
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-12-24
+    date: 2016-12-24
     description: Jól
     type: NRF
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-12-25
+    date: 2016-12-25
     description: Jól
     type: NRF
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-12-26
+    date: 2016-12-26
     description: Jól
     type: NRF
     notes: 
   holiday:
     locale: is-IS
     region: 
-    date: 2013-12-31
+    date: 2016-12-31
     description: Gamlárskvöld
     type: NF
     notes: 
