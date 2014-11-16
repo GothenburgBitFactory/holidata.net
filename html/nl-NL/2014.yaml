@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-01-01
+    description: Nieuwjaar
+    type: NF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-04-18
+    description: Goede Vrijdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-04-20
+    description: Pasen
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-04-21
+    description: Tweede Pasdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-04-26
+    description: Koninginnedag
+    type: NF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-05-04
+    description: Dodenherdenking
+    type: NF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-05-29
+    description: Hemelvaartsdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-06-08
+    description: Pinksteren
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-06-09
+    description: Tweede Pinksterdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-12-05
+    description: Sinterklaas
+    type: NRF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-12-25
+    description: Kerstmis
+    type: NRF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2014-12-26
+    description: Tweede Kerstdag
+    type: NRF
+    notes: 
+...

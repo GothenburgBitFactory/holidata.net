@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-01-01
+    description: Nieuwjaar
+    type: NF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-04-03
+    description: Goede Vrijdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-04-05
+    description: Pasen
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-04-06
+    description: Tweede Pasdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-04-27
+    description: Koninginnedag
+    type: NF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-05-04
+    description: Dodenherdenking
+    type: NF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-05-05
+    description: Bevrijdingsdag
+    type: NF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-05-14
+    description: Hemelvaartsdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-05-24
+    description: Pinksteren
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-05-25
+    description: Tweede Pinksterdag
+    type: NRV
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-12-05
+    description: Sinterklaas
+    type: NRF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-12-25
+    description: Kerstmis
+    type: NRF
+    notes: 
+  holiday:
+    locale: nl-NL
+    region: 
+    date: 2015-12-26
+    description: Tweede Kerstdag
+    type: NRF
+    notes: 
+...
