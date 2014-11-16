@@ -5,7 +5,7 @@
 ##   Scans a specified directory for authoritative CSV files that are to be read
 ##   and rewritten into the docroot in various formats.
 ##
-## Copyright 2011, Göteborg Bit Factory.
+## Copyright 2011-2014, Göteborg Bit Factory.
 ## All rights reserved.
 ##
 ################################################################################
