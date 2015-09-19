@@ -10,14 +10,14 @@
   holiday:
     locale: nl-BE
     region: 
-    date: 2016-05-27
+    date: 2016-03-27
     description: Pasen
     type: NRV
     notes: 
   holiday:
     locale: nl-BE
     region: 
-    date: 2016-05-28
+    date: 2016-03-28
     description: Paasmaandag
     type: NRV
     notes: 
