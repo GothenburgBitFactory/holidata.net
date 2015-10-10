@@ -1,0 +1,80 @@
+%YAML 1.1
+---
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-01-01
+    description: Año Nuevo
+    type: NF
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-02-08
+    description: Carnaval
+    type: NV
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-02-09
+    description: Carnaval
+    type: NV
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-03-25
+    description: Viernes Santo
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-05-01
+    description: Día del Trabajo
+    type: NF
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-05-24
+    description: Batalla del Pichincha
+    type: NF
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-08-10
+    description: Primer Grito de Independencia
+    type: NF
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-10-09
+    description: Independencia de Guayaquil
+    type: NF
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-11-02
+    description: Día de Difuntos
+    type: NF
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-11-03
+    description: Independencia de Cuenca
+    type: NF
+    notes: 
+  holiday:
+    locale: es-EC
+    region: 
+    date: 2016-12-25
+    description: Navidad
+    type: NRF
+    notes: 
+...

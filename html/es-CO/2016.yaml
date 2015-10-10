@@ -1,0 +1,136 @@
+%YAML 1.1
+---
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-01-01
+    description: Año Nuevo
+    type: NF
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-01-11
+    description: Día de los Reyes Magos
+    type: NV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-03-21
+    description: Día de San José
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-03-24
+    description: Jueves Santo
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-03-25
+    description: Viernes Santo
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-03-26
+    description: Domingo de Pascua
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-05-01
+    description: Día del Trabajo
+    type: NF
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-05-09
+    description: La Ascensión del Señor
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-05-30
+    description: Corpus Christi
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-06-06
+    description: El Sagrado Corazón de Jesús
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-07-04
+    description: San Pedro y San Pablo
+    type: NV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-07-20
+    description: Grito de Independencia
+    type: NF
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-08-07
+    description: Batalla de Boyacá
+    type: NF
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-08-15
+    description: Asunción de la Virgen
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-10-17
+    description: Día de la Raza
+    type: NV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-11-07
+    description: Todos los Santos
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-11-14
+    description: Independencia de Cartagena
+    type: NV
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-12-08
+    description: Inmaculada Concepción
+    type: NRF
+    notes: 
+  holiday:
+    locale: es-CO
+    region: 
+    date: 2016-12-25
+    description: Navidad
+    type: NRF
+    notes: 
+...
