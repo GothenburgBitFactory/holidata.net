@@ -14,7 +14,7 @@ Holidata.net is a no-nonsense supplier of international holiday data.
   year available.
 - There will be a web form that allows submission of corrections, additions or
   requests for a new LOCALE.
-- Where possible, through the use of kronisk, data will be automatically
+- Where possible, through the use of Taskwarrior, data will be automatically
   generated.
 
 ---
