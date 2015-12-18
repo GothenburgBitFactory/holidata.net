@@ -108,6 +108,13 @@
   holiday:
     locale: de-AT
     region: 
+    date: 2016-10-26
+    description: Nationalfeiertag
+    type: NF
+    notes: 
+  holiday:
+    locale: de-AT
+    region: 
     date: 2016-11-01
     description: Allerheiligen
     type: NRF
