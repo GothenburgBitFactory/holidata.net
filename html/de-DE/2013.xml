@@ -236,7 +236,7 @@
     <locale>de-DE</locale>
     <region>SN</region>
     <date>2013-11-20</date>
-    <description>Buss und Bettag</description>
+    <description>Buß- und Bettag</description>
     <type>NR</type>
     <notes></notes>
   </holiday>
@@ -268,7 +268,7 @@
     <locale>de-DE</locale>
     <region></region>
     <date>2013-12-31</date>
-    <description>Sylvester</description>
+    <description>Silvester</description>
     <type>NF</type>
     <notes></notes>
   </holiday>

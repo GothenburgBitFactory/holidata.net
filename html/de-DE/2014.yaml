@@ -207,7 +207,7 @@
     locale: de-DE
     region: SN
     date: 2014-11-19
-    description: Buss und Bettag
+    description: Buß- und Bettag
     type: NR
     notes: 
   holiday:
@@ -235,7 +235,7 @@
     locale: de-DE
     region: 
     date: 2014-12-31
-    description: Sylvester
+    description: Silvester
     type: NF
     notes: 
 ...

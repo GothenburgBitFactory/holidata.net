@@ -27,8 +27,8 @@
 {"locale":"de-DE","region":"NRW","date":"2013-11-01","description":"Allerheiligen","type":"NRF","notes":""}
 {"locale":"de-DE","region":"RP","date":"2013-11-01","description":"Allerheiligen","type":"NRF","notes":""}
 {"locale":"de-DE","region":"SL","date":"2013-11-01","description":"Allerheiligen","type":"NRF","notes":""}
-{"locale":"de-DE","region":"SN","date":"2013-11-20","description":"Buss und Bettag","type":"NR","notes":""}
+{"locale":"de-DE","region":"SN","date":"2013-11-20","description":"Buß- und Bettag","type":"NR","notes":""}
 {"locale":"de-DE","region":"","date":"2013-12-24","description":"Heilig Abend","type":"NRF","notes":""}
 {"locale":"de-DE","region":"","date":"2013-12-25","description":"Weihnachtstag","type":"NRF","notes":""}
 {"locale":"de-DE","region":"","date":"2013-12-26","description":"Zweiter Weihnachtstag","type":"NRF","notes":""}
-{"locale":"de-DE","region":"","date":"2013-12-31","description":"Sylvester","type":"NF","notes":""}
+{"locale":"de-DE","region":"","date":"2013-12-31","description":"Silvester","type":"NF","notes":""}
