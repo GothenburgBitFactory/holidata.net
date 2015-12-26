@@ -1,43 +1,44 @@
 ** Population of countries covered by hd
 ** fgrep -v '**' population.txt | cut -c 13- | paste -sd + - | bc
 **
-** Total   1660518448
+** Total    2942588448
 **
-Austria       8526429
-Australia    23630169
-Belarus       9307609
-Belgium      11144420
-Brazil      202033670 
-Canada       35524732
-Colombia     48929706
-Croatia       4272044 
-Czech        10740468
-Denmark       5640184
-Ecuador      15982551
-Estonia       1283771
-Finland       5443497
-France       64641279
-Germany      82652256
-Greece       11128404
-Greenland       57164
-Iceland        333135
-Ireland       4677340
-Italy        61070224
-Japan       126999808
-Latvia        2041111
-Lithuania     3008287
-Mexico      123799215
-Netherlands  16802463
-NewZ          4551349
-Norway        5091924
-Poland       38220543
-Portugal     10610304
-Russia      142467651
-South Afr    53139528
-Spain        47066402
-Svalbard         2394
-Sweden        9631261
-Switzerland   8157896
-Turkey       75837020
-UnitedK      63489234
-UnitedS     322583006
+Austria        8526429
+Australia     23630169
+Belarus        9307609
+Belgium       11144420
+Brazil       202033670
+Canada        35524732
+Colombia      48929706
+Croatia        4272044
+Czech         10740468
+Denmark        5640184
+Ecuador       15982551
+Estonia        1283771
+Finland        5443497
+France        64641279
+Germany       82652256
+Greece        11128404
+Greenland        57164
+Iceland         333135
+India       1282070000
+Ireland        4677340
+Italy         61070224
+Japan        126999808
+Latvia         2041111
+Lithuania      3008287
+Mexico       123799215
+Netherlands   16802463
+NewZ           4551349
+Norway         5091924
+Poland        38220543
+Portugal      10610304
+Russia       142467651
+South Afr     53139528
+Spain         47066402
+Svalbard          2394
+Sweden         9631261
+Switzerland    8157896
+Turkey        75837020
+UnitedK       63489234
+UnitedS      322583006
