@@ -64,4 +64,12 @@
     <type>NF</type>
     <notes></notes>
   </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2016-12-27</date>
+    <description>Christmas Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
 </holidays>

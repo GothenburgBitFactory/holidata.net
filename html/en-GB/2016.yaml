@@ -56,4 +56,11 @@
     description: Boxing Day
     type: NF
     notes: 
+  holiday:
+    locale: en-GB
+    region: 
+    date: 2016-12-27
+    description: Christmas Day
+    type: NV
+    notes: 
 ...
