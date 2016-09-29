@@ -53,7 +53,7 @@
     <region></region>
     <date>2016-12-25</date>
     <description>Christmas Day</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -68,7 +68,7 @@
     <locale>en-GB</locale>
     <region></region>
     <date>2016-12-27</date>
-    <description>Christmas Day</description>
+    <description>Christmas Day (substitute)</description>
     <type>NV</type>
     <notes></notes>
   </holiday>
