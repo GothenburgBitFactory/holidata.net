@@ -208,7 +208,7 @@
     region: SN
     date: 2016-11-16
     description: Buß- und Bettag
-    type: NR
+    type: NRV
     notes: 
   holiday:
     locale: de-DE
