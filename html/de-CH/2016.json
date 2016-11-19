@@ -11,48 +11,48 @@
 {"locale":"de-CH","region":"Tessin","date":"2016-03-19","description":"Josefstag","type":"RF","notes":""}
 {"locale":"de-CH","region":"Uri","date":"2016-03-19","description":"Josefstag","type":"RF","notes":""}
 {"locale":"de-CH","region":"Wallis","date":"2016-03-19","description":"Josefstag","type":"RF","notes":""}
-{"locale":"de-CH","region":"Aargau","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Appenzell Innerrhoden","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Appenzell Ausserrhoden","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Bern","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Basel-Landschaft","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Basel-Stadt","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Freiburg","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Genf","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Glarus","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Graubünden","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Jura","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Luzern","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Neuenburg","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Nidwalden","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Obwalden","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"St. Gallen","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Schaffhausen","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Solothurn","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Schwyz","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Thurgau","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Uri","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Waadt","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Zug","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Zürich","date":"2016-03-25","description":"Karfreitag","type":"NV","notes":""}
-{"locale":"de-CH","region":"","date":"2016-03-27","description":"Ostersonntag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Appenzell Innerrhoden","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Appenzell Ausserrhoden","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Bern","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Basel-Landschaft","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Basel-Stadt","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Genf","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Glarus","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Graubünden","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Jura","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"St. Gallen","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Schaffhausen","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Schwyz","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Thurgau","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Tessin","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Uri","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Waadt","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
-{"locale":"de-CH","region":"Zürich","date":"2016-03-28","description":"Ostermontag","type":"NV","notes":""}
+{"locale":"de-CH","region":"Aargau","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Appenzell Innerrhoden","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Appenzell Ausserrhoden","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Bern","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Basel-Landschaft","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Basel-Stadt","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Freiburg","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Genf","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Glarus","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Graubünden","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Jura","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Luzern","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Neuenburg","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Nidwalden","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Obwalden","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"St. Gallen","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Schaffhausen","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Solothurn","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Schwyz","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Thurgau","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Uri","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Waadt","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Zug","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Zürich","date":"2016-03-25","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"","date":"2016-03-27","description":"Ostersonntag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Appenzell Innerrhoden","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Appenzell Ausserrhoden","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Bern","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Basel-Landschaft","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Basel-Stadt","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Genf","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Glarus","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Graubünden","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Jura","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"St. Gallen","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Schaffhausen","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Schwyz","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Thurgau","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Tessin","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Uri","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Waadt","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"Zürich","date":"2016-03-28","description":"Ostermontag","type":"NRV","notes":""}
 {"locale":"de-CH","region":"Basel-Landschaft","date":"2016-05-01","description":"Tag der Arbeit","type":"NF","notes":""}
 {"locale":"de-CH","region":"Basel-Stadt","date":"2016-05-01","description":"Tag der Arbeit","type":"NF","notes":""}
 {"locale":"de-CH","region":"Graubünden","date":"2016-05-01","description":"Tag der Arbeit","type":"NF","notes":""}
