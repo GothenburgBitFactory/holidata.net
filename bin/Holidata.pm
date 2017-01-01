@@ -5,7 +5,7 @@
 ##   Scans a specified directory for authoritative CSV files and generates a
 ##   text and an HTML summary table.
 ##
-## Copyright 2011 - 2016, Göteborg Bit Factory.
+## Copyright 2011 - 2017, Göteborg Bit Factory.
 ## All rights reserved.
 ##
 ################################################################################
