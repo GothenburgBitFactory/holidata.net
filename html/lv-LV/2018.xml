@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-01-01</date>
+    <description>Jaunais Gads</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-03-30</date>
+    <description>Lielā Piektdiena</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-04-01</date>
+    <description>Lieldienas</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-04-02</date>
+    <description>2. Lieldienas</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-05-01</date>
+    <description>Darba svētki</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-05-05</date>
+    <description>Latvijas Republikas Neatkarības atjaunošanas dienu</description>
+    <type>NF</type>
+    <notes>05-04</notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-06-24</date>
+    <description>Jāņi</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-11-18</date>
+    <description>Latvijas Republikas proklamēšanas diena</description>
+    <type>NF</type>
+    <notes>11-18</notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-12-24</date>
+    <description>Ziemassvētku vakars</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-12-25</date>
+    <description>Ziemassvētki</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-12-26</date>
+    <description>2. Ziemassvētki</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>lv-LV</locale>
+    <region></region>
+    <date>2018-12-31</date>
+    <description>Vecgada vakars</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

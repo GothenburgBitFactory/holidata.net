@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-01-01
+    description: Jaunais Gads
+    type: NF
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-04-14
+    description: Lielā Piektdiena
+    type: NRV
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-04-16
+    description: Lieldienas
+    type: NRV
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-04-17
+    description: 2. Lieldienas
+    type: NRV
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-05-01
+    description: Darba svētki
+    type: NF
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-05-05
+    description: Latvijas Republikas Neatkarības atjaunošanas dienu
+    type: NF
+    notes: 05-04
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-06-24
+    description: Jāņi
+    type: NF
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-11-18
+    description: Latvijas Republikas proklamēšanas diena
+    type: NF
+    notes: 11-18
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-12-24
+    description: Ziemassvētku vakars
+    type: NRF
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-12-25
+    description: Ziemassvētki
+    type: NRF
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-12-26
+    description: 2. Ziemassvētki
+    type: NRF
+    notes: 
+  holiday:
+    locale: lv-LV
+    region: 
+    date: 2017-12-31
+    description: Vecgada vakars
+    type: NF
+    notes: 
+...
