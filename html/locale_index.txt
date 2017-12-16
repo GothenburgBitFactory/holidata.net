@@ -39,7 +39,7 @@ nl-NL    X    X    X    X    X    X    X    X
 pl-PL    X    X    X    X    X    X    X    X
 pt-BR    -    X    X    X    X    X    -    -
 pt-PT    X    X    X    X    X    X    -    -
-ru-RU    X    X    X    X    X    X    -    -
+ru-RU    X    X    X    X    X    X    X    X
 sk-SK    -    -    -    -    -    X    X    X
 sv-SE    X    X    X    X    X    X    X    X
 tr-TR    -    X    X    X    X    X    X    X
