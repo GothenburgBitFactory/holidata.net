@@ -1,0 +1,73 @@
+%YAML 1.1
+---
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-01-01
+    description: Año Nuevo
+    type: NF
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-02-06
+    description: Día de la Constitución
+    type: NV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-03-21
+    description: Natalicio de Benito Juárez
+    type: NV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-04-13
+    description: Jueves Santo
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-04-14
+    description: Viernes Santo
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-05-01
+    description: Día del Trabajo
+    type: NF
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-09-16
+    description: Día de la Independencia
+    type: NF
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-11-20
+    description: Día de la Revolución
+    type: NV
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-12-12
+    description: Nuestra Señora de Guadalupe
+    type: NRF
+    notes: 
+  holiday:
+    locale: es-MX
+    region: 
+    date: 2017-12-25
+    description: Navidad
+    type: NRF
+    notes: 
+...
