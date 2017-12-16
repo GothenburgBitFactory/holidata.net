@@ -3,7 +3,7 @@ be-BY    X    X    X    X    X    X    -    -
 cs-CZ    X    X    X    X    X    X    -    -
 da-DK    X    X    X    X    X    X    -    -
 de-AT    X    X    X    X    X    X    X    X
-de-BE    -    X    X    X    X    X    -    -
+de-BE    -    X    X    X    X    X    X    X
 de-CH    X    X    X    X    X    X    -    -
 de-DE    X    X    X    X    X    X    X    X
 el-GR    -    X    X    X    X    X    -    -
@@ -23,7 +23,7 @@ es-MX    -    X    X    X    X    X    -    -
 es-US    X    X    X    X    X    X    X    X
 et-EE    -    X    X    X    X    X    -    -
 fi-FI    X    X    X    X    X    X    -    -
-fr-BE    -    X    X    X    X    X    -    -
+fr-BE    -    X    X    X    X    X    X    X
 fr-FR    X    X    X    X    X    X    -    -
 ga-IE    X    X    X    X    X    X    -    -
 hr-HR    -    X    X    X    X    X    -    -
@@ -34,7 +34,7 @@ lt-LT    -    X    X    X    X    X    -    -
 lv-LV    -    X    X    X    X    X    -    -
 nb-NO    X    X    X    X    X    X    -    -
 nb-SJ    -    X    X    X    X    X    -    -
-nl-BE    -    X    X    X    X    X    -    -
+nl-BE    -    X    X    X    X    X    X    X
 nl-NL    X    X    X    X    X    X    -    -
 pl-PL    X    X    X    X    X    X    -    X
 pt-BR    -    X    X    X    X    X    -    -
