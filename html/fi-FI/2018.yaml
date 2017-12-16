@@ -1,0 +1,108 @@
+%YAML 1.1
+---
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-01-01
+    description: Uudenvuodenpäivä
+    type: NF
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-01-06
+    description: Loppiainen
+    type: NRF
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-03-30
+    description: Pitkäperjantai
+    type: NRV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-04-01
+    description: Pääsiäispäivä
+    type: NRV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-04-02
+    description: 2. pääsiäispäivä
+    type: NRV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-05-01
+    description: Vappu
+    type: NF
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-05-10
+    description: Helatorstai
+    type: NRV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-05-20
+    description: Helluntaipäivä
+    type: NRV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-06-22
+    description: Juhannusaatto
+    type: NV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-06-23
+    description: Juhannuspäivä
+    type: NV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-11-03
+    description: Pyhäinpäivä
+    type: NV
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-12-06
+    description: Itsenäisyyspäivä
+    type: NF
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-12-24
+    description: Jouluaatto
+    type: NRF
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-12-25
+    description: Joulupäivä
+    type: NRF
+    notes: 
+  holiday:
+    locale: fi-FI
+    region: 
+    date: 2018-12-26
+    description: 2. joulupäivä
+    type: NRF
+    notes: 
+...
