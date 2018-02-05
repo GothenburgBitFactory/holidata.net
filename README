@@ -10,12 +10,7 @@ Holidata.net is a no-nonsense supplier of international holiday data.
 - The holiday data will be provided in several different formats, such as XML,
   CSV, YAML and perhaps HTML.
 - The holidays will be described in their native language, using UTF8.
-- There will be a guaranteed availability of data, for example, if a LOCALE is
-  supported, that means there is at least data for the current year and next
-  year available.
-- There will be a web form that allows submission of corrections, additions or
-  requests for a new LOCALE.
-- Where possible, through the use of Taskwarrior, data will be automatically
-  generated.
+- Where possible, through the use of Taskwarrior or Timewarrior,
+  data will be automatically generated.
 
 ---
