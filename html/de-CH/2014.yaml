@@ -9,252 +9,252 @@
     notes: 
   holiday:
     locale: de-CH
-    region: Bern
+    region: BE
     date: 2014-01-02
     description: Berchtoldstag
     type: F
     notes: 
   holiday:
     locale: de-CH
-    region: Jura
+    region: JU
     date: 2014-01-02
     description: Berchtoldstag
     type: F
     notes: 
   holiday:
     locale: de-CH
-    region: Thurgau
+    region: TG
     date: 2014-01-02
     description: Berchtoldstag
     type: F
     notes: 
   holiday:
     locale: de-CH
-    region: Waadt
+    region: VD
     date: 2014-01-02
     description: Berchtoldstag
     type: F
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-01-06
     description: Heilige Drei Könige
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-01-06
     description: Heilige Drei Könige
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-01-06
     description: Heilige Drei Könige
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Nidwalden
+    region: NW
     date: 2014-03-19
     description: Josefstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-03-19
     description: Josefstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-03-19
     description: Josefstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-03-19
     description: Josefstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Wallis
+    region: VS
     date: 2014-03-19
     description: Josefstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Aargau
+    region: AG
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Ausserrhoden
+    region: AR
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Bern
+    region: BE
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Landschaft
+    region: BL
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Stadt
+    region: BS
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Freiburg
+    region: FR
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Genf
+    region: GE
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Glarus
+    region: GL
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Graubünden
+    region: GR
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Jura
+    region: JU
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Luzern
+    region: LU
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Neuenburg
+    region: NE
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Nidwalden
+    region: NW
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Obwalden
+    region: OW
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: St. Gallen
+    region: SG
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Schaffhausen
+    region: SH
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Solothurn
+    region: SO
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Thurgau
+    region: TG
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Waadt
+    region: VD
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Zug
+    region: ZG
     date: 2014-04-18
     description: Karfreitag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Zürich
+    region: ZH
     date: 2014-04-18
     description: Karfreitag
     type: NV
@@ -268,175 +268,175 @@
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Ausserrhoden
+    region: AR
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Bern
+    region: BE
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Landschaft
+    region: BL
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Stadt
+    region: BS
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Genf
+    region: GE
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Glarus
+    region: GL
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Graubünden
+    region: GR
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Jura
+    region: JU
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: St. Gallen
+    region: SG
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Schaffhausen
+    region: SH
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Thurgau
+    region: TG
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Waadt
+    region: VD
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Zürich
+    region: ZH
     date: 2014-04-21
     description: Ostermontag
     type: NV
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Landschaft
+    region: BL
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Stadt
+    region: BS
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
     notes: 
   holiday:
     locale: de-CH
-    region: Graubünden
+    region: GR
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
     notes: 
   holiday:
     locale: de-CH
-    region: Neuenburg
+    region: NE
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
     notes: 
   holiday:
     locale: de-CH
-    region: Schaffhausen
+    region: SH
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
     notes: 
   holiday:
     locale: de-CH
-    region: Thurgau
+    region: TG
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
     notes: 
   holiday:
     locale: de-CH
-    region: Zürich
+    region: ZH
     date: 2014-05-01
     description: Tag der Arbeit
     type: NF
@@ -457,189 +457,189 @@
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Ausserrhoden
+    region: AR
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Bern
+    region: BE
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Landschaft
+    region: BL
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Stadt
+    region: BS
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Genf
+    region: GE
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Glarus
+    region: GL
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Graubünden
+    region: GR
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Jura
+    region: JU
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: St. Gallen
+    region: SG
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Schaffhausen
+    region: SH
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Thurgau
+    region: TG
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Waadt
+    region: VD
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Zürich
+    region: ZH
     date: 2014-06-09
     description: Pfingstmontag
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Jura
+    region: JU
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Luzern
+    region: LU
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Nidwalden
+    region: NW
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Obwalden
+    region: OW
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Wallis
+    region: VS
     date: 2014-06-19
     description: Fronleichnam
     type: RV
     notes: 
   holiday:
     locale: de-CH
-    region: Zug
+    region: ZG
     date: 2014-06-19
     description: Fronleichnam
     type: RV
@@ -653,217 +653,217 @@
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Jura
+    region: JU
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Luzern
+    region: LU
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Nidwalden
+    region: NW
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Obwalden
+    region: OW
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Wallis
+    region: VS
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Zug
+    region: ZG
     date: 2014-08-15
     description: Mariä Himmelfahrt
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Glarus
+    region: GL
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Jura
+    region: JU
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Luzern
+    region: LU
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Nidwalden
+    region: NW
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Obwalden
+    region: OW
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: St. Gallen
+    region: SG
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Wallis
+    region: VS
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Zug
+    region: ZG
     date: 2014-11-01
     description: Allerheiligen
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Luzern
+    region: LU
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Nidwalden
+    region: NW
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Obwalden
+    region: OW
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Wallis
+    region: VS
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Zug
+    region: ZG
     date: 2014-12-08
     description: Mariä Empfängnis
     type: RF
@@ -877,105 +877,105 @@
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Innerrhoden
+    region: AI
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Appenzell Ausserrhoden
+    region: AR
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Bern
+    region: BE
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Landschaft
+    region: BL
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Basel-Stadt
+    region: BS
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Glarus
+    region: GL
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Graubünden
+    region: GR
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Luzern
+    region: LU
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: St. Gallen
+    region: SG
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Schaffhausen
+    region: SH
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Schwyz
+    region: SZ
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Thurgau
+    region: TG
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Tessin
+    region: TI
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Uri
+    region: UR
     date: 2014-12-26
     description: Stephanstag
     type: RF
     notes: 
   holiday:
     locale: de-CH
-    region: Zürich
+    region: ZH
     date: 2014-12-26
     description: Stephanstag
     type: RF
