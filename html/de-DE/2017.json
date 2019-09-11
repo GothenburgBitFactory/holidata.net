@@ -17,11 +17,7 @@
 {"locale":"de-DE","region":"SL","date":"2017-06-15","description":"Fronleichnam","type":"NRV","notes":""}
 {"locale":"de-DE","region":"SL","date":"2017-08-15","description":"Mariä Himmelfahrt","type":"NRF","notes":""}
 {"locale":"de-DE","region":"","date":"2017-10-03","description":"Tag der Deutschen Einheit","type":"NRF","notes":""}
-{"locale":"de-DE","region":"BB","date":"2017-10-31","description":"Reformationstag","type":"NRF","notes":""}
-{"locale":"de-DE","region":"MV","date":"2017-10-31","description":"Reformationstag","type":"NRF","notes":""}
-{"locale":"de-DE","region":"SN","date":"2017-10-31","description":"Reformationstag","type":"NRF","notes":""}
-{"locale":"de-DE","region":"ST","date":"2017-10-31","description":"Reformationstag","type":"NRF","notes":""}
-{"locale":"de-DE","region":"TH","date":"2017-10-31","description":"Reformationstag","type":"NRF","notes":""}
+{"locale":"de-DE","region":"","date":"2017-10-31","description":"Reformationstag","type":"NRF","notes":""}
 {"locale":"de-DE","region":"BW","date":"2017-11-01","description":"Allerheiligen","type":"NRF","notes":""}
 {"locale":"de-DE","region":"BY","date":"2017-11-01","description":"Allerheiligen","type":"NRF","notes":""}
 {"locale":"de-DE","region":"NW","date":"2017-11-01","description":"Allerheiligen","type":"NRF","notes":""}
