@@ -13,7 +13,7 @@
 "de-DE","BW","2017-06-15","Fronleichnam","NRV",""
 "de-DE","BY","2017-06-15","Fronleichnam","NRV",""
 "de-DE","HE","2017-06-15","Fronleichnam","NRV",""
-"de-DE","NRW","2017-06-15","Fronleichnam","NRV",""
+"de-DE","NW","2017-06-15","Fronleichnam","NRV",""
 "de-DE","RP","2017-06-15","Fronleichnam","NRV",""
 "de-DE","SL","2017-06-15","Fronleichnam","NRV",""
 "de-DE","SL","2017-08-15","Mariä Himmelfahrt","NRF",""
@@ -25,7 +25,7 @@
 "de-DE","TH","2017-10-31","Reformationstag","NRF",""
 "de-DE","BW","2017-11-01","Allerheiligen","NRF",""
 "de-DE","BY","2017-11-01","Allerheiligen","NRF",""
-"de-DE","NRW","2017-11-01","Allerheiligen","NRF",""
+"de-DE","NW","2017-11-01","Allerheiligen","NRF",""
 "de-DE","RP","2017-11-01","Allerheiligen","NRF",""
 "de-DE","SL","2017-11-01","Allerheiligen","NRF",""
 "de-DE","SN","2017-11-22","Buß- und Bettag","NRV",""
@@ -33,3 +33,4 @@
 "de-DE","","2017-12-25","Weihnachtstag","NRF",""
 "de-DE","","2017-12-26","Zweiter Weihnachtstag","NRF",""
 "de-DE","","2017-12-31","Silvester","NF",""
+
