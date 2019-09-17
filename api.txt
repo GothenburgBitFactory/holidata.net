@@ -4,7 +4,7 @@ The holidata.net CGI API
 There really isn't an API, but rather a URL convention.  Data will be obtained
 by using an HTTP request, and will have the form:
 
-    http://holidata.net/<locale>/<year>.<format>
+    https://holidata.net/<locale>/<year>.<format>
 
 This allows the user to select the LOCALE, year and format.
 
