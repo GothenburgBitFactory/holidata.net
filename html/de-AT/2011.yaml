@@ -11,7 +11,7 @@
     locale: de-AT
     region: 
     date: 2011-01-06
-    description: Heilige drei KÃ¶nige
+    description: Heilige drei Könige
     type: NRF
     notes: 
   holiday:
@@ -53,7 +53,7 @@
     locale: de-AT
     region: 
     date: 2011-05-04
-    description: Florian (OÃ)
+    description: Florian (OÖ)
     type: N
     notes: 
   holiday:
@@ -88,7 +88,7 @@
     locale: de-AT
     region: 
     date: 2011-08-15
-    description: MariÃ€ Himmelfahrt
+    description: Mariä Himmelfahrt
     type: NR
     notes: 
   holiday:
@@ -123,14 +123,14 @@
     locale: de-AT
     region: 
     date: 2011-11-15
-    description: Leopold (W, NÃ)
+    description: Leopold (W, NÖ)
     type: N
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-12-08
-    description: MariÃ€ EmpfÃ€ngnis
+    description: Mariä Empfängnis
     type: NRF
     notes: 
   holiday:

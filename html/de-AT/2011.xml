@@ -12,7 +12,7 @@
     <locale>de-AT</locale>
     <region></region>
     <date>2011-01-06</date>
-    <description>Heilige drei KÃ¶nige</description>
+    <description>Heilige drei Könige</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
@@ -60,7 +60,7 @@
     <locale>de-AT</locale>
     <region></region>
     <date>2011-05-04</date>
-    <description>Florian (OÃ)</description>
+    <description>Florian (OÖ)</description>
     <type>N</type>
     <notes></notes>
   </holiday>
@@ -100,7 +100,7 @@
     <locale>de-AT</locale>
     <region></region>
     <date>2011-08-15</date>
-    <description>MariÃ€ Himmelfahrt</description>
+    <description>Mariä Himmelfahrt</description>
     <type>NR</type>
     <notes></notes>
   </holiday>
@@ -140,7 +140,7 @@
     <locale>de-AT</locale>
     <region></region>
     <date>2011-11-15</date>
-    <description>Leopold (W, NÃ)</description>
+    <description>Leopold (W, NÖ)</description>
     <type>N</type>
     <notes></notes>
   </holiday>
@@ -148,7 +148,7 @@
     <locale>de-AT</locale>
     <region></region>
     <date>2011-12-08</date>
-    <description>MariÃ€ EmpfÃ€ngnis</description>
+    <description>Mariä Empfängnis</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
