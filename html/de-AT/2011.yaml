@@ -19,7 +19,7 @@
     region: 
     date: 2011-03-19
     description: Josef (K, St, T, V)
-    type: N
+    type: NRF
     notes: 
   holiday:
     locale: de-AT
@@ -47,14 +47,14 @@
     region: 
     date: 2011-05-01
     description: Staatsfeiertag
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-05-04
     description: Florian (OÖ)
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
@@ -68,42 +68,42 @@
     region: 
     date: 2011-06-12
     description: Pfingstsonntag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-06-13
     description: Pfingstmontag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-06-23
     description: Fronleichnam
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-08-15
     description: Mariä Himmelfahrt
-    type: NR
+    type: NRF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-09-24
     description: Rupert (S)
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-10-10
     description: Tag der Volksabstimmung (K)
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
@@ -117,14 +117,14 @@
     region: 
     date: 2011-11-11
     description: Martin (B)
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
     region: 
     date: 2011-11-15
     description: Leopold (W, NÖ)
-    type: N
+    type: NF
     notes: 
   holiday:
     locale: de-AT
