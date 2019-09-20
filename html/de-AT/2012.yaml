@@ -107,6 +107,13 @@
     notes: 
   holiday:
     locale: de-AT
+    region:
+    date: 2012-10-26
+    description: Nationalfeiertag
+    type: NF
+    notes:
+  holiday:
+    locale: de-AT
     region: 
     date: 2012-11-01
     description: Allerheiligen

@@ -123,6 +123,14 @@
   <holiday>
     <locale>de-AT</locale>
     <region></region>
+    <date>2012-10-26</date>
+    <description>Nationalfeiertag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-AT</locale>
+    <region></region>
     <date>2012-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>
