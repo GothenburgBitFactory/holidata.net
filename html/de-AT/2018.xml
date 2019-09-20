@@ -18,9 +18,33 @@
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region></region>
+    <region>2</region>
     <date>2018-03-19</date>
-    <description>Josef (K, St, T, V)</description>
+    <description>Josef</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-AT</locale>
+    <region>6</region>
+    <date>2018-03-19</date>
+    <description>Josef</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+    <holiday>
+    <locale>de-AT</locale>
+    <region>7</region>
+    <date>2018-03-19</date>
+    <description>Josef</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+    <holiday>
+    <locale>de-AT</locale>
+    <region>8</region>
+    <date>2018-03-19</date>
+    <description>Josef</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
@@ -58,9 +82,9 @@
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region></region>
+    <region>4</region>
     <date>2018-05-04</date>
-    <description>Florian (O)</description>
+    <description>Florian</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
@@ -106,17 +130,17 @@
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region></region>
+    <region>5</region>
     <date>2018-09-24</date>
-    <description>Rupert (S)</description>
+    <description>Rupert</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region></region>
+    <region>2</region>
     <date>2018-10-10</date>
-    <description>Tag der Volksabstimmung (K)</description>
+    <description>Tag der Volksabstimmung</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
@@ -138,17 +162,25 @@
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region></region>
+    <region>1</region>
     <date>2018-11-11</date>
-    <description>Martin (B)</description>
+    <description>Martin</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region></region>
+    <region>9</region>
     <date>2018-11-15</date>
-    <description>Leopold (W, N)</description>
+    <description>Leopold</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+    <holiday>
+    <locale>de-AT</locale>
+    <region>3</region>
+    <date>2018-11-15</date>
+    <description>Leopold</description>
     <type>NF</type>
     <notes></notes>
   </holiday>

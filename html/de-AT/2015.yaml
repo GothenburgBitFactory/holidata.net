@@ -16,11 +16,32 @@
     notes: 
   holiday:
     locale: de-AT
-    region: 
+    region: 2
     date: 2015-03-19
-    description: Josef (K, St, T, V)
+    description: Josef
     type: NRF
     notes: 
+  holiday:
+    locale: de-AT
+    region: 6
+    date: 2015-03-19
+    description: Josef
+    type: NRF
+    notes:
+  holiday:
+    locale: de-AT
+    region: 7
+    date: 2015-03-19
+    description: Josef
+    type: NRF
+    notes:
+  holiday:
+    locale: de-AT
+    region: 8
+    date: 2015-03-19
+    description: Josef
+    type: NRF
+    notes:
   holiday:
     locale: de-AT
     region: 
@@ -51,9 +72,9 @@
     notes: 
   holiday:
     locale: de-AT
-    region: 
+    region: 4
     date: 2015-05-04
-    description: Florian (O)
+    description: Florian
     type: NF
     notes: 
   holiday:
@@ -93,16 +114,16 @@
     notes: 
   holiday:
     locale: de-AT
-    region: 
+    region: 5
     date: 2015-09-24
-    description: Rupert (S)
+    description: Rupert
     type: NF
     notes: 
   holiday:
     locale: de-AT
-    region: 
+    region: 2
     date: 2015-10-10
-    description: Tag der Volksabstimmung (K)
+    description: Tag der Volksabstimmung
     type: NF
     notes: 
   holiday:
@@ -121,18 +142,25 @@
     notes: 
   holiday:
     locale: de-AT
-    region: 
+    region: 1
     date: 2015-11-11
-    description: Martin (B)
+    description: Martin
     type: NF
     notes: 
   holiday:
     locale: de-AT
-    region: 
+    region: 9
     date: 2015-11-15
-    description: Leopold (W, N)
+    description: Leopold
     type: NF
     notes: 
+  holiday:
+    locale: de-AT
+    region: 3
+    date: 2015-11-15
+    description: Leopold
+    type: NF
+    notes:
   holiday:
     locale: de-AT
     region: 
