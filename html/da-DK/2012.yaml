@@ -12,14 +12,14 @@
     region: 
     date: 2012-04-05
     description: Skærtorsdag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
     date: 2012-04-06
     description: Langfredag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
@@ -33,35 +33,35 @@
     region: 
     date: 2012-04-09
     description: Anden påskedag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
     date: 2012-05-04
     description: Store bededag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
     date: 2012-05-17
     description: Kristi himmelfartsdag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
     date: 2012-05-27
     description: Pinsedag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
     region: 
     date: 2012-05-28
     description: Anden pinsedag
-    type: N
+    type: NRV
     notes: 
   holiday:
     locale: da-DK
@@ -75,6 +75,6 @@
     region: 
     date: 2012-12-26
     description: Anden juledag
-    type: NF
+    type: NRF
     notes: 
 ...

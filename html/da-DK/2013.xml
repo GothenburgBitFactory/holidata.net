@@ -13,7 +13,7 @@
     <region></region>
     <date>2013-03-28</date>
     <description>Skærtorsdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -21,7 +21,7 @@
     <region></region>
     <date>2013-03-29</date>
     <description>Langfredag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region></region>
     <date>2013-04-01</date>
     <description>Anden påskedag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -45,7 +45,7 @@
     <region></region>
     <date>2013-04-26</date>
     <description>Store bededag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -53,7 +53,7 @@
     <region></region>
     <date>2013-05-09</date>
     <description>Kristi himmelfartsdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -61,7 +61,7 @@
     <region></region>
     <date>2013-05-19</date>
     <description>Pinsedag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -69,7 +69,7 @@
     <region></region>
     <date>2013-05-20</date>
     <description>Anden pinsedag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -85,7 +85,7 @@
     <region></region>
     <date>2013-12-26</date>
     <description>Anden juledag</description>
-    <type>NF</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
 </holidays>
