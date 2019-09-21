@@ -2,7 +2,7 @@
 be-BY    X    X    X    X    X    X    X    X    -    -
 cs-CZ    X    X    X    X    X    X    X    X    -    -
 da-DK    X    X    X    X    X    X    X    X    -    -
-de-AT    X    X    X    X    X    X    X    X    -    -
+de-AT    X    X    X    X    X    X    X    X    X    -
 de-BE    -    X    X    X    X    X    X    X    -    -
 de-CH    X    X    X    X    X    X    -    -    X    X
 de-DE    X    X    X    X    X    X    X    X    X    X

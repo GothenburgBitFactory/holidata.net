@@ -9,8 +9,8 @@ MAP_HTML=${DOCROOT}/map.html
 MAP_TEMPLATE=./template_map.html
 
 # 1. Generate the data files in all formats first.
-echo Generating data files...
-./gen-data --data $DATA --docroot $DOCROOT
+#echo Generating data files...
+#./gen-data --data $DATA --docroot $DOCROOT
 
 # 2. Generate the locale index page from the generated data formats from step 1.
 echo Generating locale index...
