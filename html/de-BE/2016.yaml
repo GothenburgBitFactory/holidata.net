@@ -10,14 +10,14 @@
   holiday:
     locale: de-BE
     region: 
-    date: 2016-05-27
+    date: 2016-03-27
     description: Ostern
     type: NRV
     notes: 
   holiday:
     locale: de-BE
     region: 
-    date: 2016-05-28
+    date: 2016-03-28
     description: Ostermontag
     type: NRV
     notes: 
