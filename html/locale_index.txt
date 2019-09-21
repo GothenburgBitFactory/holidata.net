@@ -14,7 +14,7 @@ en-GL    -    X    X    X    X    X    -    -    -    -
 en-HK    -    X    X    X    X    X    -    -    -    -
 en-IN    -    -    -    -    -    X    -    -    -    -
 en-NZ    X    X    X    X    X    X    X    X    -    -
-en-US    X    X    X    X    X    X    X    X    -    -
+en-US    X    X    X    X    X    X    X    X    X    -
 en-ZA    -    X    X    X    X    X    X    X    -    -
 es-CO    -    -    -    -    X    X    -    -    -    -
 es-EC    -    -    -    -    X    X    -    -    -    -
