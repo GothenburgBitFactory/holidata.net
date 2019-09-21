@@ -20,7 +20,7 @@ es-CO    -    -    -    -    X    X    -    -    -    -
 es-EC    -    -    -    -    X    X    -    -    -    -
 es-ES    X    X    X    X    X    X    X    X    -    -
 es-MX    -    X    X    X    X    X    X    X    -    -
-es-US    X    X    X    X    X    X    X    X    -    -
+es-US    X    X    X    X    X    X    X    X    X    -
 et-EE    -    X    X    X    X    X    X    X    -    -
 fi-FI    X    X    X    X    X    X    X    X    -    -
 fr-BE    -    X    X    X    X    X    X    X    -    -
