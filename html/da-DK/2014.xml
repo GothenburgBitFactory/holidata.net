@@ -3,30 +3,6 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2014-06-05</date>
-    <description>Grundlovsdag</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>da-DK</locale>
-    <region></region>
-    <date>2014-06-05</date>
-    <description>Grundlovsdag</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>da-DK</locale>
-    <region></region>
-    <date>2014-06-05</date>
-    <description>Grundlovsdag</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>da-DK</locale>
-    <region></region>
     <date>2014-01-01</date>
     <description>Nytårsdag</description>
     <type>NF</type>
@@ -75,6 +51,14 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
+    <date>2014-06-05</date>
+    <description>Grundlovsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>da-DK</locale>
+    <region></region>
     <date>2014-06-08</date>
     <description>Pinsedag</description>
     <type>NRV</type>
@@ -86,14 +70,6 @@
     <date>2014-06-09</date>
     <description>Anden pinsedag</description>
     <type>NRV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>da-DK</locale>
-    <region></region>
-    <date>2014-06-05</date>
-    <description>Grundlovsdag</description>
-    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>

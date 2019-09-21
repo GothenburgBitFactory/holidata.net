@@ -59,6 +59,14 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
+    <date>2011-06-05</date>
+    <description>Grundlovsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>da-DK</locale>
+    <region></region>
     <date>2011-06-12</date>
     <description>Pinsedag</description>
     <type>NRV</type>

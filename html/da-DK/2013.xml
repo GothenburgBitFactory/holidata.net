@@ -75,6 +75,14 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
+    <date>2013-06-05</date>
+    <description>Grundlovsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>da-DK</locale>
+    <region></region>
     <date>2013-12-25</date>
     <description>Juledag</description>
     <type>NRF</type>

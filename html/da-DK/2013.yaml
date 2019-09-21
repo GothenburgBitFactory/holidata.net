@@ -65,6 +65,13 @@
     notes: 
   holiday:
     locale: da-DK
+    region:
+    date: 2013-06-05
+    description: Grundlovsdag
+    type: NF
+    notes:
+  holiday:
+    locale: da-DK
     region: 
     date: 2013-12-25
     description: Juledag
