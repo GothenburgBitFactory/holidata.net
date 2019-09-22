@@ -83,6 +83,14 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
+    <date>2011-12-25</date>
+    <description>Juledag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>da-DK</locale>
+    <region></region>
     <date>2011-12-26</date>
     <description>Anden juledag</description>
     <type>NRF</type>
