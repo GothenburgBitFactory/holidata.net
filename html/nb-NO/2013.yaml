@@ -65,18 +65,18 @@
     notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2013-05-09
     description: Kristi Himmelfartsdag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2013-05-17
     description: Grunnlovsdag
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: nb-NO
     region: 

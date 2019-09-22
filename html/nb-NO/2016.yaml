@@ -58,42 +58,42 @@
     notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2016-05-05
     description: Kristi Himmelfartsdag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2016-05-08
     description: Frigjøringsdag 1945
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2016-05-15
     description: Pinsedag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2016-05-16
     description: Pinsedag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2016-05-17
     description: Grunnlovsdag
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: nb-NO
-    region:
+    region: 
     date: 2016-12-24
     description: Julaften
     type: NRF
