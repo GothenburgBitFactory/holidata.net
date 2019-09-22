@@ -75,17 +75,17 @@
   <holiday>
     <locale>nb-NO</locale>
     <region></region>
-    <date>2015-05-17</date>
-    <description>Grunnlovsdag</description>
-    <type>NF</type>
+    <date>2015-05-14</date>
+    <description>Kristi Himmelfartsdag</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>nb-NO</locale>
     <region></region>
-    <date>2015-05-14</date>
-    <description>Kristi Himmelfartsdag</description>
-    <type>NRV</type>
+    <date>2015-05-17</date>
+    <description>Grunnlovsdag</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>

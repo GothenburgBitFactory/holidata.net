@@ -67,25 +67,17 @@
   <holiday>
     <locale>nb-NO</locale>
     <region></region>
-    <date>2016-05-08</date>
-    <description>Frigjøringsdag 1945</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>nb-NO</locale>
-    <region></region>
-    <date>2016-05-17</date>
-    <description>Grunnlovsdag</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>nb-NO</locale>
-    <region></region>
     <date>2016-05-05</date>
     <description>Kristi Himmelfartsdag</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nb-NO</locale>
+    <region></region>
+    <date>2016-05-08</date>
+    <description>Frigjøringsdag 1945</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -102,6 +94,14 @@
     <date>2016-05-16</date>
     <description>Pinsedag</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nb-NO</locale>
+    <region></region>
+    <date>2016-05-17</date>
+    <description>Grunnlovsdag</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
