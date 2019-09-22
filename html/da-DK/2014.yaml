@@ -38,10 +38,17 @@
   holiday:
     locale: da-DK
     region: 
+    date: 2014-05-16
+    description: Store bededag
+    type: NRV
+    notes: 
+  holiday:
+    locale: da-DK
+    region:
     date: 2014-05-29
     description: Kristi himmelfartsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
     region:
@@ -58,7 +65,7 @@
     notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2014-06-09
     description: Anden pinsedag
     type: NRV

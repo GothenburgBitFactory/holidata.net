@@ -38,10 +38,17 @@
   holiday:
     locale: da-DK
     region: 
+    date: 2016-04-22
+    description: Store bededag
+    type: NRV
+    notes: 
+  holiday:
+    locale: da-DK
+    region:
     date: 2016-05-05
     description: Kristi himmelfartsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
     region: 

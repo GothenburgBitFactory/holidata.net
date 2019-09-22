@@ -43,6 +43,14 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
+    <date>2017-05-12</date>
+    <description>Store bededag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>da-DK</locale>
+    <region></region>
     <date>2017-05-25</date>
     <description>Kristi himmelfartsdag</description>
     <type>NRV</type>
