@@ -47,7 +47,7 @@
     region: 
     date: 2016-12-25
     description: Christmas Day
-    type: RF
+    type: NRF
     notes: 
   holiday:
     locale: en-GB
