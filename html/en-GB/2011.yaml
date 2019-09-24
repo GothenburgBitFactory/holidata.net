@@ -45,14 +45,14 @@
   holiday:
     locale: en-GB
     region: 
-    date: 2011-12-26
+    date: 2011-12-25
     description: Christmas Day
     type: NRF
     notes: 
   holiday:
     locale: en-GB
     region: 
-    date: 2011-12-27
+    date: 2011-12-26
     description: Boxing Day
     type: NF
     notes: 
