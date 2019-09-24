@@ -10,6 +10,13 @@
   holiday:
     locale: en-GB
     region: 
+    date: 2011-01-03
+    description: New Year's Day (observed)
+    type: NV
+    notes: 
+  holiday:
+    locale: en-GB
+    region: 
     date: 2011-04-22
     description: Good Friday
     type: NRV

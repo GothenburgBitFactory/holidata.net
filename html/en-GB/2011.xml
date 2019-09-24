@@ -11,6 +11,14 @@
   <holiday>
     <locale>en-GB</locale>
     <region></region>
+    <date>2011-01-03</date>
+    <description>New Year's Day (observed)</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
     <date>2011-04-22</date>
     <description>Good Friday</description>
     <type>NRV</type>
