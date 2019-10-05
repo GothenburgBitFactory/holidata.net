@@ -36,16 +36,16 @@
     <locale>ru-RU</locale>
     <region></region>
     <date>2016-05-01</date>
-    <description>Пасха</description>
-    <type>NRV</type>
+    <description>Праздник весны и труда</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>ru-RU</locale>
     <region></region>
     <date>2016-05-01</date>
-    <description>Праздник весны и труда</description>
-    <type>NF</type>
+    <description>Пасха</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
