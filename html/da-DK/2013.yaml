@@ -65,11 +65,11 @@
     notes: 
   holiday:
     locale: da-DK
-    region:
+    region: 
     date: 2013-06-05
     description: Grundlovsdag
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: da-DK
     region: 

@@ -44,11 +44,11 @@
     notes: 
   holiday:
     locale: da-DK
-    region:
+    region: 
     date: 2017-05-25
     description: Kristi himmelfartsdag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: da-DK
     region: 

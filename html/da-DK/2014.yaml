@@ -44,32 +44,32 @@
     notes: 
   holiday:
     locale: da-DK
-    region:
+    region: 
     date: 2014-05-29
     description: Kristi himmelfartsdag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: da-DK
-    region:
+    region: 
     date: 2014-06-05
     description: Grundlovsdag
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: da-DK
-    region:
+    region: 
     date: 2014-06-08
     description: Pinsedag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: da-DK
-    region:
+    region: 
     date: 2014-06-09
     description: Anden pinsedag
     type: NRV
-    notes:
+    notes: 
   holiday:
     locale: da-DK
     region: 

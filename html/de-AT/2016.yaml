@@ -27,21 +27,21 @@
     date: 2016-03-19
     description: Josef
     type: NRF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 7
     date: 2016-03-19
     description: Josef
     type: NRF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 8
     date: 2016-03-19
     description: Josef
     type: NRF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 
@@ -160,7 +160,7 @@
     date: 2016-11-15
     description: Leopold
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 

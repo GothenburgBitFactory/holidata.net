@@ -79,9 +79,9 @@
     notes: 
   holiday:
     locale: da-DK
-    region:
+    region: 
     date: 2011-12-26
     description: Anden juledag
     type: NRF
-    notes:
+    notes: 
 ...

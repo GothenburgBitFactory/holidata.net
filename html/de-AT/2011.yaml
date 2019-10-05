@@ -20,28 +20,28 @@
     date: 2011-03-19
     description: Josef
     type: NRF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 6
     date: 2011-03-19
     description: Josef
     type: NRF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 7
     date: 2011-03-19
     description: Josef
     type: NRF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 8
     date: 2011-03-19
     description: Josef
     type: NRF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 
@@ -128,14 +128,14 @@
     notes: 
   holiday:
     locale: de-AT
-    region:
+    region: 
     date: 2011-10-26
     description: Nationalfeiertag
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
-    region:
+    region: 
     date: 2011-11-01
     description: Allerheiligen
     type: NRF
@@ -153,14 +153,14 @@
     date: 2011-11-15
     description: Leopold
     type: N
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 3
     date: 2011-11-15
     description: Leopold
     type: NF
-    notes:
+    notes: 
   holiday:
     locale: de-AT
     region: 
