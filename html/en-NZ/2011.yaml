@@ -13,7 +13,7 @@
     date: 2011-01-02
     description: Day after New Years Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-NZ
     region: 
@@ -30,18 +30,18 @@
     notes: 
   holiday:
     locale: en-NZ
-    region: 
-    date: 2011-04-25
-    description: Easter Monday
-    type: NRV
-    notes: 
-  holiday:
-    locale: en-NZ
-    region: 
+    region:
     date: 2011-04-25
     description: ANZAC Day
     type: NF
-    notes: 
+    notes:
+  holiday:
+    locale: en-NZ
+    region:
+    date: 2011-04-25
+    description: Easter Monday
+    type: NRV
+    notes:
   holiday:
     locale: en-NZ
     region: 

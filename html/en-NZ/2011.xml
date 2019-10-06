@@ -36,16 +36,16 @@
     <locale>en-NZ</locale>
     <region></region>
     <date>2011-04-25</date>
-    <description>Easter Monday</description>
-    <type>NRV</type>
+    <description>ANZAC Day</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>en-NZ</locale>
     <region></region>
     <date>2011-04-25</date>
-    <description>ANZAC Day</description>
-    <type>NF</type>
+    <description>Easter Monday</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
