@@ -11,8 +11,15 @@
     locale: en-NZ
     region: 
     date: 2017-01-02
+    description: New Year's Day (observed)
+    type: NV
+    notes: 
+  holiday:
+    locale: en-NZ
+    region: 
+    date: 2017-01-03
     description: Day after New Year's Day
-    type: NF
+    type: NV
     notes: 
   holiday:
     locale: en-NZ

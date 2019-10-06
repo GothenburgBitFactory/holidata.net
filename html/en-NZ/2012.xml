@@ -12,6 +12,14 @@
     <locale>en-NZ</locale>
     <region></region>
     <date>2012-01-02</date>
+    <description>New Year's Day (observed)</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-NZ</locale>
+    <region></region>
+    <date>2012-01-03</date>
     <description>Day after New Year's Day</description>
     <type>NV</type>
     <notes></notes>

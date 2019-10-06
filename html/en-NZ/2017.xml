@@ -12,8 +12,16 @@
     <locale>en-NZ</locale>
     <region></region>
     <date>2017-01-02</date>
+    <description>New Year's Day (observed)</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-NZ</locale>
+    <region></region>
+    <date>2017-01-03</date>
     <description>Day after New Year's Day</description>
-    <type>NF</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>

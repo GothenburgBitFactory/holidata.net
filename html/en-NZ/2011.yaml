@@ -10,7 +10,14 @@
   holiday:
     locale: en-NZ
     region: 
-    date: 2011-01-02
+    date: 2011-01-03
+    description: New Year's Day (observed)
+    type: NV
+    notes: 
+  holiday:
+    locale: en-NZ
+    region: 
+    date: 2011-01-04
     description: Day after New Year's Day
     type: NV
     notes:
