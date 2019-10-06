@@ -19,8 +19,8 @@
     region: 
     date: 2018-02-06
     description: Waitangi Day
-    type: NV
-    notes: 
+    type: NF
+    notes:
   holiday:
     locale: en-NZ
     region: 
