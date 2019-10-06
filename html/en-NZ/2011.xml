@@ -88,4 +88,12 @@
     <type>NF</type>
     <notes></notes>
   </holiday>
+  <holiday>
+    <locale>en-NZ</locale>
+    <region></region>
+    <date>2011-12-27</date>
+    <description>Christmas Day (observed)</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
 </holidays>

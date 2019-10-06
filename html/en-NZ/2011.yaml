@@ -77,4 +77,11 @@
     description: Boxing Day
     type: NF
     notes: 
+  holiday:
+    locale: en-NZ
+    region: 
+    date: 2011-12-27
+    description: Christmas Day (observed)
+    type: NV
+    notes: 
 ...

@@ -80,4 +80,12 @@
     <type>NF</type>
     <notes></notes>
   </holiday>
+  <holiday>
+    <locale>en-NZ</locale>
+    <region></region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
 </holidays>
