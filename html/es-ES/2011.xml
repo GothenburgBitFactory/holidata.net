@@ -104,12 +104,4 @@
     <type>NF</type>
     <notes></notes>
   </holiday>
-  <holiday>
-    <locale>es-ES</locale>
-    <region></region>
-    <date>2011-04-08</date>
-    <description>Pascua</description>
-    <type>NRV</type>
-    <notes></notes>
-  </holiday>
 </holidays>

@@ -91,11 +91,4 @@
     description: Noche Vieja
     type: NF
     notes: 
-  holiday:
-    locale: es-ES
-    region: 
-    date: 2011-04-08
-    description: Pascua
-    type: NRV
-    notes: 
 ...

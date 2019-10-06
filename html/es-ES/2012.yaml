@@ -24,6 +24,13 @@
   holiday:
     locale: es-ES
     region: 
+    date: 2012-04-08
+    description: Pascua
+    type: NRV
+    notes: 
+  holiday:
+    locale: es-ES
+    region: 
     date: 2012-05-01
     description: Fiesta del Trabajo
     type: NF

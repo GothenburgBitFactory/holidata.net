@@ -27,6 +27,14 @@
   <holiday>
     <locale>es-ES</locale>
     <region></region>
+    <date>2012-04-08</date>
+    <description>Pascua</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
     <date>2012-05-01</date>
     <description>Fiesta del Trabajo</description>
     <type>NF</type>
