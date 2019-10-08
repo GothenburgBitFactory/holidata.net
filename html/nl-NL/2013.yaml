@@ -2,100 +2,100 @@
 ---
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-01-01
     description: Nieuwjaarsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-03-29
     description: Goede Vrijdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-03-31
     description: Eerste Paasdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-04-01
     description: Tweede Paasdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-04-30
     description: Koninginnedag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-05-04
     description: Dodenherdenking
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-05-05
     description: Bevrijdingsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-05-09
     description: Hemelvaartsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-05-19
     description: Eerste Pinksterdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-05-20
     description: Tweede Pinksterdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-12-05
     description: Sinterklaas
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-12-15
     description: Koninkrijksdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-12-25
     description: Eerste Kerstdag
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2013-12-26
     description: Tweede Kerstdag
     type: NRF
-    notes: 
+    notes:
 ...

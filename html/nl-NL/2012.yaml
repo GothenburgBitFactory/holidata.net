@@ -2,100 +2,100 @@
 ---
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-01-01
     description: Nieuwjaarsdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-04-06
     description: Goede Vrijdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-04-08
     description: Eerste Paasdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-04-09
     description: Tweede Paasdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-04-30
     description: Koninginnedag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-05-04
     description: Dodenherdenking
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-05-05
     description: Bevrijdingsdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-05-17
     description: Hemelvaartsdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-05-27
     description: Eerste Pinksterdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-05-28
     description: Tweede Pinksterdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-12-05
     description: Sinterklaas
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-12-15
     description: Koninkrijksdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-12-25
     description: Eerste Kerstdag
     type: N
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2012-12-26
     description: Tweede Kerstdag
     type: N
-    notes: 
+    notes:
 ...

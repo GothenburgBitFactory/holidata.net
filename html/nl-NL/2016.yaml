@@ -2,93 +2,93 @@
 ---
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-01-01
     description: Nieuwjaarsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-03-25
     description: Goede Vrijdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-03-27
     description: Eerste Paasdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-03-28
     description: Tweede Paasdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-04-27
     description: Koninginnedag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-05-04
     description: Dodenherdenking
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-05-05
     description: Bevrijdingsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-05-05
     description: Hemelvaartsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-05-15
     description: Eerste Pinksterdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-05-16
     description: Tweede Pinksterdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-12-05
     description: Sinterklaas
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-12-25
     description: Eerste Kerstdag
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: nl-NL
-    region: 
+    region:
     date: 2016-12-26
     description: Tweede Kerstdag
     type: NRF
-    notes: 
+    notes:
 ...
