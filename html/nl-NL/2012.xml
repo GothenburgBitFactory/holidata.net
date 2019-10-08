@@ -5,7 +5,7 @@
     <region></region>
     <date>2012-01-01</date>
     <description>Nieuwjaarsdag</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -13,7 +13,7 @@
     <region></region>
     <date>2012-04-06</date>
     <description>Goede Vrijdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -21,7 +21,7 @@
     <region></region>
     <date>2012-04-08</date>
     <description>Eerste Paasdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +29,7 @@
     <region></region>
     <date>2012-04-09</date>
     <description>Tweede Paasdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region></region>
     <date>2012-04-30</date>
     <description>Koninginnedag</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -45,7 +45,7 @@
     <region></region>
     <date>2012-05-04</date>
     <description>Dodenherdenking</description>
-    <type>N</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -53,7 +53,7 @@
     <region></region>
     <date>2012-05-05</date>
     <description>Bevrijdingsdag</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -61,7 +61,7 @@
     <region></region>
     <date>2012-05-17</date>
     <description>Hemelvaartsdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -69,7 +69,7 @@
     <region></region>
     <date>2012-05-27</date>
     <description>Eerste Pinksterdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -77,7 +77,7 @@
     <region></region>
     <date>2012-05-28</date>
     <description>Tweede Pinksterdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -85,7 +85,7 @@
     <region></region>
     <date>2012-12-05</date>
     <description>Sinterklaas</description>
-    <type>N</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -93,7 +93,7 @@
     <region></region>
     <date>2012-12-15</date>
     <description>Koninkrijksdag</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -101,7 +101,7 @@
     <region></region>
     <date>2012-12-25</date>
     <description>Eerste Kerstdag</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -109,7 +109,7 @@
     <region></region>
     <date>2012-12-26</date>
     <description>Tweede Kerstdag</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
 </holidays>

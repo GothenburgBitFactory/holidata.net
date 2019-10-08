@@ -40,7 +40,7 @@
     region:
     date: 2018-05-04
     description: Dodenherdenking
-    type: NF
+    type: F
     notes:
   holiday:
     locale: nl-NL
@@ -75,7 +75,7 @@
     region:
     date: 2018-12-05
     description: Sinterklaas
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: nl-NL

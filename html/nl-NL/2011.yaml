@@ -5,97 +5,97 @@
     region:
     date: 2011-01-01
     description: Nieuwjaarsdag
-    type: N
+    type: NF
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-04-22
     description: Goede Vrijdag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-04-24
     description: Eerste Paasdag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-04-25
     description: Tweede Paasdag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-04-30
     description: Koninginnedag
-    type: N
+    type: NV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-05-04
     description: Dodenherdenking
-    type: N
+    type: F
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-05-05
     description: Bevrijdingsdag
-    type: N
+    type: NF
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-06-02
     description: Hemelvaartsdag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-06-12
     description: Eerste Pinksterdag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-06-13
     description: Tweede Pinksterdag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-12-05
     description: Sinterklaas
-    type: N
+    type: RF
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-12-15
     description: Koninkrijksdag
-    type: N
+    type: NV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-12-25
     description: Eerste Kerstdag
-    type: N
+    type: NRF
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2011-12-26
     description: Tweede Kerstdag
-    type: N
+    type: NRF
     notes:
 ...

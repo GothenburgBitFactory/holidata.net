@@ -33,14 +33,14 @@
     region:
     date: 2013-04-30
     description: Koninginnedag
-    type: NF
+    type: NV
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2013-05-04
     description: Dodenherdenking
-    type: NF
+    type: F
     notes:
   holiday:
     locale: nl-NL
@@ -75,14 +75,14 @@
     region:
     date: 2013-12-05
     description: Sinterklaas
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: nl-NL
     region:
     date: 2013-12-16
     description: Koninkrijksdag
-    type: NF
+    type: NV
     notes:
   holiday:
     locale: nl-NL
