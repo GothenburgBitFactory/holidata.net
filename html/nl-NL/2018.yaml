@@ -80,6 +80,13 @@
   holiday:
     locale: nl-NL
     region:
+    date: 2018-12-15
+    description: Koninkrijksdag
+    type: NV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
     date: 2018-12-25
     description: Eerste Kerstdag
     type: NRF

@@ -91,6 +91,14 @@
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
+    <date>2016-12-15</date>
+    <description>Koninkrijksdag</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
     <date>2016-12-25</date>
     <description>Eerste Kerstdag</description>
     <type>NRF</type>
