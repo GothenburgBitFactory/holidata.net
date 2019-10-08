@@ -51,6 +51,14 @@
   <holiday>
     <locale>nl-NL</locale>
     <region></region>
+    <date>2014-05-05</date>
+    <description>Bevrijdingsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
     <date>2014-05-29</date>
     <description>Hemelvaartsdag</description>
     <type>NRV</type>
