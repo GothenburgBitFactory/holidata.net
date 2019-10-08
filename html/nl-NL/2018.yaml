@@ -32,8 +32,8 @@
     locale: nl-NL
     region:
     date: 2018-04-27
-    description: Koninginnedag
-    type: NF
+    description: Koningsdag
+    type: NV
     notes:
   holiday:
     locale: nl-NL
