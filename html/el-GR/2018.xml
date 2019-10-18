@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-01-01</date>
+    <description>Πρωτοχρονιά</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-01-06</date>
+    <description>Θεοφάνεια</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-02-19</date>
+    <description>Καθαρά Δευτέρα</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-03-25</date>
+    <description>Ευαγγελισμός της Θεοτόκου και Εθνική Ημέρα Ανεξαρτησίας της Ελλάδας</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-04-06</date>
+    <description>Μεγάλη Παρασκευή</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-04-07</date>
+    <description>Μεγάλο Σάββατο</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-04-08</date>
+    <description>Πάσχα</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-04-09</date>
+    <description>Δευτέρα του Πάσχα</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-05-01</date>
+    <description>Πρωτομαγιά</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-05-28</date>
+    <description>Δευτέρα του Αγίου Πνεύματος</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-08-15</date>
+    <description>Κοίμηση της Θεοτόκου</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-10-28</date>
+    <description>Ημέρα του ΌΧΙ</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-12-25</date>
+    <description>Χριστούγεννα</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2018-12-26</date>
+    <description>Επόμενη ημέρα Χριστουγέννων</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
