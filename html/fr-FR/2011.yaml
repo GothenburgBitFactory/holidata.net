@@ -52,13 +52,6 @@
   holiday:
     locale: fr-FR
     region:
-    date: 2011-07-15
-    description: Fête nationale
-    type: NV
-    notes:
-  holiday:
-    locale: fr-FR
-    region:
     date: 2011-08-15
     description: Assomption
     type: NR

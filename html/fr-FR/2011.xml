@@ -59,14 +59,6 @@
   <holiday>
     <locale>fr-FR</locale>
     <region></region>
-    <date>2011-07-15</date>
-    <description>Fête nationale</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-FR</locale>
-    <region></region>
     <date>2011-08-15</date>
     <description>Assomption</description>
     <type>NR</type>
