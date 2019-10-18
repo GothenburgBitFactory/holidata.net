@@ -2,121 +2,121 @@
 ---
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-01-01
     description: Nyttårsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-02-07
     description: Fastelavn
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-03-20
     description: Palmesøndag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-03-24
     description: Skjærtorsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-03-25
     description: Langfredag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-03-27
     description: Påskedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-03-28
     description: Påskedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-05-01
     description: Offentlig Høytidsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-05-05
     description: Kristi Himmelfartsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-05-08
     description: Frigjøringsdag 1945
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-05-15
     description: Pinsedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-05-16
     description: Pinsedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-05-17
     description: Grunnlovsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-12-24
     description: Julaften
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-12-25
     description: Juledag
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-12-26
     description: Juledag
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: nb-NO
-    region: 
+    region:
     date: 2016-12-31
     description: Nyttårsaften
     type: NF
-    notes: 
+    notes:
 ...
