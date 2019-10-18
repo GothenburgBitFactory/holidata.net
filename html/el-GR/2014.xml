@@ -35,14 +35,6 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-18</date>
-    <description>Πρωτομαγιά</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>el-GR</locale>
-    <region></region>
     <date>2014-04-19</date>
     <description>Μεγάλη Παρασκευή</description>
     <type>NRV</type>
@@ -70,6 +62,14 @@
     <date>2014-04-22</date>
     <description>Δευτέρα του Πάσχα</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>el-GR</locale>
+    <region></region>
+    <date>2014-05-01</date>
+    <description>Πρωτομαγιά</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>

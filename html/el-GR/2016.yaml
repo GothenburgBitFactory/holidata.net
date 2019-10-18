@@ -31,13 +31,6 @@
   holiday:
     locale: el-GR
     region:
-    date: 2016-04-18
-    description: Πρωτομαγιά
-    type: NF
-    notes:
-  holiday:
-    locale: el-GR
-    region:
     date: 2016-04-29
     description: Μεγάλη Παρασκευή
     type: NRV
@@ -62,6 +55,13 @@
     date: 2016-05-02
     description: Δευτέρα του Πάσχα
     type: NRV
+    notes:
+  holiday:
+    locale: el-GR
+    region:
+    date: 2016-05-03
+    description: Πρωτομαγιά
+    type: NF
     notes:
   holiday:
     locale: el-GR
