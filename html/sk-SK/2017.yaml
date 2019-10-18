@@ -94,7 +94,7 @@
   holiday:
     locale: sk-SK
     region:
-    date: 2017-12.25
+    date: 2017-12-25
     description: Prvý sviatok vianočný
     type: NRF
     notes:
