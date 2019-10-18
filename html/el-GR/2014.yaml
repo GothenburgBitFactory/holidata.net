@@ -31,28 +31,28 @@
   holiday:
     locale: el-GR
     region:
-    date: 2014-04-19
+    date: 2014-04-18
     description: Μεγάλη Παρασκευή
     type: NRV
     notes:
   holiday:
     locale: el-GR
     region:
-    date: 2014-04-20
+    date: 2014-04-19
     description: Μεγάλο Σάββατο
     type: NRV
     notes:
   holiday:
     locale: el-GR
     region:
-    date: 2014-04-21
+    date: 2014-04-20
     description: Πάσχα
     type: NRV
     notes:
   holiday:
     locale: el-GR
     region:
-    date: 2014-04-22
+    date: 2014-04-21
     description: Δευτέρα του Πάσχα
     type: NRV
     notes:

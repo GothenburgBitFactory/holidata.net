@@ -35,7 +35,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-19</date>
+    <date>2014-04-18</date>
     <description>Μεγάλη Παρασκευή</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-20</date>
+    <date>2014-04-19</date>
     <description>Μεγάλο Σάββατο</description>
     <type>NRV</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-21</date>
+    <date>2014-04-20</date>
     <description>Πάσχα</description>
     <type>NRV</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>el-GR</locale>
     <region></region>
-    <date>2014-04-22</date>
+    <date>2014-04-21</date>
     <description>Δευτέρα του Πάσχα</description>
     <type>NRV</type>
     <notes></notes>
