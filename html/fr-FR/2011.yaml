@@ -19,7 +19,7 @@
     region:
     date: 2011-05-01
     description: Fête du premier mai
-    type: NV
+    type: NF
     notes:
   holiday:
     locale: fr-FR
