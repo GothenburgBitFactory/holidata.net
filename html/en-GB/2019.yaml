@@ -1,0 +1,59 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-01-01
+    description: New Year's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-04-19
+    description: Good Friday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-04-22
+    description: Easter Monday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-05-06
+    description: Early May Bank Holiday
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-05-27
+    description: Spring Bank Holiday
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-08-26
+    description: August Bank Holiday
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-12-25
+    description: Christmas Day
+    type: NRF
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2019-12-26
+    description: Boxing Day
+    type: NF
+    notes:
+...
