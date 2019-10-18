@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-01-01</date>
+    <description>Новый Год</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-01-07</date>
+    <description>Рождество Христово</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-02-23</date>
+    <description>День защитника Отечества</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-03-08</date>
+    <description>Международный женский день</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-04-28</date>
+    <description>Пасха</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-05-01</date>
+    <description>Праздник весны и труда</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-05-09</date>
+    <description>День Победы</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-06-12</date>
+    <description>День России</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>ru-RU</locale>
+    <region></region>
+    <date>2019-11-04</date>
+    <description>День народного единства</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
