@@ -38,8 +38,15 @@
   holiday:
     locale: fr-FR
     region:
-    date: 2012-05-28
+    date: 2012-05-27
     description: Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2012-05-28
+    description: Lundi de Pentecôte
     type: NRV
     notes:
   holiday:

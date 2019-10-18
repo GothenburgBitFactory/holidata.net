@@ -45,6 +45,13 @@
   holiday:
     locale: fr-FR
     region:
+    date: 2011-06-13
+    description: Lundi de Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
     date: 2011-07-14
     description: Fête nationale
     type: NF

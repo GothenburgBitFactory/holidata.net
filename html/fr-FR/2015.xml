@@ -51,6 +51,14 @@
   <holiday>
     <locale>fr-FR</locale>
     <region></region>
+    <date>2015-05-25</date>
+    <description>Lundi de Pentecôte</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
     <date>2015-07-14</date>
     <description>Fête nationale</description>
     <type>NF</type>

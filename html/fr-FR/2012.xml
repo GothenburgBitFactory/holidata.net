@@ -43,8 +43,16 @@
   <holiday>
     <locale>fr-FR</locale>
     <region></region>
-    <date>2012-05-28</date>
+    <date>2012-05-27</date>
     <description>Pentecôte</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2012-05-28</date>
+    <description>Lundi de Pentecôte</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>

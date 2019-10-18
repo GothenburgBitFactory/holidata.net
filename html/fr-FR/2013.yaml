@@ -45,6 +45,13 @@
   holiday:
     locale: fr-FR
     region:
+    date: 2013-05-20
+    description: Lundi de Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
     date: 2013-07-14
     description: Fête nationale
     type: NF

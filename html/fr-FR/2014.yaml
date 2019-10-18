@@ -45,6 +45,13 @@
   holiday:
     locale: fr-FR
     region:
+    date: 2014-06-09
+    description: Lundi de Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
     date: 2014-07-14
     description: Fête nationale
     type: NF
