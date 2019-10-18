@@ -24,16 +24,16 @@
   holiday:
     locale: fr-FR
     region:
-    date: 2016-05-08
-    description: Armistice 1945
-    type: NF
+    date: 2016-05-05
+    description: Ascencion
+    type: NRV
     notes:
   holiday:
     locale: fr-FR
     region:
-    date: 2016-05-05
-    description: Ascencion
-    type: NRV
+    date: 2016-05-08
+    description: Armistice 1945
+    type: NF
     notes:
   holiday:
     locale: fr-FR
