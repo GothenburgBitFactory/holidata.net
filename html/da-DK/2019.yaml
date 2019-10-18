@@ -3,84 +3,84 @@
   holiday:
     locale: da-DK
     region:
-    date: 2017-01-01
+    date: 2019-01-01
     description: Nytårsdag
     type: NF
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-04-13
+    date: 2019-04-18
     description: Skærtorsdag
     type: NRV
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-04-14
+    date: 2019-04-19
     description: Langfredag
     type: NRV
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-04-16
+    date: 2019-04-21
     description: Påskedag
     type: NRV
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-04-17
+    date: 2019-04-22
     description: Anden påskedag
     type: NRV
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-05-12
+    date: 2019-05-17
     description: Store bededag
     type: NRV
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-05-25
+    date: 2019-05-30
     description: Kristi himmelfartsdag
     type: NRV
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-06-04
-    description: Pinsedag
-    type: NRV
-    notes:
-  holiday:
-    locale: da-DK
-    region:
-    date: 2017-06-05
+    date: 2019-06-05
     description: Grundlovsdag
     type: NF
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-06-05
+    date: 2019-06-09
+    description: Pinsedag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2019-06-10
     description: Anden pinsedag
     type: NRV
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-12-25
+    date: 2019-12-25
     description: Juledag
     type: NRF
     notes:
   holiday:
     locale: da-DK
     region:
-    date: 2017-12-26
+    date: 2019-12-26
     description: Anden juledag
     type: NRF
     notes:

@@ -3,7 +3,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-01-01</date>
+    <date>2019-01-01</date>
     <description>Nytårsdag</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-04-13</date>
+    <date>2019-04-18</date>
     <description>Skærtorsdag</description>
     <type>NRV</type>
     <notes></notes>
@@ -19,7 +19,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-04-14</date>
+    <date>2019-04-19</date>
     <description>Langfredag</description>
     <type>NRV</type>
     <notes></notes>
@@ -27,7 +27,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-04-16</date>
+    <date>2019-04-21</date>
     <description>Påskedag</description>
     <type>NRV</type>
     <notes></notes>
@@ -35,7 +35,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-04-17</date>
+    <date>2019-04-22</date>
     <description>Anden påskedag</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-05-12</date>
+    <date>2019-05-17</date>
     <description>Store bededag</description>
     <type>NRV</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-05-25</date>
+    <date>2019-05-30</date>
     <description>Kristi himmelfartsdag</description>
     <type>NRV</type>
     <notes></notes>
@@ -59,15 +59,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-06-04</date>
-    <description>Pinsedag</description>
-    <type>NRV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>da-DK</locale>
-    <region></region>
-    <date>2017-06-05</date>
+    <date>2019-06-05</date>
     <description>Grundlovsdag</description>
     <type>NF</type>
     <notes></notes>
@@ -75,7 +67,15 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-06-05</date>
+    <date>2019-06-09</date>
+    <description>Pinsedag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>da-DK</locale>
+    <region></region>
+    <date>2019-06-10</date>
     <description>Anden pinsedag</description>
     <type>NRV</type>
     <notes></notes>
@@ -83,7 +83,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-12-25</date>
+    <date>2019-12-25</date>
     <description>Juledag</description>
     <type>NRF</type>
     <notes></notes>
@@ -91,7 +91,7 @@
   <holiday>
     <locale>da-DK</locale>
     <region></region>
-    <date>2017-12-26</date>
+    <date>2019-12-26</date>
     <description>Anden juledag</description>
     <type>NRF</type>
     <notes></notes>

@@ -52,6 +52,13 @@
   holiday:
     locale: da-DK
     region:
+    date: 2011-06-05
+    description: Grundlovsdag
+    type: NF
+    notes:
+  holiday:
+    locale: da-DK
+    region:
     date: 2011-06-12
     description: Pinsedag
     type: NRV
@@ -62,13 +69,6 @@
     date: 2011-06-13
     description: Anden pinsedag
     type: NRV
-    notes:
-  holiday:
-    locale: da-DK
-    region:
-    date: 2011-06-05
-    description: Grundlovsdag
-    type: NF
     notes:
   holiday:
     locale: da-DK
