@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-01-01</date>
+    <description>Nieuwjaarsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-04-10</date>
+    <description>Goede Vrijdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-04-12</date>
+    <description>Eerste Paasdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-04-13</date>
+    <description>Tweede Paasdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-04-27</date>
+    <description>Koningsdag</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-05-04</date>
+    <description>Dodenherdenking</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-05-05</date>
+    <description>Bevrijdingsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-05-21</date>
+    <description>Hemelvaartsdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-05-31</date>
+    <description>Eerste Pinksterdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-06-01</date>
+    <description>Tweede Pinksterdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-12-05</date>
+    <description>Sinterklaas</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-12-15</date>
+    <description>Koninkrijksdag</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-12-25</date>
+    <description>Eerste Kerstdag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2020-12-26</date>
+    <description>Tweede Kerstdag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
