@@ -2,100 +2,100 @@
 ---
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-01-01
     description: Nova Godina
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-01-06
     description: Bogojavljenje
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-03-31
     description: Uskrs
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-04-01
     description: Uskrsni ponedjeljak
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-05-01
     description: Međunarodni praznik rada
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-05-30
     description: Tijelovo
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-06-22
     description: Dan antifašističke borbe
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-06-25
     description: Dan državnosti
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-08-05
     description: Dan pobjede
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-08-15
     description: Velika Gospa
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-10-08
     description: Dan neovisnosti
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-11-01
     description: Dan svih svetih
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-12-25
     description: Božić
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: hr-HR
-    region: 
+    region:
     date: 2013-12-26
     description: Prvi dan po Božiću
     type: NF
-    notes: 
+    notes:
 ...
