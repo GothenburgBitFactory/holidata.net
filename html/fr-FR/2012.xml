@@ -37,7 +37,7 @@
     <region></region>
     <date>2012-05-17</date>
     <description>Ascencion</description>
-    <type>NR</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -45,7 +45,7 @@
     <region></region>
     <date>2012-05-28</date>
     <description>Pentecôte</description>
-    <type>NR</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -61,7 +61,7 @@
     <region></region>
     <date>2012-08-15</date>
     <description>Assomption</description>
-    <type>NR</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>

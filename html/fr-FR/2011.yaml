@@ -33,14 +33,14 @@
     region:
     date: 2011-06-02
     description: Ascencion
-    type: NR
+    type: NRV
     notes:
   holiday:
     locale: fr-FR
     region:
     date: 2011-06-12
     description: Pentecôte
-    type: NR
+    type: NRV
     notes:
   holiday:
     locale: fr-FR
@@ -54,27 +54,27 @@
     region:
     date: 2011-08-15
     description: Assomption
-    type: NR
+    type: NRF
     notes:
   holiday:
     locale: fr-FR
     region:
     date: 2011-11-01
     description: Toussaint
-    type: NR
+    type: NRF
     notes:
   holiday:
     locale: fr-FR
     region:
     date: 2011-11-11
     description: Armistice 1918
-    type: N
+    type: NF
     notes:
   holiday:
     locale: fr-FR
     region:
     date: 2011-12-25
     description: Noël
-    type: N
+    type: NF
     notes:
 ...
