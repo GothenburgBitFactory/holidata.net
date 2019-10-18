@@ -114,7 +114,7 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region>NRW</region>
+    <region>NW</region>
     <date>2014-06-19</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
@@ -210,7 +210,7 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region>NRW</region>
+    <region>NW</region>
     <date>2014-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>
@@ -237,7 +237,7 @@
     <region>SN</region>
     <date>2014-11-19</date>
     <description>Buß- und Bettag</description>
-    <type>NR</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>

@@ -114,7 +114,7 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region>NRW</region>
+    <region>NW</region>
     <date>2017-06-15</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
@@ -154,39 +154,7 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region>BB</region>
-    <date>2017-10-31</date>
-    <description>Reformationstag</description>
-    <type>NRF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>de-DE</locale>
-    <region>MV</region>
-    <date>2017-10-31</date>
-    <description>Reformationstag</description>
-    <type>NRF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>de-DE</locale>
-    <region>SN</region>
-    <date>2017-10-31</date>
-    <description>Reformationstag</description>
-    <type>NRF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>de-DE</locale>
-    <region>ST</region>
-    <date>2017-10-31</date>
-    <description>Reformationstag</description>
-    <type>NRF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>de-DE</locale>
-    <region>TH</region>
+    <region></region>
     <date>2017-10-31</date>
     <description>Reformationstag</description>
     <type>NRF</type>
@@ -210,7 +178,7 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
-    <region>NRW</region>
+    <region>NW</region>
     <date>2017-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>

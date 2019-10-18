@@ -100,7 +100,7 @@
     notes:
   holiday:
     locale: de-DE
-    region: NRW
+    region: NW
     date: 2017-06-15
     description: Fronleichnam
     type: NRV
@@ -135,35 +135,7 @@
     notes:
   holiday:
     locale: de-DE
-    region: BB
-    date: 2017-10-31
-    description: Reformationstag
-    type: NRF
-    notes:
-  holiday:
-    locale: de-DE
-    region: MV
-    date: 2017-10-31
-    description: Reformationstag
-    type: NRF
-    notes:
-  holiday:
-    locale: de-DE
-    region: SN
-    date: 2017-10-31
-    description: Reformationstag
-    type: NRF
-    notes:
-  holiday:
-    locale: de-DE
-    region: ST
-    date: 2017-10-31
-    description: Reformationstag
-    type: NRF
-    notes:
-  holiday:
-    locale: de-DE
-    region: TH
+    region:
     date: 2017-10-31
     description: Reformationstag
     type: NRF
@@ -184,7 +156,7 @@
     notes:
   holiday:
     locale: de-DE
-    region: NRW
+    region: NW
     date: 2017-11-01
     description: Allerheiligen
     type: NRF

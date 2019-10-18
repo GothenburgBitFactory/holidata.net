@@ -3,7 +3,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-01-01</date>
+    <date>2019-01-01</date>
     <description>Neujahr</description>
     <type>NF</type>
     <notes></notes>
@@ -11,7 +11,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>BW</region>
-    <date>2012-01-06</date>
+    <date>2019-01-06</date>
     <description>Heilige drei Könige</description>
     <type>NRF</type>
     <notes></notes>
@@ -19,7 +19,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>BY</region>
-    <date>2012-01-06</date>
+    <date>2019-01-06</date>
     <description>Heilige drei Könige</description>
     <type>NRF</type>
     <notes></notes>
@@ -27,7 +27,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>ST</region>
-    <date>2012-01-06</date>
+    <date>2019-01-06</date>
     <description>Heilige drei Könige</description>
     <type>NRF</type>
     <notes></notes>
@@ -35,7 +35,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-04-06</date>
+    <date>2019-04-19</date>
     <description>Karfreitag</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-04-08</date>
+    <date>2019-04-21</date>
     <description>Ostern</description>
     <type>NRV</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-04-09</date>
+    <date>2019-04-22</date>
     <description>Ostermontag</description>
     <type>NRV</type>
     <notes></notes>
@@ -59,7 +59,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-05-01</date>
+    <date>2019-05-01</date>
     <description>Erster Maifeiertag</description>
     <type>NF</type>
     <notes></notes>
@@ -67,7 +67,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-05-17</date>
+    <date>2019-05-30</date>
     <description>Christi Himmelfahrt</description>
     <type>NRV</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-05-27</date>
+    <date>2019-06-09</date>
     <description>Pfingstsonntag</description>
     <type>NRV</type>
     <notes></notes>
@@ -83,7 +83,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-05-28</date>
+    <date>2019-06-10</date>
     <description>Pfingstmontag</description>
     <type>NRV</type>
     <notes></notes>
@@ -91,7 +91,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>BW</region>
-    <date>2012-06-07</date>
+    <date>2019-06-20</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
     <notes></notes>
@@ -99,7 +99,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>BY</region>
-    <date>2012-06-07</date>
+    <date>2019-06-20</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
     <notes></notes>
@@ -107,7 +107,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>HE</region>
-    <date>2012-06-07</date>
+    <date>2019-06-20</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
     <notes></notes>
@@ -115,7 +115,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>NW</region>
-    <date>2012-06-07</date>
+    <date>2019-06-20</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
     <notes></notes>
@@ -123,7 +123,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>RP</region>
-    <date>2012-06-07</date>
+    <date>2019-06-20</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
     <notes></notes>
@@ -131,7 +131,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>SL</region>
-    <date>2012-06-07</date>
+    <date>2019-06-20</date>
     <description>Fronleichnam</description>
     <type>NRV</type>
     <notes></notes>
@@ -139,7 +139,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>SL</region>
-    <date>2012-08-15</date>
+    <date>2019-08-15</date>
     <description>Mariä Himmelfahrt</description>
     <type>NRF</type>
     <notes></notes>
@@ -147,7 +147,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-10-03</date>
+    <date>2019-10-03</date>
     <description>Tag der Deutschen Einheit</description>
     <type>NRF</type>
     <notes></notes>
@@ -155,7 +155,23 @@
   <holiday>
     <locale>de-DE</locale>
     <region>BB</region>
-    <date>2012-10-31</date>
+    <date>2019-10-31</date>
+    <description>Reformationstag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>BH</region>
+    <date>2019-10-31</date>
+    <description>Reformationstag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>HH</region>
+    <date>2019-10-31</date>
     <description>Reformationstag</description>
     <type>NRF</type>
     <notes></notes>
@@ -163,7 +179,23 @@
   <holiday>
     <locale>de-DE</locale>
     <region>MV</region>
-    <date>2012-10-31</date>
+    <date>2019-10-31</date>
+    <description>Reformationstag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>NI</region>
+    <date>2019-10-31</date>
+    <description>Reformationstag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>SH</region>
+    <date>2019-10-31</date>
     <description>Reformationstag</description>
     <type>NRF</type>
     <notes></notes>
@@ -171,7 +203,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>SN</region>
-    <date>2012-10-31</date>
+    <date>2019-10-31</date>
     <description>Reformationstag</description>
     <type>NRF</type>
     <notes></notes>
@@ -179,7 +211,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>ST</region>
-    <date>2012-10-31</date>
+    <date>2019-10-31</date>
     <description>Reformationstag</description>
     <type>NRF</type>
     <notes></notes>
@@ -187,7 +219,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>TH</region>
-    <date>2012-10-31</date>
+    <date>2019-10-31</date>
     <description>Reformationstag</description>
     <type>NRF</type>
     <notes></notes>
@@ -195,7 +227,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>BW</region>
-    <date>2012-11-01</date>
+    <date>2019-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>
     <notes></notes>
@@ -203,7 +235,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>BY</region>
-    <date>2012-11-01</date>
+    <date>2019-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>
     <notes></notes>
@@ -211,7 +243,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>NW</region>
-    <date>2012-11-01</date>
+    <date>2019-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>
     <notes></notes>
@@ -219,7 +251,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>RP</region>
-    <date>2012-11-01</date>
+    <date>2019-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>
     <notes></notes>
@@ -227,7 +259,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>SL</region>
-    <date>2012-11-01</date>
+    <date>2019-11-01</date>
     <description>Allerheiligen</description>
     <type>NRF</type>
     <notes></notes>
@@ -235,7 +267,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region>SN</region>
-    <date>2012-11-21</date>
+    <date>2019-11-20</date>
     <description>Buß- und Bettag</description>
     <type>NRV</type>
     <notes></notes>
@@ -243,7 +275,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-12-24</date>
+    <date>2019-12-24</date>
     <description>Heilig Abend</description>
     <type>NRF</type>
     <notes></notes>
@@ -251,7 +283,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-12-25</date>
+    <date>2019-12-25</date>
     <description>Weihnachtstag</description>
     <type>NRF</type>
     <notes></notes>
@@ -259,7 +291,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-12-26</date>
+    <date>2019-12-26</date>
     <description>Zweiter Weihnachtstag</description>
     <type>NRF</type>
     <notes></notes>
@@ -267,7 +299,7 @@
   <holiday>
     <locale>de-DE</locale>
     <region></region>
-    <date>2012-12-31</date>
+    <date>2019-12-31</date>
     <description>Silvester</description>
     <type>NF</type>
     <notes></notes>

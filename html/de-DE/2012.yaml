@@ -100,7 +100,7 @@
     notes:
   holiday:
     locale: de-DE
-    region: NRW
+    region: NW
     date: 2012-06-07
     description: Fronleichnam
     type: NRV
@@ -184,7 +184,7 @@
     notes:
   holiday:
     locale: de-DE
-    region: NRW
+    region: NW
     date: 2012-11-01
     description: Allerheiligen
     type: NRF
@@ -208,7 +208,7 @@
     region: SN
     date: 2012-11-21
     description: Buß- und Bettag
-    type: NR
+    type: NRV
     notes:
   holiday:
     locale: de-DE
