@@ -2,86 +2,86 @@
 ---
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-01-01
     description: New Year's Day
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-01-21
     description: Birthday of Martin Luther King, Jr.
     type: V
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-02-18
     description: Washington's Birthday
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
     region: MA
     date: 2013-04-15
     description: Patriots' Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
     region: ME
     date: 2013-04-15
     description: Patriots' Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-05-27
     description: Memorial Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-07-04
     description: Independence Day
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-09-02
     description: Labor Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-10-14
     description: Columbus Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-11-11
     description: Veterans Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-11-28
     description: Thanksgiving Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-US
-    region: 
+    region:
     date: 2013-12-25
     description: Christmas Day
     type: NRF
-    notes: 
+    notes:
 ...
