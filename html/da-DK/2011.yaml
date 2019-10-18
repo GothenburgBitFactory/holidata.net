@@ -2,67 +2,67 @@
 ---
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-01-01
     description: Nytårsdag
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-04-21
     description: Skærtorsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-04-22
     description: Langfredag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-04-24
     description: Påskedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-04-25
     description: Anden påskedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-05-20
     description: Store bededag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-06-02
     description: Kristi himmelfartsdag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-06-12
     description: Pinsedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-06-13
     description: Anden pinsedag
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: da-DK
     region:
@@ -72,16 +72,16 @@
     notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-12-25
     description: Juledag
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: da-DK
-    region: 
+    region:
     date: 2011-12-26
     description: Anden juledag
     type: NRF
-    notes: 
+    notes:
 ...
