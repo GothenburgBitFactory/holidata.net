@@ -2,86 +2,86 @@
 ---
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-01-01
     description: Jour de l'an
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-04-05
     description: Lundi de Pâques
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-05-01
     description: Fête du premier mai
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-05-08
     description: Armistice 1945
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-06-02
     description: Ascencion
     type: NR
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-06-12
     description: Pentecôte
     type: NR
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-07-14
     description: Fête nationale
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-07-15
     description: Fête nationale
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-08-15
     description: Assomption
     type: NR
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-11-01
     description: Toussaint
     type: NR
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-11-11
     description: Armistice 1918
     type: N
-    notes: 
+    notes:
   holiday:
     locale: fr-FR
-    region: 
+    region:
     date: 2011-12-25
     description: Noël
     type: N
-    notes: 
+    notes:
 ...
