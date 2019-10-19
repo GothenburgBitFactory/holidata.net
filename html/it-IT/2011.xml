@@ -43,6 +43,14 @@
   <holiday>
     <locale>it-IT</locale>
     <region></region>
+    <date>2011-04-25</date>
+    <description>Pasquetta</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
     <date>2011-05-01</date>
     <description>Festa del lavoro</description>
     <type>NF</type>

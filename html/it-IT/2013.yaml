@@ -24,8 +24,15 @@
   holiday:
     locale: it-IT
     region:
-    date: 2013-04-01
+    date: 2013-03-31
     description: Pasqua
+    type: NRV
+    notes:
+  holiday:
+    locale: it-IT
+    region:
+    date: 2013-04-01
+    description: Pasquetta
     type: NRV
     notes:
   holiday:

@@ -31,6 +31,13 @@
   holiday:
     locale: it-IT
     region:
+    date: 2015-04-06
+    description: Pasquetta
+    type: NRV
+    notes:
+  holiday:
+    locale: it-IT
+    region:
     date: 2015-04-25
     description: Festa della liberazione
     type: NF
