@@ -19,14 +19,6 @@
   <holiday>
     <locale>it-IT</locale>
     <region></region>
-    <date>2016-02-09</date>
-    <description>Carnevale</description>
-    <type>NRV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>it-IT</locale>
-    <region></region>
     <date>2016-03-27</date>
     <description>Pasqua</description>
     <type>NRV</type>

@@ -17,13 +17,6 @@
   holiday:
     locale: it-IT
     region:
-    date: 2012-03-08
-    description: Carnevale
-    type: NRV
-    notes:
-  holiday:
-    locale: it-IT
-    region:
     date: 2012-04-08
     description: Pasqua
     type: NRV

@@ -17,13 +17,6 @@
   holiday:
     locale: it-IT
     region:
-    date: 2018-02-13
-    description: Carnevale
-    type: NRV
-    notes:
-  holiday:
-    locale: it-IT
-    region:
     date: 2018-04-01
     description: Pasqua
     type: NRV
