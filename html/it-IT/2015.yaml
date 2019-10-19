@@ -2,86 +2,86 @@
 ---
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-01-01
     description: Capodanno
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-01-06
     description: Epifania
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-02-17
     description: Carnevale
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-04-05
     description: Pasqua
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-04-25
     description: Festa della liberazione
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-05-01
     description: Festa del lavoro
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-06-02
     description: Festa della repubblica
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-08-15
     description: Assunzione (ferragosto)
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-11-01
     description: Ognissanti
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-12-08
     description: Immacolata concezione
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-12-25
     description: Natale
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: it-IT
-    region: 
+    region:
     date: 2015-12-26
     description: S.to Stefano
     type: NRF
-    notes: 
+    notes:
 ...
