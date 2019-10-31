@@ -51,17 +51,17 @@
   <holiday>
     <locale>pt-PT</locale>
     <region></region>
-    <date>2014-06-19</date>
-    <description>Corpo de Deus</description>
-    <type>NRV</type>
+    <date>2014-06-10</date>
+    <description>Dia de Portugal</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>pt-PT</locale>
     <region></region>
-    <date>2014-06-10</date>
-    <description>Dia de Portugal</description>
-    <type>NF</type>
+    <date>2014-06-19</date>
+    <description>Corpo de Deus</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>

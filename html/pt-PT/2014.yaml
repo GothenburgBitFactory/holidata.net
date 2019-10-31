@@ -45,16 +45,16 @@
   holiday:
     locale: pt-PT
     region:
-    date: 2014-06-19
-    description: Corpo de Deus
-    type: NRV
+    date: 2014-06-10
+    description: Dia de Portugal
+    type: NF
     notes:
   holiday:
     locale: pt-PT
     region:
-    date: 2014-06-10
-    description: Dia de Portugal
-    type: NF
+    date: 2014-06-19
+    description: Corpo de Deus
+    type: NRV
     notes:
   holiday:
     locale: pt-PT
