@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-01-01</date>
+    <description>Ano Novo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-02-13</date>
+    <description>Carnaval</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-03-30</date>
+    <description>Sexta-feira Santa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-04-01</date>
+    <description>Páscoa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-04-25</date>
+    <description>Dia da Liberdade</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-05-01</date>
+    <description>Dia do Trabalhador</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-05-31</date>
+    <description>Corpo de Deus</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-06-10</date>
+    <description>Dia de Portugal</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-08-15</date>
+    <description>Assunção de Nossa Senhora</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-10-05</date>
+    <description>Implantação da República</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-11-01</date>
+    <description>Dia de Todos os Santos</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-12-01</date>
+    <description>Restauração da Independência</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-12-08</date>
+    <description>Imaculada Conceição</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2018-12-25</date>
+    <description>Natal</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
