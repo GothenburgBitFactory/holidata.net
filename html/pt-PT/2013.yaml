@@ -2,100 +2,100 @@
 ---
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-01-01
     description: Ano Novo
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-02-12
     description: Carnaval
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-03-29
     description: Sexta-feira Santa
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-03-31
     description: Páscoa
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-04-25
     description: Dia da Liberdade
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-05-01
     description: Dia do Trabalhador
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-05-30
     description: Corpo de Deus
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-06-10
     description: Dia de Portugal
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-08-15
     description: Assunção de Nossa Senhora
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-10-05
     description: Implantação da República
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-11-01
     description: Todos os Santos
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-12-01
     description: Restauração da Independência
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-12-08
     description: Imaculada Conceição
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: pt-PT
-    region: 
+    region:
     date: 2013-12-25
     description: Natal
     type: NF
-    notes: 
+    notes:
 ...
