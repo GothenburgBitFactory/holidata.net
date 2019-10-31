@@ -1,0 +1,100 @@
+#!/bin/bash
+
+################################################################################
+##
+## Copyright 2019, Göteborg Bit Factory.
+## All rights reserved.
+##
+################################################################################
+
+if [[ -z "${HOLIDATA}" ]] ; then
+  echo "You have to specify the location of module 'holidata.py' via the HOLIDATA environment variable!"
+  exit 1
+fi
+
+if [[ ! -f "${HOLIDATA}" || "${HOLIDATA##*/}" != "holidata.py" ]] ; then
+  echo "'${HOLIDATA}' does not point to 'holidata.py'!"
+  exit 1
+fi
+
+while [[ -n "${1}" ]] ; do
+  case ${1} in
+    [a-z][a-z]-[A-Z][A-Z])
+      locales=( "${locales[@]}" "${1}" )
+      ;;
+    [0-9][0-9][0-9][0-9])
+      [[ -n "${year}" ]] && { echo "You can only specify a single year!" ; exit 1 ; }
+      year=${1}
+      ;;
+    --all)
+      while IFS=' ' read -r line ; do locales+=( "${line}" ) ; done <  <( find "${DOCROOT}" -name "??-??" | sed "s|${DOCROOT}/\(..-..\)|\1|" )
+      ;;
+    --commit)
+      DO_COMMIT="yes"
+      ;;
+    -*)
+      echo "Invalid option '${1}'"
+      exit 1
+      ;;
+    *)
+      echo "Invalid argument '${1}'"
+      exit 1
+      ;;
+  esac
+  shift
+done
+
+if [[ -z "${year}" ]] ; then
+  echo "No year specified!"
+  exit 1
+fi
+
+if [[ ${#locales[@]} -eq 0 ]] ; then
+  echo "No locale specified!"
+  exit 1
+elif [[ ${#locales[@]} -gt 1 ]] ; then
+  echo "Updating ${#locales[@]} locales..."
+fi
+
+SCRIPT="$( pwd )/${BASH_SOURCE[0]}"
+BASE="${SCRIPT%/bin/*}"
+DOCROOT="${BASE}/html"
+LOCALE_TEXT="${DOCROOT}/locale_index.txt"
+LOCALE_HTML="${DOCROOT}/locale_index.html"
+LOCALE_TEMPLATE="${BASE}/bin/template_locale.html"
+MAP_HTML="${DOCROOT}/map.html"
+MAP_TEMPLATE="${BASE}/bin/template_map.html"
+
+if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
+  echo "Cleaning repository..."
+  git -C "${BASE}" checkout -- .
+  git -C "${BASE}" clean -f
+fi
+
+for locale in "${locales[@]}" ; do
+  echo "Generating locale '${locale}' files..."
+  mkdir -p "${DOCROOT}/${locale}"
+
+  for format in "csv" "json" "yaml" "xml" ; do
+    echo -en "Updating ${locale}/${year}.${format}           \r"
+    "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${DOCROOT}/${locale}/${year}.${format}" || { rm "${DOCROOT}/${locale}/${year}.${format}" ; continue 2 ; }
+  done
+
+  cd "${BASE}/bin" >/dev/null || exit
+  # Generate the locale index page from the generated data formats
+  echo "Generating locale index..."
+  ./gen-locales --docroot "${DOCROOT}" --text "${LOCALE_TEXT}" --html "${LOCALE_HTML}" --template "${LOCALE_TEMPLATE}"
+
+  # Generate the map page from the generated data formats
+  echo "Generating map page..."
+  ./gen-map --docroot "${DOCROOT}" --html "${MAP_HTML}" --template "${MAP_TEMPLATE}"
+
+  cd - >/dev/null || exit
+
+  echo "Updated locale ${locale} for year ${year}"
+
+  if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
+    git -C "${BASE}" add "${DOCROOT}"
+    git -C "${BASE}" commit -a -m "Add holidays for ${locale} ${year}" || exit 1
+  fi
+done
