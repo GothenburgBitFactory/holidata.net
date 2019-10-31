@@ -45,15 +45,15 @@
   holiday:
     locale: pt-PT
     region:
-    date: 2011-06-23
-    description: Corpo de Deus
+    date: 2011-06-10
+    description: Dia de Portugal
     type: N
     notes:
   holiday:
     locale: pt-PT
     region:
-    date: 2011-06-10
-    description: Dia de Portugal
+    date: 2011-06-23
+    description: Corpo de Deus
     type: N
     notes:
   holiday:
