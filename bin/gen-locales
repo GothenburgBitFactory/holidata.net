@@ -5,7 +5,7 @@
 ##   Scans a specified directory for authoritative CSV files and generates a
 ##   text and an HTML summary table.
 ##
-## Copyright 2011 - 2018, Göteborg Bit Factory.
+## Copyright 2011 - 2019, Göteborg Bit Factory.
 ## All rights reserved.
 ##
 ################################################################################
@@ -42,7 +42,7 @@ usage: gen-locales [--help]
   --text           Locale index text file name.
   --html           Locale index HTML file name.
   --template       HTML Template File, containing '%%%%'.
-  --docroot        Location of the authoritative CSV files.
+  --docroot        Location of data files.
 
 EOF
 
