@@ -17,6 +17,15 @@ if [[ ! -f "${HOLIDATA}" || "${HOLIDATA##*/}" != "holidata.py" ]] ; then
   exit 1
 fi
 
+SCRIPT="$( pwd )/${BASH_SOURCE[0]}"
+BASE="${SCRIPT%/bin/*}"
+DOCROOT="${BASE}/html"
+LOCALE_TEXT="${DOCROOT}/locale_index.txt"
+LOCALE_HTML="${DOCROOT}/locale_index.html"
+LOCALE_TEMPLATE="${BASE}/bin/template_locale.html"
+MAP_HTML="${DOCROOT}/map.html"
+MAP_TEMPLATE="${BASE}/bin/template_map.html"
+
 while [[ -n "${1}" ]] ; do
   case ${1} in
     [a-z][a-z]-[A-Z][A-Z])
@@ -55,15 +64,6 @@ if [[ ${#locales[@]} -eq 0 ]] ; then
 elif [[ ${#locales[@]} -gt 1 ]] ; then
   echo "Updating ${#locales[@]} locales..."
 fi
-
-SCRIPT="$( pwd )/${BASH_SOURCE[0]}"
-BASE="${SCRIPT%/bin/*}"
-DOCROOT="${BASE}/html"
-LOCALE_TEXT="${DOCROOT}/locale_index.txt"
-LOCALE_HTML="${DOCROOT}/locale_index.html"
-LOCALE_TEMPLATE="${BASE}/bin/template_locale.html"
-MAP_HTML="${DOCROOT}/map.html"
-MAP_TEMPLATE="${BASE}/bin/template_map.html"
 
 if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
   echo "Cleaning repository..."
