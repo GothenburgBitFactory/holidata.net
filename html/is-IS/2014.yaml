@@ -59,6 +59,13 @@
   holiday:
     locale: is-IS
     region:
+    date: 2014-06-08
+    description: Hvítasunnudagur
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
     date: 2014-06-09
     description: Annar dagur hvítasunnu
     type: NRV

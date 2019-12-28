@@ -67,6 +67,14 @@
   <holiday>
     <locale>is-IS</locale>
     <region></region>
+    <date>2015-05-24</date>
+    <description>Hvítasunnudagur</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
     <date>2015-05-25</date>
     <description>Annar dagur hvítasunnu</description>
     <type>NRV</type>

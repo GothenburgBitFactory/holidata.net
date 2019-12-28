@@ -59,6 +59,13 @@
   holiday:
     locale: is-IS
     region:
+    date: 2015-05-24
+    description: Hvítasunnudagur
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
     date: 2015-05-25
     description: Annar dagur hvítasunnu
     type: NRV
