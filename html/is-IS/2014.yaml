@@ -2,107 +2,107 @@
 ---
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-01-01
     description: Nýársdagur
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-04-17
     description: Skírdagur
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-04-18
     description: Föstudagurinn langi
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-04-20
     description: Páskadagur
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-04-21
     description: Annar dagur páska
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-04-24
     description: Sumardagurinn fyrsti
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-05-01
     description: Verkalýðsdagurinn
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-05-29
     description: Uppstigningardagur
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-06-09
     description: Annar dagur hvítasunnu
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-06-17
     description: Þjóðhátíðardagurinn
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-08-04
     description: Frídagur verslunarmanna
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-12-24
     description: Aðfangadagur jóla
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-12-25
     description: Jóladagur
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-12-26
     description: Annar dagur jóla
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: is-IS
-    region: 
+    region:
     date: 2014-12-31
     description: Gamlársdagur
     type: NF
-    notes: 
+    notes:
 ...
