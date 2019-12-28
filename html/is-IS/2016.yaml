@@ -5,7 +5,7 @@
     region:
     date: 2016-01-01
     description: Nýársdagur
-    type: NF
+    type: NRF
     notes:
   holiday:
     locale: is-IS
