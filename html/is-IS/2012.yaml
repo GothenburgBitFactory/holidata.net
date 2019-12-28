@@ -66,13 +66,6 @@
   holiday:
     locale: is-IS
     region: 
-    date: 2012-06-03
-    description: Sjómannadagurinn
-    type: NV
-    notes: 
-  holiday:
-    locale: is-IS
-    region: 
     date: 2012-06-17
     description: Lýðveldisdagurinn
     type: NF

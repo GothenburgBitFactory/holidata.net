@@ -83,14 +83,6 @@
   <holiday>
     <locale>is-IS</locale>
     <region></region>
-    <date>2013-06-02</date>
-    <description>Sjómannadagurinn</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>is-IS</locale>
-    <region></region>
     <date>2013-06-17</date>
     <description>Lýðveldisdagurinn</description>
     <type>NF</type>
