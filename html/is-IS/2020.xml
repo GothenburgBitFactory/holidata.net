@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-01-01</date>
+    <description>Nýársdagur</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-04-09</date>
+    <description>Skírdagur</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-04-10</date>
+    <description>Föstudagurinn langi</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-04-12</date>
+    <description>Páskadagur</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-04-13</date>
+    <description>Annar dagur páska</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-04-23</date>
+    <description>Sumardagurinn fyrsti</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-05-01</date>
+    <description>Verkalýðsdagurinn</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-05-21</date>
+    <description>Uppstigningardagur</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-05-31</date>
+    <description>Hvítasunnudagur</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-06-01</date>
+    <description>Annar dagur hvítasunnu</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-06-17</date>
+    <description>Þjóðhátíðardagurinn</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-08-03</date>
+    <description>Frídagur verslunarmanna</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-12-24</date>
+    <description>Aðfangadagur jóla</description>
+    <type>NRF</type>
+    <notes>Holiday from 13:00</notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-12-25</date>
+    <description>Jóladagur</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-12-26</date>
+    <description>Annar dagur jóla</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>is-IS</locale>
+    <region></region>
+    <date>2020-12-31</date>
+    <description>Gamlársdagur</description>
+    <type>NF</type>
+    <notes>Holiday from 13:00</notes>
+  </holiday>
+</holidays>
