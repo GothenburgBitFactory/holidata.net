@@ -90,7 +90,7 @@
     date: 2013-12-24
     description: Aðfangadagur jóla
     type: NRF
-    notes:
+    notes: Holiday from 13:00
   holiday:
     locale: is-IS
     region:
@@ -111,5 +111,5 @@
     date: 2013-12-31
     description: Gamlársdagur
     type: NF
-    notes:
+    notes: Holiday from 13:00
 ...

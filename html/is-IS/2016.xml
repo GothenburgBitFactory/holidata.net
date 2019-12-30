@@ -102,7 +102,7 @@
     <date>2016-12-24</date>
     <description>Aðfangadagur jóla</description>
     <type>NRF</type>
-    <notes></notes>
+    <notes>Holiday from 13:00</notes>
   </holiday>
   <holiday>
     <locale>is-IS</locale>
@@ -126,6 +126,6 @@
     <date>2016-12-31</date>
     <description>Gamlársdagur</description>
     <type>NF</type>
-    <notes></notes>
+    <notes>Holiday from 13:00</notes>
   </holiday>
 </holidays>
