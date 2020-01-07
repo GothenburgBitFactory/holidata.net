@@ -28,8 +28,8 @@ If the `--commit` option is given, the script creates a commit with the message 
   Missing locales are skipped.**
 * **`--commit`**  
   Create a git commit for each updated locale.
-  **Note that this option also does a cleanup of the holidata.net repository on startup:
-  All untracked files are removed and all changes in working directory are discarded!**
+  **Note that this option also does a cleanup of the holidata.net `DOCROOT` directory on startup:
+  All untracked files and all changes in directory `html` are removed or discarded respectively!**
   
 # EXAMPLES
 1. Update all locales and create commits for each update

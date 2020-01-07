@@ -71,8 +71,8 @@ fi
 
 if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
   echo "Cleaning repository..."
-  git -C "${BASE}" checkout -- .
-  git -C "${BASE}" clean -f
+  git -C "${BASE}" checkout -- "${DOCROOT}"
+  git -C "${BASE}" clean -f "${DOCROOT}"
 fi
 
 for locale in "${locales[@]}" ; do
