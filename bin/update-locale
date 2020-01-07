@@ -8,12 +8,12 @@
 ################################################################################
 
 if [[ -z "${HOLIDATA}" ]] ; then
-  echo "You have to specify the location of module 'holidata.py' via the HOLIDATA environment variable!"
+  echo "You have to specify the location of the 'holidata' script via the HOLIDATA environment variable!"
   exit 1
 fi
 
-if [[ ! -f "${HOLIDATA}" || "${HOLIDATA##*/}" != "holidata.py" ]] ; then
-  echo "'${HOLIDATA}' does not point to 'holidata.py'!"
+if [[ ! -f "${HOLIDATA}" || "${HOLIDATA##*/}" != "holidata" ]] ; then
+  echo "'${HOLIDATA}' does not point to 'holidata'!"
   exit 1
 fi
 
