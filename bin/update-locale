@@ -34,7 +34,10 @@ while [[ -n "${1}" ]] ; do
     [0-9][0-9][0-9][0-9])
       years+=( "${1}" )
       ;;
-    --all)
+    --all-years)
+      while IFS='' read -r line; do years+=("$line"); done < <( seq "2011" "$( date "+%Y" )" )
+      ;;
+    --all-locales)
       while IFS=' ' read -r line ; do locales+=( "${line}" ) ; done <  <( find "${DOCROOT}" -name "??-??" | sed "s|${DOCROOT}/\(..-..\)|\1|" )
       ;;
     --commit)
