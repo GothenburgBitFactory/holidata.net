@@ -100,8 +100,13 @@ for locale in "${locales[@]}" ; do
     echo "Updated locale ${locale} for year ${year}"
 
     if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
-      git -C "${BASE}" add "${DOCROOT}"
-      git -C "${BASE}" commit -a -m "Add holidays for ${locale} ${year}" || exit 1
+      git -C "${BASE}" add "${DOCROOT}/${locale}"
+
+      if git diff --cached --quiet "${DOCROOT}/${locale}" ; then
+        echo "No changes to holidata files in ${locale} for ${year}!"
+      else
+        git -C "${BASE}" commit -m "Add holidays for ${locale} ${year}" "${DOCROOT}" || exit 1
+      fi
     fi
   done
 done
