@@ -30,6 +30,13 @@
     notes:
   holiday:
     locale: de-DE
+    region: BE
+    date: 2020-03-08
+    description: Internationaler Frauentag
+    type: NF
+    notes:
+  holiday:
+    locale: de-DE
     region:
     date: 2020-04-10
     description: Karfreitag
@@ -54,6 +61,13 @@
     region:
     date: 2020-05-01
     description: Erster Maifeiertag
+    type: NF
+    notes:
+  holiday:
+    locale: de-DE
+    region: BE
+    date: 2020-05-08
+    description: 75. Jahrestag der Befreiung vom Nationalsozialismus und der Beendigung des Zweiten Weltkrieges in Europa
     type: NF
     notes:
   holiday:

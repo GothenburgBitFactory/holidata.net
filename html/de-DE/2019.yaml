@@ -30,6 +30,13 @@
     notes:
   holiday:
     locale: de-DE
+    region: BE
+    date: 2019-03-08
+    description: Internationaler Frauentag
+    type: NF
+    notes:
+  holiday:
+    locale: de-DE
     region:
     date: 2019-04-19
     description: Karfreitag

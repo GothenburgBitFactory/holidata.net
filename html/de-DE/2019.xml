@@ -34,6 +34,14 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
+    <region>BE</region>
+    <date>2019-03-08</date>
+    <description>Internationaler Frauentag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
     <region></region>
     <date>2019-04-19</date>
     <description>Karfreitag</description>
