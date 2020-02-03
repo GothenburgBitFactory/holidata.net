@@ -69,12 +69,6 @@ fi
 if [[ ${#years[@]} -eq 0 ]] ; then
   echo "No year specified!"
   exit 1
-elif [[ ${#years[@]} -gt 1 ]] ; then
-  echo "Updating ${#years[@]} years..."
-fi
-
-if [[ ${#locales[@]} -gt 1 ]] ; then
-  echo "Updating ${#locales[@]} locales..."
 fi
 
 if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
@@ -82,6 +76,8 @@ if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
   git -C "${BASE}" checkout -- "${DOCROOT}"
   git -C "${BASE}" clean -f "${DOCROOT}"
 fi
+
+echo "Processing ${#locales[@]} locale(s), ${#years[@]} year(s) each..."
 
 for locale in "${locales[@]}" ; do
   if [[ ! -d "${DOCROOT}/${locale}" ]] ; then
@@ -92,7 +88,7 @@ for locale in "${locales[@]}" ; do
   for year in "${years[@]}" ; do
     echo "Generating locale '${locale}' files for ${year}..."
     for format in "csv" "json" "yaml" "xml" ; do
-      echo -en "Updating ${locale}/${year}.${format}           \r"
+      echo -en "Generating ${locale}/${year}.${format}           \r"
       "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${DOCROOT}/${locale}/${year}.${format}" || { rm "${DOCROOT}/${locale}/${year}.${format}" ; continue 2 ; }
     done
 
@@ -107,7 +103,7 @@ for locale in "${locales[@]}" ; do
 
     cd - >/dev/null || exit
 
-    echo "Updated locale ${locale} for year ${year}"
+    echo "Generated locale ${locale} for year ${year}"
 
     if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
       git -C "${BASE}" add "${DOCROOT}/${locale}"
