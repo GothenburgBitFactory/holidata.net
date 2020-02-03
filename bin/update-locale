@@ -55,18 +55,18 @@ while [[ -n "${1}" ]] ; do
   shift
 done
 
-if [[ ${#years[@]} -eq 0 ]] ; then
-  echo "No year specified!"
-  exit 1
-elif [[ ${#years[@]} -gt 1 ]] ; then
-  echo "Updating ${#years[@]} years..."
-fi
-
 if [[ ${#locales[@]} -eq 0 ]] ; then
   echo "No locale specified!"
   exit 1
 elif [[ ${#locales[@]} -gt 1 ]] ; then
   echo "Updating ${#locales[@]} locales..."
+fi
+
+if [[ ${#years[@]} -eq 0 ]] ; then
+  echo "No year specified!"
+  exit 1
+elif [[ ${#years[@]} -gt 1 ]] ; then
+  echo "Updating ${#years[@]} years..."
 fi
 
 if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
