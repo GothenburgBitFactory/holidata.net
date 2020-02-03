@@ -58,8 +58,12 @@ done
 if [[ ${#locales[@]} -eq 0 ]] ; then
   echo "No locale specified!"
   exit 1
-elif [[ ${#locales[@]} -gt 1 ]] ; then
-  echo "Updating ${#locales[@]} locales..."
+elif [[ ${#locales[@]} -eq 1 && ${#years[@]} -eq 0 ]] ; then
+  if [[ ! -d "${DOCROOT}/${locales[0]}" ]] ; then
+    echo "No data exists for locale ${locales[0]}!"
+    exit 1
+  fi
+  while IFS=' ' read -r line ; do years+=( "${line}" ) ; done <  <( find "${DOCROOT}/${locales[0]}" -name "[0-9][0-9][0-9][0-9].*" | sed "s|${DOCROOT}/${locales[0]}/\(....\)\..*|\1|"  | sort -u )
 fi
 
 if [[ ${#years[@]} -eq 0 ]] ; then
@@ -67,6 +71,10 @@ if [[ ${#years[@]} -eq 0 ]] ; then
   exit 1
 elif [[ ${#years[@]} -gt 1 ]] ; then
   echo "Updating ${#years[@]} years..."
+fi
+
+if [[ ${#locales[@]} -gt 1 ]] ; then
+  echo "Updating ${#locales[@]} locales..."
 fi
 
 if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
