@@ -9,7 +9,7 @@ HOLIDATA=/path/to/holidata.py ./update-locale [--commit] (--all|LOCALE...) YEAR
 
 # DESCRIPTION
 Use the `update-locale` script to update the locale data files of [holidata.net](https://holidata.net).
-The script requires the location of `holidata.py`, the [holidata python module](https://github.com/GothenburgBitFactory/holidata), to injected via the `HOLIDATA` environment variable!
+The script requires the location of `holidata`, from the [holidata python module](https://github.com/GothenburgBitFactory/holidata), to injected via the `HOLIDATA` environment variable!
 
 For each `LOCALE` `update-locale` generates the data files (formats `csv`, `json`, `yaml`, and `xml`) for the given `YEAR` and then generates the files `locale_index.txt`, `local_index.html` and `map.html` for the current data set. 
 
@@ -22,34 +22,44 @@ If the `--commit` option is given, the script creates a commit with the message 
 * **`YEAR`**  
   The year for which data files should be generated for each locale.
   Only a single year can be specified!
-* **`--all`**  
+* **`--all-locales`**
   Try to update all locales found on holidata.net.
-  **Note that currently not all locales are supported by `holidata.py`!
+  **Note that currently not all locales are supported by `holidata`!
   Missing locales are skipped.**
-* **`--commit`**  
+* **`--all-years`**
+  Try to update locales for years from 2011 to current year
+* **`--commit`**
   Create a git commit for each updated locale.
   **Note that this option also does a cleanup of the holidata.net `DOCROOT` directory on startup:
   All untracked files and all changes in directory `html` are removed or discarded respectively!**
   
 # EXAMPLES
-1. Update all locales and create commits for each update
+1. Full update for all locales
    ```
-   HOLIDATA=/path/to/holidata.py ./update-locale --commit --all 2023
+   HOLIDATA=/path/to/holidata ./update-locale --commit --all-locales --all-years
    ```
-1. Update a single locale
+1. Update year 2023 all locales and create commits for each update
    ```
-   HOLIDATA=/path/to/holidata.py ./update-locale en-US 2023
+   HOLIDATA=/path/to/holidata ./update-locale --commit --all-locales 2023
    ```
-1. Update multiple locales
+1. Update a single locale for a given year
    ```
-   HOLIDATA=/path/to/holidata.py ./update-locale en-US de-DE 2023
+   HOLIDATA=/path/to/holidata ./update-locale en-US 2023
+   ```
+1. Update all present years for a single locale
+   ```
+   HOLIDATA=/path/to/holidata ./update-locale en-US
+   ```
+1. Update year 2022 and 2023 for multiple locales
+   ```
+   HOLIDATA=/path/to/holidata ./update-locale en-US de-DE 2022 2023
    ```
 1. You can specify the arguments `YEAR` and `LOCALE` in any order.
    Those three lines are thus equivalent:
    ```
-   HOLIDATA=/path/to/holidata.py ./update-locale en-US de-DE 2023
-   HOLIDATA=/path/to/holidata.py ./update-locale en-US 2023 de-DE
-   HOLIDATA=/path/to/holidata.py ./update-locale 2023 de-DE en-US
+   HOLIDATA=/path/to/holidata ./update-locale en-US de-DE 2023
+   HOLIDATA=/path/to/holidata ./update-locale en-US 2023 de-DE
+   HOLIDATA=/path/to/holidata ./update-locale 2023 de-DE en-US
    ```
 
 
