@@ -17,6 +17,13 @@
   holiday:
     locale: cs-CZ
     region:
+    date: 2017-04-14
+    description: Velký pátek
+    type: NRV
+    notes:
+  holiday:
+    locale: cs-CZ
+    region:
     date: 2017-04-17
     description: Velikonoční pondělí
     type: NRV

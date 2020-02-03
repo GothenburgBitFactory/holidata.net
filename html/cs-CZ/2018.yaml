@@ -17,6 +17,13 @@
   holiday:
     locale: cs-CZ
     region:
+    date: 2018-03-30
+    description: Velký pátek
+    type: NRV
+    notes:
+  holiday:
+    locale: cs-CZ
+    region:
     date: 2018-04-02
     description: Velikonoční pondělí
     type: NRV

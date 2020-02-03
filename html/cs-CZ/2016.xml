@@ -19,6 +19,14 @@
   <holiday>
     <locale>cs-CZ</locale>
     <region></region>
+    <date>2016-03-25</date>
+    <description>Velký pátek</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>cs-CZ</locale>
+    <region></region>
     <date>2016-03-28</date>
     <description>Velikonoční pondělí</description>
     <type>NRV</type>
