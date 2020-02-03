@@ -86,6 +86,9 @@ for locale in "${locales[@]}" ; do
   fi
 
   for year in "${years[@]}" ; do
+    if [[ -e "${DOCROOT}/${locale}/${year}.*" ]] ; then
+      ACTION="Update"
+    fi
     echo "Generating locale '${locale}' files for ${year}..."
     for format in "csv" "json" "yaml" "xml" ; do
       echo -en "Generating ${locale}/${year}.${format}           \r"
@@ -111,7 +114,7 @@ for locale in "${locales[@]}" ; do
       if git diff --cached --quiet "${DOCROOT}/${locale}" ; then
         echo "No changes to holidata files in ${locale} for ${year}!"
       else
-        git -C "${BASE}" commit -m "Add holidays for ${locale} ${year}" "${DOCROOT}" || exit 1
+        git -C "${BASE}" commit -m "${ACTION-Add} holidays for ${locale} ${year}" "${DOCROOT}" || exit 1
       fi
     fi
   done
