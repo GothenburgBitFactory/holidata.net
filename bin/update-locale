@@ -84,8 +84,10 @@ if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
 fi
 
 for locale in "${locales[@]}" ; do
-  echo "Generating locale '${locale}' dir..."
-  mkdir -p "${DOCROOT}/${locale}"
+  if [[ ! -d "${DOCROOT}/${locale}" ]] ; then
+    echo "Generating locale '${locale}' dir..."
+    mkdir -p "${DOCROOT}/${locale}"
+  fi
 
   for year in "${years[@]}" ; do
     echo "Generating locale '${locale}' files for ${year}..."
