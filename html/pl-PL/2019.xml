@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-01-01</date>
+    <description>Nowy Rok</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-01-06</date>
+    <description>Trzech Króli</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-04-21</date>
+    <description>Wielkanoc</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-04-22</date>
+    <description>Poniedziałek Wielkanocny</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-05-01</date>
+    <description>Święto Pracy</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-05-03</date>
+    <description>Święto Konstytucji Trzeciego Maja</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-06-09</date>
+    <description>Zielone Świątki</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-06-20</date>
+    <description>Boże Ciało</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-08-15</date>
+    <description>Wniebowzięcie Najświętszej Maryi Panny</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-11-01</date>
+    <description>Wszystkich Świętych</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-11-11</date>
+    <description>Narodowe Święto Niepodległości</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-12-25</date>
+    <description>Boże Narodzenie (pierwszy dzień)</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
+    <date>2019-12-26</date>
+    <description>Boże Narodzenie (drugi dzień)</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
