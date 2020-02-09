@@ -62,7 +62,7 @@
     date: 2018-08-15
     description: Wniebowzięcie NMP
     type: NRF
-    notes: Święto Wojska Polskiego
+    notes:
   holiday:
     locale: pl-PL
     region:

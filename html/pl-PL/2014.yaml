@@ -60,13 +60,6 @@
     locale: pl-PL
     region:
     date: 2014-08-15
-    description: Święto Wojska Polskiego
-    type: NF
-    notes:
-  holiday:
-    locale: pl-PL
-    region:
-    date: 2014-08-15
     description: Wniebowzięcia NMP
     type: NRF
     notes:

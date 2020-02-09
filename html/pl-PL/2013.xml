@@ -68,14 +68,6 @@
     <locale>pl-PL</locale>
     <region></region>
     <date>2013-08-15</date>
-    <description>Święto Wojska Polskiego</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pl-PL</locale>
-    <region></region>
-    <date>2013-08-15</date>
     <description>Wniebowzięcia NMP</description>
     <type>NRF</type>
     <notes></notes>
