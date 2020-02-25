@@ -5,7 +5,7 @@ da-DK    X    X    X    X    X    X    X    X    X    X    -
 de-AT    X    X    X    X    X    X    X    X    X    X    -
 de-BE    X    X    X    X    X    X    X    X    X    X    -
 de-CH    X    X    X    X    X    X    X    X    X    X    -
-de-DE    X    X    X    X    X    X    X    X    X    X    -
+de-DE    X    X    X    X    X    X    X    X    X    X    X
 el-GR    X    X    X    X    X    X    X    X    X    X    -
 en-AU    X    X    X    X    X    X    -    -    -    -    -
 en-CA    X    X    X    X    X    X    X    X    -    -    -
