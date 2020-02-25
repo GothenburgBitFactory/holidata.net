@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-04-02</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-04-05</date>
+    <description>Easter Monday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-05-03</date>
+    <description>Early May Bank Holiday</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-05-31</date>
+    <description>Spring Bank Holiday</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-08-30</date>
+    <description>August Bank Holiday</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-12-26</date>
+    <description>Boxing Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-12-27</date>
+    <description>Christmas Day (observed)</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
+    <date>2021-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+</holidays>
