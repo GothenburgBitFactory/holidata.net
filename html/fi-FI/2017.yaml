@@ -2,107 +2,107 @@
 ---
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-01-01
     description: Uudenvuodenpäivä
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-01-06
     description: Loppiainen
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-04-14
     description: Pitkäperjantai
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-04-16
     description: Pääsiäispäivä
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-04-17
     description: 2. pääsiäispäivä
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-05-01
     description: Vappu
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-05-25
     description: Helatorstai
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-06-04
     description: Helluntaipäivä
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-06-23
     description: Juhannusaatto
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-06-24
     description: Juhannuspäivä
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-11-04
     description: Pyhäinpäivä
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-12-06
     description: Itsenäisyyspäivä
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-12-24
     description: Jouluaatto
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-12-25
     description: Joulupäivä
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: fi-FI
-    region: 
+    region:
     date: 2017-12-26
     description: 2. joulupäivä
     type: NRF
-    notes: 
+    notes:
 ...
