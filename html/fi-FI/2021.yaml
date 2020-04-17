@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-01-01
+    description: Uudenvuodenpäivä
+    type: NF
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-01-06
+    description: Loppiainen
+    type: NRF
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-04-02
+    description: Pitkäperjantai
+    type: NRV
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-04-04
+    description: Pääsiäispäivä
+    type: NRV
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-04-05
+    description: 2. pääsiäispäivä
+    type: NRV
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-05-01
+    description: Vappu
+    type: NF
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-05-13
+    description: Helatorstai
+    type: NRV
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-05-23
+    description: Helluntaipäivä
+    type: NRV
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-06-26
+    description: Juhannuspäivä
+    type: NRV
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-11-06
+    description: Pyhäinpäivä
+    type: NRV
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-12-06
+    description: Itsenäisyyspäivä
+    type: NF
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-12-25
+    description: Joulupäivä
+    type: NRF
+    notes:
+  holiday:
+    locale: fi-FI
+    region:
+    date: 2021-12-26
+    description: Tapaninpäivä
+    type: NRF
+    notes:
+...
