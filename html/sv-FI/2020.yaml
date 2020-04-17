@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-01-01
+    description: Nyårsdagen
+    type: NF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-01-06
+    description: Trettondedagen
+    type: NRF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-04-10
+    description: Långfredagen
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-04-12
+    description: Påskdagen
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-04-13
+    description: Annandag påsk
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-05-01
+    description: Första maj
+    type: NF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-05-21
+    description: Kristi himmelfärdsdag
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-05-31
+    description: Pingst
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-06-20
+    description: Midsommardagen
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-10-31
+    description: Alla helgons dag
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-12-06
+    description: Självständighetsdagen
+    type: NF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-12-25
+    description: Juldagen
+    type: NRF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2020-12-26
+    description: Annandag jul
+    type: NRF
+    notes:
+...
