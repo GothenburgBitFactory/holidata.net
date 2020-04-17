@@ -59,13 +59,6 @@
   holiday:
     locale: fi-FI
     region:
-    date: 2011-06-24
-    description: Juhannusaatto
-    type: N
-    notes:
-  holiday:
-    locale: fi-FI
-    region:
     date: 2011-06-25
     description: Juhannuspäivä
     type: N
@@ -82,13 +75,6 @@
     region:
     date: 2011-12-06
     description: Itsenäisyyspäivä
-    type: N
-    notes:
-  holiday:
-    locale: fi-FI
-    region:
-    date: 2011-12-24
-    description: Jouluaatto
     type: N
     notes:
   holiday:

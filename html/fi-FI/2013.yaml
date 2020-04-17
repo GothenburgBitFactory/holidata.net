@@ -59,13 +59,6 @@
   holiday:
     locale: fi-FI
     region:
-    date: 2013-06-21
-    description: Juhannusaatto
-    type: NV
-    notes:
-  holiday:
-    locale: fi-FI
-    region:
     date: 2013-06-22
     description: Juhannuspäivä
     type: NV
@@ -83,13 +76,6 @@
     date: 2013-12-06
     description: Itsenäisyyspäivä
     type: NF
-    notes:
-  holiday:
-    locale: fi-FI
-    region:
-    date: 2013-12-24
-    description: Jouluaatto
-    type: NRF
     notes:
   holiday:
     locale: fi-FI

@@ -67,14 +67,6 @@
   <holiday>
     <locale>fi-FI</locale>
     <region></region>
-    <date>2013-06-21</date>
-    <description>Juhannusaatto</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fi-FI</locale>
-    <region></region>
     <date>2013-06-22</date>
     <description>Juhannuspäivä</description>
     <type>NV</type>
@@ -94,14 +86,6 @@
     <date>2013-12-06</date>
     <description>Itsenäisyyspäivä</description>
     <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fi-FI</locale>
-    <region></region>
-    <date>2013-12-24</date>
-    <description>Jouluaatto</description>
-    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
