@@ -5,90 +5,90 @@
     region:
     date: 2011-01-01
     description: Uudenvuodenpäivä
-    type: N
+    type: NF
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-01-06
     description: Loppiainen
-    type: N
+    type: NRF
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-04-22
     description: Pitkäperjantai
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-04-24
     description: Pääsiäispäivä
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-04-25
     description: 2. pääsiäispäivä
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-05-01
     description: Vappu
-    type: N
+    type: NF
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-06-02
     description: Helatorstai
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-06-12
     description: Helluntaipäivä
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-06-25
     description: Juhannuspäivä
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-11-05
     description: Pyhäinpäivä
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-12-06
     description: Itsenäisyyspäivä
-    type: N
+    type: NF
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-12-25
     description: Joulupäivä
-    type: N
+    type: NRF
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2011-12-26
     description: Tapaninpäivä
-    type: N
+    type: NRF
     notes:
 ...

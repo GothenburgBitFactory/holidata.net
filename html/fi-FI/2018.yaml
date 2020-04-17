@@ -61,14 +61,14 @@
     region:
     date: 2018-06-23
     description: Juhannuspäivä
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2018-11-03
     description: Pyhäinpäivä
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: fi-FI

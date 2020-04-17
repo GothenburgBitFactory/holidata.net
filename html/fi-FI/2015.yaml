@@ -61,14 +61,14 @@
     region:
     date: 2015-06-20
     description: Juhannuspäivä
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: fi-FI
     region:
     date: 2015-10-31
     description: Pyhäinpäivä
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: fi-FI

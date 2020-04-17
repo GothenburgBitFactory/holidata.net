@@ -6,8 +6,8 @@
 {"locale":"fi-FI","region":"","date":"2014-05-01","description":"Vappu","type":"NF","notes":""}
 {"locale":"fi-FI","region":"","date":"2014-05-29","description":"Helatorstai","type":"NRV","notes":""}
 {"locale":"fi-FI","region":"","date":"2014-06-08","description":"Helluntaipäivä","type":"NRV","notes":""}
-{"locale":"fi-FI","region":"","date":"2014-06-21","description":"Juhannuspäivä","type":"NV","notes":""}
-{"locale":"fi-FI","region":"","date":"2014-11-01","description":"Pyhäinpäivä","type":"NV","notes":""}
+{"locale":"fi-FI","region":"","date":"2014-06-21","description":"Juhannuspäivä","type":"NRV","notes":""}
+{"locale":"fi-FI","region":"","date":"2014-11-01","description":"Pyhäinpäivä","type":"NRV","notes":""}
 {"locale":"fi-FI","region":"","date":"2014-12-06","description":"Itsenäisyyspäivä","type":"NF","notes":""}
 {"locale":"fi-FI","region":"","date":"2014-12-25","description":"Joulupäivä","type":"NRF","notes":""}
 {"locale":"fi-FI","region":"","date":"2014-12-26","description":"Tapaninpäivä","type":"NRF","notes":""}
