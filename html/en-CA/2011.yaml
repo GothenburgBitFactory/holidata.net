@@ -13,7 +13,7 @@
     date: 2011-02-21
     description: Family Day
     type: N
-    notes: 3rd monday in Feb.
+    notes:
   holiday:
     locale: en-CA
     region:
