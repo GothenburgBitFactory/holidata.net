@@ -6,7 +6,9 @@
 {"locale":"en-CA","region":"MB","date":"2015-02-16","description":"Louis Riel Day","type":"V","notes":""}
 {"locale":"en-CA","region":"PE","date":"2015-02-16","description":"Islander Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2015-04-03","description":"Good Friday","type":"NRV","notes":""}
-{"locale":"en-CA","region":"","date":"2015-04-06","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-CA","region":"AB","date":"2015-04-06","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-CA","region":"PE","date":"2015-04-06","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-CA","region":"QC","date":"2015-04-06","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-CA","region":"","date":"2015-05-18","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2015-07-01","description":"Canada Day","type":"NF","notes":""}
 {"locale":"en-CA","region":"","date":"2015-08-03","description":"First Monday of August","type":"V","notes":""}

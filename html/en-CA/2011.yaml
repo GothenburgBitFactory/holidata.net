@@ -58,7 +58,21 @@
     notes:
   holiday:
     locale: en-CA
-    region:
+    region: AB
+    date: 2011-04-25
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-CA
+    region: PE
+    date: 2011-04-25
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-CA
+    region: QC
     date: 2011-04-25
     description: Easter Monday
     type: RV

@@ -66,7 +66,23 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region></region>
+    <region>AB</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>PE</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>QC</region>
     <date>2015-04-06</date>
     <description>Easter Monday</description>
     <type>RV</type>

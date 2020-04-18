@@ -6,7 +6,9 @@
 {"locale":"en-CA","region":"MB","date":"2011-02-21","description":"Louis Riel Day","type":"V","notes":""}
 {"locale":"en-CA","region":"PE","date":"2011-02-21","description":"Islander Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2011-04-22","description":"Good Friday","type":"NRV","notes":""}
-{"locale":"en-CA","region":"","date":"2011-04-25","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-CA","region":"AB","date":"2011-04-25","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-CA","region":"PE","date":"2011-04-25","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-CA","region":"QC","date":"2011-04-25","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-CA","region":"","date":"2011-05-23","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2011-07-01","description":"Canada Day","type":"NF","notes":""}
 {"locale":"en-CA","region":"","date":"2011-08-01","description":"First Monday of August","type":"V","notes":""}
