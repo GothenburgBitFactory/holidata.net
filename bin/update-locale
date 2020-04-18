@@ -92,7 +92,7 @@ for locale in "${locales[@]}" ; do
     echo "Generating locale '${locale}' files for ${year}..."
     for format in "csv" "json" "yaml" "xml" ; do
       echo -en "Generating ${locale}/${year}.${format}           \r"
-      "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${DOCROOT}/${locale}/${year}.${format}" || { rm "${DOCROOT}/${locale}/${year}.${format}" ; continue 2 ; }
+      "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${DOCROOT}/${locale}/${year}.${format}" || { rm "${DOCROOT}/${locale}/${year}.${format}" ; continue 3 ; }
     done
 
     cd "${BASE}/bin" >/dev/null || exit
