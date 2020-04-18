@@ -186,9 +186,49 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region></region>
+    <region>MB</region>
     <date>2014-08-04</date>
-    <description>First Monday of August</description>
+    <description>August Civic Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NT</region>
+    <date>2014-08-04</date>
+    <description>August Civic Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NU</region>
+    <date>2014-08-04</date>
+    <description>August Civic Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>AB</region>
+    <date>2014-08-04</date>
+    <description>Heritage Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NS</region>
+    <date>2014-08-04</date>
+    <description>Heritage Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NB</region>
+    <date>2014-08-04</date>
+    <description>New Brunswick Day</description>
     <type>V</type>
     <notes></notes>
   </holiday>

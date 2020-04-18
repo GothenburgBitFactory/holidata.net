@@ -163,9 +163,44 @@
     notes:
   holiday:
     locale: en-CA
-    region:
+    region: MB
     date: 2017-08-07
-    description: First Monday of August
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2017-08-07
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2017-08-07
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2017-08-07
+    description: Heritage Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NS
+    date: 2017-08-07
+    description: Heritage Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NB
+    date: 2017-08-07
+    description: New Brunswick Day
     type: V
     notes:
   holiday:

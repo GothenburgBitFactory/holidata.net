@@ -163,9 +163,44 @@
     notes:
   holiday:
     locale: en-CA
-    region:
+    region: MB
     date: 2014-08-04
-    description: First Monday of August
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2014-08-04
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2014-08-04
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2014-08-04
+    description: Heritage Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NS
+    date: 2014-08-04
+    description: Heritage Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NB
+    date: 2014-08-04
+    description: New Brunswick Day
     type: V
     notes:
   holiday:

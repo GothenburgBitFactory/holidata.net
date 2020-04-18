@@ -21,7 +21,12 @@
 {"locale":"en-CA","region":"YT","date":"2014-05-19","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"QC","date":"2014-06-24","description":"National Holiday","type":"F","notes":""}
 {"locale":"en-CA","region":"","date":"2014-07-01","description":"Canada Day","type":"NF","notes":""}
-{"locale":"en-CA","region":"","date":"2014-08-04","description":"First Monday of August","type":"V","notes":""}
+{"locale":"en-CA","region":"MB","date":"2014-08-04","description":"August Civic Holiday","type":"V","notes":""}
+{"locale":"en-CA","region":"NT","date":"2014-08-04","description":"August Civic Holiday","type":"V","notes":""}
+{"locale":"en-CA","region":"NU","date":"2014-08-04","description":"August Civic Holiday","type":"V","notes":""}
+{"locale":"en-CA","region":"AB","date":"2014-08-04","description":"Heritage Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NS","date":"2014-08-04","description":"Heritage Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NB","date":"2014-08-04","description":"New Brunswick Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2014-09-01","description":"Labour Day","type":"NV","notes":""}
 {"locale":"en-CA","region":"","date":"2014-10-13","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2014-11-11","description":"Remembrance Day","type":"F","notes":""}
