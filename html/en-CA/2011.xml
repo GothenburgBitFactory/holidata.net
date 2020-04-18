@@ -96,12 +96,4 @@
     <type>NF</type>
     <notes></notes>
   </holiday>
-  <holiday>
-    <locale>en-CA</locale>
-    <region></region>
-    <date>2011-12-31</date>
-    <description>New Year's Eve</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
 </holidays>

@@ -83,12 +83,5 @@
     date: 2011-12-26
     description: Boxing Day
     type: NF
-    notes: 
-  holiday:
-    locale: en-CA
-    region: 
-    date: 2011-12-31
-    description: New Year's Eve
-    type: NF
-    notes: 
+    notes:
 ...
