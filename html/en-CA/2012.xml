@@ -11,14 +11,6 @@
   <holiday>
     <locale>en-CA</locale>
     <region></region>
-    <date>2012-01-02</date>
-    <description>New Year's Day (obs.)</description>
-    <type>NV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
-    <region></region>
     <date>2012-02-20</date>
     <description>Family Day</description>
     <type>N</type>
