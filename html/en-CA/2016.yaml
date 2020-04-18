@@ -2,86 +2,86 @@
 ---
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-01-01
     description: New Year's Day
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-02-08
     description: Family Day
     type: NV
     notes: 3rd monday in Feb.
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-03-25
     description: Good Friday
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-03-28
     description: Easter Monday
     type: NRV
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-05-23
     description: Victoria Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-07-01
     description: Canada Day
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-08-01
     description: First Monday of August
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-09-05
     description: Labour Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-10-10
     description: Thanksgiving Day
     type: NV
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-11-11
     description: Remembrance Day
     type: NF
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-12-25
     description: Christmas Day
     type: NRF
-    notes: 
+    notes:
   holiday:
     locale: en-CA
-    region: 
+    region:
     date: 2016-12-26
     description: Boxing Day
     type: NF
-    notes: 
+    notes:
 ...
