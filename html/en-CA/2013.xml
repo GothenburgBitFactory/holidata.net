@@ -170,6 +170,14 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
+    <region>QC</region>
+    <date>2013-06-24</date>
+    <description>National Holiday</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
     <region></region>
     <date>2013-07-01</date>
     <description>Canada Day</description>

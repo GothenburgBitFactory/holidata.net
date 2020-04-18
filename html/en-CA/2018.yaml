@@ -149,6 +149,13 @@
     notes:
   holiday:
     locale: en-CA
+    region: QC
+    date: 2018-06-24
+    description: National Holiday
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
     region:
     date: 2018-07-01
     description: Canada Day
