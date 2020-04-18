@@ -79,6 +79,13 @@
     notes:
   holiday:
     locale: en-CA
+    region: QC
+    date: 2018-05-21
+    description: National Patriots' Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
     region:
     date: 2018-05-21
     description: Victoria Day

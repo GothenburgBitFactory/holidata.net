@@ -90,6 +90,14 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
+    <region>QC</region>
+    <date>2012-05-21</date>
+    <description>National Patriots' Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
     <region></region>
     <date>2012-05-21</date>
     <description>Victoria Day</description>

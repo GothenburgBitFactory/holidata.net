@@ -79,6 +79,13 @@
     notes:
   holiday:
     locale: en-CA
+    region: QC
+    date: 2013-05-20
+    description: National Patriots' Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
     region:
     date: 2013-05-20
     description: Victoria Day

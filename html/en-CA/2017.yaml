@@ -79,6 +79,13 @@
     notes:
   holiday:
     locale: en-CA
+    region: QC
+    date: 2017-05-22
+    description: National Patriots' Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
     region:
     date: 2017-05-22
     description: Victoria Day
