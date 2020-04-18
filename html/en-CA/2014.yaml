@@ -212,7 +212,70 @@
     notes:
   holiday:
     locale: en-CA
-    region:
+    region: AB
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: BC
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: MB
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NL
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: ON
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: QC
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2014-10-13
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: YT
     date: 2014-10-13
     description: Thanksgiving Day
     type: V

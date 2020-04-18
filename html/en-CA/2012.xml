@@ -242,7 +242,79 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region></region>
+    <region>AB</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>BC</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>MB</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NL</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>ON</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>QC</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NT</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NU</region>
+    <date>2012-10-08</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>YT</region>
     <date>2012-10-08</date>
     <description>Thanksgiving Day</description>
     <type>V</type>

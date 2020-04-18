@@ -28,7 +28,16 @@
 {"locale":"en-CA","region":"NS","date":"2013-08-05","description":"Heritage Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NB","date":"2013-08-05","description":"New Brunswick Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2013-09-02","description":"Labour Day","type":"NV","notes":""}
-{"locale":"en-CA","region":"","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"AB","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"BC","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"MB","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NL","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"ON","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"QC","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"SK","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NT","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NU","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"YT","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2013-11-11","description":"Remembrance Day","type":"F","notes":""}
 {"locale":"en-CA","region":"","date":"2013-12-25","description":"Christmas Day","type":"NRF","notes":""}
 {"locale":"en-CA","region":"","date":"2013-12-26","description":"Boxing Day","type":"NRF","notes":""}
