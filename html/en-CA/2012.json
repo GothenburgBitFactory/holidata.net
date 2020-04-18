@@ -10,7 +10,15 @@
 {"locale":"en-CA","region":"PE","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-CA","region":"QC","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-CA","region":"QC","date":"2012-05-21","description":"National Patriots' Day","type":"V","notes":""}
-{"locale":"en-CA","region":"","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"AB","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"BC","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"MB","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NS","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"ON","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"SK","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NT","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NU","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"YT","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2012-07-01","description":"Canada Day","type":"NF","notes":""}
 {"locale":"en-CA","region":"","date":"2012-08-06","description":"First Monday of August","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2012-09-03","description":"Labour Day","type":"NV","notes":""}

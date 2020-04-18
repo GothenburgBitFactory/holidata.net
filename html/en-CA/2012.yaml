@@ -86,7 +86,63 @@
     notes:
   holiday:
     locale: en-CA
-    region:
+    region: AB
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: BC
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: MB
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NS
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: ON
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: YT
     date: 2012-05-21
     description: Victoria Day
     type: V
