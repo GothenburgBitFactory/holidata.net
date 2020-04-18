@@ -4,7 +4,7 @@
 
 # SYNOPSIS
 ```
-HOLIDATA=/path/to/holidata.py ./update-locale [--commit] (--all|LOCALE...) YEAR 
+HOLIDATA=/path/to/holidata ./update-locale [--commit] (--all-locales|LOCALE...) [--all-years|YEAR...]
 ```
 
 # DESCRIPTION
@@ -18,19 +18,21 @@ If the `--commit` option is given, the script creates a commit with the message 
 # OPTIONS
 * **`LOCALE`**  
   The locale(s) the data files should be generated for.
-  You can specify several locales or use the `--all` option to update all available locales.
+  You can specify several locales or use the `--all-locales` option to update all available locales.
 * **`YEAR`**  
-  The year for which data files should be generated for each locale.
-  Only a single year can be specified!
-* **`--all-locales`**
+  The year(s) for which data files should be generated for each locale.
+  You can specify several years or use the `--all-years` option to update each locale for all years from 2011 to now.
+  `YEAR` can be omitted if only a single locale is given.
+  In this case all present years for this locale will be updated.
+* **`--all-locales`**  
   Try to update all locales found on holidata.net.
   **Note that currently not all locales are supported by `holidata`!
   Missing locales are skipped.**
-* **`--all-years`**
+* **`--all-years`**  
   Try to update locales for years from 2011 to current year
-* **`--commit`**
-  Create a git commit for each updated locale.
-  **Note that this option also does a cleanup of the holidata.net `DOCROOT` directory on startup:
+* **`--commit`**  
+  Create a git commit for each updated locale and year.
+  **Note that this option also does a cleanup of the holidata.net `html` directory on startup:
   All untracked files and all changes in directory `html` are removed or discarded respectively!**
   
 # EXAMPLES
