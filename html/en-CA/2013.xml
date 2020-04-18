@@ -322,7 +322,39 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region></region>
+    <region>AB</region>
+    <date>2013-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>BC</region>
+    <date>2013-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NB</region>
+    <date>2013-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NL</region>
+    <date>2013-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NT</region>
     <date>2013-11-11</date>
     <description>Remembrance Day</description>
     <type>F</type>

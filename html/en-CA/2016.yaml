@@ -282,7 +282,35 @@
     notes:
   holiday:
     locale: en-CA
-    region:
+    region: AB
+    date: 2016-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: BC
+    date: 2016-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: NB
+    date: 2016-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: NL
+    date: 2016-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
     date: 2016-11-11
     description: Remembrance Day
     type: F

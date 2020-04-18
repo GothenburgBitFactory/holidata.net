@@ -38,6 +38,10 @@
 {"locale":"en-CA","region":"NT","date":"2017-10-09","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NU","date":"2017-10-09","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"YT","date":"2017-10-09","description":"Thanksgiving Day","type":"V","notes":""}
-{"locale":"en-CA","region":"","date":"2017-11-11","description":"Remembrance Day","type":"F","notes":""}
+{"locale":"en-CA","region":"AB","date":"2017-11-11","description":"Remembrance Day","type":"F","notes":""}
+{"locale":"en-CA","region":"BC","date":"2017-11-11","description":"Remembrance Day","type":"F","notes":""}
+{"locale":"en-CA","region":"NB","date":"2017-11-11","description":"Remembrance Day","type":"F","notes":""}
+{"locale":"en-CA","region":"NL","date":"2017-11-11","description":"Remembrance Day","type":"F","notes":""}
+{"locale":"en-CA","region":"NT","date":"2017-11-11","description":"Remembrance Day","type":"F","notes":""}
 {"locale":"en-CA","region":"","date":"2017-12-25","description":"Christmas Day","type":"NRF","notes":""}
 {"locale":"en-CA","region":"","date":"2017-12-26","description":"Boxing Day","type":"NRF","notes":""}
