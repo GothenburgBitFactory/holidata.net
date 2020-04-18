@@ -9,9 +9,44 @@
     notes:
   holiday:
     locale: en-CA
-    region:
+    region: AB
     date: 2016-02-15
     description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: ON
+    date: 2016-02-15
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2016-02-15
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NB
+    date: 2016-02-15
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: MB
+    date: 2016-02-15
+    description: Louis Riel Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: PE
+    date: 2016-02-15
+    description: Islander Day
     type: V
     notes:
   holiday:

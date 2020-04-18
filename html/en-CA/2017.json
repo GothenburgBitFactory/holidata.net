@@ -1,5 +1,10 @@
 {"locale":"en-CA","region":"","date":"2017-01-01","description":"New Year's Day","type":"NF","notes":""}
-{"locale":"en-CA","region":"","date":"2017-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"AB","date":"2017-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"ON","date":"2017-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"SK","date":"2017-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NB","date":"2017-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"MB","date":"2017-02-20","description":"Louis Riel Day","type":"V","notes":""}
+{"locale":"en-CA","region":"PE","date":"2017-02-20","description":"Islander Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2017-04-14","description":"Good Friday","type":"NRV","notes":""}
 {"locale":"en-CA","region":"","date":"2017-04-17","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-CA","region":"","date":"2017-05-22","description":"Victoria Day","type":"V","notes":""}

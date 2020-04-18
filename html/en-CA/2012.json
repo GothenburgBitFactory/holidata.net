@@ -1,5 +1,10 @@
 {"locale":"en-CA","region":"","date":"2012-01-01","description":"New Year's Day","type":"NF","notes":""}
-{"locale":"en-CA","region":"","date":"2012-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"AB","date":"2012-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"ON","date":"2012-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"SK","date":"2012-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NB","date":"2012-02-20","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"MB","date":"2012-02-20","description":"Louis Riel Day","type":"V","notes":""}
+{"locale":"en-CA","region":"PE","date":"2012-02-20","description":"Islander Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2012-04-06","description":"Good Friday","type":"NRV","notes":""}
 {"locale":"en-CA","region":"","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-CA","region":"","date":"2012-05-21","description":"Victoria Day","type":"V","notes":""}

@@ -10,9 +10,49 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region></region>
+    <region>AB</region>
     <date>2014-02-17</date>
     <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>ON</region>
+    <date>2014-02-17</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2014-02-17</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NB</region>
+    <date>2014-02-17</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>MB</region>
+    <date>2014-02-17</date>
+    <description>Louis Riel Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>PE</region>
+    <date>2014-02-17</date>
+    <description>Islander Day</description>
     <type>V</type>
     <notes></notes>
   </holiday>
