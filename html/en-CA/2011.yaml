@@ -12,7 +12,7 @@
     region:
     date: 2011-02-21
     description: Family Day
-    type: N
+    type: V
     notes:
   holiday:
     locale: en-CA
@@ -26,28 +26,28 @@
     region:
     date: 2011-04-25
     description: Easter Monday
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: en-CA
     region:
     date: 2011-05-23
     description: Victoria Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-CA
     region:
     date: 2011-07-01
     description: Canada Day
-    type: NV
+    type: NF
     notes:
   holiday:
     locale: en-CA
     region:
     date: 2011-08-01
     description: First Monday of August
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-CA
@@ -61,14 +61,14 @@
     region:
     date: 2011-10-10
     description: Thanksgiving Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-CA
     region:
     date: 2011-11-11
     description: Remembrance Day
-    type: NF
+    type: F
     notes:
   holiday:
     locale: en-CA
@@ -82,6 +82,6 @@
     region:
     date: 2011-12-26
     description: Boxing Day
-    type: NF
+    type: NRF
     notes:
 ...

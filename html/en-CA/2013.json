@@ -1,12 +1,12 @@
 {"locale":"en-CA","region":"","date":"2013-01-01","description":"New Year's Day","type":"NF","notes":""}
-{"locale":"en-CA","region":"","date":"2013-02-18","description":"Family Day","type":"NV","notes":""}
+{"locale":"en-CA","region":"","date":"2013-02-18","description":"Family Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2013-03-29","description":"Good Friday","type":"NRV","notes":""}
-{"locale":"en-CA","region":"","date":"2013-04-01","description":"Easter Monday","type":"NRV","notes":""}
-{"locale":"en-CA","region":"","date":"2013-05-20","description":"Victoria Day","type":"NV","notes":""}
+{"locale":"en-CA","region":"","date":"2013-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-CA","region":"","date":"2013-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2013-07-01","description":"Canada Day","type":"NF","notes":""}
-{"locale":"en-CA","region":"","date":"2013-08-05","description":"First Monday of August","type":"NV","notes":""}
+{"locale":"en-CA","region":"","date":"2013-08-05","description":"First Monday of August","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2013-09-02","description":"Labour Day","type":"NV","notes":""}
-{"locale":"en-CA","region":"","date":"2013-10-14","description":"Thanksgiving Day","type":"NV","notes":""}
-{"locale":"en-CA","region":"","date":"2013-11-11","description":"Remembrance Day","type":"NF","notes":""}
+{"locale":"en-CA","region":"","date":"2013-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"","date":"2013-11-11","description":"Remembrance Day","type":"F","notes":""}
 {"locale":"en-CA","region":"","date":"2013-12-25","description":"Christmas Day","type":"NRF","notes":""}
-{"locale":"en-CA","region":"","date":"2013-12-26","description":"Boxing Day","type":"NF","notes":""}
+{"locale":"en-CA","region":"","date":"2013-12-26","description":"Boxing Day","type":"NRF","notes":""}

@@ -12,7 +12,7 @@
     region:
     date: 2014-02-17
     description: Family Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-CA
@@ -26,14 +26,14 @@
     region:
     date: 2014-04-21
     description: Easter Monday
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: en-CA
     region:
     date: 2014-05-19
     description: Victoria Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-CA
@@ -47,7 +47,7 @@
     region:
     date: 2014-08-04
     description: First Monday of August
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-CA
@@ -61,14 +61,14 @@
     region:
     date: 2014-10-13
     description: Thanksgiving Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-CA
     region:
     date: 2014-11-11
     description: Remembrance Day
-    type: NF
+    type: F
     notes:
   holiday:
     locale: en-CA
@@ -82,6 +82,6 @@
     region:
     date: 2014-12-26
     description: Boxing Day
-    type: NF
+    type: NRF
     notes:
 ...
