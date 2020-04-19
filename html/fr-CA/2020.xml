@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region></region>
+    <date>2020-01-01</date>
+    <description>Jour de l'An</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>AB</region>
+    <date>2020-02-17</date>
+    <description>Fête de la Famille</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>ON</region>
+    <date>2020-02-17</date>
+    <description>Fête de la Famille</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>SK</region>
+    <date>2020-02-17</date>
+    <description>Fête de la Famille</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NB</region>
+    <date>2020-02-17</date>
+    <description>Fête de la Famille</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>MB</region>
+    <date>2020-02-17</date>
+    <description>Journée Louis Riel</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>PE</region>
+    <date>2020-02-17</date>
+    <description>Fête des Insulaires</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region></region>
+    <date>2020-04-10</date>
+    <description>Vendredi Saint</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>AB</region>
+    <date>2020-04-13</date>
+    <description>Lundi de Pâques</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>PE</region>
+    <date>2020-04-13</date>
+    <description>Lundi de Pâques</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>QC</region>
+    <date>2020-04-13</date>
+    <description>Lundi de Pâques</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>AB</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>BC</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>MB</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NS</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>ON</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>SK</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NT</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NU</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>YT</region>
+    <date>2020-05-18</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>QC</region>
+    <date>2020-05-18</date>
+    <description>Journée Nationale des Patriotes</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>QC</region>
+    <date>2020-06-24</date>
+    <description>Fête Nationale</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region></region>
+    <date>2020-07-01</date>
+    <description>Fête du Canada</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NT</region>
+    <date>2020-08-03</date>
+    <description>Premier lundi d'août</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NU</region>
+    <date>2020-08-03</date>
+    <description>Premier lundi d'août</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>AB</region>
+    <date>2020-08-03</date>
+    <description>Fête du Patrimoine</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>SK</region>
+    <date>2020-08-03</date>
+    <description>Fête de la Saskatchewan</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NS</region>
+    <date>2020-08-03</date>
+    <description>Jour de la Fondation</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NB</region>
+    <date>2020-08-03</date>
+    <description>Jour du Nouveau-Brunswick</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region></region>
+    <date>2020-09-07</date>
+    <description>Fête du Travail</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>AB</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>BC</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>MB</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NL</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>ON</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>QC</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>SK</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NT</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NU</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>YT</region>
+    <date>2020-10-12</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>AB</region>
+    <date>2020-11-11</date>
+    <description>Jour du Souvenir</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>BC</region>
+    <date>2020-11-11</date>
+    <description>Jour du Souvenir</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NB</region>
+    <date>2020-11-11</date>
+    <description>Jour du Souvenir</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NL</region>
+    <date>2020-11-11</date>
+    <description>Jour du Souvenir</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NT</region>
+    <date>2020-11-11</date>
+    <description>Jour du Souvenir</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region></region>
+    <date>2020-12-25</date>
+    <description>Jour de Noël</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region></region>
+    <date>2020-12-26</date>
+    <description>Lendemain de Noël</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

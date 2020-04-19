@@ -1,0 +1,332 @@
+%YAML 1.1
+---
+  holiday:
+    locale: fr-CA
+    region:
+    date: 2020-01-01
+    description: Jour de l'An
+    type: NF
+    notes:
+  holiday:
+    locale: fr-CA
+    region: AB
+    date: 2020-02-17
+    description: Fête de la Famille
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: ON
+    date: 2020-02-17
+    description: Fête de la Famille
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: SK
+    date: 2020-02-17
+    description: Fête de la Famille
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NB
+    date: 2020-02-17
+    description: Fête de la Famille
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: MB
+    date: 2020-02-17
+    description: Journée Louis Riel
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: PE
+    date: 2020-02-17
+    description: Fête des Insulaires
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region:
+    date: 2020-04-10
+    description: Vendredi Saint
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-CA
+    region: AB
+    date: 2020-04-13
+    description: Lundi de Pâques
+    type: RV
+    notes:
+  holiday:
+    locale: fr-CA
+    region: PE
+    date: 2020-04-13
+    description: Lundi de Pâques
+    type: RV
+    notes:
+  holiday:
+    locale: fr-CA
+    region: QC
+    date: 2020-04-13
+    description: Lundi de Pâques
+    type: RV
+    notes:
+  holiday:
+    locale: fr-CA
+    region: AB
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: BC
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: MB
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NS
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: ON
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: SK
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NT
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NU
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: YT
+    date: 2020-05-18
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: QC
+    date: 2020-05-18
+    description: Journée Nationale des Patriotes
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: QC
+    date: 2020-06-24
+    description: Fête Nationale
+    type: F
+    notes:
+  holiday:
+    locale: fr-CA
+    region:
+    date: 2020-07-01
+    description: Fête du Canada
+    type: NF
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NT
+    date: 2020-08-03
+    description: Premier lundi d'août
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NU
+    date: 2020-08-03
+    description: Premier lundi d'août
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: AB
+    date: 2020-08-03
+    description: Fête du Patrimoine
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: SK
+    date: 2020-08-03
+    description: Fête de la Saskatchewan
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NS
+    date: 2020-08-03
+    description: Jour de la Fondation
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NB
+    date: 2020-08-03
+    description: Jour du Nouveau-Brunswick
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region:
+    date: 2020-09-07
+    description: Fête du Travail
+    type: NV
+    notes:
+  holiday:
+    locale: fr-CA
+    region: AB
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: BC
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: MB
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NL
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: ON
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: QC
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: SK
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NT
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NU
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: YT
+    date: 2020-10-12
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: AB
+    date: 2020-11-11
+    description: Jour du Souvenir
+    type: F
+    notes:
+  holiday:
+    locale: fr-CA
+    region: BC
+    date: 2020-11-11
+    description: Jour du Souvenir
+    type: F
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NB
+    date: 2020-11-11
+    description: Jour du Souvenir
+    type: F
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NL
+    date: 2020-11-11
+    description: Jour du Souvenir
+    type: F
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NT
+    date: 2020-11-11
+    description: Jour du Souvenir
+    type: F
+    notes:
+  holiday:
+    locale: fr-CA
+    region:
+    date: 2020-12-25
+    description: Jour de Noël
+    type: NRF
+    notes:
+  holiday:
+    locale: fr-CA
+    region:
+    date: 2020-12-26
+    description: Lendemain de Noël
+    type: NRF
+    notes:
+...
