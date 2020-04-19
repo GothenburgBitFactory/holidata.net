@@ -1,0 +1,332 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-CA
+    region:
+    date: 2019-01-01
+    description: New Year's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2019-02-18
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: ON
+    date: 2019-02-18
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2019-02-18
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NB
+    date: 2019-02-18
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: MB
+    date: 2019-02-18
+    description: Louis Riel Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: PE
+    date: 2019-02-18
+    description: Islander Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region:
+    date: 2019-04-19
+    description: Good Friday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2019-04-22
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-CA
+    region: PE
+    date: 2019-04-22
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-CA
+    region: QC
+    date: 2019-04-22
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-CA
+    region: QC
+    date: 2019-05-20
+    description: National Patriots' Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: BC
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: MB
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NS
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: ON
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: YT
+    date: 2019-05-20
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: QC
+    date: 2019-06-24
+    description: National Holiday
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region:
+    date: 2019-07-01
+    description: Canada Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2019-08-05
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2019-08-05
+    description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2019-08-05
+    description: Saskatchewan Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2019-08-05
+    description: Heritage Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NS
+    date: 2019-08-05
+    description: Heritage Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NB
+    date: 2019-08-05
+    description: New Brunswick Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region:
+    date: 2019-09-02
+    description: Labour Day
+    type: NV
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: BC
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: MB
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NL
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: ON
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: QC
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: YT
+    date: 2019-10-14
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: AB
+    date: 2019-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: BC
+    date: 2019-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: NB
+    date: 2019-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: NL
+    date: 2019-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region: NT
+    date: 2019-11-11
+    description: Remembrance Day
+    type: F
+    notes:
+  holiday:
+    locale: en-CA
+    region:
+    date: 2019-12-25
+    description: Christmas Day
+    type: NRF
+    notes:
+  holiday:
+    locale: en-CA
+    region:
+    date: 2019-12-26
+    description: Boxing Day
+    type: NRF
+    notes:
+...
