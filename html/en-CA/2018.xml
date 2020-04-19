@@ -186,14 +186,6 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region>MB</region>
-    <date>2018-08-06</date>
-    <description>August Civic Holiday</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
     <region>NT</region>
     <date>2018-08-06</date>
     <description>August Civic Holiday</description>
@@ -205,6 +197,14 @@
     <region>NU</region>
     <date>2018-08-06</date>
     <description>August Civic Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2018-08-06</date>
+    <description>Saskatchewan Day</description>
     <type>V</type>
     <notes></notes>
   </holiday>

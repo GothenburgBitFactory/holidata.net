@@ -21,9 +21,9 @@
 {"locale":"en-CA","region":"YT","date":"2013-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"QC","date":"2013-06-24","description":"National Holiday","type":"F","notes":""}
 {"locale":"en-CA","region":"","date":"2013-07-01","description":"Canada Day","type":"NF","notes":""}
-{"locale":"en-CA","region":"MB","date":"2013-08-05","description":"August Civic Holiday","type":"V","notes":""}
 {"locale":"en-CA","region":"NT","date":"2013-08-05","description":"August Civic Holiday","type":"V","notes":""}
 {"locale":"en-CA","region":"NU","date":"2013-08-05","description":"August Civic Holiday","type":"V","notes":""}
+{"locale":"en-CA","region":"SK","date":"2013-08-05","description":"Saskatchewan Day","type":"V","notes":""}
 {"locale":"en-CA","region":"AB","date":"2013-08-05","description":"Heritage Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NS","date":"2013-08-05","description":"Heritage Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NB","date":"2013-08-05","description":"New Brunswick Day","type":"V","notes":""}

@@ -163,13 +163,6 @@
     notes:
   holiday:
     locale: en-CA
-    region: MB
-    date: 2016-08-01
-    description: August Civic Holiday
-    type: V
-    notes:
-  holiday:
-    locale: en-CA
     region: NT
     date: 2016-08-01
     description: August Civic Holiday
@@ -180,6 +173,13 @@
     region: NU
     date: 2016-08-01
     description: August Civic Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2016-08-01
+    description: Saskatchewan Day
     type: V
     notes:
   holiday:
