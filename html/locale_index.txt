@@ -8,7 +8,7 @@ de-CH    X    X    X    X    X    X    X    X    X    X    X
 de-DE    X    X    X    X    X    X    X    X    X    X    X
 el-GR    X    X    X    X    X    X    X    X    X    X    X
 en-AU    X    X    X    X    X    X    -    -    -    -    -
-en-CA    X    X    X    X    X    X    X    X    X    X    -
+en-CA    X    X    X    X    X    X    X    X    X    X    X
 en-GB    X    X    X    X    X    X    X    X    X    X    X
 en-GL    -    X    X    X    X    X    -    -    -    -    -
 en-HK    -    X    X    X    X    X    -    -    -    -    -
