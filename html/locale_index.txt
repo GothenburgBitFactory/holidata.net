@@ -24,7 +24,7 @@ es-US    X    X    X    X    X    X    X    X    X    X    X
 et-EE    -    X    X    X    X    X    X    X    -    -    -
 fi-FI    X    X    X    X    X    X    X    X    X    X    X
 fr-BE    X    X    X    X    X    X    X    X    X    X    X
-fr-CA    X    X    X    X    -    -    -    -    -    -    -
+fr-CA    X    X    X    X    X    -    -    -    -    -    -
 fr-FR    X    X    X    X    X    X    X    X    X    X    X
 ga-IE    X    X    X    X    X    X    X    X    -    -    -
 hr-HR    X    X    X    X    X    X    X    X    X    X    X
