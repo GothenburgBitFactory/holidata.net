@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-01-01
+    description: Confraternização Universal
+    type: NF
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-02-16
+    description: Carnaval
+    type: NRV
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-02-17
+    description: Carnaval
+    type: NRV
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-04-03
+    description: Sexta-feira Santa
+    type: NRV
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-04-05
+    description: Páscoa
+    type: NRV
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-04-21
+    description: Tiradentes
+    type: NF
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-05-01
+    description: Dia do Trabalho
+    type: NF
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-06-04
+    description: Corpus Christi
+    type: NRV
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-09-07
+    description: Independência do Brasil
+    type: NF
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-10-12
+    description: Nossa Senhora Aparecida
+    type: NRF
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-11-02
+    description: Finados
+    type: NRF
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-11-15
+    description: Proclamação da República
+    type: NF
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2015-12-25
+    description: Natal
+    type: NRF
+    notes:
+...

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-01-01</date>
+    <description>Confraternização Universal</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-02-16</date>
+    <description>Carnaval</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-02-17</date>
+    <description>Carnaval</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-04-03</date>
+    <description>Sexta-feira Santa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-04-05</date>
+    <description>Páscoa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-04-21</date>
+    <description>Tiradentes</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-05-01</date>
+    <description>Dia do Trabalho</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-06-04</date>
+    <description>Corpus Christi</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-09-07</date>
+    <description>Independência do Brasil</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-10-12</date>
+    <description>Nossa Senhora Aparecida</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-11-02</date>
+    <description>Finados</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-11-15</date>
+    <description>Proclamação da República</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2015-12-25</date>
+    <description>Natal</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
