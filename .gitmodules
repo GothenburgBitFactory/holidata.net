@@ -1,0 +1,3 @@
+[submodule "themes/hugo-tikva"]
+	path = themes/hugo-tikva
+	url = https://github.com/geschke/hugo-tikva

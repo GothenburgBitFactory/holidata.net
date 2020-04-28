@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ $dateFormat := default "Mon Jan 2, 2006" .Site.Params.DateFormat }}
+{{ $author :=  .Params.author | default .Site.Params.author }}
+{{ $showNumberOfWords := .Params.ShowNumberOfWords | default .Site.Params.ShowNumberOfWords  }}
+
+<h1>{{ .Title }}</h1>
+<div class="post-meta">
+    {{ if .Site.Params.ShowDate }}<span class="byline-icon fa fa-clock-o" aria-hidden="true"></span> <span class="screen-reader-text">{{ i18n "date" }}: </span><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> - {{ end }}{{ if $author }}
+    <span class="byline-icon fa fa-user" aria-hidden="true"></span><span class="screen-reader-text">{{ i18n "author" }}: </span> {{ $author }} - {{ end }}
+    {{ if $showNumberOfWords }}{{ .FuzzyWordCount }} {{ i18n "words" }}{{ end }}
+</div>
+
+{{ .Content }}
+<table class="table">
+  <tr>
+    <th>Country</th>
+    <th>Locale</th>
+    {{ range $.Site.Data.holidata.years }}<th>{{ . }}</th>{{ end }}
+  </tr>
+  {{ range $locale := $.Site.Data.holidata.locales }}
+  <tr>
+    <td>{{ index $.Site.Data.countries $locale.country }}</td>
+    <td>{{ $locale.language }}-{{ $locale.country }}</td>
+    {{ range $year := $.Site.Data.holidata.years }}
+    <td>
+      {{ range $format := $.Site.Data.holidata.formats }}
+      <a href="/{{ $locale.language }}-{{ $locale.country }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
+      {{ end }}
+    </td>
+    {{ end }}
+  </tr>
+  {{ end }}
+</table>
+{{ end }}

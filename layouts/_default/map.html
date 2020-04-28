@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+{{ $dateFormat := default "Mon Jan 2, 2006" .Site.Params.DateFormat }}
+{{ $author :=  .Params.author | default .Site.Params.author }}
+{{ $showNumberOfWords := .Params.ShowNumberOfWords | default .Site.Params.ShowNumberOfWords  }}
+
+<h1>{{ .Title }}</h1>
+<div class="post-meta">
+    {{ if .Site.Params.ShowDate }}<span class="byline-icon fa fa-clock-o" aria-hidden="true"></span> <span class="screen-reader-text">{{ i18n "date" }}: </span><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> - {{ end }}{{ if $author }}
+    <span class="byline-icon fa fa-user" aria-hidden="true"></span><span class="screen-reader-text">{{ i18n "author" }}: </span> {{ $author }} - {{ end }}
+    {{ if $showNumberOfWords }}{{ .FuzzyWordCount }} {{ i18n "words" }}{{ end }}
+
+{{ .Content }}
+</div>
+<p></p>
+<div id="map_div"></div>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['geochart']});
+  google.charts.setOnLoadCallback(drawRegionsMap);
+
+  function drawRegionsMap() {
+    var data = [
+      ['Code', 'Country'],
+      {{ range $locale := $.Site.Data.holidata.locales }}
+        ['{{ $locale.country }}', '{{ index $.Site.Data.countries $locale.country }}'],
+      {{ end}}
+    ];
+
+    var dataTable = google.visualization.arrayToDataTable(data);
+
+    var options = {
+      defaultColor: '#6b9430',
+      backgroundColor: { fill:'transparent' }
+    };
+
+    var chart = new google.visualization.GeoChart(document.getElementById('map_div'));
+
+    google.visualization.events.addListener(chart, 'select', function () {
+      var selection = chart.getSelection();
+      console.log(selection);
+      if (selection.length > 0) {
+        window.open('/locales', '_self');
+      }
+    });
+
+    chart.draw(dataTable, options);
+  }
+</script>
+{{ end }}
