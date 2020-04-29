@@ -19,12 +19,8 @@ fi
 
 SCRIPT="$( pwd )/${BASH_SOURCE[0]}"
 BASE="${SCRIPT%/bin/*}"
-DOCROOT="${BASE}/html"
-LOCALE_TEXT="${DOCROOT}/locale_index.txt"
-LOCALE_HTML="${DOCROOT}/locale_index.html"
-LOCALE_TEMPLATE="${BASE}/bin/template_locale.html"
-MAP_HTML="${DOCROOT}/map.html"
-MAP_TEMPLATE="${BASE}/bin/template_map.html"
+LOCALE_DIR="${BASE}/holidata"
+DATA_DIR="${BASE}/data"
 
 while [[ -n "${1}" ]] ; do
   case ${1} in
@@ -38,7 +34,7 @@ while [[ -n "${1}" ]] ; do
       while IFS='' read -r line; do years+=("$line"); done < <( seq "2011" "$( date "+%Y" )" )
       ;;
     --all-locales)
-      while IFS=' ' read -r line ; do locales+=( "${line}" ) ; done <  <( find "${DOCROOT}" -name "??-??" | sed "s|${DOCROOT}/\(..-..\)|\1|" )
+      while IFS=' ' read -r line ; do locales+=( "${line}" ) ; done <  <( find "${LOCALE_DIR}" -name "??-??" | sed "s|${LOCALE_DIR}/\(..-..\)|\1|" )
       ;;
     --commit)
       DO_COMMIT="yes"
@@ -59,11 +55,11 @@ if [[ ${#locales[@]} -eq 0 ]] ; then
   echo "No locale specified!"
   exit 1
 elif [[ ${#locales[@]} -eq 1 && ${#years[@]} -eq 0 ]] ; then
-  if [[ ! -d "${DOCROOT}/${locales[0]}" ]] ; then
+  if [[ ! -d "${LOCALE_DIR}/${locales[0]}" ]] ; then
     echo "No data exists for locale ${locales[0]}!"
     exit 1
   fi
-  while IFS=' ' read -r line ; do years+=( "${line}" ) ; done <  <( find "${DOCROOT}/${locales[0]}" -name "[0-9][0-9][0-9][0-9].*" | sed "s|${DOCROOT}/${locales[0]}/\(....\)\..*|\1|"  | sort -u )
+  while IFS=' ' read -r line ; do years+=( "${line}" ) ; done <  <( find "${LOCALE_DIR}/${locales[0]}" -name "[0-9][0-9][0-9][0-9].*" | sed "s|${LOCALE_DIR}/${locales[0]}/\(....\)\..*|\1|"  | sort -u )
 fi
 
 if [[ ${#years[@]} -eq 0 ]] ; then
@@ -73,48 +69,58 @@ fi
 
 if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
   echo "Cleaning repository..."
-  git -C "${BASE}" checkout -- "${DOCROOT}"
-  git -C "${BASE}" clean -f "${DOCROOT}"
+  git -C "${BASE}" checkout -- "${LOCALE_DIR}"
+  git -C "${BASE}" clean -f "${LOCALE_DIR}"
 fi
 
 echo "Processing ${#locales[@]} locale(s), ${#years[@]} year(s) each..."
 
 for locale in "${locales[@]}" ; do
-  if [[ ! -d "${DOCROOT}/${locale}" ]] ; then
+  if [[ ! -d "${LOCALE_DIR}/${locale}" ]] ; then
     echo "Generating locale '${locale}' dir..."
-    mkdir -p "${DOCROOT}/${locale}"
+    mkdir -p "${LOCALE_DIR}/${locale}"
   fi
 
   for year in "${years[@]}" ; do
-    if [[ -e "${DOCROOT}/${locale}/${year}.*" ]] ; then
+    if [[ -e "${LOCALE_DIR}/${locale}/${year}.*" ]] ; then
       ACTION="Update"
     fi
     echo "Generating locale '${locale}' files for ${year}..."
     for format in "csv" "json" "yaml" "xml" ; do
       echo -en "Generating ${locale}/${year}.${format}           \r"
-      "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${DOCROOT}/${locale}/${year}.${format}" || { rm "${DOCROOT}/${locale}/${year}.${format}" ; continue 3 ; }
+      "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${LOCALE_DIR}/${locale}/${year}.${format}" || { rm "${LOCALE_DIR}/${locale}/${year}.${format}" ; continue 3 ; }
     done
 
-    cd "${BASE}/bin" >/dev/null || exit
-    # Generate the locale index page from the generated data formats
-    echo "Generating locale index..."
-    ./gen-locales --docroot "${DOCROOT}" --text "${LOCALE_TEXT}" --html "${LOCALE_HTML}" --template "${LOCALE_TEMPLATE}"
-
-    # Generate the map page from the generated data formats
-    echo "Generating map page..."
-    ./gen-map --docroot "${DOCROOT}" --html "${MAP_HTML}" --template "${MAP_TEMPLATE}"
-
+    cd "${DATA_DIR}" >/dev/null || exit
+    # Update der Datei data/holidata.json
+    echo :> "${DATA_DIR}/holidata.json"
+    (
+      LOCALES=""
+      for dir in $( find "${LOCALE_DIR}" -name "??-??" -maxdepth 1 | sed -e "s|.*holidata/\(..\)-\(..\)|\2-\1|" | sort ) ; do
+        lang="${dir#*-}"
+        country="${dir%-*}"
+        LOCALES+="${LOCALES:+",\\n"}    {\"country\":\"${country}\",\"language\":\"${lang}\"}"
+      done
+      echo "{"
+      echo "  \"years\": [\"2020\", \"2021\"],"
+      echo "  \"formats\":[\"CSV\",\"JSON\",\"YAML\",\"XML\"],"
+      echo "  \"locales\": ["
+      echo -e "${LOCALES}"
+      echo "  ]"
+      echo -n "}"
+    ) > "${DATA_DIR}/holidata.json"
     cd - >/dev/null || exit
 
     echo "Generated locale ${locale} for year ${year}"
 
     if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
-      git -C "${BASE}" add "${DOCROOT}/${locale}"
+      git -C "${BASE}" add "${LOCALE_DIR}/${locale}"
+      git -C "${BASE}" add "${DATA_DIR}"
 
-      if git diff --cached --quiet "${DOCROOT}/${locale}" ; then
+      if git -C "${BASE}" diff --cached --quiet "${LOCALE_DIR}/${locale}" "${DATA_DIR}" ; then
         echo "No changes to holidata files in ${locale} for ${year}!"
       else
-        git -C "${BASE}" commit -m "${ACTION-Add} holidays for ${locale} ${year}" "${DOCROOT}" || exit 1
+        git -C "${BASE}" commit -m "${ACTION-Add} holidays for ${locale} ${year}" || exit 1
       fi
     fi
   done
