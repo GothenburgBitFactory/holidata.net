@@ -88,7 +88,7 @@ paginate = 2
     image = 'img/headerBackground.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style.
 
     width = 900 # Width of header image. Please set this value to the correct size, because it will be used for size calculation.
-    height = 235 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
+    height = 120 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
     altText = '' # Set alt text for header image, default empty
     displayHeaderText = true # display the title and subtitle - yes or no?
     titleOnImage = true # true|false, default false. Display title and subtitle as overlay in the foreground of the image. It is only possible to set the title as image overlay if an image is available. If no image is configured, the theme will do a fallback to non-overlay, i.e. title and subtitle will be displayed above the main navigation.
