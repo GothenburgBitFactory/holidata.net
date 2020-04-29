@@ -12,7 +12,7 @@
     region:
     date: 2016-01-11
     description: Día de los Reyes Magos
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: es-CO
@@ -75,7 +75,7 @@
     region:
     date: 2016-07-04
     description: San Pedro y San Pablo
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: es-CO

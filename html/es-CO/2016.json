@@ -1,5 +1,5 @@
 {"locale":"es-CO","region":"","date":"2016-01-01","description":"Año Nuevo","type":"NF","notes":""}
-{"locale":"es-CO","region":"","date":"2016-01-11","description":"Día de los Reyes Magos","type":"NV","notes":""}
+{"locale":"es-CO","region":"","date":"2016-01-11","description":"Día de los Reyes Magos","type":"NRV","notes":""}
 {"locale":"es-CO","region":"","date":"2016-03-21","description":"Día de San José","type":"NRV","notes":""}
 {"locale":"es-CO","region":"","date":"2016-03-24","description":"Jueves Santo","type":"NRV","notes":""}
 {"locale":"es-CO","region":"","date":"2016-03-25","description":"Viernes Santo","type":"NRV","notes":""}
@@ -8,7 +8,7 @@
 {"locale":"es-CO","region":"","date":"2016-05-09","description":"La Ascensión del Señor","type":"NRV","notes":""}
 {"locale":"es-CO","region":"","date":"2016-05-30","description":"Corpus Christi","type":"NRV","notes":""}
 {"locale":"es-CO","region":"","date":"2016-06-06","description":"El Sagrado Corazón de Jesús","type":"NRV","notes":""}
-{"locale":"es-CO","region":"","date":"2016-07-04","description":"San Pedro y San Pablo","type":"NV","notes":""}
+{"locale":"es-CO","region":"","date":"2016-07-04","description":"San Pedro y San Pablo","type":"NRV","notes":""}
 {"locale":"es-CO","region":"","date":"2016-07-20","description":"Grito de Independencia","type":"NF","notes":""}
 {"locale":"es-CO","region":"","date":"2016-08-07","description":"Batalla de Boyacá","type":"NF","notes":""}
 {"locale":"es-CO","region":"","date":"2016-08-15","description":"Asunción de la Virgen","type":"NRV","notes":""}
