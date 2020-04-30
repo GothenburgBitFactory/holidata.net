@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-01-01</date>
+    <description>Año Nuevo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-01-09</date>
+    <description>Día de los Reyes Magos</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-03-19</date>
+    <description>Día de San José</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-04-05</date>
+    <description>Jueves Santo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-04-06</date>
+    <description>Viernes Santo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-04-08</date>
+    <description>Domingo de Pascua</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-05-01</date>
+    <description>Día del Trabajo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-05-21</date>
+    <description>La Ascensión del Señor</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-06-11</date>
+    <description>Corpus Christi</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-06-18</date>
+    <description>El Sagrado Corazón de Jesús</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-07-02</date>
+    <description>San Pedro y San Pablo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-07-20</date>
+    <description>Grito de Independencia</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-08-07</date>
+    <description>Batalla de Boyacá</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-08-20</date>
+    <description>Asunción de la Virgen</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-10-15</date>
+    <description>Día de la Raza</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-11-05</date>
+    <description>Todos los Santos</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-11-12</date>
+    <description>Independencia de Cartagena</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-12-08</date>
+    <description>Inmaculada Concepción</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2012-12-25</date>
+    <description>Navidad</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
