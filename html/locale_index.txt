@@ -10,7 +10,7 @@ en-CA    X    X    X    X    X    X    X    X    X    X    X
 en-GB    X    X    X    X    X    X    X    X    X    X    X
 en-NZ    X    X    X    X    X    X    X    X    X    X    X
 en-US    X    X    X    X    X    X    X    X    X    X    X
-es-CO    X    X    X    X    X    X    -    -    -    -    -
+es-CO    X    X    X    X    X    X    X    -    -    -    -
 es-ES    X    X    X    X    X    X    X    X    X    X    X
 es-US    X    X    X    X    X    X    X    X    X    X    X
 fi-FI    X    X    X    X    X    X    X    X    X    X    X
