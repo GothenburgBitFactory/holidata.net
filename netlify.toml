@@ -1,3 +1,6 @@
 [build]
 publish = "html"
 command = "hugo --gc --minify"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.69.2"
