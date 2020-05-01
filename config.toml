@@ -2,6 +2,7 @@ baseURL = "https://holidata.net/"
 languageCode = "en-us"
 title = "holidata.net"
 theme = "hugo-tikva"
+publishDir = "html"
 
 staticDir = ["static", "holidata"]
 
