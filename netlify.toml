@@ -1,0 +1,3 @@
+[build]
+publish = "html"
+command = "hugo --gc --minify"
