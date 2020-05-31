@@ -91,26 +91,6 @@ for locale in "${locales[@]}" ; do
       "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${LOCALE_DIR}/${locale}/${year}.${format}" || { rm "${LOCALE_DIR}/${locale}/${year}.${format}" ; continue 3 ; }
     done
 
-    cd "${DATA_DIR}" >/dev/null || exit
-    # Update der Datei data/holidata.json
-    echo :> "${DATA_DIR}/holidata.json"
-    (
-      LOCALES=""
-      for dir in $( find "${LOCALE_DIR}" -name "??-??" -maxdepth 1 | sed -e "s|.*holidata/\(..\)-\(..\)|\2-\1|" | sort ) ; do
-        lang="${dir#*-}"
-        country="${dir%-*}"
-        LOCALES+="${LOCALES:+",\\n"}    {\"country\":\"${country}\",\"language\":\"${lang}\"}"
-      done
-      echo "{"
-      echo "  \"years\": [\"2020\", \"2021\"],"
-      echo "  \"formats\":[\"CSV\",\"JSON\",\"YAML\",\"XML\"],"
-      echo "  \"locales\": ["
-      echo -e "${LOCALES}"
-      echo "  ]"
-      echo -n "}"
-    ) > "${DATA_DIR}/holidata.json"
-    cd - >/dev/null || exit
-
     echo "Generated locale ${locale} for year ${year}"
 
     if [[ "${DO_COMMIT-no}" == "yes" ]] ; then
