@@ -1,16 +1,16 @@
-{"locale":"sv-SE","region":"","date":"2011-01-01","description":"Nyårsdagen","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-01-06","description":"Trettondedag jul","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-04-22","description":"Långfredagen","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-04-24","description":"Påskdagen","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-04-25","description":"Annandag påsk","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-05-01","description":"Första maj","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-06-02","description":"Kristi himmelsfärdsdag","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-06-06","description":"Nationaldagen","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-06-12","description":"Pingstdagen","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-06-24","description":"Midsommarafton","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-06-25","description":"Midsommardagen","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-11-05","description":"Alla helgons dag","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-12-24","description":"Julafton","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-12-25","description":"Juldagen","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-12-26","description":"Annandag jul","type":"N","notes":""}
-{"locale":"sv-SE","region":"","date":"2011-12-31","description":"Nyårsafton","type":"N","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-01-01","description":"Nyårsdagen","type":"NF","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-01-06","description":"Trettondedag jul","type":"NRF","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-04-22","description":"Långfredagen","type":"NRV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-04-24","description":"Påskdagen","type":"NRV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-04-25","description":"Annandag påsk","type":"NRV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-05-01","description":"Första maj","type":"NF","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-06-02","description":"Kristi himmelsfärdsdag","type":"NRV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-06-06","description":"Nationaldagen","type":"NF","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-06-12","description":"Pingstdagen","type":"NRV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-06-24","description":"Midsommarafton","type":"NV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-06-25","description":"Midsommardagen","type":"NV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-11-05","description":"Alla helgons dag","type":"NRV","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-12-24","description":"Julafton","type":"NRF","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-12-25","description":"Juldagen","type":"NRF","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-12-26","description":"Annandag jul","type":"NRF","notes":""}
+{"locale":"sv-SE","region":"","date":"2011-12-31","description":"Nyårsafton","type":"NF","notes":""}

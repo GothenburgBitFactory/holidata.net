@@ -5,7 +5,7 @@
     <region></region>
     <date>2011-01-01</date>
     <description>Nyårsdagen</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -13,7 +13,7 @@
     <region></region>
     <date>2011-01-06</date>
     <description>Trettondedag jul</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -21,7 +21,7 @@
     <region></region>
     <date>2011-04-22</date>
     <description>Långfredagen</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +29,7 @@
     <region></region>
     <date>2011-04-24</date>
     <description>Påskdagen</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region></region>
     <date>2011-04-25</date>
     <description>Annandag påsk</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -45,7 +45,7 @@
     <region></region>
     <date>2011-05-01</date>
     <description>Första maj</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -53,7 +53,7 @@
     <region></region>
     <date>2011-06-02</date>
     <description>Kristi himmelsfärdsdag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -61,7 +61,7 @@
     <region></region>
     <date>2011-06-06</date>
     <description>Nationaldagen</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -69,7 +69,7 @@
     <region></region>
     <date>2011-06-12</date>
     <description>Pingstdagen</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -77,7 +77,7 @@
     <region></region>
     <date>2011-06-24</date>
     <description>Midsommarafton</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -85,7 +85,7 @@
     <region></region>
     <date>2011-06-25</date>
     <description>Midsommardagen</description>
-    <type>N</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -93,7 +93,7 @@
     <region></region>
     <date>2011-11-05</date>
     <description>Alla helgons dag</description>
-    <type>N</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -101,7 +101,7 @@
     <region></region>
     <date>2011-12-24</date>
     <description>Julafton</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -109,7 +109,7 @@
     <region></region>
     <date>2011-12-25</date>
     <description>Juldagen</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -117,7 +117,7 @@
     <region></region>
     <date>2011-12-26</date>
     <description>Annandag jul</description>
-    <type>N</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -125,7 +125,7 @@
     <region></region>
     <date>2011-12-31</date>
     <description>Nyårsafton</description>
-    <type>N</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
 </holidays>

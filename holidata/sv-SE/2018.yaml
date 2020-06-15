@@ -82,7 +82,7 @@
     region:
     date: 2018-11-03
     description: Alla helgons dag
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: sv-SE

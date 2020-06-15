@@ -9,7 +9,7 @@
 {"locale":"sv-SE","region":"","date":"2012-06-06","description":"Nationaldagen","type":"NF","notes":""}
 {"locale":"sv-SE","region":"","date":"2012-06-22","description":"Midsommarafton","type":"NV","notes":""}
 {"locale":"sv-SE","region":"","date":"2012-06-23","description":"Midsommardagen","type":"NV","notes":""}
-{"locale":"sv-SE","region":"","date":"2012-11-03","description":"Alla helgons dag","type":"NV","notes":""}
+{"locale":"sv-SE","region":"","date":"2012-11-03","description":"Alla helgons dag","type":"NRV","notes":""}
 {"locale":"sv-SE","region":"","date":"2012-12-24","description":"Julafton","type":"NRF","notes":""}
 {"locale":"sv-SE","region":"","date":"2012-12-25","description":"Juldagen","type":"NRF","notes":""}
 {"locale":"sv-SE","region":"","date":"2012-12-26","description":"Annandag jul","type":"NRF","notes":""}

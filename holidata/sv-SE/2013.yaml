@@ -82,7 +82,7 @@
     region:
     date: 2013-11-02
     description: Alla helgons dag
-    type: NV
+    type: NRV
     notes:
   holiday:
     locale: sv-SE

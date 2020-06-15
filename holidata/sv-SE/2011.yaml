@@ -5,111 +5,111 @@
     region:
     date: 2011-01-01
     description: Nyårsdagen
-    type: N
+    type: NF
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-01-06
     description: Trettondedag jul
-    type: N
+    type: NRF
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-04-22
     description: Långfredagen
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-04-24
     description: Påskdagen
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-04-25
     description: Annandag påsk
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-05-01
     description: Första maj
-    type: N
+    type: NF
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-06-02
     description: Kristi himmelsfärdsdag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-06-06
     description: Nationaldagen
-    type: N
+    type: NF
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-06-12
     description: Pingstdagen
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-06-24
     description: Midsommarafton
-    type: N
+    type: NV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-06-25
     description: Midsommardagen
-    type: N
+    type: NV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-11-05
     description: Alla helgons dag
-    type: N
+    type: NRV
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-12-24
     description: Julafton
-    type: N
+    type: NRF
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-12-25
     description: Juldagen
-    type: N
+    type: NRF
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-12-26
     description: Annandag jul
-    type: N
+    type: NRF
     notes:
   holiday:
     locale: sv-SE
     region:
     date: 2011-12-31
     description: Nyårsafton
-    type: N
+    type: NF
     notes:
 ...
