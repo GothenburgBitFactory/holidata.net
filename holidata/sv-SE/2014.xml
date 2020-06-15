@@ -59,17 +59,17 @@
   <holiday>
     <locale>sv-SE</locale>
     <region></region>
-    <date>2014-06-08</date>
-    <description>Pingstdagen</description>
-    <type>NRV</type>
+    <date>2014-06-06</date>
+    <description>Nationaldagen</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>sv-SE</locale>
     <region></region>
-    <date>2014-06-06</date>
-    <description>Nationaldagen</description>
-    <type>NF</type>
+    <date>2014-06-08</date>
+    <description>Pingstdagen</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>

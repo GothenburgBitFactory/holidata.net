@@ -52,16 +52,16 @@
   holiday:
     locale: sv-SE
     region:
-    date: 2014-06-08
-    description: Pingstdagen
-    type: NRV
+    date: 2014-06-06
+    description: Nationaldagen
+    type: NF
     notes:
   holiday:
     locale: sv-SE
     region:
-    date: 2014-06-06
-    description: Nationaldagen
-    type: NF
+    date: 2014-06-08
+    description: Pingstdagen
+    type: NRV
     notes:
   holiday:
     locale: sv-SE
