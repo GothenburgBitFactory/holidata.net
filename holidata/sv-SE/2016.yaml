@@ -38,13 +38,6 @@
   holiday:
     locale: sv-SE
     region: 
-    date: 2016-04-30
-    description: Valborgmässoafton
-    type: NF
-    notes: 
-  holiday:
-    locale: sv-SE
-    region: 
     date: 2016-05-01
     description: Första maj
     type: NF

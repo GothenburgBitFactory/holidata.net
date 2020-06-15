@@ -38,13 +38,6 @@
   holiday:
     locale: sv-SE
     region: 
-    date: 2011-04-30
-    description: Valborgmässoafton
-    type: N
-    notes: 
-  holiday:
-    locale: sv-SE
-    region: 
     date: 2011-05-01
     description: Första maj
     type: N

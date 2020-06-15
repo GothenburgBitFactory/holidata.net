@@ -43,14 +43,6 @@
   <holiday>
     <locale>sv-SE</locale>
     <region></region>
-    <date>2011-04-30</date>
-    <description>Valborgmässoafton</description>
-    <type>N</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>sv-SE</locale>
-    <region></region>
     <date>2011-05-01</date>
     <description>Första maj</description>
     <type>N</type>
