@@ -12,28 +12,28 @@
     region: BW
     date: 2020-01-06
     description: Heilige drei Könige
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BY
     date: 2020-01-06
     description: Heilige drei Könige
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: ST
     date: 2020-01-06
     description: Heilige drei Könige
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BE
     date: 2020-03-08
     description: Internationaler Frauentag
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-DE
@@ -68,7 +68,7 @@
     region: BE
     date: 2020-05-08
     description: 75. Jahrestag der Befreiung vom Nationalsozialismus und der Beendigung des Zweiten Weltkrieges in Europa
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-DE
@@ -96,49 +96,49 @@
     region: BW
     date: 2020-06-11
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: BY
     date: 2020-06-11
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: HE
     date: 2020-06-11
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: NW
     date: 2020-06-11
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: RP
     date: 2020-06-11
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: SL
     date: 2020-06-11
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: SL
     date: 2020-08-15
     description: Mariä Himmelfahrt
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
@@ -152,105 +152,105 @@
     region: BB
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BH
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: HH
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: MV
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: NI
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SH
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SN
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: ST
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: TH
     date: 2020-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BW
     date: 2020-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BY
     date: 2020-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: NW
     date: 2020-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: RP
     date: 2020-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SL
     date: 2020-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SN
     date: 2020-11-18
     description: Buß- und Bettag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
