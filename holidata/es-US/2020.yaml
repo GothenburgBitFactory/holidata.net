@@ -12,7 +12,7 @@
     region:
     date: 2020-01-20
     description: Cumpleaños de Martin Luther King, Jr.
-    type: V
+    type: NV
     notes:
   holiday:
     locale: es-US
@@ -26,14 +26,14 @@
     region: MA
     date: 2020-04-20
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
     region: ME
     date: 2020-04-20
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
@@ -76,6 +76,20 @@
     date: 2020-11-26
     description: Día de Acción de Gracias
     type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2020-11-27
+    description: Día después de Acción de Gracias
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2020-12-24
+    description: Nochebuena
+    type: NRF
     notes:
   holiday:
     locale: es-US
