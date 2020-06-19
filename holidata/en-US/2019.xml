@@ -13,7 +13,7 @@
     <region></region>
     <date>2019-01-21</date>
     <description>Birthday of Martin Luther King, Jr.</description>
-    <type>V</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +29,7 @@
     <region>MA</region>
     <date>2019-04-15</date>
     <description>Patriots' Day</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region>ME</region>
     <date>2019-04-15</date>
     <description>Patriots' Day</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -83,9 +83,25 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
+    <date>2019-11-22</date>
+    <description>Day after Thanksgiving</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
     <date>2019-11-28</date>
     <description>Thanksgiving Day</description>
     <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2019-12-24</date>
+    <description>Christmas Eve</description>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
