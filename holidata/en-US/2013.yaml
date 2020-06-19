@@ -12,7 +12,7 @@
     region:
     date: 2013-01-21
     description: Birthday of Martin Luther King, Jr.
-    type: V
+    type: NV
     notes:
   holiday:
     locale: en-US
@@ -26,14 +26,14 @@
     region: MA
     date: 2013-04-15
     description: Patriots' Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-US
     region: ME
     date: 2013-04-15
     description: Patriots' Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-US
@@ -68,6 +68,13 @@
     region:
     date: 2013-11-11
     description: Veterans Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2013-11-22
+    description: Day after Thanksgiving
     type: NV
     notes:
   holiday:
@@ -76,6 +83,13 @@
     date: 2013-11-28
     description: Thanksgiving Day
     type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2013-12-24
+    description: Christmas Eve
+    type: NRF
     notes:
   holiday:
     locale: en-US
