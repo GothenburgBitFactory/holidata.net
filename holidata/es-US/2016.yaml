@@ -12,7 +12,7 @@
     region:
     date: 2016-01-18
     description: Cumpleaños de Martin Luther King, Jr.
-    type: V
+    type: NV
     notes:
   holiday:
     locale: es-US
@@ -26,14 +26,14 @@
     region: MA
     date: 2016-04-18
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
     region: ME
     date: 2016-04-18
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
@@ -68,7 +68,7 @@
     region:
     date: 2016-11-11
     description: Día de los Veteranos
-    type: NV
+    type: NF
     notes:
   holiday:
     locale: es-US
@@ -76,6 +76,20 @@
     date: 2016-11-24
     description: Día de Acción de Gracias
     type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2016-11-25
+    description: Día después de Acción de Gracias
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2016-12-24
+    description: Nochebuena
+    type: NRF
     notes:
   holiday:
     locale: es-US
