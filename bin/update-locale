@@ -82,9 +82,11 @@ for locale in "${locales[@]}" ; do
   fi
 
   for year in "${years[@]}" ; do
-    if [[ -e "${LOCALE_DIR}/${locale}/${year}.*" ]] ; then
-      ACTION="Update"
-    fi
+    for f in "${LOCALE_DIR}"/"${locale}"/"${year}".* ; do
+      [[ -e "${f}" ]] && ACTION="Update" || ACTION="Add"
+      break
+    done
+
     echo "Generating locale '${locale}' files for ${year}..."
     for format in "csv" "json" "yaml" "xml" ; do
       echo -en "Generating ${locale}/${year}.${format}           \r"
@@ -102,6 +104,8 @@ for locale in "${locales[@]}" ; do
       else
         git -C "${BASE}" commit -m "${ACTION-Add} holidays for ${locale} ${year}" || exit 1
       fi
+    else
+      echo "${ACTION-Add} holidays for ${locale} ${year}"
     fi
   done
 done
