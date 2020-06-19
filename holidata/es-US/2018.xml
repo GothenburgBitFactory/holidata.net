@@ -13,7 +13,7 @@
     <region></region>
     <date>2018-01-15</date>
     <description>Cumpleaños de Martin Luther King, Jr.</description>
-    <type>V</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +29,7 @@
     <region>MA</region>
     <date>2018-04-16</date>
     <description>Día del Patriota</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region>ME</region>
     <date>2018-04-16</date>
     <description>Día del Patriota</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -77,7 +77,7 @@
     <region></region>
     <date>2018-11-11</date>
     <description>Día de los Veteranos</description>
-    <type>NV</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -86,6 +86,22 @@
     <date>2018-11-22</date>
     <description>Día de Acción de Gracias</description>
     <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2018-11-23</date>
+    <description>Día después de Acción de Gracias</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2018-12-24</date>
+    <description>Nochebuena</description>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
