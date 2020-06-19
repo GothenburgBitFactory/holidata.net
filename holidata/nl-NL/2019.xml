@@ -45,7 +45,7 @@
     <region></region>
     <date>2019-05-04</date>
     <description>Dodenherdenking</description>
-    <type>F</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -85,7 +85,7 @@
     <region></region>
     <date>2019-12-05</date>
     <description>Sinterklaas</description>
-    <type>RF</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
