@@ -96,168 +96,168 @@
     region: AG
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: AI
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: AR
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: BE
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: BL
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: BS
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: FR
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: GE
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: GL
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: GR
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: JU
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: LU
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: NE
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: NW
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: OW
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: SG
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: SH
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: SO
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: SZ
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: TG
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: UR
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: VD
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: ZG
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: ZH
     date: 2013-03-29
     description: Karfreitag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
@@ -271,189 +271,189 @@
     region: AI
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: AR
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: BE
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: BL
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: BS
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: GE
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: GL
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: GR
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: JU
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: SG
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: SH
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: SZ
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: TG
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: TI
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: UR
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: VD
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: ZH
     date: 2013-04-01
     description: Ostermontag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-CH
     region: BL
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region: BS
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region: GR
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region: NE
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region: SH
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region: TG
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region: TI
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region: ZH
     date: 2013-05-01
     description: Tag der Arbeit
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-CH
     region:
     date: 2013-05-09
     description: Auffahrt
-    type: RV
+    type: NRV
     notes:
   holiday:
     locale: de-CH
     region:
     date: 2013-05-19
     description: Pfingstsonntag
-    type: RV
+    type: NRV
     notes:
   holiday:
     locale: de-CH
@@ -873,7 +873,7 @@
     region:
     date: 2013-12-25
     description: Weihnachtstag
-    type: RF
+    type: NRF
     notes:
   holiday:
     locale: de-CH
