@@ -10,16 +10,9 @@
   holiday:
     locale: en-US
     region:
-    date: 2017-01-02
-    description: New Year's Day (observed)
-    type: NV
-    notes:
-  holiday:
-    locale: en-US
-    region:
     date: 2017-01-16
     description: Birthday of Martin Luther King, Jr.
-    type: V
+    type: NV
     notes:
   holiday:
     locale: en-US
@@ -33,14 +26,14 @@
     region: MA
     date: 2017-04-17
     description: Patriots' Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-US
     region: ME
     date: 2017-04-17
     description: Patriots' Day
-    type: NV
+    type: V
     notes:
   holiday:
     locale: en-US
@@ -75,7 +68,7 @@
     region:
     date: 2017-11-11
     description: Veterans Day
-    type: NV
+    type: NF
     notes:
   holiday:
     locale: en-US
@@ -83,6 +76,20 @@
     date: 2017-11-23
     description: Thanksgiving Day
     type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2017-11-24
+    description: Day after Thanksgiving
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2017-12-24
+    description: Christmas Eve
+    type: NRF
     notes:
   holiday:
     locale: en-US
