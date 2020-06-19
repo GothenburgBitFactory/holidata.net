@@ -12,7 +12,7 @@
     region:
     date: 2013-01-21
     description: Cumpleaños de Martin Luther King, Jr.
-    type: V
+    type: NV
     notes:
   holiday:
     locale: es-US
@@ -26,14 +26,14 @@
     region: MA
     date: 2013-04-15
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
     region: ME
     date: 2013-04-15
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
@@ -68,6 +68,13 @@
     region:
     date: 2013-11-11
     description: Día de los Veteranos
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2013-11-22
+    description: Día después de Acción de Gracias
     type: NV
     notes:
   holiday:
@@ -76,6 +83,13 @@
     date: 2013-11-28
     description: Día de Acción de Gracias
     type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2013-12-24
+    description: Nochebuena
+    type: NRF
     notes:
   holiday:
     locale: es-US
