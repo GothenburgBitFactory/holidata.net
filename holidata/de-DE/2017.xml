@@ -13,7 +13,7 @@
     <region>BW</region>
     <date>2017-01-06</date>
     <description>Heilige drei Könige</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -21,7 +21,7 @@
     <region>BY</region>
     <date>2017-01-06</date>
     <description>Heilige drei Könige</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +29,7 @@
     <region>ST</region>
     <date>2017-01-06</date>
     <description>Heilige drei Könige</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -93,7 +93,7 @@
     <region>BW</region>
     <date>2017-06-15</date>
     <description>Fronleichnam</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -101,7 +101,7 @@
     <region>BY</region>
     <date>2017-06-15</date>
     <description>Fronleichnam</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -109,7 +109,7 @@
     <region>HE</region>
     <date>2017-06-15</date>
     <description>Fronleichnam</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -117,7 +117,7 @@
     <region>NW</region>
     <date>2017-06-15</date>
     <description>Fronleichnam</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -125,7 +125,7 @@
     <region>RP</region>
     <date>2017-06-15</date>
     <description>Fronleichnam</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -133,7 +133,7 @@
     <region>SL</region>
     <date>2017-06-15</date>
     <description>Fronleichnam</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -141,7 +141,7 @@
     <region>SL</region>
     <date>2017-08-15</date>
     <description>Mariä Himmelfahrt</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -165,7 +165,7 @@
     <region>BW</region>
     <date>2017-11-01</date>
     <description>Allerheiligen</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -173,7 +173,7 @@
     <region>BY</region>
     <date>2017-11-01</date>
     <description>Allerheiligen</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -181,7 +181,7 @@
     <region>NW</region>
     <date>2017-11-01</date>
     <description>Allerheiligen</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -189,7 +189,7 @@
     <region>RP</region>
     <date>2017-11-01</date>
     <description>Allerheiligen</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -197,7 +197,7 @@
     <region>SL</region>
     <date>2017-11-01</date>
     <description>Allerheiligen</description>
-    <type>NRF</type>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -205,7 +205,7 @@
     <region>SN</region>
     <date>2017-11-22</date>
     <description>Buß- und Bettag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
