@@ -13,7 +13,7 @@
     <region></region>
     <date>2016-01-18</date>
     <description>Birthday of Martin Luther King, Jr.</description>
-    <type>V</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +29,7 @@
     <region>MA</region>
     <date>2016-04-18</date>
     <description>Patriots' Day</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region>ME</region>
     <date>2016-04-18</date>
     <description>Patriots' Day</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -77,7 +77,7 @@
     <region></region>
     <date>2016-11-11</date>
     <description>Veterans Day</description>
-    <type>NV</type>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -86,6 +86,22 @@
     <date>2016-11-24</date>
     <description>Thanksgiving Day</description>
     <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2016-11-25</date>
+    <description>Day after Thanksgiving</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2016-12-24</date>
+    <description>Christmas Eve</description>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
