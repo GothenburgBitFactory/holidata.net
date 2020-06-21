@@ -1,0 +1,19 @@
+{{ $dateFormat := default "Mon Jan 2, 2006" .Site.Params.DateFormat }}
+{{ $author :=  .Params.author | default .Site.Params.author }}
+
+<article class="mb-5 post">
+  <header>
+    <div class="post-meta">{{ if .Site.Params.ShowDate }}<span class="byline-icon fa fa-calendar" aria-hidden="true"></span> <span class="screen-reader-text">{{ i18n "date" }}: </span><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time>{{ end }}
+    <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+    </div>
+  </header>
+  {{ .Summary }}
+
+  <footer>
+  {{ if .Truncated }}
+  <a href='{{ .Permalink }}'>  
+  <span>{{ i18n "readMore" . }} <span class="screen-reader-text">{{ i18n "readMoreOn" }} {{ .Title }}</span><span class="meta-nav"> »</span></span>
+  </a>
+  {{ end }}
+  </footer>
+</article>

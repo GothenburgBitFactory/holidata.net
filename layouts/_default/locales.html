@@ -6,12 +6,9 @@
 
 <h1>{{ .Title }}</h1>
 <div class="post-meta">
-    {{ if .Site.Params.ShowDate }}<span class="byline-icon fa fa-clock-o" aria-hidden="true"></span> <span class="screen-reader-text">{{ i18n "date" }}: </span><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> - {{ end }}{{ if $author }}
-    <span class="byline-icon fa fa-user" aria-hidden="true"></span><span class="screen-reader-text">{{ i18n "author" }}: </span> {{ $author }} - {{ end }}
-    {{ if $showNumberOfWords }}{{ .FuzzyWordCount }} {{ i18n "words" }}{{ end }}
+  {{ .Content }}
 </div>
 
-{{ .Content }}
 {{ $scratch := newScratch }}
 {{ range (readDir "holidata") }}
   {{ $c_l := split .Name "-" }}
@@ -24,6 +21,7 @@
     {{ $scratch.Add "formats" (slice (index $y_f 1)) }}
   {{ end }}
 {{ end }}
+
 <table class="table">
   <tr>
     <th>Country</th>

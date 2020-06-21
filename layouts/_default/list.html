@@ -12,11 +12,10 @@
     {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 
     {{ $paginator := .Paginate ($pages) -}}
-    {{/* range $paginator.Pages -}}
+    {{ range $paginator.Pages -}}
         {{ .Render "summary"}}
     {{ end -}}
-    {{ template "_internal/pagination.html" . */}}
-    
+    {{ template "_internal/pagination.html" . }}
    
 </main>
 
