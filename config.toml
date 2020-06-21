@@ -25,7 +25,7 @@ paginate = 2
 # Generic parameters
 [params]
     appendSiteTitle = true # Append site title to title tag on every page. Default false
-    #favicon = 'img/favicon.ico' # Add favicon, default empty
+    favicon = 'img/favicon.ico' # Add favicon, default empty
     subtitle = ''
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
