@@ -67,7 +67,7 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2015-09-23</date>
+    <date>2015-09-24</date>
     <description>Kurban Bayramı 1</description>
     <type>NRV</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2015-09-24</date>
+    <date>2015-09-25</date>
     <description>Kurban Bayramı 2</description>
     <type>NRV</type>
     <notes></notes>
@@ -83,7 +83,7 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2015-09-25</date>
+    <date>2015-09-26</date>
     <description>Kurban Bayramı 3</description>
     <type>NRV</type>
     <notes></notes>
@@ -91,7 +91,7 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2015-09-26</date>
+    <date>2015-09-27</date>
     <description>Kurban Bayramı 4</description>
     <type>NRV</type>
     <notes></notes>

@@ -35,7 +35,7 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2018-06-14</date>
+    <date>2018-06-15</date>
     <description>Ramazan Bayramı 1</description>
     <type>NRV</type>
     <notes></notes>
@@ -43,7 +43,7 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2018-06-15</date>
+    <date>2018-06-16</date>
     <description>Ramazan Bayramı 2</description>
     <type>NRV</type>
     <notes></notes>
@@ -51,7 +51,7 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2018-06-16</date>
+    <date>2018-06-17</date>
     <description>Ramazan Bayramı 3</description>
     <type>NRV</type>
     <notes></notes>

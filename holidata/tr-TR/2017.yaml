@@ -31,21 +31,21 @@
   holiday:
     locale: tr-TR
     region:
-    date: 2017-06-24
+    date: 2017-06-25
     description: Ramazan Bayramı 1
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2017-06-25
+    date: 2017-06-26
     description: Ramazan Bayramı 2
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2017-06-26
+    date: 2017-06-27
     description: Ramazan Bayramı 3
     type: NRV
     notes:
@@ -59,28 +59,28 @@
   holiday:
     locale: tr-TR
     region:
-    date: 2017-08-31
+    date: 2017-09-01
     description: Kurban Bayramı 1
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2017-09-01
+    date: 2017-09-02
     description: Kurban Bayramı 2
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2017-09-02
+    date: 2017-09-03
     description: Kurban Bayramı 3
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2017-09-03
+    date: 2017-09-04
     description: Kurban Bayramı 4
     type: NRV
     notes:

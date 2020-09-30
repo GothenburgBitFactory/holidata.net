@@ -59,28 +59,28 @@
   holiday:
     locale: tr-TR
     region:
-    date: 2015-09-23
+    date: 2015-09-24
     description: Kurban Bayramı 1
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2015-09-24
+    date: 2015-09-25
     description: Kurban Bayramı 2
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2015-09-25
+    date: 2015-09-26
     description: Kurban Bayramı 3
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2015-09-26
+    date: 2015-09-27
     description: Kurban Bayramı 4
     type: NRV
     notes:

@@ -31,21 +31,21 @@
   holiday:
     locale: tr-TR
     region:
-    date: 2018-06-14
+    date: 2018-06-15
     description: Ramazan Bayramı 1
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2018-06-15
+    date: 2018-06-16
     description: Ramazan Bayramı 2
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
-    date: 2018-06-16
+    date: 2018-06-17
     description: Ramazan Bayramı 3
     type: NRV
     notes:
