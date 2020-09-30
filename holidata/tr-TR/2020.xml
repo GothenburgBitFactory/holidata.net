@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-01-01</date>
+    <description>Yılbaşı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-04-23</date>
+    <description>Ulusal Egemenlik ve Çocuk Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-05-01</date>
+    <description>Emek ve Dayanışma Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-05-19</date>
+    <description>Atatürk'ü Anma, Gençlik ve Spor Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-05-24</date>
+    <description>Ramazan Bayramı (1. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-05-25</date>
+    <description>Ramazan Bayramı (2. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-05-26</date>
+    <description>Ramazan Bayramı (3. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-07-15</date>
+    <description>Demokrasi ve Milli Birlik Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-07-31</date>
+    <description>Kurban Bayramı (1. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-08-01</date>
+    <description>Kurban Bayramı (2. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-08-02</date>
+    <description>Kurban Bayramı (3. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-08-03</date>
+    <description>Kurban Bayramı (4. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-08-30</date>
+    <description>Zafer Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2020-10-29</date>
+    <description>Cumhuriyet Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
