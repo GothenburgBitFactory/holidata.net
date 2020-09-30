@@ -31,20 +31,6 @@
   holiday:
     locale: tr-TR
     region:
-    date: 2012-08-30
-    description: Zafer Bayramı
-    type: NF
-    notes:
-  holiday:
-    locale: tr-TR
-    region:
-    date: 2012-10-29
-    description: Cumhuriyet Bayramı
-    type: NF
-    notes:
-  holiday:
-    locale: tr-TR
-    region:
     date: 2012-08-19
     description: Ramazan Bayramı 1
     type: NRV
@@ -62,6 +48,13 @@
     date: 2012-08-21
     description: Ramazan Bayramı 3
     type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2012-08-30
+    description: Zafer Bayramı
+    type: NF
     notes:
   holiday:
     locale: tr-TR
@@ -90,5 +83,12 @@
     date: 2012-10-28
     description: Kurban Bayramı 4
     type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2012-10-29
+    description: Cumhuriyet Bayramı
+    type: NF
     notes:
 ...

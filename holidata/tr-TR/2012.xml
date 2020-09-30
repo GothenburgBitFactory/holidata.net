@@ -35,22 +35,6 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2012-08-30</date>
-    <description>Zafer Bayramı</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>tr-TR</locale>
-    <region></region>
-    <date>2012-10-29</date>
-    <description>Cumhuriyet Bayramı</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>tr-TR</locale>
-    <region></region>
     <date>2012-08-19</date>
     <description>Ramazan Bayramı 1</description>
     <type>NRV</type>
@@ -70,6 +54,14 @@
     <date>2012-08-21</date>
     <description>Ramazan Bayramı 3</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2012-08-30</date>
+    <description>Zafer Bayramı</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -102,6 +94,14 @@
     <date>2012-10-28</date>
     <description>Kurban Bayramı 4</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2012-10-29</date>
+    <description>Cumhuriyet Bayramı</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
 </holidays>

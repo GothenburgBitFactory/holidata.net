@@ -35,22 +35,6 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
-    <date>2018-08-30</date>
-    <description>Zafer Bayramı</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>tr-TR</locale>
-    <region></region>
-    <date>2018-10-29</date>
-    <description>Cumhuriyet Bayramı</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>tr-TR</locale>
-    <region></region>
     <date>2018-06-14</date>
     <description>Ramazan Bayramı 1</description>
     <type>NRV</type>
@@ -102,6 +86,22 @@
     <date>2018-08-24</date>
     <description>Kurban Bayramı 4</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2018-08-30</date>
+    <description>Zafer Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2018-10-29</date>
+    <description>Cumhuriyet Bayramı</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
 </holidays>

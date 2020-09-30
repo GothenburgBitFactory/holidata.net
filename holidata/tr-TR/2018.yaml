@@ -31,20 +31,6 @@
   holiday:
     locale: tr-TR
     region:
-    date: 2018-08-30
-    description: Zafer Bayramı
-    type: NF
-    notes:
-  holiday:
-    locale: tr-TR
-    region:
-    date: 2018-10-29
-    description: Cumhuriyet Bayramı
-    type: NF
-    notes:
-  holiday:
-    locale: tr-TR
-    region:
     date: 2018-06-14
     description: Ramazan Bayramı 1
     type: NRV
@@ -90,5 +76,19 @@
     date: 2018-08-24
     description: Kurban Bayramı 4
     type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2018-08-30
+    description: Zafer Bayramı
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2018-10-29
+    description: Cumhuriyet Bayramı
+    type: NF
     notes:
 ...
