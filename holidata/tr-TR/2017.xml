@@ -59,6 +59,14 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
+    <date>2017-07-15</date>
+    <description>Demokrasi ve Milli Birlik Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
     <date>2017-08-30</date>
     <description>Zafer Bayramı</description>
     <type>NF</type>

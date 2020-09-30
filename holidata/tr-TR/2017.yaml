@@ -52,6 +52,13 @@
   holiday:
     locale: tr-TR
     region:
+    date: 2017-07-15
+    description: Demokrasi ve Milli Birlik Günü
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
     date: 2017-08-30
     description: Zafer Bayramı
     type: NF

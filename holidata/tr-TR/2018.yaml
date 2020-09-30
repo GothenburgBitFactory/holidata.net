@@ -52,6 +52,13 @@
   holiday:
     locale: tr-TR
     region:
+    date: 2018-07-15
+    description: Demokrasi ve Milli Birlik Günü
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
     date: 2018-08-21
     description: Kurban Bayramı (1. Gün)
     type: NRV

@@ -59,6 +59,14 @@
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
+    <date>2018-07-15</date>
+    <description>Demokrasi ve Milli Birlik Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
     <date>2018-08-21</date>
     <description>Kurban Bayramı (1. Gün)</description>
     <type>NRV</type>
