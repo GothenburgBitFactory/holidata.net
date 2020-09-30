@@ -32,49 +32,49 @@
     locale: tr-TR
     region:
     date: 2018-06-15
-    description: Ramazan Bayramı 1
+    description: Ramazan Bayramı (1. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2018-06-16
-    description: Ramazan Bayramı 2
+    description: Ramazan Bayramı (2. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2018-06-17
-    description: Ramazan Bayramı 3
+    description: Ramazan Bayramı (3. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2018-08-21
-    description: Kurban Bayramı 1
+    description: Kurban Bayramı (1. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2018-08-22
-    description: Kurban Bayramı 2
+    description: Kurban Bayramı (2. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2018-08-23
-    description: Kurban Bayramı 3
+    description: Kurban Bayramı (3. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2018-08-24
-    description: Kurban Bayramı 4
+    description: Kurban Bayramı (4. Gün)
     type: NRV
     notes:
   holiday:

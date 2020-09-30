@@ -36,7 +36,7 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2017-06-25</date>
-    <description>Ramazan Bayramı 1</description>
+    <description>Ramazan Bayramı (1. Gün)</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
@@ -44,7 +44,7 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2017-06-26</date>
-    <description>Ramazan Bayramı 2</description>
+    <description>Ramazan Bayramı (2. Gün)</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
@@ -52,7 +52,7 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2017-06-27</date>
-    <description>Ramazan Bayramı 3</description>
+    <description>Ramazan Bayramı (3. Gün)</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
@@ -68,7 +68,7 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2017-09-01</date>
-    <description>Kurban Bayramı 1</description>
+    <description>Kurban Bayramı (1. Gün)</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
@@ -76,7 +76,7 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2017-09-02</date>
-    <description>Kurban Bayramı 2</description>
+    <description>Kurban Bayramı (2. Gün)</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
@@ -84,7 +84,7 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2017-09-03</date>
-    <description>Kurban Bayramı 3</description>
+    <description>Kurban Bayramı (3. Gün)</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
@@ -92,7 +92,7 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2017-09-04</date>
-    <description>Kurban Bayramı 4</description>
+    <description>Kurban Bayramı (4. Gün)</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>

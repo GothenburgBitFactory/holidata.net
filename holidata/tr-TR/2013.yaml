@@ -32,21 +32,21 @@
     locale: tr-TR
     region:
     date: 2013-08-08
-    description: Ramazan Bayramı 1
+    description: Ramazan Bayramı (1. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2013-08-09
-    description: Ramazan Bayramı 2
+    description: Ramazan Bayramı (2. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2013-08-10
-    description: Ramazan Bayramı 3
+    description: Ramazan Bayramı (3. Gün)
     type: NRV
     notes:
   holiday:
@@ -60,28 +60,28 @@
     locale: tr-TR
     region:
     date: 2013-10-15
-    description: Kurban Bayramı 1
+    description: Kurban Bayramı (1. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2013-10-16
-    description: Kurban Bayramı 2
+    description: Kurban Bayramı (2. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2013-10-17
-    description: Kurban Bayramı 3
+    description: Kurban Bayramı (3. Gün)
     type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2013-10-18
-    description: Kurban Bayramı 4
+    description: Kurban Bayramı (4. Gün)
     type: NRV
     notes:
   holiday:
