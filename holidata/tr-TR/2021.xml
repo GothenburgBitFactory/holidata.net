@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-01-01</date>
+    <description>Yılbaşı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-04-23</date>
+    <description>Ulusal Egemenlik ve Çocuk Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-05-01</date>
+    <description>Emek ve Dayanışma Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-05-13</date>
+    <description>Ramazan Bayramı (1. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-05-14</date>
+    <description>Ramazan Bayramı (2. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-05-15</date>
+    <description>Ramazan Bayramı (3. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-05-19</date>
+    <description>Atatürk'ü Anma, Gençlik ve Spor Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-07-15</date>
+    <description>Demokrasi ve Milli Birlik Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-07-20</date>
+    <description>Kurban Bayramı (1. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-07-21</date>
+    <description>Kurban Bayramı (2. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-07-22</date>
+    <description>Kurban Bayramı (3. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-07-23</date>
+    <description>Kurban Bayramı (4. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-08-30</date>
+    <description>Zafer Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2021-10-29</date>
+    <description>Cumhuriyet Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
