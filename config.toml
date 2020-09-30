@@ -15,7 +15,6 @@ DefaultContentLanguage = "en" # current values: "en" or "de"
 # Google Analytics setting, see Hugo internal templates
 #googleAnalytics = "UA-123-45"
 
-
 # For all color settings, please use the format "#rrggbb".
 
 # Generic parameters
@@ -228,7 +227,6 @@ DefaultContentLanguage = "en" # current values: "en" or "de"
     weight = 40
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
+    category = "categories"
+    tag = "tags"
+    series = "series"
