@@ -44,7 +44,7 @@ DefaultContentLanguage = "en" # current values: "en" or "de"
 
     textAlignment = '' # don't set or leave empty for default (left), or justify-content-end, justify-content-center
 
-    #brandImage = 'img/rg_mod_20.png' # The "brand image" will be set in "fixed-top" style as icon beside the site title.
+    brandImage = 'img/holidata.jpg' # The "brand image" will be set in "fixed-top" style as icon beside the site title.
 
 
 # Meta header parameter settings
