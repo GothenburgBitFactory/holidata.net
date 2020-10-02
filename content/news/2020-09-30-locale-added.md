@@ -1,8 +1,7 @@
 ---
 title: "Locale for Turkey is back!"
-date: 2020-06-18T00:00:00+02:00
+date: 2020-09-30T00:00:00+02:00
 layout: "news_item"
-draft: true
 ---
 
 The locale Turkey (tr-TR) is available again.
