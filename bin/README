@@ -9,11 +9,11 @@ HOLIDATA=/path/to/holidata ./update-locale [--commit] (--all-locales|LOCALE...) 
 
 # DESCRIPTION
 Use the `update-locale` script to update the locale data files of [holidata.net](https://holidata.net).
-The script requires the location of `holidata`, from the [holidata python module](https://github.com/GothenburgBitFactory/holidata), to injected via the `HOLIDATA` environment variable!
+The script requires the location of `holidata`, from the [holidata python module](https://github.com/GothenburgBitFactory/holidata), to be injected via the `HOLIDATA` environment variable!
 
 For each `LOCALE` `update-locale` generates the data files (formats `csv`, `json`, `yaml`, and `xml`) for the given `YEAR` and then generates the files `locale_index.txt`, `local_index.html` and `map.html` for the current data set. 
 
-If the `--commit` option is given, the script creates a commit with the message _"Add holidays for `LOCALE` `YEAR`"_ for each updated locale containing the new and updated files.
+If the `--commit` option is given, the script creates a commit with the message _"Add holidays for `LOCALE` `YEAR`"_ for each updated locale containing the new or updated files.
 
 # OPTIONS
 * **`LOCALE`**  
@@ -21,18 +21,18 @@ If the `--commit` option is given, the script creates a commit with the message 
   You can specify several locales or use the `--all-locales` option to update all available locales.
 * **`YEAR`**  
   The year(s) for which data files should be generated for each locale.
-  You can specify several years or use the `--all-years` option to update each locale for all years from 2011 to now.
+  You can specify several years or use the `--all-years` option to update each locale for all years from 2011 to now.  
   `YEAR` can be omitted if only a single locale is given.
   In this case all present years for this locale will be updated.
 * **`--all-locales`**  
-  Try to update all locales found on holidata.net.
+  Try to update all locales found on holidata.net.  
   **Note that currently not all locales are supported by `holidata`!
   Missing locales are skipped.**
 * **`--all-years`**  
-  Try to update locales for years from 2011 to current year
+  Try to update locales for years from 2011 to current year.
 * **`--commit`**  
-  Create a git commit for each updated locale and year.
-  **Note that this option also does a cleanup of the holidata.net `html` directory on startup:
+  Create a git commit for each updated locale and year.  
+  **Note that this option also does a cleanup of the holidata.net `html` directory:
   All untracked files and all changes in directory `html` are removed or discarded respectively!**
   
 # EXAMPLES
@@ -56,12 +56,10 @@ If the `--commit` option is given, the script creates a commit with the message 
    ```
    HOLIDATA=/path/to/holidata ./update-locale en-US de-DE 2022 2023
    ```
-1. You can specify the arguments `YEAR` and `LOCALE` in any order.
+   You can specify the arguments `YEAR` and `LOCALE` in any order.
    Those three lines are thus equivalent:
    ```
    HOLIDATA=/path/to/holidata ./update-locale en-US de-DE 2023
    HOLIDATA=/path/to/holidata ./update-locale en-US 2023 de-DE
    HOLIDATA=/path/to/holidata ./update-locale 2023 de-DE en-US
    ```
-
-
