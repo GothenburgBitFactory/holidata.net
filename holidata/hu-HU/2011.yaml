@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-01-01
+    description: Újév
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-03-15
+    description: Az 1848-as forradalom ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-04-24
+    description: Húsvét
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-04-25
+    description: Húsvéthétfő
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-05-01
+    description: A munka ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-06-12
+    description: Pünkösd
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-06-13
+    description: Pünkösdhétfő
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-08-20
+    description: Az államalapítás ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-10-23
+    description: Az 1956-os forradalom ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-11-01
+    description: Mindenszentek
+    type: NRF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-12-25
+    description: Karácsony
+    type: NRF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2011-12-26
+    description: Karácsony
+    type: NRF
+    notes:
+...

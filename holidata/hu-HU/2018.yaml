@@ -1,0 +1,136 @@
+%YAML 1.1
+---
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-01-01
+    description: Újév
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-03-15
+    description: Az 1848-as forradalom ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-03-16
+    description: Munkaszüneti Nap
+    type: NF
+    notes: Swapped with 03-10
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-03-30
+    description: Nagypéntek
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-04-01
+    description: Húsvét
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-04-02
+    description: Húsvéthétfő
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-04-30
+    description: Munkaszüneti Nap
+    type: NF
+    notes: Swapped with 04-21
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-05-01
+    description: A munka ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-05-20
+    description: Pünkösd
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-05-21
+    description: Pünkösdhétfő
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-08-20
+    description: Az államalapítás ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-10-22
+    description: Munkaszüneti Nap
+    type: NF
+    notes: Swapped with 10-13
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-10-23
+    description: Az 1956-os forradalom ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-11-01
+    description: Mindenszentek
+    type: NRF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-11-02
+    description: Munkaszüneti Nap
+    type: NF
+    notes: Swapped with 11-10
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-12-24
+    description: Munkaszüneti Nap
+    type: NF
+    notes: Swapped with 12-01
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-12-25
+    description: Karácsony
+    type: NRF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-12-26
+    description: Karácsony
+    type: NRF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2018-12-31
+    description: Munkaszüneti Nap
+    type: NF
+    notes: Swapped with 12-15
+...

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-01-01</date>
+    <description>Újév</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-03-15</date>
+    <description>Az 1848-as forradalom ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-04-10</date>
+    <description>Nagypéntek</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-04-12</date>
+    <description>Húsvét</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-04-13</date>
+    <description>Húsvéthétfő</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-05-01</date>
+    <description>A munka ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-05-31</date>
+    <description>Pünkösd</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-06-01</date>
+    <description>Pünkösdhétfő</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-08-20</date>
+    <description>Az államalapítás ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-08-21</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>2020-08-29 pihenőnap</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-10-23</date>
+    <description>Az 1956-os forradalom ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-11-01</date>
+    <description>Mindenszentek</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-12-24</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>2020-12-12 pihenőnap</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-12-25</date>
+    <description>Karácsony</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2020-12-26</date>
+    <description>Karácsony</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

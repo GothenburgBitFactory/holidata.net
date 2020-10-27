@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-01-01</date>
+    <description>Újév</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-03-15</date>
+    <description>Az 1848-as forradalom ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-03-16</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>Swapped with 03-10</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-03-30</date>
+    <description>Nagypéntek</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-04-01</date>
+    <description>Húsvét</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-04-02</date>
+    <description>Húsvéthétfő</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-04-30</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>Swapped with 04-21</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-05-01</date>
+    <description>A munka ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-05-20</date>
+    <description>Pünkösd</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-05-21</date>
+    <description>Pünkösdhétfő</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-08-20</date>
+    <description>Az államalapítás ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-10-22</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>Swapped with 10-13</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-10-23</date>
+    <description>Az 1956-os forradalom ünnepe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-11-01</date>
+    <description>Mindenszentek</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-11-02</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>Swapped with 11-10</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-12-24</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>Swapped with 12-01</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-12-25</date>
+    <description>Karácsony</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-12-26</date>
+    <description>Karácsony</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2018-12-31</date>
+    <description>Munkaszüneti Nap</description>
+    <type>NF</type>
+    <notes>Swapped with 12-15</notes>
+  </holiday>
+</holidays>

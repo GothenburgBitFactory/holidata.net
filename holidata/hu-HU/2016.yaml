@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-01-01
+    description: Újév
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-03-14
+    description: Munkaszüneti Nap
+    type: NF
+    notes: 2016-03-05 pihenőnap
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-03-15
+    description: Az 1848-as forradalom ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-03-27
+    description: Húsvét
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-03-28
+    description: Húsvéthétfő
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-05-01
+    description: A munka ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-05-15
+    description: Pünkösd
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-05-16
+    description: Pünkösdhétfő
+    type: NRV
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-08-20
+    description: Az államalapítás ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-10-23
+    description: Az 1956-os forradalom ünnepe
+    type: NF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-10-31
+    description: Munkaszüneti Nap
+    type: NF
+    notes: 2016-10-15 pihenőnap
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-11-01
+    description: Mindenszentek
+    type: NRF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-12-25
+    description: Karácsony
+    type: NRF
+    notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2016-12-26
+    description: Karácsony
+    type: NRF
+    notes:
+...
