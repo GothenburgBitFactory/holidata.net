@@ -20,5 +20,5 @@ This allows the user to select the `LOCALE`, `YEAR` and `FORMAT`.
 * The `YEAR` should be a four-digit value no earlier than 2011.
 * The `FORMAT` should be one of: `csv`, `json`, `yaml`, `xml`.
 
-Visit [holidata.net](holidata.net) for more information.
+Visit [holidata.net](https://holidata.net) for more information.
 Because the data is static content, the web server provides a status code that indicates success (200) or error (404).
