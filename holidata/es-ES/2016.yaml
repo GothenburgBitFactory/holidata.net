@@ -73,13 +73,6 @@
   holiday:
     locale: es-ES
     region:
-    date: 2016-12-24
-    description: Noche Buena
-    type: NRF
-    notes:
-  holiday:
-    locale: es-ES
-    region:
     date: 2016-12-25
     description: Navidad
     type: NRF

@@ -83,14 +83,6 @@
   <holiday>
     <locale>es-ES</locale>
     <region></region>
-    <date>2021-12-24</date>
-    <description>Noche Buena</description>
-    <type>NRF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>es-ES</locale>
-    <region></region>
     <date>2021-12-25</date>
     <description>Navidad</description>
     <type>NRF</type>
