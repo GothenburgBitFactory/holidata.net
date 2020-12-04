@@ -77,11 +77,4 @@
     description: Navidad
     type: NRF
     notes:
-  holiday:
-    locale: es-ES
-    region:
-    date: 2021-12-31
-    description: Noche Vieja
-    type: NF
-    notes:
 ...

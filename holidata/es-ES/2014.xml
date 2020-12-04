@@ -88,12 +88,4 @@
     <type>NRF</type>
     <notes></notes>
   </holiday>
-  <holiday>
-    <locale>es-ES</locale>
-    <region></region>
-    <date>2014-12-31</date>
-    <description>Noche Vieja</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
 </holidays>
