@@ -4,7 +4,7 @@ date: 2020-10-27T00:00:00+02:00
 layout: "news_item"
 ---
 
-The locale Hungary (hu-HU) is now available.
+The locale Hungary (`hu-HU`) is now available.
 <!--more-->
 With Hungary, we welcome a new member to the holidata family.
 
