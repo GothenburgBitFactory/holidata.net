@@ -18,6 +18,206 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2015-02-28</date>
+    <description>Día de Andalucía</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2015-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2015-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2015-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2015-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2015-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2015-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2015-03-20</date>
+    <description>Día siguiente a San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2015-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region></region>
     <date>2015-04-03</date>
     <description>Viernes Santo</description>
@@ -34,6 +234,86 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2015-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2015-04-23</date>
+    <description>Fiesta de Castilla y León</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2015-04-23</date>
+    <description>San Jorge / Día de Aragón</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region></region>
     <date>2015-05-01</date>
     <description>Fiesta del Trabajo</description>
@@ -42,10 +322,146 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2015-05-02</date>
+    <description>Fiesta de la Comunidad de Madrid</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2015-05-30</date>
+    <description>Día de Canarias</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2015-06-04</date>
+    <description>Corpus Christi</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2015-06-04</date>
+    <description>Corpus Christi</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2015-06-09</date>
+    <description>Día de la Región de Murcia</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2015-06-09</date>
+    <description>Día de La Rioja</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2015-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2015-07-25</date>
+    <description>Santiago Apóstol</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2015-07-25</date>
+    <description>Santiago Apóstol</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2015-07-25</date>
+    <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region></region>
     <date>2015-08-15</date>
     <description>Asunción de la Virgen</description>
     <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2015-09-08</date>
+    <description>Día de Asturias</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2015-09-08</date>
+    <description>Día de Extremadura</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2015-09-11</date>
+    <description>Fiesta Nacional de Cataluña</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2015-09-15</date>
+    <description>La Bien Aparecida</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2015-09-25</date>
+    <description>Fiesta del Sacrificio (Aid El Kebir)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2015-09-25</date>
+    <description>Fiesta del Sacrificio (Eidul Adha)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2015-10-09</date>
+    <description>Día de la Comunitat Valenciana</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -66,10 +482,186 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2015-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region></region>
     <date>2015-12-06</date>
     <description>Día de la Constitución Española</description>
     <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2015-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -86,6 +678,14 @@
     <date>2015-12-25</date>
     <description>Natividad del Señor</description>
     <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2015-12-26</date>
+    <description>San Esteban</description>
+    <type>RF</type>
     <notes></notes>
   </holiday>
 </holidays>

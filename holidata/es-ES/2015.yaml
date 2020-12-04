@@ -16,6 +16,181 @@
     notes:
   holiday:
     locale: es-ES
+    region: AN
+    date: 2015-02-28
+    description: Día de Andalucía
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2015-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2015-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2015-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2015-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2015-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2015-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2015-03-20
+    description: Día siguiente a San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2015-04-02
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2015-04-03
     description: Viernes Santo
@@ -30,6 +205,76 @@
     notes:
   holiday:
     locale: es-ES
+    region: CB
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2015-04-06
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2015-04-23
+    description: Fiesta de Castilla y León
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2015-04-23
+    description: San Jorge / Día de Aragón
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2015-05-01
     description: Fiesta del Trabajo
@@ -37,10 +282,129 @@
     notes:
   holiday:
     locale: es-ES
+    region: MD
+    date: 2015-05-02
+    description: Fiesta de la Comunidad de Madrid
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2015-05-30
+    description: Día de Canarias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2015-06-04
+    description: Corpus Christi
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2015-06-04
+    description: Corpus Christi
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2015-06-09
+    description: Día de la Región de Murcia
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2015-06-09
+    description: Día de La Rioja
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2015-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2015-07-25
+    description: Santiago Apóstol
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2015-07-25
+    description: Santiago Apóstol
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2015-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2015-08-15
     description: Asunción de la Virgen
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2015-09-08
+    description: Día de Asturias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2015-09-08
+    description: Día de Extremadura
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2015-09-11
+    description: Fiesta Nacional de Cataluña
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2015-09-15
+    description: La Bien Aparecida
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2015-09-25
+    description: Fiesta del Sacrificio (Aid El Kebir)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2015-09-25
+    description: Fiesta del Sacrificio (Eidul Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2015-10-09
+    description: Día de la Comunitat Valenciana
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -58,10 +422,164 @@
     notes:
   holiday:
     locale: es-ES
+    region: AN
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2015-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2015-12-06
     description: Día de la Constitución Española
     type: NF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2015-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -76,5 +594,12 @@
     date: 2015-12-25
     description: Natividad del Señor
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2015-12-26
+    description: San Esteban
+    type: RF
     notes:
 ...
