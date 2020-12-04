@@ -16,6 +16,181 @@
     notes:
   holiday:
     locale: es-ES
+    region: AN
+    date: 2020-02-28
+    description: Día de Andalucía
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2020-03-13
+    description: Estatuto de Autonomía de la Ciudad de Melilla
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2020-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2020-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2020-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2020-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2020-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2020-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2020-04-09
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2020-04-10
     description: Viernes Santo
@@ -30,6 +205,76 @@
     notes:
   holiday:
     locale: es-ES
+    region: CB
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2020-04-13
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2020-04-23
+    description: Fiesta de Castilla y León
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2020-04-23
+    description: San Jorge / Día de Aragón
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2020-05-01
     description: Fiesta del Trabajo
@@ -37,10 +282,143 @@
     notes:
   holiday:
     locale: es-ES
+    region: MD
+    date: 2020-05-02
+    description: Fiesta de la Comunidad de Madrid
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2020-05-30
+    description: Día de Canarias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2020-06-09
+    description: Día de la Región de Murcia
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2020-06-09
+    description: Día de La Rioja
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2020-06-11
+    description: Corpus Christi
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2020-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2020-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2020-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2020-07-25
+    description: Santiago Apóstol
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2020-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2020-07-28
+    description: Día de las Instituciones de Cantabria
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2020-07-31
+    description: Fiesta del Sacrificio (Aid El Kebir)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2020-07-31
+    description: Fiesta del Sacrificio (Eidul Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2020-08-15
     description: Asunción de la Virgen
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2020-09-02
+    description: Día de Ceuta
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2020-09-08
+    description: Día de Asturias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2020-09-08
+    description: Día de Extremadura
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2020-09-11
+    description: Fiesta Nacional de Cataluña
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2020-09-15
+    description: La Bien Aparecida
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2020-10-09
+    description: Día de la Comunitat Valenciana
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -58,10 +436,143 @@
     notes:
   holiday:
     locale: es-ES
+    region: AN
+    date: 2020-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2020-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2020-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2020-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2020-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2020-11-02
+    description: Lunes siguiente a Todos los Santos
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2020-12-06
     description: Día de la Constitución Española
     type: NF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2020-12-07
+    description: Lunes siguiente al Día de la Constitución Española
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -76,5 +587,19 @@
     date: 2020-12-25
     description: Natividad del Señor
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2020-12-26
+    description: San Esteban
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2020-12-26
+    description: San Esteban
+    type: RF
     notes:
 ...
