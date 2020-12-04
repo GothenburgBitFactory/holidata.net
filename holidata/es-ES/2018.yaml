@@ -16,6 +16,146 @@
     notes:
   holiday:
     locale: es-ES
+    region: AN
+    date: 2018-02-28
+    description: Día de Andalucía
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2018-03-01
+    description: Día de las Illes Balears
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2018-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2018-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2018-03-29
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2018-03-30
     description: Viernes Santo
@@ -30,6 +170,55 @@
     notes:
   holiday:
     locale: es-ES
+    region: CL
+    date: 2018-04-02
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2018-04-02
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2018-04-02
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2018-04-02
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2018-04-02
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2018-04-23
+    description: Fiesta de Castilla y León
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2018-04-23
+    description: San Jorge / Día de Aragón
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2018-05-01
     description: Fiesta del Trabajo
@@ -37,10 +226,115 @@
     notes:
   holiday:
     locale: es-ES
+    region: MD
+    date: 2018-05-02
+    description: Fiesta de la Comunidad de Madrid
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2018-05-17
+    description: Día de las Letras Gallegas
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2018-05-30
+    description: Día de Canarias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2018-05-31
+    description: Día de Castilla-La Mancha
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2018-06-09
+    description: Día de la Región de Murcia
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2018-06-09
+    description: Día de La Rioja
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2018-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2018-07-28
+    description: Día de las Instituciones de Cantabria
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2018-08-15
     description: Asunción de la Virgen
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2018-08-22
+    description: Fiesta del Sacrificio (Aid El Kebir)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2018-08-22
+    description: Fiesta del Sacrificio (Eidul Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2018-09-08
+    description: Día de Asturias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2018-09-08
+    description: Día de Extremadura
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2018-09-11
+    description: Fiesta Nacional de Cataluña
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2018-09-15
+    description: La Bien Aparecida
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2018-10-09
+    description: Día de la Comunitat Valenciana
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -76,5 +370,12 @@
     date: 2018-12-25
     description: Natividad del Señor
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2018-12-26
+    description: San Esteban
+    type: RF
     notes:
 ...
