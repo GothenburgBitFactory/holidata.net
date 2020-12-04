@@ -10,9 +10,198 @@
   holiday:
     locale: es-ES
     region:
+    date: 2012-01-02
+    description: Lunes siguiente al Año Nuevo
+    type: NF
+    notes:
+  holiday:
+    locale: es-ES
+    region:
     date: 2012-01-06
     description: Epifanía del Señor
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2012-02-28
+    description: Día de Andalucía
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2012-03-01
+    description: Día de las Illes Balears
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2012-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2012-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2012-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2012-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2012-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2012-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2012-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2012-04-05
+    description: Jueves Santo
+    type: RV
     notes:
   holiday:
     locale: es-ES
@@ -30,10 +219,115 @@
     notes:
   holiday:
     locale: es-ES
+    region: CT
+    date: 2012-04-09
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2012-04-09
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2012-04-09
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2012-04-09
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2012-04-23
+    description: Fiesta de Castilla y León
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2012-04-23
+    description: San Jorge / Día de Aragón
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2012-05-01
     description: Fiesta del Trabajo
     type: NF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2012-05-02
+    description: Fiesta de la Comunidad de Madrid
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2012-05-17
+    description: Día de las Letras Gallegas
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2012-05-30
+    description: Día de Canarias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2012-05-31
+    description: Día de Castilla-La Mancha
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2012-06-07
+    description: Corpus Christi
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2012-06-09
+    description: Día de la Región de Murcia
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2012-06-09
+    description: Día de La Rioja
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2012-07-25
+    description: Santiago Apóstol
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2012-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
     notes:
   holiday:
     locale: es-ES
@@ -44,10 +338,66 @@
     notes:
   holiday:
     locale: es-ES
+    region: AS
+    date: 2012-09-08
+    description: Día de Asturias
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2012-09-08
+    description: Día de Extremadura
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2012-09-11
+    description: Fiesta Nacional de Cataluña
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2012-09-15
+    description: La Bien Aparecida
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2012-10-09
+    description: Día de la Comunitat Valenciana
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2012-10-12
     description: Fiesta Nacional de España
     type: NF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2012-10-25
+    description: Día del País Vasco-Euskadiko Eguna
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2012-10-26
+    description: Fiesta del Sacrificio (Aid El Kebir)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2012-10-27
+    description: Fiesta del Sacrificio (Eidul Adha)
+    type: RV
     notes:
   holiday:
     locale: es-ES
@@ -76,5 +426,12 @@
     date: 2012-12-25
     description: Natividad del Señor
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2012-12-26
+    description: San Esteban
+    type: RF
     notes:
 ...
