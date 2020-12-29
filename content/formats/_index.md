@@ -2,7 +2,7 @@
 title: "Formats"
 ---
 
-Holidata delivers holiday data in the following formats : [`CSV`](csv), [`JSON`](json), [`YAML`](yaml), [`XML`](xml).
+Holidata delivers holiday data in the following formats : [`CSV`](csv/), [`JSON`](json/), [`YAML`](yaml/), [`XML`](xml/).
 Click on each to get to the specific description.
 
 ## Fields
