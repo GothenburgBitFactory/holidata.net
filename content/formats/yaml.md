@@ -5,9 +5,8 @@ title: "YAML Data Format"
 The YAML data format (YAML Ain't Markup Language) is a human-friendly universal data serialization format.
 See [http://yaml.org](https://yaml.org) for a complete description.
 
-Fields are not quoted, and empty fields are represented by the omission of values.
-
-All data is provided in UTF-8.
+* Fields are not quoted, and empty fields are represented by the omission of values.
+* All data is provided in UTF-8.
 
 ## Example
 ```yaml

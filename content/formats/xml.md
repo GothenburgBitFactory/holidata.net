@@ -5,9 +5,8 @@ title: "XML Data Format"
 The XML (Extensible Markup Language) format is very common.
 See [http://www.w3.org/XML](https://www.w3.org/XML/) for a complete description.
 
-Empty fields are represented by empty tags.
-
-All data is provided in UTF-8.
+* Empty fields are represented by empty tags.
+* All data is provided in UTF-8.
 
 ## Example
 ```xml

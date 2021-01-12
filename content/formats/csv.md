@@ -6,11 +6,9 @@ The CSV (Comma-Separated Values) format is simple and commonly supported.
 One line of text represents a holiday, and within each line, the fields are surrounded by double quotes (") and separated by commas.
 The quotes allow the holiday descriptions to themselves contain commas.
 
-The first line of data contains the field names, in the same format.
-
-Empty fields are represented by "".
-
-All data is provided in UTF-8.
+* The first line of data contains the field names, in the same format.
+* Empty fields are represented by `""`.
+* All data is provided in UTF-8.
 
 ## Example
 ```bash

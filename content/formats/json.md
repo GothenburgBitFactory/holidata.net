@@ -5,11 +5,9 @@ title: "JSON Data Format"
 JSON (JavaScript Object Notation) is a relatively compact format that allows for arbitrary complexity.
 See [https://json.org](https://json.org) for a complete description.
 
-Each line contains a holiday represented as a JSON object.
-
-Empty fields are represented by "".
-
-All data is provided in UTF-8.
+* Each line contains a holiday represented as a JSON object.
+* Empty fields are represented by `""`.
+* All data is provided in UTF-8.
 
 ## Example
 ```json
