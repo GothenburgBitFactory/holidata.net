@@ -4,7 +4,7 @@ title: "JSON Line Data Format"
 
 JSON (JavaScript Object Notation) is a relatively compact format that allows for arbitrary complexity.
 The data here is stored as a _newline-delimited JSON_.
-See [https://jsonline.org](https://jsonline.org) for a complete description.
+See [https://jsonlines.org](https://jsonlines.org) for a complete description.
 
 * Each line contains a holiday represented as a JSON object.
 * Empty fields are represented by `""`.
