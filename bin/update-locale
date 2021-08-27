@@ -2,7 +2,7 @@
 
 ################################################################################
 ##
-## Copyright 2019 - 2020, Göteborg Bit Factory.
+## Copyright 2019 - 2021, Göteborg Bit Factory.
 ## All rights reserved.
 ##
 ################################################################################
@@ -51,6 +51,8 @@ while [[ -n "${1}" ]] ; do
   shift
 done
 
+formats=( "csv" "json" "yaml" "xml" )
+
 if [[ ${#locales[@]} -eq 0 ]] ; then
   echo "No locale specified!"
   exit 1
@@ -88,7 +90,7 @@ for locale in "${locales[@]}" ; do
     done
 
     echo "Generating locale '${locale}' files for ${year}..."
-    for format in "csv" "json" "yaml" "xml" ; do
+    for format in "${formats[@]}" ; do
       echo -en "Generating ${locale}/${year}.${format}           \r"
       "${HOLIDATA}" --year="${year}" --locale="${locale}" --output="${format}" > "${LOCALE_DIR}/${locale}/${year}.${format}" || { rm "${LOCALE_DIR}/${locale}/${year}.${format}" ; continue 3 ; }
     done
