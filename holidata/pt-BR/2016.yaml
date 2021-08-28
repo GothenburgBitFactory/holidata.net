@@ -10,13 +10,6 @@
   holiday:
     locale: pt-BR
     region:
-    date: 2016-02-08
-    description: Carnaval
-    type: NRV
-    notes:
-  holiday:
-    locale: pt-BR
-    region:
     date: 2016-02-09
     description: Carnaval
     type: NRV

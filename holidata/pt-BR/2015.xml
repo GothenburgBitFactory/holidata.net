@@ -11,14 +11,6 @@
   <holiday>
     <locale>pt-BR</locale>
     <region></region>
-    <date>2015-02-16</date>
-    <description>Carnaval</description>
-    <type>NRV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-BR</locale>
-    <region></region>
     <date>2015-02-17</date>
     <description>Carnaval</description>
     <type>NRV</type>
