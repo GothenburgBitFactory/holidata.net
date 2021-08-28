@@ -17,13 +17,6 @@
   holiday:
     locale: pt-BR
     region:
-    date: 2013-03-29
-    description: Sexta-feira Santa
-    type: NRV
-    notes:
-  holiday:
-    locale: pt-BR
-    region:
     date: 2013-03-31
     description: Páscoa
     type: NRV

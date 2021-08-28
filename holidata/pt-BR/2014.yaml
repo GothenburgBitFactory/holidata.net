@@ -17,13 +17,6 @@
   holiday:
     locale: pt-BR
     region:
-    date: 2014-04-18
-    description: Sexta-feira Santa
-    type: NRV
-    notes:
-  holiday:
-    locale: pt-BR
-    region:
     date: 2014-04-20
     description: Páscoa
     type: NRV

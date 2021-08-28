@@ -17,13 +17,6 @@
   holiday:
     locale: pt-BR
     region:
-    date: 2016-03-25
-    description: Sexta-feira Santa
-    type: NRV
-    notes:
-  holiday:
-    locale: pt-BR
-    region:
     date: 2016-03-27
     description: Páscoa
     type: NRV

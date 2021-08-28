@@ -19,14 +19,6 @@
   <holiday>
     <locale>pt-BR</locale>
     <region></region>
-    <date>2015-04-03</date>
-    <description>Sexta-feira Santa</description>
-    <type>NRV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-BR</locale>
-    <region></region>
     <date>2015-04-05</date>
     <description>Páscoa</description>
     <type>NRV</type>
