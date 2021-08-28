@@ -38,13 +38,6 @@
   holiday:
     locale: pt-BR
     region:
-    date: 2012-06-07
-    description: Corpus Christi
-    type: NRV
-    notes:
-  holiday:
-    locale: pt-BR
-    region:
     date: 2012-09-07
     description: Independência do Brasil
     type: NF

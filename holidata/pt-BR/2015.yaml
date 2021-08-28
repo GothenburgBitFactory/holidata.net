@@ -38,13 +38,6 @@
   holiday:
     locale: pt-BR
     region:
-    date: 2015-06-04
-    description: Corpus Christi
-    type: NRV
-    notes:
-  holiday:
-    locale: pt-BR
-    region:
     date: 2015-09-07
     description: Independência do Brasil
     type: NF

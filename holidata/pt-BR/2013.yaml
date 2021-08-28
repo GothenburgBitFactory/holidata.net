@@ -38,13 +38,6 @@
   holiday:
     locale: pt-BR
     region:
-    date: 2013-05-30
-    description: Corpus Christi
-    type: NRV
-    notes:
-  holiday:
-    locale: pt-BR
-    region:
     date: 2013-09-07
     description: Independência do Brasil
     type: NF

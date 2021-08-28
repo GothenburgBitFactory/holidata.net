@@ -43,14 +43,6 @@
   <holiday>
     <locale>pt-BR</locale>
     <region></region>
-    <date>2014-06-19</date>
-    <description>Corpus Christi</description>
-    <type>NRV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-BR</locale>
-    <region></region>
     <date>2014-09-07</date>
     <description>Independência do Brasil</description>
     <type>NF</type>
