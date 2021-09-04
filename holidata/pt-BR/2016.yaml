@@ -9,10 +9,66 @@
     notes:
   holiday:
     locale: pt-BR
+    region: RO
+    date: 2016-01-04
+    description: Criação do Estado de Rondônia
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AC
+    date: 2016-01-23
+    description: Dia do Evangélico no Acre
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
     region:
     date: 2016-02-09
     description: Carnaval
     type: NRV
+    notes:
+  holiday:
+    locale: pt-BR
+    region: PE
+    date: 2016-03-06
+    description: Revolução Pernambucana de 1817
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AC
+    date: 2016-03-08
+    description: Dia Internacional da Mulher
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: TO
+    date: 2016-03-18
+    description: Autonomia do Estado de Tocantins
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AP
+    date: 2016-03-19
+    description: Dia de São José
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: CE
+    date: 2016-03-19
+    description: Dia de São José
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: CE
+    date: 2016-03-25
+    description: Abolição da Escravidão no Ceará
+    type: F
     notes:
   holiday:
     locale: pt-BR
@@ -23,10 +79,31 @@
     notes:
   holiday:
     locale: pt-BR
+    region: DF
+    date: 2016-04-21
+    description: Fundação de Brasília
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: MG
+    date: 2016-04-21
+    description: Execução de Tiradentes
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
     region:
     date: 2016-04-21
     description: Tiradentes
     type: NF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: RJ
+    date: 2016-04-23
+    description: Dia de São Jorge
+    type: RF
     notes:
   holiday:
     locale: pt-BR
@@ -37,6 +114,125 @@
     notes:
   holiday:
     locale: pt-BR
+    region: AC
+    date: 2016-06-15
+    description: Aniversário do Estado do Acre
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: RO
+    date: 2016-06-18
+    description: Dia do Evangélico em Rondônia
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AL
+    date: 2016-06-24
+    description: São João
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: PE
+    date: 2016-06-24
+    description: São João
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AL
+    date: 2016-06-29
+    description: São Pedro
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: BA
+    date: 2016-07-02
+    description: Independência da Bahia
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: SE
+    date: 2016-07-08
+    description: Emancipação Política de Sergipe
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: SP
+    date: 2016-07-09
+    description: Revolução Constitucionalista de 1932
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: GO
+    date: 2016-07-26
+    description: Fundação da Cidade de Goiás
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: MA
+    date: 2016-07-28
+    description: Adesão do Maranhão à Independência do Brasil
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: PB
+    date: 2016-08-05
+    description: Fundação do Estado da Paraíba
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: RN
+    date: 2016-08-07
+    description: Dia do Rio Grande do Norte
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: SC
+    date: 2016-08-11
+    description: Dia de Santa Catarina
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: CE
+    date: 2016-08-15
+    description: Dia de Nossa Senhora da Assunção
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: PA
+    date: 2016-08-15
+    description: Adesão do Pará à Independência do Brasil
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AC
+    date: 2016-09-05
+    description: Dia da Amazônia
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AM
+    date: 2016-09-05
+    description: Elevação do Amazonas à Categoria de Província
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
     region:
     date: 2016-09-07
     description: Independência do Brasil
@@ -44,10 +240,80 @@
     notes:
   holiday:
     locale: pt-BR
+    region: TO
+    date: 2016-09-08
+    description: Nossa Senhora da Natividade
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AP
+    date: 2016-09-13
+    description: Criação do Território Federal do Amapá
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AL
+    date: 2016-09-16
+    description: Emancipação Política do Alagoas
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: RS
+    date: 2016-09-20
+    description: Dia do Gaúcho
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: RN
+    date: 2016-10-03
+    description: Mártires de Cunhaú e Uruaçu
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: RR
+    date: 2016-10-05
+    description: Criação dos Estado de Roraima
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: TO
+    date: 2016-10-05
+    description: Criação dos Estado de Tocantins
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: MS
+    date: 2016-10-11
+    description: Criação do Estado do Mato Grosso do Sul
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
     region:
     date: 2016-10-12
     description: Nossa Senhora Aparecida
     type: NRF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: PI
+    date: 2016-10-19
+    description: Dia do Piauí
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: GO
+    date: 2016-10-24
+    description: Pedra Fundamental de Goiânia
+    type: F
     notes:
   holiday:
     locale: pt-BR
@@ -62,6 +328,69 @@
     date: 2016-11-15
     description: Proclamação da República
     type: NF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AC
+    date: 2016-11-17
+    description: Assinatura do Tratado de Petrópolis
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AL
+    date: 2016-11-20
+    description: Morte de Zumbi dos Palmares
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AM
+    date: 2016-11-20
+    description: Dia da Consciência Negra
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: MT
+    date: 2016-11-20
+    description: Dia da Consciência Negra
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: RJ
+    date: 2016-11-20
+    description: Dia da Consciência Negra
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: SC
+    date: 2016-11-25
+    description: Dia de Santa Catarina de Alexandria
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: DF
+    date: 2016-11-30
+    description: Dia do Evangélico do Distrito Federal
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AM
+    date: 2016-12-08
+    description: Nossa Senhora da Conceição
+    type: RF
+    notes:
+  holiday:
+    locale: pt-BR
+    region: PR
+    date: 2016-12-19
+    description: Emancipação Política do Estado do Paraná
+    type: F
     notes:
   holiday:
     locale: pt-BR
