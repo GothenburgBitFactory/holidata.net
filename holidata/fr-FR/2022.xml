@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-01-01</date>
+    <description>Jour de l'an</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-04-18</date>
+    <description>Lundi de Pâques</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-05-01</date>
+    <description>Fête du premier mai</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-05-08</date>
+    <description>Armistice 1945</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-05-26</date>
+    <description>Ascension</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-06-05</date>
+    <description>Pentecôte</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-06-06</date>
+    <description>Lundi de Pentecôte</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-07-14</date>
+    <description>Fête nationale</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-08-15</date>
+    <description>Assomption</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-11-01</date>
+    <description>Toussaint</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-11-11</date>
+    <description>Armistice 1918</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-FR</locale>
+    <region></region>
+    <date>2022-12-25</date>
+    <description>Noël</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
