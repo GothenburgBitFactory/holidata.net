@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-01-01</date>
+    <description>Año Nuevo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-01-06</date>
+    <description>Epifanía del Señor</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2022-02-28</date>
+    <description>Día de Andalucía</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2022-03-13</date>
+    <description>Estatuto de Autonomía de la Ciudad de Melilla</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-04-15</date>
+    <description>Viernes Santo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-04-17</date>
+    <description>Pascua</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2022-04-23</date>
+    <description>Fiesta de Castilla y León</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2022-04-23</date>
+    <description>San Jorge / Día de Aragón</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-05-01</date>
+    <description>Fiesta del Trabajo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2022-05-02</date>
+    <description>Fiesta de la Comunidad de Madrid</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2022-05-17</date>
+    <description>Día de las Letras Gallegas</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2022-05-30</date>
+    <description>Día de Canarias</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2022-05-31</date>
+    <description>Día de Castilla-La Mancha</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2022-06-09</date>
+    <description>Día de la Región de Murcia</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2022-06-09</date>
+    <description>Día de La Rioja</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2022-07-25</date>
+    <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-08-15</date>
+    <description>Asunción de la Virgen</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2022-09-08</date>
+    <description>Día de Asturias</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2022-09-08</date>
+    <description>Día de Extremadura</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2022-09-11</date>
+    <description>Fiesta Nacional de Cataluña</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2022-10-09</date>
+    <description>Día de la Comunitat Valenciana</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-10-12</date>
+    <description>Fiesta Nacional de España</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-11-01</date>
+    <description>Todos los Santos</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-12-06</date>
+    <description>Día de la Constitución Española</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-12-08</date>
+    <description>Inmaculada Concepción</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region></region>
+    <date>2022-12-25</date>
+    <description>Natividad del Señor</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
