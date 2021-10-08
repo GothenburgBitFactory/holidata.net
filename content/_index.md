@@ -18,9 +18,9 @@ All you need to access the data is the correct URL, which looks like this:
 * The `YEAR` should be a four-digit value no earlier than 2011.
 * The `FORMAT` should be one of: [`csv`](formats/csv/), [`json`](formats/json/), [`yaml`](formats/yaml/),  [`xml`](formats/xml/)  (see [available formats](formats/)).
 
-Here is an example that requests the `2016` holiday data for the `en-US` locale as `JSON`:
+Here is an example that requests the `{{< current_year >}}` holiday data for the `en-US` locale as `JSON`:
 ```html
 
-    http://holidata.net/en-US/2016.json
+    http://holidata.net/en-US/{{< current_year >}}.json
 
 ```
