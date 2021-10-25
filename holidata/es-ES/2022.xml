@@ -26,10 +26,162 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
-    <region>ML</region>
-    <date>2022-03-13</date>
-    <description>Estatuto de Autonomía de la Ciudad de Melilla</description>
+    <region>IB</region>
+    <date>2022-03-01</date>
+    <description>Día de las Illes Balears</description>
     <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2022-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2022-04-14</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -46,6 +198,62 @@
     <date>2022-04-17</date>
     <description>Pascua</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2022-04-18</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2022-04-18</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2022-04-18</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2022-04-18</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2022-04-18</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2022-04-18</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2022-04-18</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -82,6 +290,62 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2022-05-02</date>
+    <description>Lunes siguiente a la Fiesta del Trabajo</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2022-05-02</date>
+    <description>Lunes siguiente a la Fiesta del Trabajo</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2022-05-02</date>
+    <description>Lunes siguiente a la Fiesta del Trabajo</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2022-05-02</date>
+    <description>Lunes siguiente a la Fiesta del Trabajo</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2022-05-02</date>
+    <description>Lunes siguiente a la Fiesta del Trabajo</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2022-05-02</date>
+    <description>Lunes siguiente a la Fiesta del Trabajo</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2022-05-03</date>
+    <description>Fiesta del Eid Fitr</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>GA</region>
     <date>2022-05-17</date>
     <description>Día de las Letras Gallegas</description>
@@ -106,6 +370,14 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2022-06-06</date>
+    <description>Lunes de Pascua Granada</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>MC</region>
     <date>2022-06-09</date>
     <description>Día de la Región de Murcia</description>
@@ -122,9 +394,97 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2022-06-16</date>
+    <description>Corpus Christi</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2022-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2022-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2022-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2022-07-09</date>
+    <description>Fiesta del Sacrificio (Eidul Adha)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2022-07-11</date>
+    <description>Fiesta del Sacrificio (Aid Al Adha)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2022-07-25</date>
+    <description>Santiago Apóstol</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2022-07-25</date>
+    <description>Santiago Apóstol</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2022-07-25</date>
+    <description>Santiago Apóstol</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>GA</region>
     <date>2022-07-25</date>
     <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2022-07-28</date>
+    <description>Día de las Instituciones de Cantabria</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2022-08-05</date>
+    <description>Nuestra Señora de África</description>
     <type>RF</type>
     <notes></notes>
   </holiday>
@@ -134,6 +494,22 @@
     <date>2022-08-15</date>
     <description>Asunción de la Virgen</description>
     <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2022-09-02</date>
+    <description>Día de Ceuta</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2022-09-06</date>
+    <description>V Centenario Vuelta al Mundo</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -154,18 +530,10 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
-    <region>CT</region>
-    <date>2022-09-11</date>
-    <description>Fiesta Nacional de Cataluña</description>
-    <type>F</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>es-ES</locale>
-    <region>VC</region>
-    <date>2022-10-09</date>
-    <description>Día de la Comunitat Valenciana</description>
-    <type>F</type>
+    <region>CB</region>
+    <date>2022-09-15</date>
+    <description>La Bien Aparecida</description>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -206,6 +574,126 @@
     <date>2022-12-25</date>
     <description>Natividad del Señor</description>
     <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2022-12-26</date>
+    <description>Lunes siguiente a la Natividad del Señor</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2022-12-26</date>
+    <description>San Esteban</description>
+    <type>RF</type>
     <notes></notes>
   </holiday>
 </holidays>

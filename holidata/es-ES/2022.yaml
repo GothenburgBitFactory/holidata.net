@@ -23,10 +23,143 @@
     notes:
   holiday:
     locale: es-ES
-    region: ML
-    date: 2022-03-13
-    description: Estatuto de Autonomía de la Ciudad de Melilla
+    region: IB
+    date: 2022-03-01
+    description: Día de las Illes Balears
     type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2022-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2022-04-14
+    description: Jueves Santo
+    type: RV
     notes:
   holiday:
     locale: es-ES
@@ -41,6 +174,55 @@
     date: 2022-04-17
     description: Pascua
     type: NRV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2022-04-18
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2022-04-18
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2022-04-18
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2022-04-18
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2022-04-18
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2022-04-18
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2022-04-18
+    description: Lunes de Pascua
+    type: RV
     notes:
   holiday:
     locale: es-ES
@@ -72,6 +254,55 @@
     notes:
   holiday:
     locale: es-ES
+    region: AN
+    date: 2022-05-02
+    description: Lunes siguiente a la Fiesta del Trabajo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2022-05-02
+    description: Lunes siguiente a la Fiesta del Trabajo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2022-05-02
+    description: Lunes siguiente a la Fiesta del Trabajo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2022-05-02
+    description: Lunes siguiente a la Fiesta del Trabajo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2022-05-02
+    description: Lunes siguiente a la Fiesta del Trabajo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2022-05-02
+    description: Lunes siguiente a la Fiesta del Trabajo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2022-05-03
+    description: Fiesta del Eid Fitr
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region: GA
     date: 2022-05-17
     description: Día de las Letras Gallegas
@@ -93,6 +324,13 @@
     notes:
   holiday:
     locale: es-ES
+    region: CT
+    date: 2022-06-06
+    description: Lunes de Pascua Granada
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
     region: MC
     date: 2022-06-09
     description: Día de la Región de Murcia
@@ -107,9 +345,86 @@
     notes:
   holiday:
     locale: es-ES
+    region: CM
+    date: 2022-06-16
+    description: Corpus Christi
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2022-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2022-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2022-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2022-07-09
+    description: Fiesta del Sacrificio (Eidul Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2022-07-11
+    description: Fiesta del Sacrificio (Aid Al Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2022-07-25
+    description: Santiago Apóstol
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2022-07-25
+    description: Santiago Apóstol
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2022-07-25
+    description: Santiago Apóstol
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region: GA
     date: 2022-07-25
     description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2022-07-28
+    description: Día de las Instituciones de Cantabria
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2022-08-05
+    description: Nuestra Señora de África
     type: RF
     notes:
   holiday:
@@ -118,6 +433,20 @@
     date: 2022-08-15
     description: Asunción de la Virgen
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2022-09-02
+    description: Día de Ceuta
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2022-09-06
+    description: V Centenario Vuelta al Mundo
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -135,17 +464,10 @@
     notes:
   holiday:
     locale: es-ES
-    region: CT
-    date: 2022-09-11
-    description: Fiesta Nacional de Cataluña
-    type: F
-    notes:
-  holiday:
-    locale: es-ES
-    region: VC
-    date: 2022-10-09
-    description: Día de la Comunitat Valenciana
-    type: F
+    region: CB
+    date: 2022-09-15
+    description: La Bien Aparecida
+    type: RF
     notes:
   holiday:
     locale: es-ES
@@ -181,5 +503,110 @@
     date: 2022-12-25
     description: Natividad del Señor
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2022-12-26
+    description: Lunes siguiente a la Natividad del Señor
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2022-12-26
+    description: San Esteban
+    type: RF
     notes:
 ...
