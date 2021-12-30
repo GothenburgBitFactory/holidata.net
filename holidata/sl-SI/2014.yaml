@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-01-01
+    description: Novo leto
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-02-08
+    description: Prešernov dan
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-04-20
+    description: Velikonočna nedelja
+    type: NRV
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-04-21
+    description: Velikonočni ponedeljek
+    type: NRV
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-04-27
+    description: Dan upora proti okupatorju
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-05-01
+    description: Praznik dela
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-05-02
+    description: Praznik dela
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-06-09
+    description: Binkošti
+    type: NRV
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-06-25
+    description: Dan državnosti
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-08-15
+    description: Marijino vnebovzetje
+    type: NRF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-10-31
+    description: Dan reformacije
+    type: NRF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-11-01
+    description: Dan spomina na mrtve
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-12-25
+    description: Božič
+    type: NF
+    notes:
+  holiday:
+    locale: sl-SI
+    region:
+    date: 2014-12-26
+    description: Dan samostojnosti in enotnosti
+    type: NF
+    notes:
+...
