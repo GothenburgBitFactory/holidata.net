@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-01-01</date>
+    <description>Novo leto</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-01-02</date>
+    <description>Novo leto</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-02-08</date>
+    <description>Prešernov dan</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-04-12</date>
+    <description>Velikonočna nedelja</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-04-13</date>
+    <description>Velikonočni ponedeljek</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-04-27</date>
+    <description>Dan upora proti okupatorju</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-05-01</date>
+    <description>Praznik dela</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-05-02</date>
+    <description>Praznik dela</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-06-01</date>
+    <description>Binkošti</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-06-25</date>
+    <description>Dan državnosti</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-08-15</date>
+    <description>Marijino vnebovzetje</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-10-31</date>
+    <description>Dan reformacije</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-11-01</date>
+    <description>Dan spomina na mrtve</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-12-25</date>
+    <description>Božič</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sl-SI</locale>
+    <region></region>
+    <date>2020-12-26</date>
+    <description>Dan samostojnosti in enotnosti</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
