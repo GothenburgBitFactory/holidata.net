@@ -1,0 +1,38 @@
+{{ $scratch := newScratch }}
+{{ range (readDir "holidata") }}
+  {{ $c_l := split .Name "-" }}
+  {{ $c := index $c_l 1 }}
+  {{ $scratch.Add "countries" (slice $c) }}
+  {{ $scratch.Add $c (slice (index $c_l 0)) }}
+  {{ range (readDir (delimit (slice "holidata" .Name) "/")) }}
+    {{ $y_f := split .Name "." }}
+    {{ $scratch.Add "years" (slice (index $y_f 0)) }}
+    {{ $scratch.Add "formats" (slice (index $y_f 1)) }}
+  {{ end }}
+{{ end }}
+
+<table class="table">
+    <caption>Available locales</caption>
+    <tr>
+        <th scope="col">Country</th>
+        <th scope="col">Locale</th>
+        {{ range $scratch.Get "years" | sort | uniq | last 2 }}
+        <th scope="col">{{ . }}</th>
+        {{ end }}
+    </tr>
+    {{ range $country := $scratch.Get "countries" | sort | uniq }}
+    {{ range $language := $scratch.Get $country  }}
+    <tr>
+        <td>{{ index $.Site.Data.countries $country }}</td>
+        <td>{{ $language }}-{{ $country }}</td>
+        {{ range $year := $scratch.Get "years" | sort | uniq | last 2 }}
+        <td>
+            {{ range $format := $scratch.Get "formats" | sort | uniq }}
+            <a href="/{{ $language }}-{{ $country }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
+            {{ end }}
+        </td>
+        {{ end }}
+    </tr>
+    {{ end }}
+    {{ end }}
+</table>

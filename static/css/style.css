@@ -2,3 +2,8 @@
 {
   text-shadow: 3px 3px 3px black
 }
+
+table caption
+{
+  text-align: center;
+}
