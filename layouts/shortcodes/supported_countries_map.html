@@ -1,0 +1,53 @@
+<div>
+    Show: <a href="javascript:draw_map_region('world')">World</a>
+    – <a href="javascript:draw_map_region('002')">Africa</a>
+    – <a href="javascript:draw_map_region('019')">Americas</a>
+    – <a href="javascript:draw_map_region('142')">Asia</a>
+    – <a href="javascript:draw_map_region('150')">Europe</a>
+    – <a href="javascript:draw_map_region('009')">Oceania</a>
+</div>
+<div id="map_div"></div>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+    google.charts.load('current', {'packages':['geochart']});
+    google.charts.setOnLoadCallback(drawVisualization);
+
+    let wrapper;
+    const data = [
+        ['Code', 'Country'],
+        {{ range (readDir "holidata") }}
+        {{ $country := (index (split .Name "-") 1) }}
+        ['{{ $country }}', '{{ index $.Site.Data.countries $country }}'],
+        {{ end }}
+    ];
+
+    function drawVisualization() {
+        wrapper = new google.visualization.ChartWrapper({
+            chartType: 'GeoChart',
+            dataTable: data,
+            options: {
+                defaultColor: '#6b9430',
+                backgroundColor: { fill:'transparent' },
+                region: 'world'
+            },
+            containerId: 'map_div'
+        });
+
+        google.visualization.events.addListener(wrapper, 'ready', function () {
+            google.visualization.events.addListener(wrapper.getChart(), 'select', function () {
+                const selection = wrapper.getChart().getSelection();
+                console.log(selection);
+                if (selection.length > 0) {
+                    window.open('/locales', '_self');
+                }
+            })
+        });
+
+        wrapper.draw();
+    }
+
+    function draw_map_region(region) {
+        wrapper.setOption('region', region);
+        wrapper.draw();
+    }
+</script>
