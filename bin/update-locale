@@ -2,7 +2,7 @@
 
 ################################################################################
 ##
-## Copyright 2019 - 2021, Göteborg Bit Factory.
+## Copyright 2019 - 2022, Göteborg Bit Factory.
 ## All rights reserved.
 ##
 ################################################################################
@@ -30,6 +30,9 @@ while [[ -n "${1}" ]] ; do
     [0-9][0-9][0-9][0-9])
       years+=( "${1}" )
       ;;
+    csv|json|yaml|xml)
+      formats+=( "${1}" )
+      ;;
     --all-years)
       while IFS='' read -r line; do years+=("$line"); done < <( seq "2011" "$( date "+%Y" )" )
       ;;
@@ -38,6 +41,9 @@ while [[ -n "${1}" ]] ; do
       ;;
     --commit)
       DO_COMMIT="yes"
+      ;;
+    --all-formats)
+      formats=( "csv" "json" "yaml" "xml" )
       ;;
     -*)
       echo "Invalid option '${1}'"
@@ -50,8 +56,6 @@ while [[ -n "${1}" ]] ; do
   esac
   shift
 done
-
-formats=( "csv" "json" "yaml" "xml" )
 
 if [[ ${#locales[@]} -eq 0 ]] ; then
   echo "No locale specified!"
@@ -66,6 +70,11 @@ fi
 
 if [[ ${#years[@]} -eq 0 ]] ; then
   echo "No year specified!"
+  exit 1
+fi
+
+if [[ ${#formats[@]} -eq 0 ]] ; then
+  echo "No output format specified!"
   exit 1
 fi
 
