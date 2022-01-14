@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-01-01
+    description: Uusaasta
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-02-24
+    description: Iseseisvuspäev, Eesti Vabariigi aastapäev
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-04-10
+    description: Suur reede
+    type: NRV
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-04-12
+    description: Ülestõusmispühade 1. püha
+    type: NRV
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-05-01
+    description: Kevadpüha
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-05-31
+    description: Nelipühade 1. püha
+    type: NRV
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-06-23
+    description: Võidupüha
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-06-24
+    description: Jaanipäev
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-08-20
+    description: Taasiseseisvumispäev
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-12-24
+    description: Jõululaupäev
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-12-25
+    description: Esimene jõulupüha
+    type: NF
+    notes:
+  holiday:
+    locale: et-EE
+    region:
+    date: 2020-12-26
+    description: Teine jõulupüha
+    type: NF
+    notes:
+...
