@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-01-01</date>
+    <description>Uusaasta</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-02-24</date>
+    <description>Iseseisvuspäev, Eesti Vabariigi aastapäev</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-04-22</date>
+    <description>Suur reede</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-04-24</date>
+    <description>Ülestõusmispühade 1. püha</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-05-01</date>
+    <description>Kevadpüha</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-06-12</date>
+    <description>Nelipühade 1. püha</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-06-23</date>
+    <description>Võidupüha</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-06-24</date>
+    <description>Jaanipäev</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-08-20</date>
+    <description>Taasiseseisvumispäev</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-12-24</date>
+    <description>Jõululaupäev</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-12-25</date>
+    <description>Esimene jõulupüha</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>et-EE</locale>
+    <region></region>
+    <date>2011-12-26</date>
+    <description>Teine jõulupüha</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
