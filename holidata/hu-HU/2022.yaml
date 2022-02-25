@@ -10,6 +10,13 @@
   holiday:
     locale: hu-HU
     region:
+    date: 2022-03-14
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2022-03-26 munkanap
+  holiday:
+    locale: hu-HU
+    region:
     date: 2022-03-15
     description: Az 1848-as forradalom ünnepe
     type: NF
@@ -70,6 +77,13 @@
     description: Az 1956-os forradalom ünnepe
     type: NF
     notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2022-10-31
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2022-10-15 munkanap
   holiday:
     locale: hu-HU
     region:

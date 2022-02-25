@@ -11,6 +11,14 @@
   <holiday>
     <locale>hu-HU</locale>
     <region></region>
+    <date>2022-03-14</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2022-03-26 munkanap</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
     <date>2022-03-15</date>
     <description>Az 1848-as forradalom ünnepe</description>
     <type>NF</type>
@@ -79,6 +87,14 @@
     <description>Az 1956-os forradalom ünnepe</description>
     <type>NF</type>
     <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2022-10-31</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2022-10-15 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
