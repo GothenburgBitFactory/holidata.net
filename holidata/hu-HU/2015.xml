@@ -12,9 +12,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2015-01-02</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2015-01-10 pihenőnap</notes>
+    <notes>2015-01-10 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -76,9 +76,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2015-08-21</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2015-08-08 pihenőnap</notes>
+    <notes>2015-08-08 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -100,9 +100,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2015-12-24</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2015-12-12 pihenőnap</notes>
+    <notes>2015-12-12 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
