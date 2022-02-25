@@ -67,9 +67,9 @@
     locale: hu-HU
     region:
     date: 2020-08-21
-    description: Munkaszüneti Nap
+    description: Munkaszüneti nap
     type: NF
-    notes: 2020-08-29 pihenőnap
+    notes: 2020-08-29 munkanap
   holiday:
     locale: hu-HU
     region:
@@ -88,9 +88,9 @@
     locale: hu-HU
     region:
     date: 2020-12-24
-    description: Munkaszüneti Nap
+    description: Munkaszüneti nap
     type: NF
-    notes: 2020-12-12 pihenőnap
+    notes: 2020-12-12 munkanap
   holiday:
     locale: hu-HU
     region:

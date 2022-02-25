@@ -7,9 +7,9 @@
 {"locale":"hu-HU","region":"","date":"2020-05-31","description":"Pünkösd","type":"NRV","notes":""}
 {"locale":"hu-HU","region":"","date":"2020-06-01","description":"Pünkösdhétfő","type":"NRV","notes":""}
 {"locale":"hu-HU","region":"","date":"2020-08-20","description":"Az államalapítás ünnepe","type":"NF","notes":""}
-{"locale":"hu-HU","region":"","date":"2020-08-21","description":"Munkaszüneti Nap","type":"NF","notes":"2020-08-29 pihenőnap"}
+{"locale":"hu-HU","region":"","date":"2020-08-21","description":"Munkaszüneti nap","type":"NF","notes":"2020-08-29 munkanap"}
 {"locale":"hu-HU","region":"","date":"2020-10-23","description":"Az 1956-os forradalom ünnepe","type":"NF","notes":""}
 {"locale":"hu-HU","region":"","date":"2020-11-01","description":"Mindenszentek","type":"NRF","notes":""}
-{"locale":"hu-HU","region":"","date":"2020-12-24","description":"Munkaszüneti Nap","type":"NF","notes":"2020-12-12 pihenőnap"}
+{"locale":"hu-HU","region":"","date":"2020-12-24","description":"Munkaszüneti nap","type":"NF","notes":"2020-12-12 munkanap"}
 {"locale":"hu-HU","region":"","date":"2020-12-25","description":"Karácsony","type":"NRF","notes":""}
 {"locale":"hu-HU","region":"","date":"2020-12-26","description":"Karácsony","type":"NRF","notes":""}

@@ -76,9 +76,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2020-08-21</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2020-08-29 pihenőnap</notes>
+    <notes>2020-08-29 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -100,9 +100,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2020-12-24</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2020-12-12 pihenőnap</notes>
+    <notes>2020-12-12 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
