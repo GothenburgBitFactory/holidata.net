@@ -68,9 +68,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2019-08-19</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2019-08-10 pihenőnap</notes>
+    <notes>2019-08-10 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -100,9 +100,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2019-12-24</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2019-12-07 pihenőnap</notes>
+    <notes>2019-12-07 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -124,8 +124,8 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2019-12-27</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2019-12-14 pihenőnap</notes>
+    <notes>2019-12-14 munkanap</notes>
   </holiday>
 </holidays>
