@@ -20,9 +20,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2018-03-16</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>Swapped with 03-10</notes>
+    <notes>2018-03-10 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -52,9 +52,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2018-04-30</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>Swapped with 04-21</notes>
+    <notes>2018-04-21 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -92,9 +92,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2018-10-22</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>Swapped with 10-13</notes>
+    <notes>2018-10-13 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -116,17 +116,17 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2018-11-02</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>Swapped with 11-10</notes>
+    <notes>2018-11-10 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
     <region></region>
     <date>2018-12-24</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>Swapped with 12-01</notes>
+    <notes>2018-12-01 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -148,8 +148,8 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2018-12-31</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>Swapped with 12-15</notes>
+    <notes>2018-12-15 munkanap</notes>
   </holiday>
 </holidays>
