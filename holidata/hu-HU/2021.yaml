@@ -81,9 +81,9 @@
     locale: hu-HU
     region:
     date: 2021-12-24
-    description: Munkaszüneti Nap
+    description: Munkaszüneti nap
     type: NF
-    notes: 2021-12-11 pihenőnap
+    notes: 2021-12-11 munkanap
   holiday:
     locale: hu-HU
     region:

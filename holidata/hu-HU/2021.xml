@@ -92,9 +92,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2021-12-24</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2021-12-11 pihenőnap</notes>
+    <notes>2021-12-11 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
