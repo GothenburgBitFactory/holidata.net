@@ -11,9 +11,9 @@
     locale: hu-HU
     region:
     date: 2016-03-14
-    description: Munkaszüneti Nap
+    description: Munkaszüneti nap
     type: NF
-    notes: 2016-03-05 pihenőnap
+    notes: 2016-03-05 munkanap
   holiday:
     locale: hu-HU
     region:
@@ -74,9 +74,9 @@
     locale: hu-HU
     region:
     date: 2016-10-31
-    description: Munkaszüneti Nap
+    description: Munkaszüneti nap
     type: NF
-    notes: 2016-10-15 pihenőnap
+    notes: 2016-10-15 munkanap
   holiday:
     locale: hu-HU
     region:

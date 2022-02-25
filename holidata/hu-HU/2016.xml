@@ -12,9 +12,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2016-03-14</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2016-03-05 pihenőnap</notes>
+    <notes>2016-03-05 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
@@ -84,9 +84,9 @@
     <locale>hu-HU</locale>
     <region></region>
     <date>2016-10-31</date>
-    <description>Munkaszüneti Nap</description>
+    <description>Munkaszüneti nap</description>
     <type>NF</type>
-    <notes>2016-10-15 pihenőnap</notes>
+    <notes>2016-10-15 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>
