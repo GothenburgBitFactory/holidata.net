@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-03-21</date>
+    <description>Human Rights Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-04-22</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-04-25</date>
+    <description>Family Day</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-04-27</date>
+    <description>Freedom Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-05-01</date>
+    <description>Worker's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-05-02</date>
+    <description>Worker's Day (Supplement)</description>
+    <type>NF</type>
+    <notes>Supplement holiday</notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-06-16</date>
+    <description>Youth Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-08-09</date>
+    <description>National Women's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-09-24</date>
+    <description>Heritage Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-12-16</date>
+    <description>Day of Reconciliation</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-12-25</date>
+    <description>Christmas Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2011-12-26</date>
+    <description>Day of Goodwill</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
