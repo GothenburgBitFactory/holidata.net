@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-01-02</date>
+    <description>New Year's Day (Supplement)</description>
+    <type>NF</type>
+    <notes>Supplement holiday</notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-03-21</date>
+    <description>Human Rights Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-04-14</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-04-17</date>
+    <description>Family Day</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-04-27</date>
+    <description>Freedom Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-05-01</date>
+    <description>Worker's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-06-16</date>
+    <description>Youth Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-08-09</date>
+    <description>National Women's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-09-24</date>
+    <description>Heritage Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-09-25</date>
+    <description>Heritage Day (Supplement)</description>
+    <type>NF</type>
+    <notes>Supplement holiday</notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-12-16</date>
+    <description>Day of Reconciliation</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-12-25</date>
+    <description>Christmas Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-ZA</locale>
+    <region></region>
+    <date>2017-12-26</date>
+    <description>Day of Goodwill</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
