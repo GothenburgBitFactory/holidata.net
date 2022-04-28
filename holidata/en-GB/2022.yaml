@@ -38,8 +38,15 @@
   holiday:
     locale: en-GB
     region:
-    date: 2022-05-30
+    date: 2022-06-02
     description: Spring Bank Holiday
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2022-06-03
+    description: Queen's Platinum Jubilee
     type: NV
     notes:
   holiday:
