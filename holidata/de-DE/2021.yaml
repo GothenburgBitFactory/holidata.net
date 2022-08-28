@@ -12,28 +12,28 @@
     region: BW
     date: 2021-01-06
     description: Heilige drei Könige
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BY
     date: 2021-01-06
     description: Heilige drei Könige
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: ST
     date: 2021-01-06
     description: Heilige drei Könige
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BE
     date: 2021-03-08
     description: Internationaler Frauentag
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-DE
@@ -89,49 +89,49 @@
     region: BW
     date: 2021-06-03
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: BY
     date: 2021-06-03
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: HE
     date: 2021-06-03
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: NW
     date: 2021-06-03
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: RP
     date: 2021-06-03
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: SL
     date: 2021-06-03
     description: Fronleichnam
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
     region: SL
     date: 2021-08-15
     description: Mariä Himmelfahrt
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
@@ -145,105 +145,105 @@
     region: BB
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BH
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: HH
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: MV
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: NI
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SH
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SN
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: ST
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: TH
     date: 2021-10-31
     description: Reformationstag
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BW
     date: 2021-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: BY
     date: 2021-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: NW
     date: 2021-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: RP
     date: 2021-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SL
     date: 2021-11-01
     description: Allerheiligen
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-DE
     region: SN
     date: 2021-11-17
     description: Buß- und Bettag
-    type: NRV
+    type: RV
     notes:
   holiday:
     locale: de-DE
