@@ -109,7 +109,7 @@
     <region>AG</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -117,7 +117,7 @@
     <region>AI</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -125,7 +125,7 @@
     <region>AR</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -133,7 +133,7 @@
     <region>BE</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -141,7 +141,7 @@
     <region>BL</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -149,7 +149,7 @@
     <region>BS</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -157,7 +157,7 @@
     <region>FR</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -165,7 +165,7 @@
     <region>GE</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -173,7 +173,7 @@
     <region>GL</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -181,7 +181,7 @@
     <region>GR</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -189,7 +189,7 @@
     <region>JU</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -197,7 +197,7 @@
     <region>LU</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -205,7 +205,7 @@
     <region>NE</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -213,7 +213,7 @@
     <region>NW</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -221,7 +221,7 @@
     <region>OW</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -229,7 +229,7 @@
     <region>SG</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -237,7 +237,7 @@
     <region>SH</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -245,7 +245,7 @@
     <region>SO</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -253,7 +253,7 @@
     <region>SZ</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -261,7 +261,7 @@
     <region>TG</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -269,7 +269,7 @@
     <region>UR</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -277,7 +277,7 @@
     <region>VD</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -285,7 +285,7 @@
     <region>ZG</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -293,7 +293,7 @@
     <region>ZH</region>
     <date>2021-04-02</date>
     <description>Karfreitag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -309,7 +309,7 @@
     <region>AI</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -317,7 +317,7 @@
     <region>AR</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -325,7 +325,7 @@
     <region>BE</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -333,7 +333,7 @@
     <region>BL</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -341,7 +341,7 @@
     <region>BS</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -349,7 +349,7 @@
     <region>GE</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -357,7 +357,7 @@
     <region>GL</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -365,7 +365,7 @@
     <region>GR</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -373,7 +373,7 @@
     <region>JU</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -381,7 +381,7 @@
     <region>SG</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -389,7 +389,7 @@
     <region>SH</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -397,7 +397,7 @@
     <region>SZ</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -405,7 +405,7 @@
     <region>TG</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -413,7 +413,7 @@
     <region>TI</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -421,7 +421,7 @@
     <region>UR</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -429,7 +429,7 @@
     <region>VD</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -437,7 +437,7 @@
     <region>ZH</region>
     <date>2021-04-05</date>
     <description>Ostermontag</description>
-    <type>NRV</type>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -445,7 +445,7 @@
     <region>BL</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -453,7 +453,7 @@
     <region>BS</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -461,7 +461,7 @@
     <region>GR</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -469,7 +469,7 @@
     <region>NE</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -477,7 +477,7 @@
     <region>SH</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -485,7 +485,7 @@
     <region>TG</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -493,7 +493,7 @@
     <region>TI</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -501,7 +501,7 @@
     <region>ZH</region>
     <date>2021-05-01</date>
     <description>Tag der Arbeit</description>
-    <type>NF</type>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -509,7 +509,7 @@
     <region></region>
     <date>2021-05-13</date>
     <description>Auffahrt</description>
-    <type>RV</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -517,7 +517,7 @@
     <region></region>
     <date>2021-05-23</date>
     <description>Pfingstsonntag</description>
-    <type>RV</type>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -997,7 +997,7 @@
     <region></region>
     <date>2021-12-25</date>
     <description>Weihnachtstag</description>
-    <type>RF</type>
+    <type>NRF</type>
     <notes></notes>
   </holiday>
   <holiday>
