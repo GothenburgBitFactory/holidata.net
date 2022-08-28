@@ -19,28 +19,28 @@
     region: 2
     date: 2021-03-19
     description: Josef
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-AT
     region: 6
     date: 2021-03-19
     description: Josef
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-AT
     region: 7
     date: 2021-03-19
     description: Josef
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-AT
     region: 8
     date: 2021-03-19
     description: Josef
-    type: NRF
+    type: RF
     notes:
   holiday:
     locale: de-AT
@@ -75,7 +75,7 @@
     region: 4
     date: 2021-05-04
     description: Florian
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-AT
@@ -117,14 +117,14 @@
     region: 5
     date: 2021-09-24
     description: Rupert
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-AT
     region: 2
     date: 2021-10-10
     description: Tag der Volksabstimmung
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-AT
@@ -145,21 +145,21 @@
     region: 1
     date: 2021-11-11
     description: Martin
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-AT
     region: 9
     date: 2021-11-15
     description: Leopold
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-AT
     region: 3
     date: 2021-11-15
     description: Leopold
-    type: NF
+    type: F
     notes:
   holiday:
     locale: de-AT
