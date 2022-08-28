@@ -12,7 +12,7 @@
     region:
     date: 2021-01-18
     description: Cumpleaños de Martin Luther King, Jr.
-  Fix holiday flags    type: NV
+    type: NV
     notes:
   holiday:
     locale: es-US
