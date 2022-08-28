@@ -12,7 +12,7 @@
     region:
     date: 2021-01-18
     description: Cumpleaños de Martin Luther King, Jr.
-    type: V
+  Fix holiday flags    type: NV
     notes:
   holiday:
     locale: es-US
@@ -26,14 +26,14 @@
     region: MA
     date: 2021-04-19
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
     region: ME
     date: 2021-04-19
     description: Día del Patriota
-    type: NV
+    type: V
     notes:
   holiday:
     locale: es-US
