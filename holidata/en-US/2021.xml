@@ -13,7 +13,7 @@
     <region></region>
     <date>2021-01-18</date>
     <description>Birthday of Martin Luther King, Jr.</description>
-    <type>V</type>
+    <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -29,7 +29,7 @@
     <region>MA</region>
     <date>2021-04-19</date>
     <description>Patriots' Day</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -37,7 +37,7 @@
     <region>ME</region>
     <date>2021-04-19</date>
     <description>Patriots' Day</description>
-    <type>NV</type>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>

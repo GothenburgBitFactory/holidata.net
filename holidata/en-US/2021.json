@@ -1,8 +1,8 @@
 {"locale":"en-US","region":"","date":"2021-01-01","description":"New Year's Day","type":"NF","notes":""}
-{"locale":"en-US","region":"","date":"2021-01-18","description":"Birthday of Martin Luther King, Jr.","type":"V","notes":""}
+{"locale":"en-US","region":"","date":"2021-01-18","description":"Birthday of Martin Luther King, Jr.","type":"NV","notes":""}
 {"locale":"en-US","region":"","date":"2021-02-15","description":"Washington's Birthday","type":"NV","notes":""}
-{"locale":"en-US","region":"MA","date":"2021-04-19","description":"Patriots' Day","type":"NV","notes":""}
-{"locale":"en-US","region":"ME","date":"2021-04-19","description":"Patriots' Day","type":"NV","notes":""}
+{"locale":"en-US","region":"MA","date":"2021-04-19","description":"Patriots' Day","type":"V","notes":""}
+{"locale":"en-US","region":"ME","date":"2021-04-19","description":"Patriots' Day","type":"V","notes":""}
 {"locale":"en-US","region":"","date":"2021-05-31","description":"Memorial Day","type":"NV","notes":""}
 {"locale":"en-US","region":"","date":"2021-07-04","description":"Independence Day","type":"NF","notes":""}
 {"locale":"en-US","region":"","date":"2021-09-06","description":"Labor Day","type":"NV","notes":""}
