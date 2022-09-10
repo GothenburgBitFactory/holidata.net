@@ -59,6 +59,13 @@
   holiday:
     locale: en-GB
     region:
+    date: 2022-09-19
+    description: State Funeral of Queen Elizabeth II
+    type: NF
+    notes:
+  holiday:
+    locale: en-GB
+    region:
     date: 2022-12-25
     description: Christmas Day
     type: NRF

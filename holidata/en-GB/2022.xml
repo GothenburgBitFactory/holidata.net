@@ -67,6 +67,14 @@
   <holiday>
     <locale>en-GB</locale>
     <region></region>
+    <date>2022-09-19</date>
+    <description>State Funeral of Queen Elizabeth II</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
     <date>2022-12-25</date>
     <description>Christmas Day</description>
     <type>NRF</type>
