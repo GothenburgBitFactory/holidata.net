@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-01-01
+    description: Nova Godina
+    type: NF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-01-06
+    description: Sveta tri kralja
+    type: NRF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-04-09
+    description: Uskrs
+    type: NRV
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-04-10
+    description: Uskršnji ponedjeljak
+    type: NRV
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-05-01
+    description: Praznik rada
+    type: NF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-05-30
+    description: Dan državnosti
+    type: NF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-06-08
+    description: Tijelovo
+    type: NRV
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-06-22
+    description: Dan antifašističke borbe
+    type: NF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-08-05
+    description: Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja
+    type: NF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-08-15
+    description: Velika Gospa
+    type: NRF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-11-01
+    description: Dan svih svetih
+    type: NRF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-11-18
+    description: Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje
+    type: NF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-12-25
+    description: Božić
+    type: NRF
+    notes:
+  holiday:
+    locale: hr-HR
+    region:
+    date: 2023-12-26
+    description: Sveti Stjepan
+    type: NRF
+    notes:
+...
