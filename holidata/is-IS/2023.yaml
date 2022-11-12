@@ -1,0 +1,115 @@
+%YAML 1.1
+---
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-01-01
+    description: Nýársdagur
+    type: NRF
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-04-06
+    description: Skírdagur
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-04-07
+    description: Föstudagurinn langi
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-04-09
+    description: Páskadagur
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-04-10
+    description: Annar dagur páska
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-04-20
+    description: Sumardagurinn fyrsti
+    type: NV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-05-01
+    description: Verkalýðsdagurinn
+    type: NF
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-05-18
+    description: Uppstigningardagur
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-05-28
+    description: Hvítasunnudagur
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-05-29
+    description: Annar dagur hvítasunnu
+    type: NRV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-06-17
+    description: Þjóðhátíðardagurinn
+    type: NF
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-08-07
+    description: Frídagur verslunarmanna
+    type: NV
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-12-24
+    description: Aðfangadagur jóla
+    type: NRF
+    notes: Holiday from 13:00
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-12-25
+    description: Jóladagur
+    type: NRF
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-12-26
+    description: Annar dagur jóla
+    type: NRF
+    notes:
+  holiday:
+    locale: is-IS
+    region:
+    date: 2023-12-31
+    description: Gamlársdagur
+    type: NF
+    notes: Holiday from 13:00
+...
