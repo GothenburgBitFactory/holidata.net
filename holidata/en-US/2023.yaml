@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-01-01
+    description: New Year's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-01-16
+    description: Birthday of Martin Luther King, Jr.
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-02-20
+    description: Washington's Birthday
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region: MA
+    date: 2023-04-17
+    description: Patriots' Day
+    type: V
+    notes:
+  holiday:
+    locale: en-US
+    region: ME
+    date: 2023-04-17
+    description: Patriots' Day
+    type: V
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-05-29
+    description: Memorial Day
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-07-04
+    description: Independence Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-09-04
+    description: Labor Day
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-10-09
+    description: Columbus Day
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-11-11
+    description: Veterans Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-11-23
+    description: Thanksgiving Day
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-11-24
+    description: Day after Thanksgiving
+    type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-12-24
+    description: Christmas Eve
+    type: NRF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2023-12-25
+    description: Christmas Day
+    type: NRF
+    notes:
+...
