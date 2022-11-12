@@ -1,0 +1,66 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-01-01
+    description: New Year's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-01-02
+    description: New Year's Day (observed)
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-04-07
+    description: Good Friday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-04-10
+    description: Easter Monday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-05-01
+    description: Early May Bank Holiday
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-05-29
+    description: Spring Bank Holiday
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-08-28
+    description: August Bank Holiday
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-12-25
+    description: Christmas Day
+    type: NRF
+    notes:
+  holiday:
+    locale: en-GB
+    region:
+    date: 2023-12-26
+    description: Boxing Day
+    type: NF
+    notes:
+...
