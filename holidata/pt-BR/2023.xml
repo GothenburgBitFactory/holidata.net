@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-01-01</date>
+    <description>Confraternização Universal</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RO</region>
+    <date>2023-01-04</date>
+    <description>Criação do Estado de Rondônia</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AC</region>
+    <date>2023-01-23</date>
+    <description>Dia do Evangélico no Acre</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-02-21</date>
+    <description>Carnaval</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>PE</region>
+    <date>2023-03-06</date>
+    <description>Revolução Pernambucana de 1817</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AC</region>
+    <date>2023-03-08</date>
+    <description>Dia Internacional da Mulher</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>TO</region>
+    <date>2023-03-18</date>
+    <description>Autonomia do Estado de Tocantins</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AP</region>
+    <date>2023-03-19</date>
+    <description>Dia de São José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>CE</region>
+    <date>2023-03-19</date>
+    <description>Dia de São José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>CE</region>
+    <date>2023-03-25</date>
+    <description>Abolição da Escravidão no Ceará</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-04-09</date>
+    <description>Páscoa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>DF</region>
+    <date>2023-04-21</date>
+    <description>Fundação de Brasília</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>MG</region>
+    <date>2023-04-21</date>
+    <description>Execução de Tiradentes</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-04-21</date>
+    <description>Tiradentes</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RJ</region>
+    <date>2023-04-23</date>
+    <description>Dia de São Jorge</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-05-01</date>
+    <description>Dia Internacional do Trabalhador</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AC</region>
+    <date>2023-06-15</date>
+    <description>Aniversário do Estado do Acre</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RO</region>
+    <date>2023-06-18</date>
+    <description>Dia do Evangélico em Rondônia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AL</region>
+    <date>2023-06-24</date>
+    <description>São João</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>PE</region>
+    <date>2023-06-24</date>
+    <description>São João</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AL</region>
+    <date>2023-06-29</date>
+    <description>São Pedro</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>BA</region>
+    <date>2023-07-02</date>
+    <description>Independência da Bahia</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>SE</region>
+    <date>2023-07-08</date>
+    <description>Emancipação Política de Sergipe</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>SP</region>
+    <date>2023-07-09</date>
+    <description>Revolução Constitucionalista de 1932</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>GO</region>
+    <date>2023-07-26</date>
+    <description>Fundação da Cidade de Goiás</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>MA</region>
+    <date>2023-07-28</date>
+    <description>Adesão do Maranhão à Independência do Brasil</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>PB</region>
+    <date>2023-08-05</date>
+    <description>Fundação do Estado da Paraíba</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RN</region>
+    <date>2023-08-07</date>
+    <description>Dia do Rio Grande do Norte</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>SC</region>
+    <date>2023-08-11</date>
+    <description>Dia de Santa Catarina</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>CE</region>
+    <date>2023-08-15</date>
+    <description>Dia de Nossa Senhora da Assunção</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>PA</region>
+    <date>2023-08-15</date>
+    <description>Adesão do Pará à Independência do Brasil</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AC</region>
+    <date>2023-09-05</date>
+    <description>Dia da Amazônia</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AM</region>
+    <date>2023-09-05</date>
+    <description>Elevação do Amazonas à Categoria de Província</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-09-07</date>
+    <description>Independência do Brasil</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>TO</region>
+    <date>2023-09-08</date>
+    <description>Nossa Senhora da Natividade</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AP</region>
+    <date>2023-09-13</date>
+    <description>Criação do Território Federal do Amapá</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AL</region>
+    <date>2023-09-16</date>
+    <description>Emancipação Política do Alagoas</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RS</region>
+    <date>2023-09-20</date>
+    <description>Dia do Gaúcho</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RN</region>
+    <date>2023-10-03</date>
+    <description>Mártires de Cunhaú e Uruaçu</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RR</region>
+    <date>2023-10-05</date>
+    <description>Criação dos Estado de Roraima</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>TO</region>
+    <date>2023-10-05</date>
+    <description>Criação dos Estado de Tocantins</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>MS</region>
+    <date>2023-10-11</date>
+    <description>Criação do Estado do Mato Grosso do Sul</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-10-12</date>
+    <description>Nossa Senhora Aparecida</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>PI</region>
+    <date>2023-10-19</date>
+    <description>Dia do Piauí</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>GO</region>
+    <date>2023-10-24</date>
+    <description>Pedra Fundamental de Goiânia</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-11-02</date>
+    <description>Finados</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-11-15</date>
+    <description>Proclamação da República</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AC</region>
+    <date>2023-11-17</date>
+    <description>Assinatura do Tratado de Petrópolis</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AL</region>
+    <date>2023-11-20</date>
+    <description>Morte de Zumbi dos Palmares</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AM</region>
+    <date>2023-11-20</date>
+    <description>Dia da Consciência Negra</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>MT</region>
+    <date>2023-11-20</date>
+    <description>Dia da Consciência Negra</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>RJ</region>
+    <date>2023-11-20</date>
+    <description>Dia da Consciência Negra</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>SC</region>
+    <date>2023-11-25</date>
+    <description>Dia de Santa Catarina de Alexandria</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>DF</region>
+    <date>2023-11-30</date>
+    <description>Dia do Evangélico do Distrito Federal</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AM</region>
+    <date>2023-12-08</date>
+    <description>Nossa Senhora da Conceição</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>PR</region>
+    <date>2023-12-19</date>
+    <description>Emancipação Política do Estado do Paraná</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region></region>
+    <date>2023-12-25</date>
+    <description>Natal</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
