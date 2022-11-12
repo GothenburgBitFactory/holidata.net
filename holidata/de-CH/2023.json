@@ -1,0 +1,140 @@
+{"locale":"de-CH","region":"","date":"2023-01-01","description":"Neujahrstag","type":"NF","notes":""}
+{"locale":"de-CH","region":"BE","date":"2023-01-02","description":"Berchtoldstag","type":"F","notes":""}
+{"locale":"de-CH","region":"JU","date":"2023-01-02","description":"Berchtoldstag","type":"F","notes":""}
+{"locale":"de-CH","region":"TG","date":"2023-01-02","description":"Berchtoldstag","type":"F","notes":""}
+{"locale":"de-CH","region":"VD","date":"2023-01-02","description":"Berchtoldstag","type":"F","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-01-06","description":"Heilige Drei Könige","type":"RF","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-01-06","description":"Heilige Drei Könige","type":"RF","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-01-06","description":"Heilige Drei Könige","type":"RF","notes":""}
+{"locale":"de-CH","region":"NW","date":"2023-03-19","description":"Josefstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-03-19","description":"Josefstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-03-19","description":"Josefstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-03-19","description":"Josefstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"VS","date":"2023-03-19","description":"Josefstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"AG","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"AR","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BE","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BL","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BS","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"FR","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GE","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GL","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GR","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"JU","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"LU","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"NE","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"NW","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"OW","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SG","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SH","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SO","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"TG","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"VD","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"ZG","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"ZH","date":"2023-04-07","description":"Karfreitag","type":"RV","notes":""}
+{"locale":"de-CH","region":"","date":"2023-04-09","description":"Ostersonntag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"AR","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BE","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BL","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BS","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GE","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GL","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GR","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"JU","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SG","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SH","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"TG","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"VD","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"ZH","date":"2023-04-10","description":"Ostermontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BL","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"BS","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"GR","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"NE","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"SH","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"TG","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"ZH","date":"2023-05-01","description":"Tag der Arbeit","type":"F","notes":""}
+{"locale":"de-CH","region":"","date":"2023-05-18","description":"Auffahrt","type":"NRV","notes":""}
+{"locale":"de-CH","region":"","date":"2023-05-28","description":"Pfingstsonntag","type":"NRV","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"AR","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BE","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BL","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"BS","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GE","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GL","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"GR","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"JU","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SG","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SH","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"TG","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"VD","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"ZH","date":"2023-05-29","description":"Pfingstmontag","type":"RV","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"JU","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"LU","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"NW","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"OW","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"VS","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"ZG","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-CH","region":"","date":"2023-08-01","description":"Bundesfeier","type":"NF","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"JU","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"LU","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"NW","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"OW","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"VS","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"ZG","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"GL","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"JU","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"LU","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"NW","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"OW","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"SG","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"VS","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"ZG","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"LU","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"NW","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"OW","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"VS","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"ZG","date":"2023-12-08","description":"Mariä Empfängnis","type":"RF","notes":""}
+{"locale":"de-CH","region":"","date":"2023-12-25","description":"Weihnachtstag","type":"NRF","notes":""}
+{"locale":"de-CH","region":"AI","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"AR","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"BE","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"BL","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"BS","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"GL","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"GR","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"LU","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"SG","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"SH","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"SZ","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"TG","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"TI","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"UR","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
+{"locale":"de-CH","region":"ZH","date":"2023-12-26","description":"Stephanstag","type":"RF","notes":""}
