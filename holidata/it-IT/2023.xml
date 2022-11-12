@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-01-01</date>
+    <description>Capodanno</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-01-06</date>
+    <description>Epifania</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-04-09</date>
+    <description>Pasqua</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-04-10</date>
+    <description>Pasquetta</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-04-25</date>
+    <description>Festa della liberazione</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-05-01</date>
+    <description>Festa del lavoro</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-06-02</date>
+    <description>Festa della repubblica</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-08-15</date>
+    <description>Assunzione (ferragosto)</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-11-01</date>
+    <description>Ognissanti</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-12-08</date>
+    <description>Immacolata concezione</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-12-25</date>
+    <description>Natale</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2023-12-26</date>
+    <description>S.to Stefano</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
