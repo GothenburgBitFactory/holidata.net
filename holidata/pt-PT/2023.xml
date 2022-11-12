@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-01-01</date>
+    <description>Ano Novo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-02-21</date>
+    <description>Carnaval</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-04-07</date>
+    <description>Sexta-feira Santa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-04-09</date>
+    <description>Páscoa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-04-25</date>
+    <description>Dia da Liberdade</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-05-01</date>
+    <description>Dia do Trabalhador</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-06-08</date>
+    <description>Corpo de Deus</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-06-10</date>
+    <description>Dia de Portugal</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-08-15</date>
+    <description>Assunção de Nossa Senhora</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-10-05</date>
+    <description>Implantação da República</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-11-01</date>
+    <description>Dia de Todos os Santos</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-12-01</date>
+    <description>Restauração da Independência</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-12-08</date>
+    <description>Imaculada Conceição</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-PT</locale>
+    <region></region>
+    <date>2023-12-25</date>
+    <description>Natal</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
