@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-01-01
+    description: Nieuwjaarsdag
+    type: NF
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-04-07
+    description: Goede Vrijdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-04-09
+    description: Eerste Paasdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-04-10
+    description: Tweede Paasdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-04-27
+    description: Koningsdag
+    type: NV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-05-04
+    description: Dodenherdenking
+    type: NF
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-05-05
+    description: Bevrijdingsdag
+    type: NF
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-05-18
+    description: Hemelvaartsdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-05-28
+    description: Eerste Pinksterdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-05-29
+    description: Tweede Pinksterdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-12-05
+    description: Sinterklaas
+    type: NRF
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-12-15
+    description: Koninkrijksdag
+    type: NV
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-12-25
+    description: Eerste Kerstdag
+    type: NRF
+    notes:
+  holiday:
+    locale: nl-NL
+    region:
+    date: 2023-12-26
+    description: Tweede Kerstdag
+    type: NRF
+    notes:
+...
