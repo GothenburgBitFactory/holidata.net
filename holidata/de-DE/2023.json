@@ -1,0 +1,39 @@
+{"locale":"de-DE","region":"","date":"2023-01-01","description":"Neujahr","type":"NF","notes":""}
+{"locale":"de-DE","region":"BW","date":"2023-01-06","description":"Heilige drei Könige","type":"RF","notes":""}
+{"locale":"de-DE","region":"BY","date":"2023-01-06","description":"Heilige drei Könige","type":"RF","notes":""}
+{"locale":"de-DE","region":"ST","date":"2023-01-06","description":"Heilige drei Könige","type":"RF","notes":""}
+{"locale":"de-DE","region":"BE","date":"2023-03-08","description":"Internationaler Frauentag","type":"F","notes":""}
+{"locale":"de-DE","region":"","date":"2023-04-07","description":"Karfreitag","type":"NRV","notes":""}
+{"locale":"de-DE","region":"","date":"2023-04-09","description":"Ostern","type":"NRV","notes":""}
+{"locale":"de-DE","region":"","date":"2023-04-10","description":"Ostermontag","type":"NRV","notes":""}
+{"locale":"de-DE","region":"","date":"2023-05-01","description":"Erster Maifeiertag","type":"NF","notes":""}
+{"locale":"de-DE","region":"","date":"2023-05-18","description":"Christi Himmelfahrt","type":"NRV","notes":""}
+{"locale":"de-DE","region":"","date":"2023-05-28","description":"Pfingstsonntag","type":"NRV","notes":""}
+{"locale":"de-DE","region":"","date":"2023-05-29","description":"Pfingstmontag","type":"NRV","notes":""}
+{"locale":"de-DE","region":"BW","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-DE","region":"BY","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-DE","region":"HE","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-DE","region":"NW","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-DE","region":"RP","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-DE","region":"SL","date":"2023-06-08","description":"Fronleichnam","type":"RV","notes":""}
+{"locale":"de-DE","region":"SL","date":"2023-08-15","description":"Mariä Himmelfahrt","type":"RF","notes":""}
+{"locale":"de-DE","region":"","date":"2023-10-03","description":"Tag der Deutschen Einheit","type":"NRF","notes":""}
+{"locale":"de-DE","region":"BB","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"BH","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"HH","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"MV","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"NI","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"SH","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"SN","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"ST","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"TH","date":"2023-10-31","description":"Reformationstag","type":"RF","notes":""}
+{"locale":"de-DE","region":"BW","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-DE","region":"BY","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-DE","region":"NW","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-DE","region":"RP","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-DE","region":"SL","date":"2023-11-01","description":"Allerheiligen","type":"RF","notes":""}
+{"locale":"de-DE","region":"SN","date":"2023-11-22","description":"Buß- und Bettag","type":"RV","notes":""}
+{"locale":"de-DE","region":"","date":"2023-12-24","description":"Heilig Abend","type":"NRF","notes":""}
+{"locale":"de-DE","region":"","date":"2023-12-25","description":"Weihnachtstag","type":"NRF","notes":""}
+{"locale":"de-DE","region":"","date":"2023-12-26","description":"Zweiter Weihnachtstag","type":"NRF","notes":""}
+{"locale":"de-DE","region":"","date":"2023-12-31","description":"Silvester","type":"NF","notes":""}
