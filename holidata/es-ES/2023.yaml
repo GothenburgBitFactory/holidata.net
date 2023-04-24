@@ -9,6 +9,41 @@
     notes:
   holiday:
     locale: es-ES
+    region: AN
+    date: 2023-01-02
+    description: Lunes siguiente al Año Nuevo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2023-01-02
+    description: Lunes siguiente al Año Nuevo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2023-01-02
+    description: Lunes siguiente al Año Nuevo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2023-01-02
+    description: Lunes siguiente al Año Nuevo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2023-01-02
+    description: Lunes siguiente al Año Nuevo
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2023-01-06
     description: Epifanía del Señor
@@ -16,10 +51,157 @@
     notes:
   holiday:
     locale: es-ES
+    region: EX
+    date: 2023-02-21
+    description: Martes de Carnaval
+    type: V
+    notes:
+  holiday:
+    locale: es-ES
     region: AN
     date: 2023-02-28
     description: Día de Andalucía
     type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2023-03-01
+    description: Día de las Illes Balears
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2023-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2023-03-20
+    description: Lunes siguiente a San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CM
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CN
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: GA
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2023-04-06
+    description: Jueves Santo
+    type: RV
     notes:
   holiday:
     locale: es-ES
@@ -37,6 +219,55 @@
     notes:
   holiday:
     locale: es-ES
+    region: CT
+    date: 2023-04-10
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
+    date: 2023-04-10
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2023-04-10
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2023-04-10
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2023-04-10
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: RI
+    date: 2023-04-10
+    description: Lunes de Pascua
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2023-04-21
+    description: Fiesta del Eid Fitr
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region: CL
     date: 2023-04-23
     description: Fiesta de Castilla y León
@@ -47,6 +278,13 @@
     region: AR
     date: 2023-04-23
     description: San Jorge / Día de Aragón
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2023-04-24
+    description: Lunes siguiente a San Jorge / Día de Aragón
     type: RF
     notes:
   holiday:
@@ -86,6 +324,13 @@
     notes:
   holiday:
     locale: es-ES
+    region: CM
+    date: 2023-06-08
+    description: Corpus Christi
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region: MC
     date: 2023-06-09
     description: Día de la Región de Murcia
@@ -100,9 +345,72 @@
     notes:
   holiday:
     locale: es-ES
+    region: CT
+    date: 2023-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2023-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2023-06-29
+    description: Fiesta del Sacrificio (Aid Al Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2023-06-29
+    description: Fiesta del Sacrificio (Eidul Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2023-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region: GA
     date: 2023-07-25
     description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2023-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2023-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2023-07-28
+    description: Día de las Instituciones de Cantabria
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2023-08-05
+    description: Nuestra Señora de África
     type: RF
     notes:
   holiday:
@@ -111,6 +419,13 @@
     date: 2023-08-15
     description: Asunción de la Virgen
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2023-09-02
+    description: Día de Ceuta
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -132,6 +447,13 @@
     date: 2023-09-11
     description: Fiesta Nacional de Cataluña
     type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2023-09-15
+    description: La Bien Aparecida
+    type: RF
     notes:
   holiday:
     locale: es-ES
@@ -174,5 +496,12 @@
     date: 2023-12-25
     description: Natividad del Señor
     type: NRF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2023-12-26
+    description: San Esteban
+    type: RF
     notes:
 ...
