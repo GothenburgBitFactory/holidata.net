@@ -38,6 +38,13 @@
   holiday:
     locale: en-GB
     region:
+    date: 2023-05-08
+    description: Coronation of King Charles III
+    type: NV
+    notes:
+  holiday:
+    locale: en-GB
+    region:
     date: 2023-05-29
     description: Spring Bank Holiday
     type: NV

@@ -43,6 +43,14 @@
   <holiday>
     <locale>en-GB</locale>
     <region></region>
+    <date>2023-05-08</date>
+    <description>Coronation of King Charles III</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-GB</locale>
+    <region></region>
     <date>2023-05-29</date>
     <description>Spring Bank Holiday</description>
     <type>NV</type>
