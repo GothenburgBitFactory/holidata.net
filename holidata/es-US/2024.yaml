@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-01-01
+    description: Año Neuvo
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-01-15
+    description: Cumpleaños de Martin Luther King, Jr.
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-02-19
+    description: Día del Presidente
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region: MA
+    date: 2024-04-15
+    description: Día del Patriota
+    type: V
+    notes:
+  holiday:
+    locale: es-US
+    region: ME
+    date: 2024-04-15
+    description: Día del Patriota
+    type: V
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-05-27
+    description: Día de los Caídos
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-07-04
+    description: Día de la Independiencia
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-09-02
+    description: Día del Trabajo
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-10-14
+    description: Día de Columbus
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-11-11
+    description: Día de los Veteranos
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-11-22
+    description: Día después de Acción de Gracias
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-11-28
+    description: Día de Acción de Gracias
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-12-24
+    description: Nochebuena
+    type: NRF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2024-12-25
+    description: Navidad
+    type: NRF
+    notes:
+...

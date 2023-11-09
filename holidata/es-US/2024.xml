@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-01-01</date>
+    <description>Año Neuvo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-01-15</date>
+    <description>Cumpleaños de Martin Luther King, Jr.</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-02-19</date>
+    <description>Día del Presidente</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region>MA</region>
+    <date>2024-04-15</date>
+    <description>Día del Patriota</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region>ME</region>
+    <date>2024-04-15</date>
+    <description>Día del Patriota</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-05-27</date>
+    <description>Día de los Caídos</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-07-04</date>
+    <description>Día de la Independiencia</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-09-02</date>
+    <description>Día del Trabajo</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-10-14</date>
+    <description>Día de Columbus</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-11-11</date>
+    <description>Día de los Veteranos</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-11-22</date>
+    <description>Día después de Acción de Gracias</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-11-28</date>
+    <description>Día de Acción de Gracias</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-12-24</date>
+    <description>Nochebuena</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2024-12-25</date>
+    <description>Navidad</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
