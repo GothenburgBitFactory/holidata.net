@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2024-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>AB</region>
+    <date>2024-02-19</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>ON</region>
+    <date>2024-02-19</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2024-02-19</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NB</region>
+    <date>2024-02-19</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>MB</region>
+    <date>2024-02-19</date>
+    <description>Louis Riel Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>PE</region>
+    <date>2024-02-19</date>
+    <description>Islander Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2024-03-29</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>AB</region>
+    <date>2024-04-01</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>PE</region>
+    <date>2024-04-01</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>QC</region>
+    <date>2024-04-01</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>QC</region>
+    <date>2024-05-20</date>
+    <description>National Patriots' Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>AB</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>BC</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>MB</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NS</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>ON</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NT</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NU</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>YT</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>QC</region>
+    <date>2024-06-24</date>
+    <description>National Holiday</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2024-07-01</date>
+    <description>Canada Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NT</region>
+    <date>2024-08-05</date>
+    <description>August Civic Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NU</region>
+    <date>2024-08-05</date>
+    <description>August Civic Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2024-08-05</date>
+    <description>Saskatchewan Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>AB</region>
+    <date>2024-08-05</date>
+    <description>Heritage Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NS</region>
+    <date>2024-08-05</date>
+    <description>Heritage Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NB</region>
+    <date>2024-08-05</date>
+    <description>New Brunswick Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2024-09-02</date>
+    <description>Labour Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>AB</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>BC</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>MB</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NL</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>ON</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>QC</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NT</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NU</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>YT</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>AB</region>
+    <date>2024-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>BC</region>
+    <date>2024-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NB</region>
+    <date>2024-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NL</region>
+    <date>2024-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NT</region>
+    <date>2024-11-11</date>
+    <description>Remembrance Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2024-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region></region>
+    <date>2024-12-26</date>
+    <description>Boxing Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
