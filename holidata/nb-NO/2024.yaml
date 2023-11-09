@@ -1,0 +1,122 @@
+%YAML 1.1
+---
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-01-01
+    description: Nyttårsdag
+    type: NF
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-02-11
+    description: Fastelavn
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-03-24
+    description: Palmesøndag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-03-28
+    description: Skjærtorsdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-03-29
+    description: Langfredag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-03-31
+    description: Påskedag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-04-01
+    description: Påskedag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-05-01
+    description: Offentlig Høytidsdag
+    type: NF
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-05-08
+    description: Frigjøringsdag 1945
+    type: NF
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-05-09
+    description: Kristi Himmelfartsdag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-05-17
+    description: Grunnlovsdag
+    type: NF
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-05-19
+    description: Pinsedag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-05-20
+    description: Pinsedag
+    type: NRV
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-12-24
+    description: Julaften
+    type: NRF
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-12-25
+    description: Juledag
+    type: NRF
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-12-26
+    description: Juledag
+    type: NRF
+    notes:
+  holiday:
+    locale: nb-NO
+    region:
+    date: 2024-12-31
+    description: Nyttårsaften
+    type: NF
+    notes:
+...
