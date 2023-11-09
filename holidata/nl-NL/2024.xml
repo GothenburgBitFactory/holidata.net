@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-01-01</date>
+    <description>Nieuwjaarsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-03-29</date>
+    <description>Goede Vrijdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-03-31</date>
+    <description>Eerste Paasdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-04-01</date>
+    <description>Tweede Paasdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-04-27</date>
+    <description>Koningsdag</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-05-04</date>
+    <description>Dodenherdenking</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-05-05</date>
+    <description>Bevrijdingsdag</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-05-09</date>
+    <description>Hemelvaartsdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-05-19</date>
+    <description>Eerste Pinksterdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-05-20</date>
+    <description>Tweede Pinksterdag</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-12-05</date>
+    <description>Sinterklaas</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-12-16</date>
+    <description>Koninkrijksdag</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-12-25</date>
+    <description>Eerste Kerstdag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>nl-NL</locale>
+    <region></region>
+    <date>2024-12-26</date>
+    <description>Tweede Kerstdag</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
