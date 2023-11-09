@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-01-01
+    description: Nyårsdagen
+    type: NF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-01-06
+    description: Trettondedagen
+    type: NRF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-03-29
+    description: Långfredagen
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-03-31
+    description: Påskdagen
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-04-01
+    description: Annandag påsk
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-05-01
+    description: Första maj
+    type: NF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-05-09
+    description: Kristi himmelfärdsdag
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-05-19
+    description: Pingst
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-06-22
+    description: Midsommardagen
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-11-02
+    description: Alla helgons dag
+    type: NRV
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-12-06
+    description: Självständighetsdagen
+    type: NF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-12-25
+    description: Juldagen
+    type: NRF
+    notes:
+  holiday:
+    locale: sv-FI
+    region:
+    date: 2024-12-26
+    description: Annandag jul
+    type: NRF
+    notes:
+...
