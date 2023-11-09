@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-01-01</date>
+    <description>Yılbaşı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-04-10</date>
+    <description>Ramazan Bayramı (1. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-04-11</date>
+    <description>Ramazan Bayramı (2. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-04-12</date>
+    <description>Ramazan Bayramı (3. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-04-23</date>
+    <description>Ulusal Egemenlik ve Çocuk Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-05-01</date>
+    <description>Emek ve Dayanışma Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-05-19</date>
+    <description>Atatürk'ü Anma, Gençlik ve Spor Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-06-16</date>
+    <description>Kurban Bayramı (1. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-06-17</date>
+    <description>Kurban Bayramı (2. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-06-18</date>
+    <description>Kurban Bayramı (3. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-06-19</date>
+    <description>Kurban Bayramı (4. Gün)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-07-15</date>
+    <description>Demokrasi ve Milli Birlik Günü</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-08-30</date>
+    <description>Zafer Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>tr-TR</locale>
+    <region></region>
+    <date>2024-10-29</date>
+    <description>Cumhuriyet Bayramı</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
