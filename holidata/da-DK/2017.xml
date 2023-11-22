@@ -68,16 +68,16 @@
     <locale>da-DK</locale>
     <region></region>
     <date>2017-06-05</date>
-    <description>Grundlovsdag</description>
-    <type>NF</type>
+    <description>Anden pinsedag</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>da-DK</locale>
     <region></region>
     <date>2017-06-05</date>
-    <description>Anden pinsedag</description>
-    <type>NRV</type>
+    <description>Grundlovsdag</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
