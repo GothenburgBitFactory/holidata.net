@@ -1,10 +1,10 @@
 {"locale":"fr-CA","region":"","date":"2022-01-01","description":"Jour de l'An","type":"NF","notes":""}
 {"locale":"fr-CA","region":"AB","date":"2022-02-21","description":"Fête de la Famille","type":"V","notes":""}
+{"locale":"fr-CA","region":"NB","date":"2022-02-21","description":"Fête de la Famille","type":"V","notes":""}
 {"locale":"fr-CA","region":"ON","date":"2022-02-21","description":"Fête de la Famille","type":"V","notes":""}
 {"locale":"fr-CA","region":"SK","date":"2022-02-21","description":"Fête de la Famille","type":"V","notes":""}
-{"locale":"fr-CA","region":"NB","date":"2022-02-21","description":"Fête de la Famille","type":"V","notes":""}
-{"locale":"fr-CA","region":"MB","date":"2022-02-21","description":"Journée Louis Riel","type":"V","notes":""}
 {"locale":"fr-CA","region":"PE","date":"2022-02-21","description":"Fête des Insulaires","type":"V","notes":""}
+{"locale":"fr-CA","region":"MB","date":"2022-02-21","description":"Journée Louis Riel","type":"V","notes":""}
 {"locale":"fr-CA","region":"","date":"2022-04-15","description":"Vendredi Saint","type":"NRV","notes":""}
 {"locale":"fr-CA","region":"AB","date":"2022-04-18","description":"Lundi de Pâques","type":"RV","notes":""}
 {"locale":"fr-CA","region":"PE","date":"2022-04-18","description":"Lundi de Pâques","type":"RV","notes":""}
@@ -13,30 +13,30 @@
 {"locale":"fr-CA","region":"BC","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
 {"locale":"fr-CA","region":"MB","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
 {"locale":"fr-CA","region":"NS","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
-{"locale":"fr-CA","region":"ON","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
-{"locale":"fr-CA","region":"SK","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
 {"locale":"fr-CA","region":"NT","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
 {"locale":"fr-CA","region":"NU","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
+{"locale":"fr-CA","region":"ON","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
+{"locale":"fr-CA","region":"SK","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
 {"locale":"fr-CA","region":"YT","date":"2022-05-23","description":"Fête de la Reine Victoria","type":"V","notes":""}
 {"locale":"fr-CA","region":"QC","date":"2022-05-23","description":"Journée Nationale des Patriotes","type":"V","notes":""}
 {"locale":"fr-CA","region":"QC","date":"2022-06-24","description":"Fête Nationale","type":"F","notes":""}
 {"locale":"fr-CA","region":"","date":"2022-07-01","description":"Fête du Canada","type":"NF","notes":""}
-{"locale":"fr-CA","region":"NT","date":"2022-08-01","description":"Premier lundi d'août","type":"V","notes":""}
-{"locale":"fr-CA","region":"NU","date":"2022-08-01","description":"Premier lundi d'août","type":"V","notes":""}
-{"locale":"fr-CA","region":"AB","date":"2022-08-01","description":"Fête du Patrimoine","type":"V","notes":""}
 {"locale":"fr-CA","region":"SK","date":"2022-08-01","description":"Fête de la Saskatchewan","type":"V","notes":""}
+{"locale":"fr-CA","region":"AB","date":"2022-08-01","description":"Fête du Patrimoine","type":"V","notes":""}
 {"locale":"fr-CA","region":"NS","date":"2022-08-01","description":"Jour de la Fondation","type":"V","notes":""}
 {"locale":"fr-CA","region":"NB","date":"2022-08-01","description":"Jour du Nouveau-Brunswick","type":"V","notes":""}
+{"locale":"fr-CA","region":"NT","date":"2022-08-01","description":"Premier lundi d'août","type":"V","notes":""}
+{"locale":"fr-CA","region":"NU","date":"2022-08-01","description":"Premier lundi d'août","type":"V","notes":""}
 {"locale":"fr-CA","region":"","date":"2022-09-05","description":"Fête du Travail","type":"NV","notes":""}
 {"locale":"fr-CA","region":"AB","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"BC","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"MB","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"NL","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
+{"locale":"fr-CA","region":"NT","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
+{"locale":"fr-CA","region":"NU","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"ON","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"QC","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"SK","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
-{"locale":"fr-CA","region":"NT","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
-{"locale":"fr-CA","region":"NU","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"YT","date":"2022-10-10","description":"Jour de l'Action de grâce","type":"V","notes":""}
 {"locale":"fr-CA","region":"AB","date":"2022-11-11","description":"Jour du Souvenir","type":"F","notes":""}
 {"locale":"fr-CA","region":"BC","date":"2022-11-11","description":"Jour du Souvenir","type":"F","notes":""}
