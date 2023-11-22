@@ -9,8 +9,8 @@
 {"locale":"pt-BR","region":"CE","date":"2020-03-19","description":"Dia de São José","type":"RF","notes":""}
 {"locale":"pt-BR","region":"CE","date":"2020-03-25","description":"Abolição da Escravidão no Ceará","type":"F","notes":""}
 {"locale":"pt-BR","region":"","date":"2020-04-12","description":"Páscoa","type":"NRV","notes":""}
-{"locale":"pt-BR","region":"DF","date":"2020-04-21","description":"Fundação de Brasília","type":"F","notes":""}
 {"locale":"pt-BR","region":"MG","date":"2020-04-21","description":"Execução de Tiradentes","type":"F","notes":""}
+{"locale":"pt-BR","region":"DF","date":"2020-04-21","description":"Fundação de Brasília","type":"F","notes":""}
 {"locale":"pt-BR","region":"","date":"2020-04-21","description":"Tiradentes","type":"NF","notes":""}
 {"locale":"pt-BR","region":"RJ","date":"2020-04-23","description":"Dia de São Jorge","type":"RF","notes":""}
 {"locale":"pt-BR","region":"","date":"2020-05-01","description":"Dia Internacional do Trabalhador","type":"NF","notes":""}
@@ -27,8 +27,8 @@
 {"locale":"pt-BR","region":"PB","date":"2020-08-05","description":"Fundação do Estado da Paraíba","type":"F","notes":""}
 {"locale":"pt-BR","region":"RN","date":"2020-08-07","description":"Dia do Rio Grande do Norte","type":"F","notes":""}
 {"locale":"pt-BR","region":"SC","date":"2020-08-11","description":"Dia de Santa Catarina","type":"F","notes":""}
-{"locale":"pt-BR","region":"CE","date":"2020-08-15","description":"Dia de Nossa Senhora da Assunção","type":"RF","notes":""}
 {"locale":"pt-BR","region":"PA","date":"2020-08-15","description":"Adesão do Pará à Independência do Brasil","type":"F","notes":""}
+{"locale":"pt-BR","region":"CE","date":"2020-08-15","description":"Dia de Nossa Senhora da Assunção","type":"RF","notes":""}
 {"locale":"pt-BR","region":"AC","date":"2020-09-05","description":"Dia da Amazônia","type":"F","notes":""}
 {"locale":"pt-BR","region":"AM","date":"2020-09-05","description":"Elevação do Amazonas à Categoria de Província","type":"F","notes":""}
 {"locale":"pt-BR","region":"","date":"2020-09-07","description":"Independência do Brasil","type":"NF","notes":""}
@@ -46,10 +46,10 @@
 {"locale":"pt-BR","region":"","date":"2020-11-02","description":"Finados","type":"NRF","notes":""}
 {"locale":"pt-BR","region":"","date":"2020-11-15","description":"Proclamação da República","type":"NF","notes":""}
 {"locale":"pt-BR","region":"AC","date":"2020-11-17","description":"Assinatura do Tratado de Petrópolis","type":"F","notes":""}
-{"locale":"pt-BR","region":"AL","date":"2020-11-20","description":"Morte de Zumbi dos Palmares","type":"F","notes":""}
 {"locale":"pt-BR","region":"AM","date":"2020-11-20","description":"Dia da Consciência Negra","type":"F","notes":""}
 {"locale":"pt-BR","region":"MT","date":"2020-11-20","description":"Dia da Consciência Negra","type":"F","notes":""}
 {"locale":"pt-BR","region":"RJ","date":"2020-11-20","description":"Dia da Consciência Negra","type":"F","notes":""}
+{"locale":"pt-BR","region":"AL","date":"2020-11-20","description":"Morte de Zumbi dos Palmares","type":"F","notes":""}
 {"locale":"pt-BR","region":"SC","date":"2020-11-25","description":"Dia de Santa Catarina de Alexandria","type":"RF","notes":""}
 {"locale":"pt-BR","region":"DF","date":"2020-11-30","description":"Dia do Evangélico do Distrito Federal","type":"RF","notes":""}
 {"locale":"pt-BR","region":"AM","date":"2020-12-08","description":"Nossa Senhora da Conceição","type":"RF","notes":""}
