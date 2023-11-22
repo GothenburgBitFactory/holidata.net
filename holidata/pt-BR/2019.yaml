@@ -72,13 +72,6 @@
     notes:
   holiday:
     locale: pt-BR
-    region: DF
-    date: 2019-04-21
-    description: Fundação de Brasília
-    type: F
-    notes:
-  holiday:
-    locale: pt-BR
     region: MG
     date: 2019-04-21
     description: Execução de Tiradentes
@@ -86,10 +79,10 @@
     notes:
   holiday:
     locale: pt-BR
-    region:
+    region: DF
     date: 2019-04-21
-    description: Tiradentes
-    type: NF
+    description: Fundação de Brasília
+    type: F
     notes:
   holiday:
     locale: pt-BR
@@ -97,6 +90,13 @@
     date: 2019-04-21
     description: Páscoa
     type: NRV
+    notes:
+  holiday:
+    locale: pt-BR
+    region:
+    date: 2019-04-21
+    description: Tiradentes
+    type: NF
     notes:
   holiday:
     locale: pt-BR
@@ -205,17 +205,17 @@
     notes:
   holiday:
     locale: pt-BR
-    region: CE
-    date: 2019-08-15
-    description: Dia de Nossa Senhora da Assunção
-    type: RF
-    notes:
-  holiday:
-    locale: pt-BR
     region: PA
     date: 2019-08-15
     description: Adesão do Pará à Independência do Brasil
     type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: CE
+    date: 2019-08-15
+    description: Dia de Nossa Senhora da Assunção
+    type: RF
     notes:
   holiday:
     locale: pt-BR
@@ -338,13 +338,6 @@
     notes:
   holiday:
     locale: pt-BR
-    region: AL
-    date: 2019-11-20
-    description: Morte de Zumbi dos Palmares
-    type: F
-    notes:
-  holiday:
-    locale: pt-BR
     region: AM
     date: 2019-11-20
     description: Dia da Consciência Negra
@@ -362,6 +355,13 @@
     region: RJ
     date: 2019-11-20
     description: Dia da Consciência Negra
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AL
+    date: 2019-11-20
+    description: Morte de Zumbi dos Palmares
     type: F
     notes:
   holiday:
