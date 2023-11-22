@@ -43,8 +43,8 @@
 {"locale":"es-ES","region":"GA","date":"2017-05-17","description":"Día de las Letras Gallegas","type":"F","notes":""}
 {"locale":"es-ES","region":"CN","date":"2017-05-30","description":"Día de Canarias","type":"F","notes":""}
 {"locale":"es-ES","region":"CM","date":"2017-05-31","description":"Día de Castilla-La Mancha","type":"F","notes":""}
-{"locale":"es-ES","region":"MC","date":"2017-06-09","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"RI","date":"2017-06-09","description":"Día de La Rioja","type":"F","notes":""}
+{"locale":"es-ES","region":"MC","date":"2017-06-09","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"CM","date":"2017-06-15","description":"Corpus Christi","type":"RV","notes":""}
 {"locale":"es-ES","region":"CT","date":"2017-06-24","description":"San Juan","type":"RF","notes":""}
 {"locale":"es-ES","region":"NC","date":"2017-07-25","description":"Santiago Apóstol","type":"RF","notes":""}
