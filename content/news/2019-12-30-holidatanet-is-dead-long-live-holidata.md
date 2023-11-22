@@ -6,3 +6,4 @@ layout: "news_item"
 
 The holidata project has awoken from hibernation and got a new twitter handle!
 Follow [@holidata_net](https://twitter.com/holidata_net) for updates and news.
+<!--more-->

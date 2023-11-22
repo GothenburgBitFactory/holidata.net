@@ -6,7 +6,6 @@ layout: "news_item"
 
 The holidata for 2024 is now available for all locales!
 <!--more-->
-
 We have published the holiday data set for 2024.
 The holiday data is currently available for 31 countries and growing.
 See [here](https://github.com/GothenburgBitFactory/holidata) on how you can contribute to adding more locales!

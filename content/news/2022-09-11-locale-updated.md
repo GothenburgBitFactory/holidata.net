@@ -5,3 +5,4 @@ layout: "news_item"
 ---
 
 We have updated the locale for Great Britain (`en-GB`) to contain the Bank Holiday for the State Funeral of Queen Elizabeth II.
+<!--more-->

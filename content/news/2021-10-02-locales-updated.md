@@ -6,7 +6,6 @@ layout: "news_item"
 
 The holidata for 2022 is now available for all locales!
 <!--more-->
-
 We have published the holiday data set for 2022.
 The holiday data is currently available for 28 countries and growing.
 See [here](https://github.com/GothenburgBitFactory/holidata) on how you can contribute to adding more locales!

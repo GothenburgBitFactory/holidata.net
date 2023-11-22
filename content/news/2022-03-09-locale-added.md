@@ -6,7 +6,6 @@ layout: "news_item"
 
 The locale South Africa (`en-ZA`) is now available.
 <!--more-->
-
 All holidays according to the Public Holidays Act (Act No 36 of 1994) have been added.
 
 As with all other locales, all years from 2011 on are available.
