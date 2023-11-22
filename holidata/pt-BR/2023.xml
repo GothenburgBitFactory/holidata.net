@@ -90,17 +90,17 @@
   </holiday>
   <holiday>
     <locale>pt-BR</locale>
-    <region>DF</region>
+    <region>MG</region>
     <date>2023-04-21</date>
-    <description>Fundação de Brasília</description>
+    <description>Execução de Tiradentes</description>
     <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>pt-BR</locale>
-    <region>MG</region>
+    <region>DF</region>
     <date>2023-04-21</date>
-    <description>Execução de Tiradentes</description>
+    <description>Fundação de Brasília</description>
     <type>F</type>
     <notes></notes>
   </holiday>
@@ -234,18 +234,18 @@
   </holiday>
   <holiday>
     <locale>pt-BR</locale>
-    <region>CE</region>
-    <date>2023-08-15</date>
-    <description>Dia de Nossa Senhora da Assunção</description>
-    <type>RF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-BR</locale>
     <region>PA</region>
     <date>2023-08-15</date>
     <description>Adesão do Pará à Independência do Brasil</description>
     <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>CE</region>
+    <date>2023-08-15</date>
+    <description>Dia de Nossa Senhora da Assunção</description>
+    <type>RF</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -386,14 +386,6 @@
   </holiday>
   <holiday>
     <locale>pt-BR</locale>
-    <region>AL</region>
-    <date>2023-11-20</date>
-    <description>Morte de Zumbi dos Palmares</description>
-    <type>F</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>pt-BR</locale>
     <region>AM</region>
     <date>2023-11-20</date>
     <description>Dia da Consciência Negra</description>
@@ -413,6 +405,14 @@
     <region>RJ</region>
     <date>2023-11-20</date>
     <description>Dia da Consciência Negra</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pt-BR</locale>
+    <region>AL</region>
+    <date>2023-11-20</date>
+    <description>Morte de Zumbi dos Palmares</description>
     <type>F</type>
     <notes></notes>
   </holiday>

@@ -79,16 +79,16 @@
     notes:
   holiday:
     locale: pt-BR
-    region: DF
+    region: MG
     date: 2023-04-21
-    description: Fundação de Brasília
+    description: Execução de Tiradentes
     type: F
     notes:
   holiday:
     locale: pt-BR
-    region: MG
+    region: DF
     date: 2023-04-21
-    description: Execução de Tiradentes
+    description: Fundação de Brasília
     type: F
     notes:
   holiday:
@@ -205,17 +205,17 @@
     notes:
   holiday:
     locale: pt-BR
-    region: CE
-    date: 2023-08-15
-    description: Dia de Nossa Senhora da Assunção
-    type: RF
-    notes:
-  holiday:
-    locale: pt-BR
     region: PA
     date: 2023-08-15
     description: Adesão do Pará à Independência do Brasil
     type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: CE
+    date: 2023-08-15
+    description: Dia de Nossa Senhora da Assunção
+    type: RF
     notes:
   holiday:
     locale: pt-BR
@@ -338,13 +338,6 @@
     notes:
   holiday:
     locale: pt-BR
-    region: AL
-    date: 2023-11-20
-    description: Morte de Zumbi dos Palmares
-    type: F
-    notes:
-  holiday:
-    locale: pt-BR
     region: AM
     date: 2023-11-20
     description: Dia da Consciência Negra
@@ -362,6 +355,13 @@
     region: RJ
     date: 2023-11-20
     description: Dia da Consciência Negra
+    type: F
+    notes:
+  holiday:
+    locale: pt-BR
+    region: AL
+    date: 2023-11-20
+    description: Morte de Zumbi dos Palmares
     type: F
     notes:
   holiday:
