@@ -32,15 +32,15 @@
     locale: ru-RU
     region:
     date: 2016-05-01
-    description: Праздник весны и труда
-    type: NF
+    description: Пасха
+    type: NRV
     notes:
   holiday:
     locale: ru-RU
     region:
     date: 2016-05-01
-    description: Пасха
-    type: NRV
+    description: Праздник весны и труда
+    type: NF
     notes:
   holiday:
     locale: ru-RU
