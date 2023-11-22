@@ -18,6 +18,14 @@
   </holiday>
   <holiday>
     <locale>fr-CA</locale>
+    <region>NB</region>
+    <date>2023-02-20</date>
+    <description>Fête de la Famille</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
     <region>ON</region>
     <date>2023-02-20</date>
     <description>Fête de la Famille</description>
@@ -34,9 +42,9 @@
   </holiday>
   <holiday>
     <locale>fr-CA</locale>
-    <region>NB</region>
+    <region>PE</region>
     <date>2023-02-20</date>
-    <description>Fête de la Famille</description>
+    <description>Fête des Insulaires</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -45,14 +53,6 @@
     <region>MB</region>
     <date>2023-02-20</date>
     <description>Journée Louis Riel</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-CA</locale>
-    <region>PE</region>
-    <date>2023-02-20</date>
-    <description>Fête des Insulaires</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -122,22 +122,6 @@
   </holiday>
   <holiday>
     <locale>fr-CA</locale>
-    <region>ON</region>
-    <date>2023-05-22</date>
-    <description>Fête de la Reine Victoria</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-CA</locale>
-    <region>SK</region>
-    <date>2023-05-22</date>
-    <description>Fête de la Reine Victoria</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-CA</locale>
     <region>NT</region>
     <date>2023-05-22</date>
     <description>Fête de la Reine Victoria</description>
@@ -147,6 +131,22 @@
   <holiday>
     <locale>fr-CA</locale>
     <region>NU</region>
+    <date>2023-05-22</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>ON</region>
+    <date>2023-05-22</date>
+    <description>Fête de la Reine Victoria</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>SK</region>
     <date>2023-05-22</date>
     <description>Fête de la Reine Victoria</description>
     <type>V</type>
@@ -186,17 +186,9 @@
   </holiday>
   <holiday>
     <locale>fr-CA</locale>
-    <region>NT</region>
+    <region>SK</region>
     <date>2023-08-07</date>
-    <description>Premier lundi d'août</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-CA</locale>
-    <region>NU</region>
-    <date>2023-08-07</date>
-    <description>Premier lundi d'août</description>
+    <description>Fête de la Saskatchewan</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -205,14 +197,6 @@
     <region>AB</region>
     <date>2023-08-07</date>
     <description>Fête du Patrimoine</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-CA</locale>
-    <region>SK</region>
-    <date>2023-08-07</date>
-    <description>Fête de la Saskatchewan</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -229,6 +213,22 @@
     <region>NB</region>
     <date>2023-08-07</date>
     <description>Jour du Nouveau-Brunswick</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NT</region>
+    <date>2023-08-07</date>
+    <description>Premier lundi d'août</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NU</region>
+    <date>2023-08-07</date>
+    <description>Premier lundi d'août</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -274,6 +274,22 @@
   </holiday>
   <holiday>
     <locale>fr-CA</locale>
+    <region>NT</region>
+    <date>2023-10-09</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
+    <region>NU</region>
+    <date>2023-10-09</date>
+    <description>Jour de l'Action de grâce</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-CA</locale>
     <region>ON</region>
     <date>2023-10-09</date>
     <description>Jour de l'Action de grâce</description>
@@ -291,22 +307,6 @@
   <holiday>
     <locale>fr-CA</locale>
     <region>SK</region>
-    <date>2023-10-09</date>
-    <description>Jour de l'Action de grâce</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-CA</locale>
-    <region>NT</region>
-    <date>2023-10-09</date>
-    <description>Jour de l'Action de grâce</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>fr-CA</locale>
-    <region>NU</region>
     <date>2023-10-09</date>
     <description>Jour de l'Action de grâce</description>
     <type>V</type>
