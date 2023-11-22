@@ -16,6 +16,13 @@
     notes:
   holiday:
     locale: fr-CA
+    region: NB
+    date: 2018-02-19
+    description: Fête de la Famille
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
     region: ON
     date: 2018-02-19
     description: Fête de la Famille
@@ -30,9 +37,9 @@
     notes:
   holiday:
     locale: fr-CA
-    region: NB
+    region: PE
     date: 2018-02-19
-    description: Fête de la Famille
+    description: Fête des Insulaires
     type: V
     notes:
   holiday:
@@ -40,13 +47,6 @@
     region: MB
     date: 2018-02-19
     description: Journée Louis Riel
-    type: V
-    notes:
-  holiday:
-    locale: fr-CA
-    region: PE
-    date: 2018-02-19
-    description: Fête des Insulaires
     type: V
     notes:
   holiday:
@@ -107,20 +107,6 @@
     notes:
   holiday:
     locale: fr-CA
-    region: ON
-    date: 2018-05-21
-    description: Fête de la Reine Victoria
-    type: V
-    notes:
-  holiday:
-    locale: fr-CA
-    region: SK
-    date: 2018-05-21
-    description: Fête de la Reine Victoria
-    type: V
-    notes:
-  holiday:
-    locale: fr-CA
     region: NT
     date: 2018-05-21
     description: Fête de la Reine Victoria
@@ -129,6 +115,20 @@
   holiday:
     locale: fr-CA
     region: NU
+    date: 2018-05-21
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: ON
+    date: 2018-05-21
+    description: Fête de la Reine Victoria
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: SK
     date: 2018-05-21
     description: Fête de la Reine Victoria
     type: V
@@ -163,16 +163,9 @@
     notes:
   holiday:
     locale: fr-CA
-    region: NT
+    region: SK
     date: 2018-08-06
-    description: Premier lundi d'août
-    type: V
-    notes:
-  holiday:
-    locale: fr-CA
-    region: NU
-    date: 2018-08-06
-    description: Premier lundi d'août
+    description: Fête de la Saskatchewan
     type: V
     notes:
   holiday:
@@ -180,13 +173,6 @@
     region: AB
     date: 2018-08-06
     description: Fête du Patrimoine
-    type: V
-    notes:
-  holiday:
-    locale: fr-CA
-    region: SK
-    date: 2018-08-06
-    description: Fête de la Saskatchewan
     type: V
     notes:
   holiday:
@@ -201,6 +187,20 @@
     region: NB
     date: 2018-08-06
     description: Jour du Nouveau-Brunswick
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NT
+    date: 2018-08-06
+    description: Premier lundi d'août
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NU
+    date: 2018-08-06
+    description: Premier lundi d'août
     type: V
     notes:
   holiday:
@@ -240,6 +240,20 @@
     notes:
   holiday:
     locale: fr-CA
+    region: NT
+    date: 2018-10-08
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
+    region: NU
+    date: 2018-10-08
+    description: Jour de l'Action de grâce
+    type: V
+    notes:
+  holiday:
+    locale: fr-CA
     region: ON
     date: 2018-10-08
     description: Jour de l'Action de grâce
@@ -255,20 +269,6 @@
   holiday:
     locale: fr-CA
     region: SK
-    date: 2018-10-08
-    description: Jour de l'Action de grâce
-    type: V
-    notes:
-  holiday:
-    locale: fr-CA
-    region: NT
-    date: 2018-10-08
-    description: Jour de l'Action de grâce
-    type: V
-    notes:
-  holiday:
-    locale: fr-CA
-    region: NU
     date: 2018-10-08
     description: Jour de l'Action de grâce
     type: V
