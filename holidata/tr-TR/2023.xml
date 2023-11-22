@@ -28,16 +28,16 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2023-04-23</date>
-    <description>Ulusal Egemenlik ve Çocuk Bayramı</description>
-    <type>NF</type>
+    <description>Ramazan Bayramı (3. Gün)</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
     <date>2023-04-23</date>
-    <description>Ramazan Bayramı (3. Gün)</description>
-    <type>NRV</type>
+    <description>Ulusal Egemenlik ve Çocuk Bayramı</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>

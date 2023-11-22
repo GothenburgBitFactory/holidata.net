@@ -25,15 +25,15 @@
     locale: tr-TR
     region:
     date: 2023-04-23
-    description: Ulusal Egemenlik ve Çocuk Bayramı
-    type: NF
+    description: Ramazan Bayramı (3. Gün)
+    type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2023-04-23
-    description: Ramazan Bayramı (3. Gün)
-    type: NRV
+    description: Ulusal Egemenlik ve Çocuk Bayramı
+    type: NF
     notes:
   holiday:
     locale: tr-TR
