@@ -4,14 +4,14 @@
     locale: cs-CZ
     region:
     date: 2020-01-01
-    description: Nový rok
+    description: Den obnovy samostatného českého státu
     type: NF
     notes:
   holiday:
     locale: cs-CZ
     region:
     date: 2020-01-01
-    description: Den obnovy samostatného českého státu
+    description: Nový rok
     type: NF
     notes:
   holiday:
