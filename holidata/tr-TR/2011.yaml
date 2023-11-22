@@ -32,15 +32,15 @@
     locale: tr-TR
     region:
     date: 2011-08-30
-    description: Zafer Bayramı
-    type: NF
+    description: Ramazan Bayramı (1. Gün)
+    type: NRV
     notes:
   holiday:
     locale: tr-TR
     region:
     date: 2011-08-30
-    description: Ramazan Bayramı (1. Gün)
-    type: NRV
+    description: Zafer Bayramı
+    type: NF
     notes:
   holiday:
     locale: tr-TR

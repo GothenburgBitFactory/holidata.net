@@ -36,16 +36,16 @@
     <locale>tr-TR</locale>
     <region></region>
     <date>2011-08-30</date>
-    <description>Zafer Bayramı</description>
-    <type>NF</type>
+    <description>Ramazan Bayramı (1. Gün)</description>
+    <type>NRV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>tr-TR</locale>
     <region></region>
     <date>2011-08-30</date>
-    <description>Ramazan Bayramı (1. Gün)</description>
-    <type>NRV</type>
+    <description>Zafer Bayramı</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
