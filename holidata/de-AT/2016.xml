@@ -170,7 +170,7 @@
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region>9</region>
+    <region>3</region>
     <date>2016-11-15</date>
     <description>Leopold</description>
     <type>F</type>
@@ -178,7 +178,7 @@
   </holiday>
   <holiday>
     <locale>de-AT</locale>
-    <region>3</region>
+    <region>9</region>
     <date>2016-11-15</date>
     <description>Leopold</description>
     <type>F</type>
