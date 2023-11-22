@@ -386,17 +386,17 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
-    <region>MC</region>
+    <region>RI</region>
     <date>2016-06-09</date>
-    <description>Día de la Región de Murcia</description>
+    <description>Día de La Rioja</description>
     <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>es-ES</locale>
-    <region>RI</region>
+    <region>MC</region>
     <date>2016-06-09</date>
-    <description>Día de La Rioja</description>
+    <description>Día de la Región de Murcia</description>
     <type>F</type>
     <notes></notes>
   </holiday>
