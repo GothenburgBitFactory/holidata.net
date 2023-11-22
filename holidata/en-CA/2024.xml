@@ -18,6 +18,14 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
+    <region>NB</region>
+    <date>2024-02-19</date>
+    <description>Family Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
     <region>ON</region>
     <date>2024-02-19</date>
     <description>Family Day</description>
@@ -34,9 +42,9 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region>NB</region>
+    <region>PE</region>
     <date>2024-02-19</date>
-    <description>Family Day</description>
+    <description>Islander Day</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -45,14 +53,6 @@
     <region>MB</region>
     <date>2024-02-19</date>
     <description>Louis Riel Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
-    <region>PE</region>
-    <date>2024-02-19</date>
-    <description>Islander Day</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -130,22 +130,6 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region>ON</region>
-    <date>2024-05-20</date>
-    <description>Victoria Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
-    <region>SK</region>
-    <date>2024-05-20</date>
-    <description>Victoria Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
     <region>NT</region>
     <date>2024-05-20</date>
     <description>Victoria Day</description>
@@ -155,6 +139,22 @@
   <holiday>
     <locale>en-CA</locale>
     <region>NU</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>ON</region>
+    <date>2024-05-20</date>
+    <description>Victoria Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
     <date>2024-05-20</date>
     <description>Victoria Day</description>
     <type>V</type>
@@ -202,14 +202,6 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
-    <region>SK</region>
-    <date>2024-08-05</date>
-    <description>Saskatchewan Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
     <region>AB</region>
     <date>2024-08-05</date>
     <description>Heritage Day</description>
@@ -229,6 +221,14 @@
     <region>NB</region>
     <date>2024-08-05</date>
     <description>New Brunswick Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>SK</region>
+    <date>2024-08-05</date>
+    <description>Saskatchewan Day</description>
     <type>V</type>
     <notes></notes>
   </holiday>
@@ -274,6 +274,22 @@
   </holiday>
   <holiday>
     <locale>en-CA</locale>
+    <region>NT</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
+    <region>NU</region>
+    <date>2024-10-14</date>
+    <description>Thanksgiving Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-CA</locale>
     <region>ON</region>
     <date>2024-10-14</date>
     <description>Thanksgiving Day</description>
@@ -291,22 +307,6 @@
   <holiday>
     <locale>en-CA</locale>
     <region>SK</region>
-    <date>2024-10-14</date>
-    <description>Thanksgiving Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
-    <region>NT</region>
-    <date>2024-10-14</date>
-    <description>Thanksgiving Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-CA</locale>
-    <region>NU</region>
     <date>2024-10-14</date>
     <description>Thanksgiving Day</description>
     <type>V</type>

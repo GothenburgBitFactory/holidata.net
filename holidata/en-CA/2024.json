@@ -1,10 +1,10 @@
 {"locale":"en-CA","region":"","date":"2024-01-01","description":"New Year's Day","type":"NF","notes":""}
 {"locale":"en-CA","region":"AB","date":"2024-02-19","description":"Family Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NB","date":"2024-02-19","description":"Family Day","type":"V","notes":""}
 {"locale":"en-CA","region":"ON","date":"2024-02-19","description":"Family Day","type":"V","notes":""}
 {"locale":"en-CA","region":"SK","date":"2024-02-19","description":"Family Day","type":"V","notes":""}
-{"locale":"en-CA","region":"NB","date":"2024-02-19","description":"Family Day","type":"V","notes":""}
-{"locale":"en-CA","region":"MB","date":"2024-02-19","description":"Louis Riel Day","type":"V","notes":""}
 {"locale":"en-CA","region":"PE","date":"2024-02-19","description":"Islander Day","type":"V","notes":""}
+{"locale":"en-CA","region":"MB","date":"2024-02-19","description":"Louis Riel Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2024-03-29","description":"Good Friday","type":"NRV","notes":""}
 {"locale":"en-CA","region":"AB","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-CA","region":"PE","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
@@ -14,29 +14,29 @@
 {"locale":"en-CA","region":"BC","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"MB","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NS","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
-{"locale":"en-CA","region":"ON","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
-{"locale":"en-CA","region":"SK","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NT","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NU","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"ON","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
+{"locale":"en-CA","region":"SK","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"YT","date":"2024-05-20","description":"Victoria Day","type":"V","notes":""}
 {"locale":"en-CA","region":"QC","date":"2024-06-24","description":"National Holiday","type":"F","notes":""}
 {"locale":"en-CA","region":"","date":"2024-07-01","description":"Canada Day","type":"NF","notes":""}
 {"locale":"en-CA","region":"NT","date":"2024-08-05","description":"August Civic Holiday","type":"V","notes":""}
 {"locale":"en-CA","region":"NU","date":"2024-08-05","description":"August Civic Holiday","type":"V","notes":""}
-{"locale":"en-CA","region":"SK","date":"2024-08-05","description":"Saskatchewan Day","type":"V","notes":""}
 {"locale":"en-CA","region":"AB","date":"2024-08-05","description":"Heritage Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NS","date":"2024-08-05","description":"Heritage Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NB","date":"2024-08-05","description":"New Brunswick Day","type":"V","notes":""}
+{"locale":"en-CA","region":"SK","date":"2024-08-05","description":"Saskatchewan Day","type":"V","notes":""}
 {"locale":"en-CA","region":"","date":"2024-09-02","description":"Labour Day","type":"NV","notes":""}
 {"locale":"en-CA","region":"AB","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"BC","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"MB","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"NL","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NT","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
+{"locale":"en-CA","region":"NU","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"ON","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"QC","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"SK","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
-{"locale":"en-CA","region":"NT","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
-{"locale":"en-CA","region":"NU","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"YT","date":"2024-10-14","description":"Thanksgiving Day","type":"V","notes":""}
 {"locale":"en-CA","region":"AB","date":"2024-11-11","description":"Remembrance Day","type":"F","notes":""}
 {"locale":"en-CA","region":"BC","date":"2024-11-11","description":"Remembrance Day","type":"F","notes":""}
