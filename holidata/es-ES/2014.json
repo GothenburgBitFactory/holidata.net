@@ -37,8 +37,8 @@
 {"locale":"es-ES","region":"MD","date":"2014-05-02","description":"Fiesta de la Comunidad de Madrid","type":"F","notes":""}
 {"locale":"es-ES","region":"GA","date":"2014-05-17","description":"Día de las Letras Gallegas","type":"F","notes":""}
 {"locale":"es-ES","region":"CN","date":"2014-05-30","description":"Día de Canarias","type":"F","notes":""}
-{"locale":"es-ES","region":"MC","date":"2014-06-09","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"RI","date":"2014-06-09","description":"Día de La Rioja","type":"F","notes":""}
+{"locale":"es-ES","region":"MC","date":"2014-06-09","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"CM","date":"2014-06-19","description":"Corpus Christi","type":"RV","notes":""}
 {"locale":"es-ES","region":"MD","date":"2014-06-19","description":"Corpus Christi","type":"RV","notes":""}
 {"locale":"es-ES","region":"CT","date":"2014-06-24","description":"San Juan","type":"RF","notes":""}

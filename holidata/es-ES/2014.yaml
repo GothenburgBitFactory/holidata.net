@@ -275,16 +275,16 @@
     notes:
   holiday:
     locale: es-ES
-    region: MC
+    region: RI
     date: 2014-06-09
-    description: Día de la Región de Murcia
+    description: Día de La Rioja
     type: F
     notes:
   holiday:
     locale: es-ES
-    region: RI
+    region: MC
     date: 2014-06-09
-    description: Día de La Rioja
+    description: Día de la Región de Murcia
     type: F
     notes:
   holiday:
