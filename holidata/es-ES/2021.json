@@ -42,13 +42,12 @@
 {"locale":"es-ES","region":"GA","date":"2021-05-17","description":"Día de las Letras Gallegas","type":"F","notes":""}
 {"locale":"es-ES","region":"CM","date":"2021-05-31","description":"Día de Castilla-La Mancha","type":"F","notes":""}
 {"locale":"es-ES","region":"CM","date":"2021-06-03","description":"Corpus Christi","type":"RV","notes":""}
-{"locale":"es-ES","region":"MC","date":"2021-06-09","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"RI","date":"2021-06-09","description":"Día de La Rioja","type":"F","notes":""}
+{"locale":"es-ES","region":"MC","date":"2021-06-09","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"CT","date":"2021-06-24","description":"San Juan","type":"RF","notes":""}
 {"locale":"es-ES","region":"VC","date":"2021-06-24","description":"San Juan","type":"RF","notes":""}
 {"locale":"es-ES","region":"CE","date":"2021-07-20","description":"Fiesta del Sacrificio (Eidul Adha)","type":"RV","notes":""}
 {"locale":"es-ES","region":"ML","date":"2021-07-21","description":"Fiesta del Sacrificio (Aid El Kebir)","type":"RV","notes":""}
-{"locale":"es-ES","region":"GA","date":"2021-07-25","description":"Santiago Apóstol / Día Nacional de Galicia","type":"RF","notes":""}
 {"locale":"es-ES","region":"CB","date":"2021-07-28","description":"Día de las Instituciones de Cantabria","type":"F","notes":""}
 {"locale":"es-ES","region":"","date":"2021-08-15","description":"Asunción de la Virgen","type":"NRF","notes":""}
 {"locale":"es-ES","region":"AN","date":"2021-08-16","description":"Lunes siguiente a la Asunción de la Virgen","type":"RF","notes":""}

@@ -310,16 +310,16 @@
     notes:
   holiday:
     locale: es-ES
-    region: MC
+    region: RI
     date: 2021-06-09
-    description: Día de la Región de Murcia
+    description: Día de La Rioja
     type: F
     notes:
   holiday:
     locale: es-ES
-    region: RI
+    region: MC
     date: 2021-06-09
-    description: Día de La Rioja
+    description: Día de la Región de Murcia
     type: F
     notes:
   holiday:
@@ -349,13 +349,6 @@
     date: 2021-07-21
     description: Fiesta del Sacrificio (Aid El Kebir)
     type: RV
-    notes:
-  holiday:
-    locale: es-ES
-    region: GA
-    date: 2021-07-25
-    description: Santiago Apóstol / Día Nacional de Galicia
-    type: RF
     notes:
   holiday:
     locale: es-ES
