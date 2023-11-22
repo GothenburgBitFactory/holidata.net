@@ -52,8 +52,8 @@
 {"locale":"es-ES","region":"GA","date":"2019-05-17","description":"Día de las Letras Gallegas","type":"F","notes":""}
 {"locale":"es-ES","region":"CN","date":"2019-05-30","description":"Día de Canarias","type":"F","notes":""}
 {"locale":"es-ES","region":"CM","date":"2019-05-31","description":"Día de Castilla-La Mancha","type":"F","notes":""}
-{"locale":"es-ES","region":"MC","date":"2019-06-10","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"RI","date":"2019-06-10","description":"Día de La Rioja","type":"F","notes":""}
+{"locale":"es-ES","region":"MC","date":"2019-06-10","description":"Día de la Región de Murcia","type":"F","notes":""}
 {"locale":"es-ES","region":"CM","date":"2019-06-20","description":"Corpus Christi","type":"RV","notes":""}
 {"locale":"es-ES","region":"CT","date":"2019-06-24","description":"San Juan","type":"RF","notes":""}
 {"locale":"es-ES","region":"VC","date":"2019-06-24","description":"San Juan","type":"RF","notes":""}
