@@ -16,6 +16,13 @@
     notes:
   holiday:
     locale: en-CA
+    region: NB
+    date: 2012-02-20
+    description: Family Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
     region: ON
     date: 2012-02-20
     description: Family Day
@@ -30,9 +37,9 @@
     notes:
   holiday:
     locale: en-CA
-    region: NB
+    region: PE
     date: 2012-02-20
-    description: Family Day
+    description: Islander Day
     type: V
     notes:
   holiday:
@@ -40,13 +47,6 @@
     region: MB
     date: 2012-02-20
     description: Louis Riel Day
-    type: V
-    notes:
-  holiday:
-    locale: en-CA
-    region: PE
-    date: 2012-02-20
-    description: Islander Day
     type: V
     notes:
   holiday:
@@ -114,20 +114,6 @@
     notes:
   holiday:
     locale: en-CA
-    region: ON
-    date: 2012-05-21
-    description: Victoria Day
-    type: V
-    notes:
-  holiday:
-    locale: en-CA
-    region: SK
-    date: 2012-05-21
-    description: Victoria Day
-    type: V
-    notes:
-  holiday:
-    locale: en-CA
     region: NT
     date: 2012-05-21
     description: Victoria Day
@@ -136,6 +122,20 @@
   holiday:
     locale: en-CA
     region: NU
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: ON
+    date: 2012-05-21
+    description: Victoria Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
     date: 2012-05-21
     description: Victoria Day
     type: V
@@ -177,13 +177,6 @@
     notes:
   holiday:
     locale: en-CA
-    region: SK
-    date: 2012-08-06
-    description: Saskatchewan Day
-    type: V
-    notes:
-  holiday:
-    locale: en-CA
     region: AB
     date: 2012-08-06
     description: Heritage Day
@@ -201,6 +194,13 @@
     region: NB
     date: 2012-08-06
     description: New Brunswick Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: SK
+    date: 2012-08-06
+    description: Saskatchewan Day
     type: V
     notes:
   holiday:
@@ -240,6 +240,20 @@
     notes:
   holiday:
     locale: en-CA
+    region: NT
+    date: 2012-10-08
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
+    region: NU
+    date: 2012-10-08
+    description: Thanksgiving Day
+    type: V
+    notes:
+  holiday:
+    locale: en-CA
     region: ON
     date: 2012-10-08
     description: Thanksgiving Day
@@ -255,20 +269,6 @@
   holiday:
     locale: en-CA
     region: SK
-    date: 2012-10-08
-    description: Thanksgiving Day
-    type: V
-    notes:
-  holiday:
-    locale: en-CA
-    region: NT
-    date: 2012-10-08
-    description: Thanksgiving Day
-    type: V
-    notes:
-  holiday:
-    locale: en-CA
-    region: NU
     date: 2012-10-08
     description: Thanksgiving Day
     type: V
