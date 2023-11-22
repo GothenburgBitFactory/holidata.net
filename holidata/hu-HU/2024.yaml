@@ -59,6 +59,13 @@
   holiday:
     locale: hu-HU
     region:
+    date: 2024-08-19
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2024-08-03 munkanap
+  holiday:
+    locale: hu-HU
+    region:
     date: 2024-08-20
     description: Az államalapítás ünnepe
     type: NF
@@ -80,6 +87,13 @@
   holiday:
     locale: hu-HU
     region:
+    date: 2024-12-24
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2024-12-07 munkanap
+  holiday:
+    locale: hu-HU
+    region:
     date: 2024-12-25
     description: Karácsony
     type: NRF
@@ -91,4 +105,11 @@
     description: Karácsony
     type: NRF
     notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2024-12-27
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2024-12-14 munkanap
 ...
