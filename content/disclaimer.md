@@ -1,7 +1,7 @@
 ---
 title: "Legal Disclaimer"
 ---
-Göteborg Bit Factory (GBF) has made every attempt to ensure the accuracy and reliability of the information provided on this website.
+Gothenburg Bit Factory (GBF) has made every attempt to ensure the accuracy and reliability of the information provided on this website.
 However, the information is provided "as is" without warranty of any kind.
 GBF does not accept any responsibility or liability for the accuracy, content, completeness, legality, or reliability of the information contained on this website.
   
