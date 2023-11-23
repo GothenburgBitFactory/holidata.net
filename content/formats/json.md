@@ -11,7 +11,7 @@ See [https://jsonlines.org](https://jsonlines.org) for a complete description.
 * All data is provided in UTF-8.
 
 ## Example
-```json
+```json lines
 
   {"locale":"en-US","region":"","date":"2012-01-01","description":"New Year's Day","type":"NF","notes":""}
   {"locale":"en-US","region":"MA","date":"2012-04-16","description":"Patriots' Day","type":"NV","notes":""}
