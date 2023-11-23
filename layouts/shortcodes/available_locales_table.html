@@ -36,7 +36,7 @@
     {{ $country := $scratch.Get $name }}
     {{ $language := index $country.lang 0 }}
     <tr>
-        <td rowspan="{{ len $country.lang }}">{{ $name }}</td>
+        <td rowspan="{{ len $country.lang }}">{{ index $.Site.Data.flags $country.code }} {{ $name }}</td>
         <td>{{ $language }}</td>
         {{ range $year := $scratch.Get "years" | sort | uniq | last 2 }}
         <td>
