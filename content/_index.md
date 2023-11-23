@@ -11,7 +11,7 @@ See the [map of supported countries](map/), and the [available locales](locales/
 All you need to access the data is the correct URL, which looks like this:
 ```html
 
-    http://holidata.net/<LOCALE>/<YEAR>.<FORMAT>
+    https://holidata.net/<LOCALE>/<YEAR>.<FORMAT>
 
 ```
 * The `LOCALE` should be one of the supported locales (see [available locales](locales/)).
@@ -21,6 +21,6 @@ All you need to access the data is the correct URL, which looks like this:
 Here is an example that requests the `{{< current_year >}}` holiday data for the `en-US` locale as `JSON`:
 ```html
 
-    http://holidata.net/en-US/{{< current_year >}}.json
+    https://holidata.net/en-US/{{< current_year >}}.json
 
 ```
