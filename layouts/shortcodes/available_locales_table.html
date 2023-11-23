@@ -2,8 +2,20 @@
 {{ range (readDir "holidata") }}
   {{ $c_l := split .Name "-" }}
   {{ $c := index $c_l 1 }}
-  {{ $scratch.Add "countries" (slice $c) }}
+
+  {{ $lang := index $c_l 0 }}
+  {{ $code := index $c_l 1 }}
+  {{ $name := index $.Site.Data.countries $code }}
+
+  {{ $country := default (dict "code" $code "lang" (slice)) ($scratch.Get $name) }}
+  {{ $languages := $country.lang }}
+  {{ $languages = append $lang $languages }}
+  {{ $country = merge $country (dict "lang" $languages) }}
+  {{ $scratch.Set $name $country }}
+
+  {{ $scratch.Add "countries" (slice $name) }}
   {{ $scratch.Add $c (slice (index $c_l 0)) }}
+
   {{ range (readDir (delimit (slice "holidata" .Name) "/")) }}
     {{ $y_f := split .Name "." }}
     {{ $scratch.Add "years" (slice (index $y_f 0)) }}
@@ -15,20 +27,32 @@
     <caption>Available locales</caption>
     <tr>
         <th scope="col">Country</th>
-        <th scope="col">Locale</th>
+        <th scope="col">Language</th>
         {{ range $scratch.Get "years" | sort | uniq | last 2 }}
         <th scope="col">{{ . }}</th>
         {{ end }}
     </tr>
-    {{ range $country := $scratch.Get "countries" | sort | uniq }}
-    {{ range $language := $scratch.Get $country  }}
+    {{ range $name := $scratch.Get "countries" | sort | uniq }}
+    {{ $country := $scratch.Get $name }}
+    {{ $language := index $country.lang 0 }}
     <tr>
-        <td>{{ index $.Site.Data.countries $country }}</td>
-        <td>{{ $language }}-{{ $country }}</td>
+        <td rowspan="{{ len $country.lang }}">{{ $name }}</td>
+        <td>{{ $language }}</td>
         {{ range $year := $scratch.Get "years" | sort | uniq | last 2 }}
         <td>
             {{ range $format := $scratch.Get "formats" | sort | uniq }}
-            <a href="/{{ $language }}-{{ $country }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
+            <a href="/{{ $language }}-{{ $country.code }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
+            {{ end }}
+        </td>
+        {{ end }}
+    </tr>
+    {{ range $language := (after 1 $country.lang) }}
+    <tr>
+        <td>{{ $language }}</td>
+        {{ range $year := $scratch.Get "years" | sort | uniq | last 2 }}
+        <td>
+            {{ range $format := $scratch.Get "formats" | sort | uniq }}
+            <a href="/{{ $language }}-{{ $country.code }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
             {{ end }}
         </td>
         {{ end }}
