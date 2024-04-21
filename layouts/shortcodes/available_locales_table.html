@@ -22,7 +22,8 @@
     {{ $scratch.Add "formats" (slice (index $y_f 1)) }}
   {{ end }}
 {{ end }}
-
+{{ $site := .Site }}
+{{ $baseUrl := $site.BaseURL }}
 <table class="table">
     <caption>Available locales</caption>
     <tr>
@@ -41,7 +42,7 @@
         {{ range $year := $scratch.Get "years" | sort | uniq | last 2 }}
         <td>
             {{ range $format := $scratch.Get "formats" | sort | uniq }}
-            <a href="/{{ $language }}-{{ $country.code }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
+            <a href="{{ $baseUrl }}/{{ $language }}-{{ $country.code }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
             {{ end }}
         </td>
         {{ end }}
@@ -52,7 +53,7 @@
         {{ range $year := $scratch.Get "years" | sort | uniq | last 2 }}
         <td>
             {{ range $format := $scratch.Get "formats" | sort | uniq }}
-            <a href="/{{ $language }}-{{ $country.code }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
+            <a href="{{ $baseUrl }}/{{ $language }}-{{ $country.code }}/{{ $year }}.{{ $format | lower }}">{{ . }}</a>
             {{ end }}
         </td>
         {{ end }}
