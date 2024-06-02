@@ -83,16 +83,16 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
-    <date>2013-11-22</date>
-    <description>Day after Thanksgiving</description>
+    <date>2013-11-28</date>
+    <description>Thanksgiving Day</description>
     <type>NV</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>en-US</locale>
     <region></region>
-    <date>2013-11-28</date>
-    <description>Thanksgiving Day</description>
+    <date>2013-11-29</date>
+    <description>Day after Thanksgiving</description>
     <type>NV</type>
     <notes></notes>
   </holiday>
