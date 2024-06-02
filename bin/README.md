@@ -45,19 +45,19 @@ If the `--commit` option is given, the script creates a commit with the message 
    ```
    HOLIDATA=/path/to/holidata ./update-locale --commit --all-locales --all-years --all-formats
    ```
-1. Update year 2023 all locales and create commits for each update
+2. Update year 2023 all locales and create commits for each update
    ```
    HOLIDATA=/path/to/holidata ./update-locale --commit --all-locales 2023 --all-formats
    ```
-1. Update a single locale for a given year in all formats
+3. Update a single locale for a given year in all formats
    ```
    HOLIDATA=/path/to/holidata ./update-locale en-US 2023 --all-formats
    ```
-1. Update all present years for a single locale in all formats
+4. Update all present years for a single locale in all formats
    ```
    HOLIDATA=/path/to/holidata ./update-locale en-US --all-formats
    ```
-1. Update year 2022 and 2023 for multiple locales in JSON format
+5. Update year 2022 and 2023 for multiple locales in JSON format
    ```
    HOLIDATA=/path/to/holidata ./update-locale en-US de-DE 2022 2023 json
    ```
