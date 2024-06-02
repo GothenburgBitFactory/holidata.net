@@ -91,6 +91,22 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
+    <date>2021-11-26</date>
+    <description>Day after Thanksgiving</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2021-12-24</date>
+    <description>Christmas Eve</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
     <date>2021-12-25</date>
     <description>Christmas Day</description>
     <type>NRF</type>
