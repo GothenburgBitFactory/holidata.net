@@ -73,15 +73,15 @@
   holiday:
     locale: es-US
     region:
-    date: 2024-11-22
-    description: Día después de Acción de Gracias
+    date: 2024-11-28
+    description: Día de Acción de Gracias
     type: NV
     notes:
   holiday:
     locale: es-US
     region:
-    date: 2024-11-28
-    description: Día de Acción de Gracias
+    date: 2024-11-29
+    description: Día después de Acción de Gracias
     type: NV
     notes:
   holiday:
