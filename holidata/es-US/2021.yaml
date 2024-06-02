@@ -80,6 +80,20 @@
   holiday:
     locale: es-US
     region:
+    date: 2021-11-26
+    description: Día después de Acción de Gracias
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2021-12-24
+    description: Nochebuena
+    type: NRF
+    notes:
+  holiday:
+    locale: es-US
+    region:
     date: 2021-12-25
     description: Navidad
     type: NRF
