@@ -149,7 +149,7 @@
     notes:
   holiday:
     locale: de-DE
-    region: BH
+    region: HB
     date: 2021-10-31
     description: Reformationstag
     type: RF
