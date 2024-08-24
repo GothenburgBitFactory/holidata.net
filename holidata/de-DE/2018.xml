@@ -138,6 +138,14 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
+    <region>BY</region>
+    <date>2018-08-15</date>
+    <description>Mariä Himmelfahrt</description>
+    <type>RF</type>
+    <notes>In Gemeinden mit überwiegend katholischer Bevölkerung</notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
     <region>SL</region>
     <date>2018-08-15</date>
     <description>Mariä Himmelfahrt</description>
