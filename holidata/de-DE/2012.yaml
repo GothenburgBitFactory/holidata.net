@@ -121,6 +121,13 @@
     notes:
   holiday:
     locale: de-DE
+    region: BY
+    date: 2012-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: In Gemeinden mit überwiegend katholischer Bevölkerung
+  holiday:
+    locale: de-DE
     region: SL
     date: 2012-08-15
     description: Mariä Himmelfahrt
