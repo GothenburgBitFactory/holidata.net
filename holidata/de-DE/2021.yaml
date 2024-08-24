@@ -128,6 +128,13 @@
     notes:
   holiday:
     locale: de-DE
+    region: BY
+    date: 2021-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes: In Gemeinden mit überwiegend katholischer Bevölkerung
+  holiday:
+    locale: de-DE
     region: SL
     date: 2021-08-15
     description: Mariä Himmelfahrt
