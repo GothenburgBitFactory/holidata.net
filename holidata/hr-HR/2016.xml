@@ -12,7 +12,7 @@
     <locale>hr-HR</locale>
     <region></region>
     <date>2016-01-06</date>
-    <description>Bogojavljenje</description>
+    <description>Sveta tri kralja</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
@@ -28,7 +28,7 @@
     <locale>hr-HR</locale>
     <region></region>
     <date>2016-03-28</date>
-    <description>Uskrsni ponedjeljak</description>
+    <description>Uskršnji ponedjeljak</description>
     <type>NRV</type>
     <notes></notes>
   </holiday>
@@ -51,16 +51,16 @@
   <holiday>
     <locale>hr-HR</locale>
     <region></region>
-    <date>2016-06-22</date>
-    <description>Dan antifašističke borbe</description>
+    <date>2016-05-30</date>
+    <description>Dan državnosti</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
     <locale>hr-HR</locale>
     <region></region>
-    <date>2016-06-25</date>
-    <description>Dan državnosti</description>
+    <date>2016-06-22</date>
+    <description>Dan antifašističke borbe</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
@@ -83,16 +83,8 @@
   <holiday>
     <locale>hr-HR</locale>
     <region></region>
-    <date>2016-10-08</date>
-    <description>Dan neovisnosti</description>
-    <type>NF</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>hr-HR</locale>
-    <region></region>
     <date>2016-11-01</date>
-    <description>Svi sveti</description>
+    <description>Dan svih svetih</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
