@@ -1,6 +1,6 @@
 ---
 title: "Locale Germany updated"
-date: 2023-11-22T01:00:00+02:00
+date: 2024-08-25T01:00:00+02:00
 layout: "news_item"
 ---
 
