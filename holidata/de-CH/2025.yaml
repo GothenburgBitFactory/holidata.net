@@ -1,0 +1,983 @@
+%YAML 1.1
+---
+  holiday:
+    locale: de-CH
+    region:
+    date: 2025-01-01
+    description: Neujahrstag
+    type: NF
+    notes:
+  holiday:
+    locale: de-CH
+    region: BE
+    date: 2025-01-02
+    description: Berchtoldstag
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: JU
+    date: 2025-01-02
+    description: Berchtoldstag
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: TG
+    date: 2025-01-02
+    description: Berchtoldstag
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: VD
+    date: 2025-01-02
+    description: Berchtoldstag
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-01-06
+    description: Heilige Drei Könige
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-01-06
+    description: Heilige Drei Könige
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-01-06
+    description: Heilige Drei Könige
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: NW
+    date: 2025-03-19
+    description: Josefstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-03-19
+    description: Josefstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-03-19
+    description: Josefstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-03-19
+    description: Josefstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: VS
+    date: 2025-03-19
+    description: Josefstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: AG
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: AR
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BE
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BL
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BS
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: FR
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GE
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GL
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GR
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: JU
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: LU
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: NE
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: NW
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: OW
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SG
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SH
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SO
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: TG
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: VD
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZG
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZH
+    date: 2025-04-18
+    description: Karfreitag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region:
+    date: 2025-04-20
+    description: Ostersonntag
+    type: NRV
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: AR
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BE
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BL
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BS
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GE
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GL
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GR
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: JU
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SG
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SH
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: TG
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: VD
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZH
+    date: 2025-04-21
+    description: Ostermontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BL
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: BS
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: GR
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: NE
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: SH
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: TG
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZH
+    date: 2025-05-01
+    description: Tag der Arbeit
+    type: F
+    notes:
+  holiday:
+    locale: de-CH
+    region:
+    date: 2025-05-29
+    description: Auffahrt
+    type: NRV
+    notes:
+  holiday:
+    locale: de-CH
+    region:
+    date: 2025-06-08
+    description: Pfingstsonntag
+    type: NRV
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: AR
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BE
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BL
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: BS
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GE
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GL
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: GR
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: JU
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SG
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SH
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: TG
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: VD
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZH
+    date: 2025-06-09
+    description: Pfingstmontag
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: JU
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: LU
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: NW
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: OW
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: VS
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZG
+    date: 2025-06-19
+    description: Fronleichnam
+    type: RV
+    notes:
+  holiday:
+    locale: de-CH
+    region:
+    date: 2025-08-01
+    description: Bundesfeier
+    type: NF
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: JU
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: LU
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: NW
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: OW
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: VS
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZG
+    date: 2025-08-15
+    description: Mariä Himmelfahrt
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: GL
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: JU
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: LU
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: NW
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: OW
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SG
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: VS
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZG
+    date: 2025-11-01
+    description: Allerheiligen
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: LU
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: NW
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: OW
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: VS
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZG
+    date: 2025-12-08
+    description: Mariä Empfängnis
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region:
+    date: 2025-12-25
+    description: Weihnachtstag
+    type: NRF
+    notes:
+  holiday:
+    locale: de-CH
+    region: AI
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: AR
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: BE
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: BL
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: BS
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: GL
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: GR
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: LU
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SG
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SH
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: SZ
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: TG
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: TI
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: UR
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+  holiday:
+    locale: de-CH
+    region: ZH
+    date: 2025-12-26
+    description: Stephanstag
+    type: RF
+    notes:
+...

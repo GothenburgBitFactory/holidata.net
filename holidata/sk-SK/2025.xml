@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-01-01</date>
+    <description>Deň vzniku Slovenskej republiky</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-01-06</date>
+    <description>Zjavenie Pána / Traja králi</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-04-18</date>
+    <description>Veľký piatok</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-04-21</date>
+    <description>Veľkonočný pondelok</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-05-01</date>
+    <description>Sviatok práce</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-05-08</date>
+    <description>Deň víťazstva nad fašizmom</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-07-05</date>
+    <description>Sviatok svätého Cyrila a Metoda</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-08-29</date>
+    <description>Výročie SNP</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-09-01</date>
+    <description>Deň Ústavy Slovenskej republiky</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-09-15</date>
+    <description>Sedembolestná Panna Mária</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-11-01</date>
+    <description>Sviatok všetkých svätých</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-11-17</date>
+    <description>Deň boja za slobodu a demokraciu</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-12-24</date>
+    <description>Štedrý deň</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-12-25</date>
+    <description>Prvý sviatok vianočný</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>sk-SK</locale>
+    <region></region>
+    <date>2025-12-26</date>
+    <description>Druhý sviatok vianočný</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
