@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-01-01
+    description: Yılbaşı
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-03-30
+    description: Ramazan Bayramı (1. Gün)
+    type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-03-31
+    description: Ramazan Bayramı (2. Gün)
+    type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-04-01
+    description: Ramazan Bayramı (3. Gün)
+    type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-04-23
+    description: Ulusal Egemenlik ve Çocuk Bayramı
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-05-01
+    description: Emek ve Dayanışma Günü
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-05-19
+    description: Atatürk'ü Anma, Gençlik ve Spor Bayramı
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-06-06
+    description: Kurban Bayramı (1. Gün)
+    type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-06-07
+    description: Kurban Bayramı (2. Gün)
+    type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-06-08
+    description: Kurban Bayramı (3. Gün)
+    type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-06-09
+    description: Kurban Bayramı (4. Gün)
+    type: NRV
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-07-15
+    description: Demokrasi ve Milli Birlik Günü
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-08-30
+    description: Zafer Bayramı
+    type: NF
+    notes:
+  holiday:
+    locale: tr-TR
+    region:
+    date: 2025-10-29
+    description: Cumhuriyet Bayramı
+    type: NF
+    notes:
+...
