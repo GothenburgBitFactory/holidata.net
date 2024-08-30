@@ -1,0 +1,98 @@
+{"locale":"en-AU","region":"ACT","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-02-08","description":"Royal Hobart Regatta","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-03-14","description":"Adelaide Cup Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-03-14","description":"Canberra Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-03-14","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-03-14","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-03-25","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-03-26","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-03-26","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-03-26","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-03-26","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-03-26","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-03-26","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-03-27","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-03-27","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-03-27","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-03-27","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-03-28","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-05-02","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-05-02","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-05-02","description":"May Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-05-30","description":"Reconciliation Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-06-06","description":"Western Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-06-13","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-06-13","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-06-13","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-06-13","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-08-01","description":"Bank Holiday","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-08-01","description":"Picnic Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-09-26","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-10-03","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-10-03","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-10-03","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-10-03","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-11-01","description":"Melbourne Cup Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-12-26","description":"Christmas Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2016-12-26","description":"Christmas Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-12-26","description":"Christmas Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-12-26","description":"Christmas Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2016-12-27","description":"Boxing Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2016-12-27","description":"Boxing Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2016-12-27","description":"Boxing Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2016-12-27","description":"Christmas Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2016-12-27","description":"Christmas Day (observed)","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2016-12-27","description":"Christmas Day (observed)","type":"RF","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2016-12-27","description":"Christmas Day (observed)","type":"RF","notes":""}
