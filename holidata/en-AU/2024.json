@@ -1,0 +1,93 @@
+{"locale":"en-AU","region":"ACT","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-02-12","description":"Royal Hobart Regatta","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-03-11","description":"Adelaide Cup Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-03-11","description":"Canberra Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-03-11","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-03-11","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-03-29","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-03-30","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-03-31","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-03-31","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-03-31","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-03-31","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-03-31","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-03-31","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-03-31","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-04-01","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-05-06","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-05-06","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-05-06","description":"May Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-05-27","description":"Reconciliation Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-06-03","description":"Western Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-06-10","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-06-10","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-06-10","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-06-10","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-06-10","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-06-10","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-08-05","description":"Bank Holiday","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-08-05","description":"Picnic Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-09-23","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-09-27","description":"Grand Final Eve","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-10-07","description":"King's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-10-07","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-10-07","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-10-07","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-11-05","description":"Melbourne Cup Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"SA","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2024-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2024-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NT","date":"2024-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2024-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2024-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2024-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"WA","date":"2024-12-26","description":"Boxing Day","type":"RF","notes":""}
