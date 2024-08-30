@@ -1,0 +1,668 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-01-01
+    description: New Year's Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-01-26
+    description: Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-02-09
+    description: Royal Hobart Regatta
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-03-09
+    description: Adelaide Cup Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-03-09
+    description: Canberra Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-03-09
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-03-09
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-04-03
+    description: Good Friday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-04-04
+    description: Easter Saturday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-04-04
+    description: Easter Saturday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-04-04
+    description: Easter Saturday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-04-04
+    description: Easter Saturday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-04-04
+    description: Easter Saturday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-04-04
+    description: Easter Saturday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-04-05
+    description: Easter
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-04-05
+    description: Easter
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-04-05
+    description: Easter
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-04-05
+    description: Easter
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-04-06
+    description: Easter Monday
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-04-25
+    description: Anzac Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-04-25
+    description: Anzac Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-04-25
+    description: Anzac Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-04-25
+    description: Anzac Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-04-25
+    description: Anzac Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-04-25
+    description: Anzac Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-04-25
+    description: Anzac Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-04-25
+    description: Anzac Day
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-04-27
+    description: Anzac Day (supplement)
+    type: F
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-05-04
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-05-04
+    description: May Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-06-01
+    description: Reconciliation Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-06-01
+    description: Western Australia Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-06-08
+    description: Queen's Birthday
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-06-08
+    description: Queen's Birthday
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-06-08
+    description: Queen's Birthday
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-06-08
+    description: Queen's Birthday
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-06-08
+    description: Queen's Birthday
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-08-03
+    description: Bank Holiday
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-08-03
+    description: Picnic Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-09-28
+    description: Queen's Birthday
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-10-05
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-10-05
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-10-05
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-10-05
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-11-03
+    description: Melbourne Cup Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: SA
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-12-25
+    description: Christmas Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-12-26
+    description: Boxing Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-12-26
+    description: Boxing Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-12-26
+    description: Boxing Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-12-26
+    description: Boxing Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-12-26
+    description: Boxing Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-12-26
+    description: Boxing Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-12-26
+    description: Boxing Day
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: ACT
+    date: 2015-12-28
+    description: Boxing Day (observed)
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NSW
+    date: 2015-12-28
+    description: Boxing Day (observed)
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: NT
+    date: 2015-12-28
+    description: Boxing Day (observed)
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: QLD
+    date: 2015-12-28
+    description: Boxing Day (observed)
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: TAS
+    date: 2015-12-28
+    description: Boxing Day (observed)
+    type: RV
+    notes:
+  holiday:
+    locale: en-AU
+    region: VIC
+    date: 2015-12-28
+    description: Boxing Day (observed)
+    type: RF
+    notes:
+  holiday:
+    locale: en-AU
+    region: WA
+    date: 2015-12-28
+    description: Boxing Day (observed)
+    type: RV
+    notes:
+...

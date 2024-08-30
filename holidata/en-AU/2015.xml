@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-01-01</date>
+    <description>New Year's Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-01-26</date>
+    <description>Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-02-09</date>
+    <description>Royal Hobart Regatta</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-03-09</date>
+    <description>Adelaide Cup Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-03-09</date>
+    <description>Canberra Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-03-09</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-03-09</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-04-03</date>
+    <description>Good Friday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-04-04</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-04-04</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-04-04</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-04-04</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-04-04</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-04-04</date>
+    <description>Easter Saturday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-04-05</date>
+    <description>Easter</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-04-05</date>
+    <description>Easter</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-04-05</date>
+    <description>Easter</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-04-05</date>
+    <description>Easter</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-04-06</date>
+    <description>Easter Monday</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-04-25</date>
+    <description>Anzac Day</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-04-27</date>
+    <description>Anzac Day (supplement)</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-05-04</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-05-04</date>
+    <description>May Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-06-01</date>
+    <description>Reconciliation Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-06-01</date>
+    <description>Western Australia Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-06-08</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-06-08</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-06-08</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-06-08</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-06-08</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-08-03</date>
+    <description>Bank Holiday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-08-03</date>
+    <description>Picnic Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-09-28</date>
+    <description>Queen's Birthday</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-10-05</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-10-05</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-10-05</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-10-05</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-11-03</date>
+    <description>Melbourne Cup Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>SA</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-12-25</date>
+    <description>Christmas Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-12-26</date>
+    <description>Boxing Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-12-26</date>
+    <description>Boxing Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-12-26</date>
+    <description>Boxing Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-12-26</date>
+    <description>Boxing Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-12-26</date>
+    <description>Boxing Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-12-26</date>
+    <description>Boxing Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-12-26</date>
+    <description>Boxing Day</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NSW</region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>TAS</region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-12-28</date>
+    <description>Boxing Day (observed)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+</holidays>
