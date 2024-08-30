@@ -1,0 +1,96 @@
+{"locale":"en-AU","region":"ACT","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-01-01","description":"New Year's Day","type":"F","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-01-02","description":"New Year's Day (observed)","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-01-26","description":"Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-02-13","description":"Royal Hobart Regatta","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-03-12","description":"Adelaide Cup Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-03-12","description":"Canberra Day","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-03-12","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-03-12","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-04-06","description":"Good Friday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-04-07","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-04-07","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-04-07","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-04-07","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-04-07","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-04-07","description":"Easter Saturday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-04-08","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-04-08","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-04-08","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-04-08","description":"Easter","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-04-09","description":"Easter Monday","type":"RV","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-04-25","description":"Anzac Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-04-25","description":"Anzac Day","type":"F","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-05-07","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-05-07","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-05-07","description":"May Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-05-28","description":"Reconciliation Day","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-06-04","description":"Western Australia Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-06-11","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-06-11","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-06-11","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-06-11","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-06-11","description":"Queen's Diamond Jubilee","type":"F","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-08-06","description":"Bank Holiday","type":"V","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-08-06","description":"Picnic Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-10-01","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-10-01","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-10-01","description":"Labour Day","type":"V","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-10-01","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-10-01","description":"Queen's Birthday","type":"V","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-11-06","description":"Melbourne Cup Day","type":"V","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"SA","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-12-25","description":"Christmas Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"ACT","date":"2012-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NSW","date":"2012-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"NT","date":"2012-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"QLD","date":"2012-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"TAS","date":"2012-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"VIC","date":"2012-12-26","description":"Boxing Day","type":"RF","notes":""}
+{"locale":"en-AU","region":"WA","date":"2012-12-26","description":"Boxing Day","type":"RF","notes":""}
