@@ -26,6 +26,38 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2025-03-01</date>
+    <description>Día de las Illes Balears</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2025-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2025-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2025-03-31</date>
+    <description>Fiesta del Eid Fitr</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>AN</region>
     <date>2025-04-17</date>
     <description>Jueves Santo</description>
@@ -43,6 +75,14 @@
   <holiday>
     <locale>es-ES</locale>
     <region>AS</region>
+    <date>2025-04-17</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
     <date>2025-04-17</date>
     <description>Jueves Santo</description>
     <type>RV</type>
@@ -146,6 +186,14 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2025-04-17</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region></region>
     <date>2025-04-18</date>
     <description>Viernes Santo</description>
@@ -163,14 +211,6 @@
   <holiday>
     <locale>es-ES</locale>
     <region>CT</region>
-    <date>2025-04-21</date>
-    <description>Lunes de Pascua</description>
-    <type>RV</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>es-ES</locale>
-    <region>IB</region>
     <date>2025-04-21</date>
     <description>Lunes de Pascua</description>
     <type>RV</type>
@@ -266,6 +306,22 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2025-06-06</date>
+    <description>Fiesta del Sacrificio (Aid Al Adha)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2025-06-06</date>
+    <description>Fiesta del Sacrificio (Eidul Adha)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>RI</region>
     <date>2025-06-09</date>
     <description>Día de La Rioja</description>
@@ -282,9 +338,73 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2025-06-19</date>
+    <description>Corpus Christi</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2025-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2025-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>GA</region>
     <date>2025-07-25</date>
     <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2025-07-25</date>
+    <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2025-07-25</date>
+    <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2025-07-25</date>
+    <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2025-07-28</date>
+    <description>Día de las Instituciones de Cantabria</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2025-08-05</date>
+    <description>Nuestra Señora de África</description>
     <type>RF</type>
     <notes></notes>
   </holiday>
@@ -322,6 +442,14 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2025-09-15</date>
+    <description>La Bien Aparecida</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>VC</region>
     <date>2025-10-09</date>
     <description>Día de la Comunitat Valenciana</description>
@@ -334,6 +462,46 @@
     <date>2025-10-12</date>
     <description>Fiesta Nacional de España</description>
     <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2025-10-13</date>
+    <description>Lunes siguiente a la Fiesta Nacional de España</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2025-10-13</date>
+    <description>Lunes siguiente a la Fiesta Nacional de España</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2025-10-13</date>
+    <description>Lunes siguiente a la Fiesta Nacional de España</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2025-10-13</date>
+    <description>Lunes siguiente a la Fiesta Nacional de España</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2025-10-13</date>
+    <description>Lunes siguiente a la Fiesta Nacional de España</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -371,6 +539,14 @@
   <holiday>
     <locale>es-ES</locale>
     <region>CT</region>
+    <date>2025-12-26</date>
+    <description>San Esteban</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
     <date>2025-12-26</date>
     <description>San Esteban</description>
     <type>RF</type>

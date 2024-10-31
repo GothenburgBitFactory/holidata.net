@@ -23,6 +23,34 @@
     notes:
   holiday:
     locale: es-ES
+    region: IB
+    date: 2025-03-01
+    description: Día de las Illes Balears
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: MC
+    date: 2025-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2025-03-19
+    description: San José
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: ML
+    date: 2025-03-31
+    description: Fiesta del Eid Fitr
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region: AN
     date: 2025-04-17
     description: Jueves Santo
@@ -38,6 +66,13 @@
   holiday:
     locale: es-ES
     region: AS
+    date: 2025-04-17
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
     date: 2025-04-17
     description: Jueves Santo
     type: RV
@@ -128,6 +163,13 @@
     notes:
   holiday:
     locale: es-ES
+    region: RI
+    date: 2025-04-17
+    description: Jueves Santo
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region:
     date: 2025-04-18
     description: Viernes Santo
@@ -143,13 +185,6 @@
   holiday:
     locale: es-ES
     region: CT
-    date: 2025-04-21
-    description: Lunes de Pascua
-    type: RV
-    notes:
-  holiday:
-    locale: es-ES
-    region: IB
     date: 2025-04-21
     description: Lunes de Pascua
     type: RV
@@ -233,6 +268,20 @@
     notes:
   holiday:
     locale: es-ES
+    region: ML
+    date: 2025-06-06
+    description: Fiesta del Sacrificio (Aid Al Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2025-06-06
+    description: Fiesta del Sacrificio (Eidul Adha)
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
     region: RI
     date: 2025-06-09
     description: Día de La Rioja
@@ -247,9 +296,65 @@
     notes:
   holiday:
     locale: es-ES
+    region: CM
+    date: 2025-06-19
+    description: Corpus Christi
+    type: RV
+    notes:
+  holiday:
+    locale: es-ES
+    region: CT
+    date: 2025-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: VC
+    date: 2025-06-24
+    description: San Juan
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region: GA
     date: 2025-07-25
     description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: MD
+    date: 2025-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: NC
+    date: 2025-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: PV
+    date: 2025-07-25
+    description: Santiago Apóstol / Día Nacional de Galicia
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: CB
+    date: 2025-07-28
+    description: Día de las Instituciones de Cantabria
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CE
+    date: 2025-08-05
+    description: Nuestra Señora de África
     type: RF
     notes:
   holiday:
@@ -282,6 +387,13 @@
     notes:
   holiday:
     locale: es-ES
+    region: CB
+    date: 2025-09-15
+    description: La Bien Aparecida
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
     region: VC
     date: 2025-10-09
     description: Día de la Comunitat Valenciana
@@ -293,6 +405,41 @@
     date: 2025-10-12
     description: Fiesta Nacional de España
     type: NF
+    notes:
+  holiday:
+    locale: es-ES
+    region: AN
+    date: 2025-10-13
+    description: Lunes siguiente a la Fiesta Nacional de España
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AR
+    date: 2025-10-13
+    description: Lunes siguiente a la Fiesta Nacional de España
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: AS
+    date: 2025-10-13
+    description: Lunes siguiente a la Fiesta Nacional de España
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: CL
+    date: 2025-10-13
+    description: Lunes siguiente a la Fiesta Nacional de España
+    type: F
+    notes:
+  holiday:
+    locale: es-ES
+    region: EX
+    date: 2025-10-13
+    description: Lunes siguiente a la Fiesta Nacional de España
+    type: F
     notes:
   holiday:
     locale: es-ES
@@ -325,6 +472,13 @@
   holiday:
     locale: es-ES
     region: CT
+    date: 2025-12-26
+    description: San Esteban
+    type: RF
+    notes:
+  holiday:
+    locale: es-ES
+    region: IB
     date: 2025-12-26
     description: San Esteban
     type: RF
