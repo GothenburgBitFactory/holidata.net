@@ -51,6 +51,14 @@
   <holiday>
     <locale>hu-HU</locale>
     <region></region>
+    <date>2025-05-02</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2025-05-17 munkanap</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
     <date>2025-06-08</date>
     <description>Pünkösd</description>
     <type>NRV</type>
@@ -83,10 +91,26 @@
   <holiday>
     <locale>hu-HU</locale>
     <region></region>
+    <date>2025-10-24</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2025-10-18 munkanap</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
     <date>2025-11-01</date>
     <description>Mindenszentek</description>
     <type>NRF</type>
     <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2025-12-24</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2025-12-13 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>

@@ -45,6 +45,13 @@
   holiday:
     locale: hu-HU
     region:
+    date: 2025-05-02
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2025-05-17 munkanap
+  holiday:
+    locale: hu-HU
+    region:
     date: 2025-06-08
     description: Pünkösd
     type: NRV
@@ -73,10 +80,24 @@
   holiday:
     locale: hu-HU
     region:
+    date: 2025-10-24
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2025-10-18 munkanap
+  holiday:
+    locale: hu-HU
+    region:
     date: 2025-11-01
     description: Mindenszentek
     type: NRF
     notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2025-12-24
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2025-12-13 munkanap
   holiday:
     locale: hu-HU
     region:
