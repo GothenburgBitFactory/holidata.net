@@ -9,7 +9,3 @@ See a problem in the data?
 **Locales**  
 Need a different locale?
 [Tell&nbsp;us](https://github.com/GothenburgBitFactory/holidata/issues/new?labels=locale&template=locale-request.md&title=Add+locale+for+LANG-COUNTRY).
-
-**Formats**  
-Need a different data format?
-[Tell&nbsp;us](https://github.com/GothenburgBitFactory/holidata/issues/new?labels=enhancement&title=Add+data+format+FORMAT).
