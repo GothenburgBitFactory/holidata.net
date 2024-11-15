@@ -45,8 +45,29 @@
   holiday:
     locale: en-US
     region:
+    date: 2021-06-18
+    description: Juneteenth National Independence Day (in lieu of)
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2021-06-19
+    description: Juneteenth National Independence Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
     date: 2021-07-04
     description: Independence Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2021-07-05
+    description: Independence Day (in lieu of)
     type: NF
     notes:
   holiday:
@@ -88,7 +109,7 @@
     locale: en-US
     region:
     date: 2021-12-24
-    description: Christmas Eve
+    description: Christmas Day (in lieu of)
     type: NRF
     notes:
   holiday:
@@ -97,5 +118,12 @@
     date: 2021-12-25
     description: Christmas Day
     type: NRF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2021-12-31
+    description: New Year's Day (in lieu of)
+    type: NF
     notes:
 ...
