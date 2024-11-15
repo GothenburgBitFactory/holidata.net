@@ -45,6 +45,13 @@
   holiday:
     locale: en-US
     region:
+    date: 2024-06-19
+    description: Juneteenth National Independence Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
     date: 2024-07-04
     description: Independence Day
     type: NF
