@@ -11,6 +11,14 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
+    <date>2017-01-02</date>
+    <description>New Year's Day (in lieu of)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
     <date>2017-01-16</date>
     <description>Birthday of Martin Luther King, Jr.</description>
     <type>NV</type>
@@ -70,6 +78,14 @@
     <date>2017-10-09</date>
     <description>Columbus Day</description>
     <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2017-11-10</date>
+    <description>Veterans Day (in lieu of)</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>

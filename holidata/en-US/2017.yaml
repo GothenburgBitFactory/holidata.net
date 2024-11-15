@@ -10,6 +10,13 @@
   holiday:
     locale: en-US
     region:
+    date: 2017-01-02
+    description: New Year's Day (in lieu of)
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
     date: 2017-01-16
     description: Birthday of Martin Luther King, Jr.
     type: NV
@@ -62,6 +69,13 @@
     date: 2017-10-09
     description: Columbus Day
     type: NV
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2017-11-10
+    description: Veterans Day (in lieu of)
+    type: NF
     notes:
   holiday:
     locale: en-US
