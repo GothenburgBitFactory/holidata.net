@@ -4,11 +4,15 @@
 {"locale":"es-US","region":"MA","date":"2021-04-19","description":"Día del Patriota","type":"V","notes":""}
 {"locale":"es-US","region":"ME","date":"2021-04-19","description":"Día del Patriota","type":"V","notes":""}
 {"locale":"es-US","region":"","date":"2021-05-31","description":"Día de los Caídos","type":"NV","notes":""}
+{"locale":"es-US","region":"","date":"2021-06-18","description":"Juneteenth – Día de la Emancipación (en lugar de)","type":"NF","notes":""}
+{"locale":"es-US","region":"","date":"2021-06-19","description":"Juneteenth – Día de la Emancipación","type":"NF","notes":""}
 {"locale":"es-US","region":"","date":"2021-07-04","description":"Día de la Independiencia","type":"NF","notes":""}
+{"locale":"es-US","region":"","date":"2021-07-05","description":"Día de la Independiencia (en lugar de)","type":"NF","notes":""}
 {"locale":"es-US","region":"","date":"2021-09-06","description":"Día del Trabajo","type":"NV","notes":""}
 {"locale":"es-US","region":"","date":"2021-10-11","description":"Día de Columbus","type":"NV","notes":""}
 {"locale":"es-US","region":"","date":"2021-11-11","description":"Día de los Veteranos","type":"NF","notes":""}
 {"locale":"es-US","region":"","date":"2021-11-25","description":"Día de Acción de Gracias","type":"NV","notes":""}
 {"locale":"es-US","region":"","date":"2021-11-26","description":"Día después de Acción de Gracias","type":"NV","notes":""}
-{"locale":"es-US","region":"","date":"2021-12-24","description":"Nochebuena","type":"NRF","notes":""}
+{"locale":"es-US","region":"","date":"2021-12-24","description":"Navidad (en lugar de)","type":"NRF","notes":""}
 {"locale":"es-US","region":"","date":"2021-12-25","description":"Navidad","type":"NRF","notes":""}
+{"locale":"es-US","region":"","date":"2021-12-31","description":"Año Neuvo (en lugar de)","type":"NF","notes":""}

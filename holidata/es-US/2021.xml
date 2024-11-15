@@ -51,8 +51,32 @@
   <holiday>
     <locale>es-US</locale>
     <region></region>
+    <date>2021-06-18</date>
+    <description>Juneteenth – Día de la Emancipación (en lugar de)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2021-06-19</date>
+    <description>Juneteenth – Día de la Emancipación</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
     <date>2021-07-04</date>
     <description>Día de la Independiencia</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2021-07-05</date>
+    <description>Día de la Independiencia (en lugar de)</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
@@ -100,7 +124,7 @@
     <locale>es-US</locale>
     <region></region>
     <date>2021-12-24</date>
-    <description>Nochebuena</description>
+    <description>Navidad (en lugar de)</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
@@ -110,6 +134,14 @@
     <date>2021-12-25</date>
     <description>Navidad</description>
     <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2021-12-31</date>
+    <description>Año Neuvo (en lugar de)</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
 </holidays>
