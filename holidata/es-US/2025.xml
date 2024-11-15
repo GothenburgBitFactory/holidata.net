@@ -51,6 +51,14 @@
   <holiday>
     <locale>es-US</locale>
     <region></region>
+    <date>2025-06-19</date>
+    <description>Juneteenth – Día de la Emancipación</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
     <date>2025-07-04</date>
     <description>Día de la Independiencia</description>
     <type>NF</type>

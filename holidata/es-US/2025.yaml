@@ -45,6 +45,13 @@
   holiday:
     locale: es-US
     region:
+    date: 2025-06-19
+    description: Juneteenth – Día de la Emancipación
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
     date: 2025-07-04
     description: Día de la Independiencia
     type: NF
