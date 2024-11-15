@@ -98,4 +98,11 @@
     description: Christmas Day
     type: NRF
     notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2016-12-26
+    description: Christmas Day (in lieu of)
+    type: NRF
+    notes:
 ...

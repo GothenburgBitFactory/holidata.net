@@ -112,4 +112,12 @@
     <type>NRF</type>
     <notes></notes>
   </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2016-12-26</date>
+    <description>Christmas Day (in lieu of)</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
 </holidays>
