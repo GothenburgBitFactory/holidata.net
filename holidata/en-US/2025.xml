@@ -51,6 +51,14 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
+    <date>2025-06-19</date>
+    <description>Juneteenth National Independence Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
     <date>2025-07-04</date>
     <description>Independence Day</description>
     <type>NF</type>
