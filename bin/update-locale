@@ -34,10 +34,10 @@ while [[ -n "${1}" ]] ; do
       formats+=( "${1}" )
       ;;
     --all-years)
-      while IFS='' read -r line; do years+=("$line"); done < <( seq "2011" "$( date "+%Y" )" )
+      while IFS='' read -r line; do years+=( "${line}" ); done < <( find "${LOCALE_DIR}" -regex '.*/..-../[0-9][0-9][0-9][0-9]\..*' | sed "s|${LOCALE_DIR}/..-../\(....\).*|\1|" | sort -u )
       ;;
     --all-locales)
-      while IFS=' ' read -r line ; do locales+=( "${line}" ) ; done <  <( find "${LOCALE_DIR}" -name "??-??" | sed "s|${LOCALE_DIR}/\(..-..\)|\1|" )
+      while IFS=' ' read -r line ; do locales+=( "${line}" ) ; done < <( find "${LOCALE_DIR}" -name "??-??" | sed "s|${LOCALE_DIR}/\(..-..\)|\1|" )
       ;;
     --commit)
       DO_COMMIT="yes"
