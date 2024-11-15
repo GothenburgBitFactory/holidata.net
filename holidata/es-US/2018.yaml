@@ -73,6 +73,13 @@
   holiday:
     locale: es-US
     region:
+    date: 2018-11-12
+    description: Día de los Veteranos (en lugar de)
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
     date: 2018-11-22
     description: Día de Acción de Gracias
     type: NV

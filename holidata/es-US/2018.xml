@@ -83,6 +83,14 @@
   <holiday>
     <locale>es-US</locale>
     <region></region>
+    <date>2018-11-12</date>
+    <description>Día de los Veteranos (en lugar de)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
     <date>2018-11-22</date>
     <description>Día de Acción de Gracias</description>
     <type>NV</type>
