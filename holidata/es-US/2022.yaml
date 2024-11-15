@@ -45,6 +45,20 @@
   holiday:
     locale: es-US
     region:
+    date: 2022-06-19
+    description: Juneteenth – Día de la Emancipación
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2022-06-20
+    description: Juneteenth – Día de la Emancipación (en lugar de)
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
     date: 2022-07-04
     description: Día de la Independiencia
     type: NF
@@ -96,6 +110,13 @@
     region:
     date: 2022-12-25
     description: Navidad
+    type: NRF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2022-12-26
+    description: Navidad (en lugar de)
     type: NRF
     notes:
 ...

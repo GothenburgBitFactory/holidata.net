@@ -4,6 +4,8 @@
 {"locale":"es-US","region":"MA","date":"2022-04-18","description":"Día del Patriota","type":"V","notes":""}
 {"locale":"es-US","region":"ME","date":"2022-04-18","description":"Día del Patriota","type":"V","notes":""}
 {"locale":"es-US","region":"","date":"2022-05-30","description":"Día de los Caídos","type":"NV","notes":""}
+{"locale":"es-US","region":"","date":"2022-06-19","description":"Juneteenth – Día de la Emancipación","type":"NF","notes":""}
+{"locale":"es-US","region":"","date":"2022-06-20","description":"Juneteenth – Día de la Emancipación (en lugar de)","type":"NF","notes":""}
 {"locale":"es-US","region":"","date":"2022-07-04","description":"Día de la Independiencia","type":"NF","notes":""}
 {"locale":"es-US","region":"","date":"2022-09-05","description":"Día del Trabajo","type":"NV","notes":""}
 {"locale":"es-US","region":"","date":"2022-10-10","description":"Día de Columbus","type":"NV","notes":""}
@@ -12,3 +14,4 @@
 {"locale":"es-US","region":"","date":"2022-11-25","description":"Día después de Acción de Gracias","type":"NV","notes":""}
 {"locale":"es-US","region":"","date":"2022-12-24","description":"Nochebuena","type":"NRF","notes":""}
 {"locale":"es-US","region":"","date":"2022-12-25","description":"Navidad","type":"NRF","notes":""}
+{"locale":"es-US","region":"","date":"2022-12-26","description":"Navidad (en lugar de)","type":"NRF","notes":""}

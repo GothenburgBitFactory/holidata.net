@@ -51,6 +51,22 @@
   <holiday>
     <locale>es-US</locale>
     <region></region>
+    <date>2022-06-19</date>
+    <description>Juneteenth – Día de la Emancipación</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2022-06-20</date>
+    <description>Juneteenth – Día de la Emancipación (en lugar de)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
     <date>2022-07-04</date>
     <description>Día de la Independiencia</description>
     <type>NF</type>
@@ -109,6 +125,14 @@
     <region></region>
     <date>2022-12-25</date>
     <description>Navidad</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2022-12-26</date>
+    <description>Navidad (en lugar de)</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>
