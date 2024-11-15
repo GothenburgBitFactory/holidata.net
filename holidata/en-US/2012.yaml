@@ -10,6 +10,13 @@
   holiday:
     locale: en-US
     region:
+    date: 2012-01-02
+    description: New Year's Day (in lieu of)
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
     date: 2012-01-16
     description: Birthday of Martin Luther King, Jr.
     type: NV
@@ -68,6 +75,13 @@
     region:
     date: 2012-11-11
     description: Veterans Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2012-11-12
+    description: Veterans Day (in lieu of)
     type: NF
     notes:
   holiday:

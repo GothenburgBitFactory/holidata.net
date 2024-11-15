@@ -11,6 +11,14 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
+    <date>2012-01-02</date>
+    <description>New Year's Day (in lieu of)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
     <date>2012-01-16</date>
     <description>Birthday of Martin Luther King, Jr.</description>
     <type>NV</type>
@@ -77,6 +85,14 @@
     <region></region>
     <date>2012-11-11</date>
     <description>Veterans Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2012-11-12</date>
+    <description>Veterans Day (in lieu of)</description>
     <type>NF</type>
     <notes></notes>
   </holiday>
