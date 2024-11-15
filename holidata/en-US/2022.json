@@ -4,6 +4,8 @@
 {"locale":"en-US","region":"MA","date":"2022-04-18","description":"Patriots' Day","type":"V","notes":""}
 {"locale":"en-US","region":"ME","date":"2022-04-18","description":"Patriots' Day","type":"V","notes":""}
 {"locale":"en-US","region":"","date":"2022-05-30","description":"Memorial Day","type":"NV","notes":""}
+{"locale":"en-US","region":"","date":"2022-06-19","description":"Juneteenth National Independence Day","type":"NF","notes":""}
+{"locale":"en-US","region":"","date":"2022-06-20","description":"Juneteenth National Independence Day (in lieu of)","type":"NF","notes":""}
 {"locale":"en-US","region":"","date":"2022-07-04","description":"Independence Day","type":"NF","notes":""}
 {"locale":"en-US","region":"","date":"2022-09-05","description":"Labor Day","type":"NV","notes":""}
 {"locale":"en-US","region":"","date":"2022-10-10","description":"Columbus Day","type":"NV","notes":""}
@@ -12,3 +14,4 @@
 {"locale":"en-US","region":"","date":"2022-11-25","description":"Day after Thanksgiving","type":"NV","notes":""}
 {"locale":"en-US","region":"","date":"2022-12-24","description":"Christmas Eve","type":"NRF","notes":""}
 {"locale":"en-US","region":"","date":"2022-12-25","description":"Christmas Day","type":"NRF","notes":""}
+{"locale":"en-US","region":"","date":"2022-12-26","description":"Christmas Day (in lieu of)","type":"NRF","notes":""}

@@ -51,6 +51,22 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
+    <date>2022-06-19</date>
+    <description>Juneteenth National Independence Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2022-06-20</date>
+    <description>Juneteenth National Independence Day (in lieu of)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
     <date>2022-07-04</date>
     <description>Independence Day</description>
     <type>NF</type>
@@ -109,6 +125,14 @@
     <region></region>
     <date>2022-12-25</date>
     <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2022-12-26</date>
+    <description>Christmas Day (in lieu of)</description>
     <type>NRF</type>
     <notes></notes>
   </holiday>

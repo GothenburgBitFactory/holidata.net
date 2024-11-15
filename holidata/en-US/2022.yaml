@@ -45,6 +45,20 @@
   holiday:
     locale: en-US
     region:
+    date: 2022-06-19
+    description: Juneteenth National Independence Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2022-06-20
+    description: Juneteenth National Independence Day (in lieu of)
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
     date: 2022-07-04
     description: Independence Day
     type: NF
@@ -96,6 +110,13 @@
     region:
     date: 2022-12-25
     description: Christmas Day
+    type: NRF
+    notes:
+  holiday:
+    locale: en-US
+    region:
+    date: 2022-12-26
+    description: Christmas Day (in lieu of)
     type: NRF
     notes:
 ...
