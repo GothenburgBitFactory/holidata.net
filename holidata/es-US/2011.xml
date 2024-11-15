@@ -112,4 +112,12 @@
     <type>NRF</type>
     <notes></notes>
   </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2011-12-26</date>
+    <description>Navidad (en lugar de)</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
 </holidays>
