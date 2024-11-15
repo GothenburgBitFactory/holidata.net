@@ -10,6 +10,13 @@
   holiday:
     locale: es-US
     region:
+    date: 2012-01-02
+    description: Año Neuvo (en lugar de)
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
     date: 2012-01-16
     description: Cumpleaños de Martin Luther King, Jr.
     type: NV
@@ -68,6 +75,13 @@
     region:
     date: 2012-11-11
     description: Día de los Veteranos
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2012-11-12
+    description: Día de los Veteranos (en lugar de)
     type: NF
     notes:
   holiday:
