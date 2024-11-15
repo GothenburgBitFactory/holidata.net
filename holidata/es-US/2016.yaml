@@ -98,4 +98,11 @@
     description: Navidad
     type: NRF
     notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2016-12-26
+    description: Navidad (en lugar de)
+    type: NRF
+    notes:
 ...
