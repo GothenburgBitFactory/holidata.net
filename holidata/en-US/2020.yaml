@@ -45,6 +45,13 @@
   holiday:
     locale: en-US
     region:
+    date: 2020-07-03
+    description: Independence Day (in lieu of)
+    type: NF
+    notes:
+  holiday:
+    locale: en-US
+    region:
     date: 2020-07-04
     description: Independence Day
     type: NF

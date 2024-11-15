@@ -51,6 +51,14 @@
   <holiday>
     <locale>en-US</locale>
     <region></region>
+    <date>2020-07-03</date>
+    <description>Independence Day (in lieu of)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
     <date>2020-07-04</date>
     <description>Independence Day</description>
     <type>NF</type>
