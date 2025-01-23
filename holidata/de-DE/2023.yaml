@@ -128,6 +128,13 @@
     notes:
   holiday:
     locale: de-DE
+    region: TH
+    date: 2023-06-08
+    description: Fronleichnam
+    type: RV
+    notes: In Gemeinden mit überwiegend katholischer Bevölkerung
+  holiday:
+    locale: de-DE
     region: BY
     date: 2023-08-15
     description: Mariä Himmelfahrt
@@ -139,6 +146,13 @@
     date: 2023-08-15
     description: Mariä Himmelfahrt
     type: RF
+    notes:
+  holiday:
+    locale: de-DE
+    region: TH
+    date: 2023-09-20
+    description: Weltkindertag
+    type: F
     notes:
   holiday:
     locale: de-DE
