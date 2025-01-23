@@ -135,6 +135,13 @@
     notes:
   holiday:
     locale: de-DE
+    region: TH
+    date: 2020-06-11
+    description: Fronleichnam
+    type: RV
+    notes: In Gemeinden mit überwiegend katholischer Bevölkerung
+  holiday:
+    locale: de-DE
     region: BY
     date: 2020-08-15
     description: Mariä Himmelfahrt
@@ -146,6 +153,13 @@
     date: 2020-08-15
     description: Mariä Himmelfahrt
     type: RF
+    notes:
+  holiday:
+    locale: de-DE
+    region: TH
+    date: 2020-09-20
+    description: Weltkindertag
+    type: F
     notes:
   holiday:
     locale: de-DE

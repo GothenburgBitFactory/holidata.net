@@ -154,6 +154,14 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
+    <region>TH</region>
+    <date>2020-06-11</date>
+    <description>Fronleichnam</description>
+    <type>RV</type>
+    <notes>In Gemeinden mit überwiegend katholischer Bevölkerung</notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
     <region>BY</region>
     <date>2020-08-15</date>
     <description>Mariä Himmelfahrt</description>
@@ -166,6 +174,14 @@
     <date>2020-08-15</date>
     <description>Mariä Himmelfahrt</description>
     <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>TH</region>
+    <date>2020-09-20</date>
+    <description>Weltkindertag</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
