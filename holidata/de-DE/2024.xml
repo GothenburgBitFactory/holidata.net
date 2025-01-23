@@ -146,6 +146,14 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
+    <region>TH</region>
+    <date>2024-05-30</date>
+    <description>Fronleichnam</description>
+    <type>RV</type>
+    <notes>In Gemeinden mit überwiegend katholischer Bevölkerung</notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
     <region>BY</region>
     <date>2024-08-15</date>
     <description>Mariä Himmelfahrt</description>
@@ -158,6 +166,14 @@
     <date>2024-08-15</date>
     <description>Mariä Himmelfahrt</description>
     <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
+    <region>TH</region>
+    <date>2024-09-20</date>
+    <description>Weltkindertag</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
