@@ -121,6 +121,13 @@
     notes:
   holiday:
     locale: de-DE
+    region: TH
+    date: 2016-05-26
+    description: Fronleichnam
+    type: RV
+    notes: In Gemeinden mit überwiegend katholischer Bevölkerung
+  holiday:
+    locale: de-DE
     region: BY
     date: 2016-08-15
     description: Mariä Himmelfahrt

@@ -138,6 +138,14 @@
   </holiday>
   <holiday>
     <locale>de-DE</locale>
+    <region>TH</region>
+    <date>2016-05-26</date>
+    <description>Fronleichnam</description>
+    <type>RV</type>
+    <notes>In Gemeinden mit überwiegend katholischer Bevölkerung</notes>
+  </holiday>
+  <holiday>
+    <locale>de-DE</locale>
     <region>BY</region>
     <date>2016-08-15</date>
     <description>Mariä Himmelfahrt</description>
