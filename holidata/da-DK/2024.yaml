@@ -38,13 +38,6 @@
   holiday:
     locale: da-DK
     region:
-    date: 2024-04-26
-    description: Store bededag
-    type: NRV
-    notes:
-  holiday:
-    locale: da-DK
-    region:
     date: 2024-05-09
     description: Kristi himmelfartsdag
     type: NRV
