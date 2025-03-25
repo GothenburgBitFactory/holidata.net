@@ -4,7 +4,7 @@ date: 2025-01-23T01:00:00+02:00
 layout: "news_item"
 ---
 
-The locale for the Germany (`de-DE`) has been updated to include new holiday data.
+The locale for Germany (`de-DE`) has been updated to include new holiday data.
 <!--more-->
 Region Thuringia got two missing holidays.
 
