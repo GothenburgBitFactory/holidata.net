@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-01-01</date>
+    <description>Año Nuevo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-01-12</date>
+    <description>Día de los Reyes Magos</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-03-23</date>
+    <description>Día de San José</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-04-02</date>
+    <description>Jueves Santo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-04-03</date>
+    <description>Viernes Santo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-04-05</date>
+    <description>Domingo de Pascua</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-05-01</date>
+    <description>Día del Trabajo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-05-18</date>
+    <description>La Ascensión del Señor</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-06-08</date>
+    <description>Corpus Christi</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-06-15</date>
+    <description>El Sagrado Corazón de Jesús</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-06-29</date>
+    <description>San Pedro y San Pablo</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-07-20</date>
+    <description>Grito de Independencia</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-08-07</date>
+    <description>Batalla de Boyacá</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-08-17</date>
+    <description>Asunción de la Virgen</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-10-12</date>
+    <description>Día de la Raza</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-11-02</date>
+    <description>Todos los Santos</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-11-16</date>
+    <description>Independencia de Cartagena</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-12-08</date>
+    <description>Inmaculada Concepción</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-CO</locale>
+    <region></region>
+    <date>2026-12-25</date>
+    <description>Navidad</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

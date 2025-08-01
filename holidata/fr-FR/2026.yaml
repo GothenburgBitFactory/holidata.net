@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-01-01
+    description: Jour de l'an
+    type: NF
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-04-06
+    description: Lundi de Pâques
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-05-01
+    description: Fête du premier mai
+    type: NF
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-05-08
+    description: Armistice 1945
+    type: NF
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-05-14
+    description: Ascension
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-05-24
+    description: Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-05-25
+    description: Lundi de Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-07-14
+    description: Fête nationale
+    type: NF
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-08-15
+    description: Assomption
+    type: NRF
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-11-01
+    description: Toussaint
+    type: NRF
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-11-11
+    description: Armistice 1918
+    type: NF
+    notes:
+  holiday:
+    locale: fr-FR
+    region:
+    date: 2026-12-25
+    description: Noël
+    type: NF
+    notes:
+...

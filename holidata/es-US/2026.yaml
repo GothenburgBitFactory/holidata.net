@@ -1,0 +1,115 @@
+%YAML 1.1
+---
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-01-01
+    description: Año Neuvo
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-01-19
+    description: Cumpleaños de Martin Luther King, Jr.
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-02-16
+    description: Día del Presidente
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region: MA
+    date: 2026-04-20
+    description: Día del Patriota
+    type: V
+    notes:
+  holiday:
+    locale: es-US
+    region: ME
+    date: 2026-04-20
+    description: Día del Patriota
+    type: V
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-05-25
+    description: Día de los Caídos
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-06-19
+    description: Juneteenth – Día de la Emancipación
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-07-03
+    description: Día de la Independiencia (en lugar de)
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-07-04
+    description: Día de la Independiencia
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-09-07
+    description: Día del Trabajo
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-10-12
+    description: Día de Columbus
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-11-11
+    description: Día de los Veteranos
+    type: NF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-11-26
+    description: Día de Acción de Gracias
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-11-27
+    description: Día después de Acción de Gracias
+    type: NV
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-12-24
+    description: Nochebuena
+    type: NRF
+    notes:
+  holiday:
+    locale: es-US
+    region:
+    date: 2026-12-25
+    description: Navidad
+    type: NRF
+    notes:
+...

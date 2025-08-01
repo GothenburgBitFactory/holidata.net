@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-01-01</date>
+    <description>Año Neuvo</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-01-19</date>
+    <description>Cumpleaños de Martin Luther King, Jr.</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-02-16</date>
+    <description>Día del Presidente</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region>MA</region>
+    <date>2026-04-20</date>
+    <description>Día del Patriota</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region>ME</region>
+    <date>2026-04-20</date>
+    <description>Día del Patriota</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-05-25</date>
+    <description>Día de los Caídos</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-06-19</date>
+    <description>Juneteenth – Día de la Emancipación</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-07-03</date>
+    <description>Día de la Independiencia (en lugar de)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-07-04</date>
+    <description>Día de la Independiencia</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-09-07</date>
+    <description>Día del Trabajo</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-10-12</date>
+    <description>Día de Columbus</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-11-11</date>
+    <description>Día de los Veteranos</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-11-26</date>
+    <description>Día de Acción de Gracias</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-11-27</date>
+    <description>Día después de Acción de Gracias</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-12-24</date>
+    <description>Nochebuena</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-US</locale>
+    <region></region>
+    <date>2026-12-25</date>
+    <description>Navidad</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

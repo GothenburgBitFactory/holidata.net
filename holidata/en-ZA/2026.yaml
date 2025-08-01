@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-01-01
+    description: New Year's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-03-21
+    description: Human Rights Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-04-03
+    description: Good Friday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-04-06
+    description: Family Day
+    type: NRV
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-04-27
+    description: Freedom Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-05-01
+    description: Worker's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-06-16
+    description: Youth Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-08-09
+    description: National Women's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-08-10
+    description: National Women's Day (Supplement)
+    type: NF
+    notes: Supplement holiday
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-09-24
+    description: Heritage Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-12-16
+    description: Day of Reconciliation
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-12-25
+    description: Christmas Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-ZA
+    region:
+    date: 2026-12-26
+    description: Day of Goodwill
+    type: NF
+    notes:
+...

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-01-01</date>
+    <description>Nouvel An</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-04-05</date>
+    <description>Pâques</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-04-06</date>
+    <description>Lundi de Pâques</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-05-01</date>
+    <description>Fête du Travail</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-05-14</date>
+    <description>Ascension</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-05-24</date>
+    <description>Pentecôte</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-05-25</date>
+    <description>Lundi de Pentecôte</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-07-21</date>
+    <description>Fête nationale</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-08-15</date>
+    <description>Assomption</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-11-01</date>
+    <description>Toussaint</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-11-11</date>
+    <description>Jour de l'armistice</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-BE</locale>
+    <region></region>
+    <date>2026-12-25</date>
+    <description>Noël</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
