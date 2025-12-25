@@ -121,6 +121,13 @@
     notes:
   holiday:
     locale: en-AU
+    region: WA
+    date: 2020-03-02
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
     region: SA
     date: 2020-03-09
     description: Adelaide Cup Day
@@ -409,13 +416,6 @@
   holiday:
     locale: en-AU
     region: QLD
-    date: 2020-05-04
-    description: Labour Day
-    type: V
-    notes:
-  holiday:
-    locale: en-AU
-    region: WA
     date: 2020-05-04
     description: Labour Day
     type: V
