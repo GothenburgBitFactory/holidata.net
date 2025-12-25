@@ -11,6 +11,14 @@
   <holiday>
     <locale>hu-HU</locale>
     <region></region>
+    <date>2026-01-02</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2026-01-10 munkanap</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
     <date>2026-03-15</date>
     <description>Az 1848-as forradalom ünnepe</description>
     <type>NF</type>
@@ -75,6 +83,14 @@
   <holiday>
     <locale>hu-HU</locale>
     <region></region>
+    <date>2026-08-21</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2026-08-08 munkanap</notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
     <date>2026-10-23</date>
     <description>Az 1956-os forradalom ünnepe</description>
     <type>NF</type>
@@ -87,6 +103,14 @@
     <description>Mindenszentek</description>
     <type>NRF</type>
     <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>hu-HU</locale>
+    <region></region>
+    <date>2026-12-24</date>
+    <description>Munkaszüneti nap</description>
+    <type>NF</type>
+    <notes>2026-12-12 munkanap</notes>
   </holiday>
   <holiday>
     <locale>hu-HU</locale>

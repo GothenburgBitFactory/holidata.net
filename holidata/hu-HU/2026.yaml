@@ -10,6 +10,13 @@
   holiday:
     locale: hu-HU
     region:
+    date: 2026-01-02
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2026-01-10 munkanap
+  holiday:
+    locale: hu-HU
+    region:
     date: 2026-03-15
     description: Az 1848-as forradalom ünnepe
     type: NF
@@ -66,6 +73,13 @@
   holiday:
     locale: hu-HU
     region:
+    date: 2026-08-21
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2026-08-08 munkanap
+  holiday:
+    locale: hu-HU
+    region:
     date: 2026-10-23
     description: Az 1956-os forradalom ünnepe
     type: NF
@@ -77,6 +91,13 @@
     description: Mindenszentek
     type: NRF
     notes:
+  holiday:
+    locale: hu-HU
+    region:
+    date: 2026-12-24
+    description: Munkaszüneti nap
+    type: NF
+    notes: 2026-12-12 munkanap
   holiday:
     locale: hu-HU
     region:
