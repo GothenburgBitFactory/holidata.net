@@ -59,6 +59,14 @@
   <holiday>
     <locale>it-IT</locale>
     <region></region>
+    <date>2016-06-29</date>
+    <description>Santi Apostoli Pietro e Paolo</description>
+    <type>NRF</type>
+    <notes>Solo per il comune di Roma</notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
     <date>2016-08-15</date>
     <description>Assunzione (ferragosto)</description>
     <type>NRF</type>
@@ -70,6 +78,14 @@
     <date>2016-11-01</date>
     <description>Ognissanti</description>
     <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>it-IT</locale>
+    <region></region>
+    <date>2016-11-06</date>
+    <description>Unità nazionale</description>
+    <type>NF</type>
     <notes></notes>
   </holiday>
   <holiday>
