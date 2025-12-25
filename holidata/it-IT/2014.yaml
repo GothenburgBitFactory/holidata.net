@@ -52,6 +52,13 @@
   holiday:
     locale: it-IT
     region:
+    date: 2014-06-29
+    description: Santi Apostoli Pietro e Paolo
+    type: NRF
+    notes: Solo per il comune di Roma
+  holiday:
+    locale: it-IT
+    region:
     date: 2014-08-15
     description: Assunzione (ferragosto)
     type: NRF
@@ -62,6 +69,13 @@
     date: 2014-11-01
     description: Ognissanti
     type: NRF
+    notes:
+  holiday:
+    locale: it-IT
+    region:
+    date: 2014-11-02
+    description: Unità nazionale
+    type: NF
     notes:
   holiday:
     locale: it-IT
