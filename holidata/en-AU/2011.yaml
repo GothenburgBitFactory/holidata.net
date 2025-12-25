@@ -170,6 +170,13 @@
     notes:
   holiday:
     locale: en-AU
+    region: WA
+    date: 2011-03-07
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
     region: SA
     date: 2011-03-14
     description: Adelaide Cup Day
@@ -440,13 +447,6 @@
     date: 2011-05-01
     description: Labour Day
     type: F
-    notes:
-  holiday:
-    locale: en-AU
-    region: WA
-    date: 2011-05-02
-    description: Labour Day
-    type: V
     notes:
   holiday:
     locale: en-AU

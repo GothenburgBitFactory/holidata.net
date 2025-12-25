@@ -22,6 +22,7 @@
 {"locale":"en-AU","region":"VIC","date":"2011-01-26","description":"Australia Day","type":"V","notes":""}
 {"locale":"en-AU","region":"WA","date":"2011-01-26","description":"Australia Day","type":"V","notes":""}
 {"locale":"en-AU","region":"TAS","date":"2011-02-14","description":"Royal Hobart Regatta","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2011-03-07","description":"Labour Day","type":"V","notes":""}
 {"locale":"en-AU","region":"SA","date":"2011-03-14","description":"Adelaide Cup Day","type":"V","notes":""}
 {"locale":"en-AU","region":"ACT","date":"2011-03-14","description":"Canberra Day","type":"V","notes":""}
 {"locale":"en-AU","region":"TAS","date":"2011-03-14","description":"Labour Day","type":"V","notes":""}
@@ -61,7 +62,6 @@
 {"locale":"en-AU","region":"VIC","date":"2011-04-25","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-AU","region":"WA","date":"2011-04-25","description":"Easter Monday","type":"RV","notes":""}
 {"locale":"en-AU","region":"QLD","date":"2011-05-01","description":"Labour Day","type":"F","notes":""}
-{"locale":"en-AU","region":"WA","date":"2011-05-02","description":"Labour Day","type":"V","notes":""}
 {"locale":"en-AU","region":"NT","date":"2011-05-02","description":"May Day","type":"V","notes":""}
 {"locale":"en-AU","region":"ACT","date":"2011-05-30","description":"Reconciliation Day","type":"V","notes":""}
 {"locale":"en-AU","region":"WA","date":"2011-06-06","description":"Western Australia Day","type":"V","notes":""}
