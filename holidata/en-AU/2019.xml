@@ -138,6 +138,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2019-03-04</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region>SA</region>
     <date>2019-03-11</date>
     <description>Adelaide Cup Day</description>
@@ -459,14 +467,6 @@
   <holiday>
     <locale>en-AU</locale>
     <region>QLD</region>
-    <date>2019-05-06</date>
-    <description>Labour Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
-    <region>WA</region>
     <date>2019-05-06</date>
     <description>Labour Day</description>
     <type>V</type>

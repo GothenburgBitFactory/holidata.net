@@ -15,6 +15,7 @@
 {"locale":"en-AU","region":"VIC","date":"2019-01-26","description":"Australia Day","type":"V","notes":""}
 {"locale":"en-AU","region":"WA","date":"2019-01-26","description":"Australia Day","type":"V","notes":""}
 {"locale":"en-AU","region":"TAS","date":"2019-02-11","description":"Royal Hobart Regatta","type":"V","notes":""}
+{"locale":"en-AU","region":"WA","date":"2019-03-04","description":"Labour Day","type":"V","notes":""}
 {"locale":"en-AU","region":"SA","date":"2019-03-11","description":"Adelaide Cup Day","type":"V","notes":""}
 {"locale":"en-AU","region":"ACT","date":"2019-03-11","description":"Canberra Day","type":"V","notes":""}
 {"locale":"en-AU","region":"TAS","date":"2019-03-11","description":"Labour Day","type":"V","notes":""}
@@ -56,7 +57,6 @@
 {"locale":"en-AU","region":"VIC","date":"2019-04-25","description":"Anzac Day","type":"F","notes":""}
 {"locale":"en-AU","region":"WA","date":"2019-04-25","description":"Anzac Day","type":"F","notes":""}
 {"locale":"en-AU","region":"QLD","date":"2019-05-06","description":"Labour Day","type":"V","notes":""}
-{"locale":"en-AU","region":"WA","date":"2019-05-06","description":"Labour Day","type":"V","notes":""}
 {"locale":"en-AU","region":"NT","date":"2019-05-06","description":"May Day","type":"V","notes":""}
 {"locale":"en-AU","region":"ACT","date":"2019-05-27","description":"Reconciliation Day","type":"V","notes":""}
 {"locale":"en-AU","region":"WA","date":"2019-06-03","description":"Western Australia Day","type":"V","notes":""}
