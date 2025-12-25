@@ -202,6 +202,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2022-03-07</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region>SA</region>
     <date>2022-03-14</date>
     <description>Adelaide Cup Day</description>
@@ -531,14 +539,6 @@
   <holiday>
     <locale>en-AU</locale>
     <region>QLD</region>
-    <date>2022-05-02</date>
-    <description>Labour Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
-    <region>WA</region>
     <date>2022-05-02</date>
     <description>Labour Day</description>
     <type>V</type>
