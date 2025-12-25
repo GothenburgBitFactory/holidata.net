@@ -138,6 +138,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2025-03-03</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region>SA</region>
     <date>2025-03-10</date>
     <description>Adelaide Cup Day</description>
@@ -467,14 +475,6 @@
   <holiday>
     <locale>en-AU</locale>
     <region>QLD</region>
-    <date>2025-05-05</date>
-    <description>Labour Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
-    <region>WA</region>
     <date>2025-05-05</date>
     <description>Labour Day</description>
     <type>V</type>
