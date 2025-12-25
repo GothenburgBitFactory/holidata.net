@@ -52,8 +52,22 @@
   holiday:
     locale: it-IT
     region:
+    date: 2026-06-29
+    description: Santi Apostoli Pietro e Paolo
+    type: NRF
+    notes: Solo per il comune di Roma
+  holiday:
+    locale: it-IT
+    region:
     date: 2026-08-15
     description: Assunzione (ferragosto)
+    type: NRF
+    notes:
+  holiday:
+    locale: it-IT
+    region:
+    date: 2026-10-04
+    description: Festa nazionale di San Francesco d'Assisi, patrono d'Italia
     type: NRF
     notes:
   holiday:
@@ -62,6 +76,13 @@
     date: 2026-11-01
     description: Ognissanti
     type: NRF
+    notes:
+  holiday:
+    locale: it-IT
+    region:
+    date: 2026-11-01
+    description: Unità nazionale
+    type: NF
     notes:
   holiday:
     locale: it-IT
