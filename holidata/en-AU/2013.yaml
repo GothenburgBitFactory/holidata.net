@@ -121,6 +121,13 @@
     notes:
   holiday:
     locale: en-AU
+    region: WA
+    date: 2013-03-04
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
     region: SA
     date: 2013-03-11
     description: Adelaide Cup Day
@@ -384,13 +391,6 @@
     date: 2013-04-25
     description: Anzac Day
     type: F
-    notes:
-  holiday:
-    locale: en-AU
-    region: WA
-    date: 2013-05-06
-    description: Labour Day
-    type: V
     notes:
   holiday:
     locale: en-AU
