@@ -138,6 +138,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2015-03-02</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region>SA</region>
     <date>2015-03-09</date>
     <description>Adelaide Cup Day</description>
@@ -446,14 +454,6 @@
     <date>2015-04-27</date>
     <description>Anzac Day (supplement)</description>
     <type>F</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
-    <region>WA</region>
-    <date>2015-05-04</date>
-    <description>Labour Day</description>
-    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
