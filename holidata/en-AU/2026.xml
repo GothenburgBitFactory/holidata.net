@@ -138,6 +138,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>WA</region>
+    <date>2026-03-02</date>
+    <description>Labour Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region>ACT</region>
     <date>2026-03-09</date>
     <description>Canberra Day</description>
@@ -467,14 +475,6 @@
   <holiday>
     <locale>en-AU</locale>
     <region>QLD</region>
-    <date>2026-05-04</date>
-    <description>Labour Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
-    <region>WA</region>
     <date>2026-05-04</date>
     <description>Labour Day</description>
     <type>V</type>
