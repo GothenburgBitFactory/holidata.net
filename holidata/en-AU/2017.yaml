@@ -177,6 +177,13 @@
     notes:
   holiday:
     locale: en-AU
+    region: WA
+    date: 2017-03-06
+    description: Labour Day
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
     region: SA
     date: 2017-03-13
     description: Adelaide Cup Day
@@ -451,13 +458,6 @@
   holiday:
     locale: en-AU
     region: QLD
-    date: 2017-05-01
-    description: Labour Day
-    type: V
-    notes:
-  holiday:
-    locale: en-AU
-    region: WA
     date: 2017-05-01
     description: Labour Day
     type: V
