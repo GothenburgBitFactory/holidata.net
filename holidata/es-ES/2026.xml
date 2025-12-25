@@ -26,6 +26,70 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2026-03-01</date>
+    <description>Día de las Illes Balears</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
+    <date>2026-03-02</date>
+    <description>Lunes siguiente al Día de las Illes Balears</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2026-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2026-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2026-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2026-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2026-03-19</date>
+    <description>San José</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2026-03-20</date>
+    <description>Fiesta del Eid Fitr</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>AN</region>
     <date>2026-04-02</date>
     <description>Jueves Santo</description>
@@ -43,6 +107,14 @@
   <holiday>
     <locale>es-ES</locale>
     <region>AS</region>
+    <date>2026-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
     <date>2026-04-02</date>
     <description>Jueves Santo</description>
     <type>RV</type>
@@ -146,6 +218,14 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2026-04-02</date>
+    <description>Jueves Santo</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region></region>
     <date>2026-04-03</date>
     <description>Viernes Santo</description>
@@ -158,6 +238,14 @@
     <date>2026-04-05</date>
     <description>Pascua</description>
     <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2026-04-06</date>
+    <description>Lunes de Pascua</description>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -250,6 +338,22 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2026-05-27</date>
+    <description>Fiesta del Sacrificio (Aid Al Adha)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2026-05-27</date>
+    <description>Fiesta del Sacrificio (Eidul Adha)</description>
+    <type>RV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>CN</region>
     <date>2026-05-30</date>
     <description>Día de Canarias</description>
@@ -262,6 +366,14 @@
     <date>2026-05-31</date>
     <description>Día de Castilla-La Mancha</description>
     <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2026-06-04</date>
+    <description>Corpus Christi</description>
+    <type>RV</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -282,9 +394,57 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>CT</region>
+    <date>2026-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>GA</region>
+    <date>2026-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>VC</region>
+    <date>2026-06-24</date>
+    <description>San Juan</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>GA</region>
     <date>2026-07-25</date>
     <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>PV</region>
+    <date>2026-07-25</date>
+    <description>Santiago Apóstol / Día Nacional de Galicia</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2026-07-28</date>
+    <description>Día de las Instituciones de Cantabria</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2026-08-05</date>
+    <description>Nuestra Señora de África</description>
     <type>RF</type>
     <notes></notes>
   </holiday>
@@ -294,6 +454,14 @@
     <date>2026-08-15</date>
     <description>Asunción de la Virgen</description>
     <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CE</region>
+    <date>2026-09-02</date>
+    <description>Día de Ceuta</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -322,6 +490,14 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2026-09-15</date>
+    <description>La Bien Aparecida</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region>VC</region>
     <date>2026-10-09</date>
     <description>Día de la Comunitat Valenciana</description>
@@ -346,10 +522,162 @@
   </holiday>
   <holiday>
     <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CM</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CN</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>NC</region>
+    <date>2026-11-02</date>
+    <description>Lunes siguiente a Todos los Santos</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
     <region></region>
     <date>2026-12-06</date>
     <description>Día de la Constitución Española</description>
     <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AN</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AR</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>AS</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CB</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>CL</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>EX</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MC</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>MD</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>ML</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>RI</region>
+    <date>2026-12-07</date>
+    <description>Lunes siguiente al Día de la Constitución Española</description>
+    <type>F</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -371,6 +699,14 @@
   <holiday>
     <locale>es-ES</locale>
     <region>CT</region>
+    <date>2026-12-26</date>
+    <description>San Esteban</description>
+    <type>RF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>es-ES</locale>
+    <region>IB</region>
     <date>2026-12-26</date>
     <description>San Esteban</description>
     <type>RF</type>
