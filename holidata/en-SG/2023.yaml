@@ -1,0 +1,108 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-01-01
+    description: New Year's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-01-02
+    description: New Year's Day (in lieu)
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-01-22
+    description: Chinese New Year
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-01-23
+    description: Chinese New Year (Second Day)
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-01-24
+    description: Chinese New Year (in lieu)
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-04-07
+    description: Good Friday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-04-22
+    description: Hari Raya Puasa
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-05-01
+    description: Labour Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-06-02
+    description: Vesak Day
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-06-29
+    description: Hari Raya Haji
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-08-09
+    description: National Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-09-01
+    description: Presidential Election
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-11-12
+    description: Deepavali
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-11-13
+    description: Deepavali (in lieu)
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2023-12-25
+    description: Christmas Day
+    type: NRF
+    notes:
+...

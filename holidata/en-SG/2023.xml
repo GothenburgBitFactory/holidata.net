@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-01-02</date>
+    <description>New Year's Day (in lieu)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-01-22</date>
+    <description>Chinese New Year</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-01-23</date>
+    <description>Chinese New Year (Second Day)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-01-24</date>
+    <description>Chinese New Year (in lieu)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-04-07</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-04-22</date>
+    <description>Hari Raya Puasa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-05-01</date>
+    <description>Labour Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-06-02</date>
+    <description>Vesak Day</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-06-29</date>
+    <description>Hari Raya Haji</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-08-09</date>
+    <description>National Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-09-01</date>
+    <description>Presidential Election</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-11-12</date>
+    <description>Deepavali</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-11-13</date>
+    <description>Deepavali (in lieu)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2023-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
