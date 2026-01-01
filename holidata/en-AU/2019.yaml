@@ -59,56 +59,56 @@
   holiday:
     locale: en-AU
     region: ACT
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
   holiday:
     locale: en-AU
     region: NSW
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
   holiday:
     locale: en-AU
     region: NT
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
   holiday:
     locale: en-AU
     region: QLD
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
   holiday:
     locale: en-AU
     region: SA
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
   holiday:
     locale: en-AU
     region: TAS
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
   holiday:
     locale: en-AU
     region: VIC
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
   holiday:
     locale: en-AU
     region: WA
-    date: 2019-01-26
+    date: 2019-01-28
     description: Australia Day
     type: V
     notes:
