@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-02-05</date>
+    <description>Chinese New Year</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-02-06</date>
+    <description>Chinese New Year (Second Day)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-04-19</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-05-01</date>
+    <description>Labour Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-05-19</date>
+    <description>Vesak Day</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-05-20</date>
+    <description>Vesak Day (in lieu)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-06-05</date>
+    <description>Hari Raya Puasa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-08-09</date>
+    <description>National Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-08-11</date>
+    <description>Hari Raya Haji</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-08-12</date>
+    <description>Hari Raya Haji (in lieu)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-10-27</date>
+    <description>Deepavali</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-10-28</date>
+    <description>Deepavali (in lieu)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2019-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
