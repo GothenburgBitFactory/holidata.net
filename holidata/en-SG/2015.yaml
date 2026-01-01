@@ -1,0 +1,101 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-01-01
+    description: New Year's Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-02-19
+    description: Chinese New Year
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-02-20
+    description: Chinese New Year (Second Day)
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-04-03
+    description: Good Friday
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-05-01
+    description: Labour Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-06-01
+    description: Vesak Day
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-07-17
+    description: Hari Raya Puasa
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-08-07
+    description: SG50 Public Holiday
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-08-09
+    description: National Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-08-10
+    description: National Day (in lieu)
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-09-11
+    description: General Election
+    type: NF
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-09-24
+    description: Hari Raya Haji
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-11-10
+    description: Deepavali
+    type: NRV
+    notes:
+  holiday:
+    locale: en-SG
+    region:
+    date: 2015-12-25
+    description: Christmas Day
+    type: NRF
+    notes:
+...
