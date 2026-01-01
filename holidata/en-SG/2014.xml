@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-01-31</date>
+    <description>Chinese New Year</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-02-01</date>
+    <description>Chinese New Year (Second Day)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-04-18</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-05-01</date>
+    <description>Labour Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-05-13</date>
+    <description>Vesak Day</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-07-28</date>
+    <description>Hari Raya Puasa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-08-09</date>
+    <description>National Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-10-05</date>
+    <description>Hari Raya Haji</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-10-06</date>
+    <description>Hari Raya Haji (in lieu)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-10-22</date>
+    <description>Deepavali</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2014-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
