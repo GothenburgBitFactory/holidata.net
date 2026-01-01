@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-01-29</date>
+    <description>Chinese New Year</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-01-30</date>
+    <description>Chinese New Year (Second Day)</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-03-31</date>
+    <description>Hari Raya Puasa</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-04-18</date>
+    <description>Good Friday</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-05-01</date>
+    <description>Labour Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-05-03</date>
+    <description>General Election</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-05-12</date>
+    <description>Vesak Day</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-06-07</date>
+    <description>Hari Raya Haji</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-08-09</date>
+    <description>National Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-10-20</date>
+    <description>Deepavali</description>
+    <type>NRV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-SG</locale>
+    <region></region>
+    <date>2025-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
