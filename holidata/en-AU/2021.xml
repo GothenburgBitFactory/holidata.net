@@ -402,34 +402,10 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
-    <region>ACT</region>
-    <date>2021-04-25</date>
-    <description>Anzac Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
     <region>NSW</region>
     <date>2021-04-25</date>
     <description>Anzac Day</description>
     <type>F</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
-    <region>NT</region>
-    <date>2021-04-25</date>
-    <description>Anzac Day</description>
-    <type>V</type>
-    <notes></notes>
-  </holiday>
-  <holiday>
-    <locale>en-AU</locale>
-    <region>QLD</region>
-    <date>2021-04-25</date>
-    <description>Anzac Day</description>
-    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
@@ -462,6 +438,30 @@
     <date>2021-04-25</date>
     <description>Anzac Day</description>
     <type>F</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>ACT</region>
+    <date>2021-04-26</date>
+    <description>Anzac Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>NT</region>
+    <date>2021-04-26</date>
+    <description>Anzac Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
+    <region>QLD</region>
+    <date>2021-04-26</date>
+    <description>Anzac Day</description>
+    <type>V</type>
     <notes></notes>
   </holiday>
   <holiday>
