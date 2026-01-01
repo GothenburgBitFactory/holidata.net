@@ -67,7 +67,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>ACT</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
@@ -75,7 +75,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>NSW</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
@@ -83,7 +83,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>NT</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
@@ -91,7 +91,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>QLD</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
@@ -99,7 +99,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>SA</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
@@ -107,7 +107,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>TAS</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
@@ -115,7 +115,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>VIC</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
@@ -123,7 +123,7 @@
   <holiday>
     <locale>en-AU</locale>
     <region>WA</region>
-    <date>2014-01-26</date>
+    <date>2014-01-27</date>
     <description>Australia Day</description>
     <type>V</type>
     <notes></notes>
