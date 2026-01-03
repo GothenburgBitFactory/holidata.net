@@ -91,6 +91,14 @@
   <holiday>
     <locale>pl-PL</locale>
     <region></region>
+    <date>2026-12-24</date>
+    <description>Wigilia</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>pl-PL</locale>
+    <region></region>
     <date>2026-12-25</date>
     <description>Boże Narodzenie (pierwszy dzień)</description>
     <type>NRF</type>

@@ -80,6 +80,13 @@
   holiday:
     locale: pl-PL
     region:
+    date: 2026-12-24
+    description: Wigilia
+    type: NRF
+    notes:
+  holiday:
+    locale: pl-PL
+    region:
     date: 2026-12-25
     description: Boże Narodzenie (pierwszy dzień)
     type: NRF
