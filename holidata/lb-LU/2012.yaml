@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-01-01
+    description: Neijoerschdag
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-04-08
+    description: Ouschteren
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-04-09
+    description: Ouschterméindeg
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-05-01
+    description: Éischte Mee
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-05-17
+    description: Christi Himmelfaart
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-05-27
+    description: Péngschten
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-05-28
+    description: Péngschtméindeg
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-06-23
+    description: Nationalfeierdag
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-08-15
+    description: Léiffrawëschdag
+    type: NRF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-11-01
+    description: Allerhellegen
+    type: NRF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-12-25
+    description: Chrëschtdag
+    type: NRF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2012-12-26
+    description: Stiefesdag
+    type: NRF
+    notes:
+...
