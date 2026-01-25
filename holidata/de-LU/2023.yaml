@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-01-01
+    description: Neujahr
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-04-09
+    description: Ostern
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-04-10
+    description: Ostermontag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-05-01
+    description: 1. Mai
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-05-09
+    description: Europatag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-05-18
+    description: Christi Himmelfahrt
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-05-28
+    description: Pfingsten
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-05-29
+    description: Pfingstmontag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-06-23
+    description: Nationalfeiertag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-08-15
+    description: Mariä Himmelfahrt
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-11-01
+    description: Allerheiligen
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-12-25
+    description: Weihnachten
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2023-12-26
+    description: 2. Weihnachtsfeiertag
+    type: NRF
+    notes:
+...
