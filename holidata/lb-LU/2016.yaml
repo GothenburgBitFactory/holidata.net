@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-01-01
+    description: Neijoerschdag
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-03-27
+    description: Ouschteren
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-03-28
+    description: Ouschterméindeg
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-05-01
+    description: Éischte Mee
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-05-05
+    description: Christi Himmelfaart
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-05-15
+    description: Péngschten
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-05-16
+    description: Péngschtméindeg
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-06-23
+    description: Nationalfeierdag
+    type: NF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-08-15
+    description: Léiffrawëschdag
+    type: NRF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-11-01
+    description: Allerhellegen
+    type: NRF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-12-25
+    description: Chrëschtdag
+    type: NRF
+    notes:
+  holiday:
+    locale: lb-LU
+    region:
+    date: 2016-12-26
+    description: Stiefesdag
+    type: NRF
+    notes:
+...
