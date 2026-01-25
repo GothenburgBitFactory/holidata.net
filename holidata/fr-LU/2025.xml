@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-01-01</date>
+    <description>Nouvel An</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-04-20</date>
+    <description>Pâques</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-04-21</date>
+    <description>Lundi de Pâques</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-05-01</date>
+    <description>Premier Mai</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-05-09</date>
+    <description>Journée de l'Europe</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-05-29</date>
+    <description>Ascension</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-06-08</date>
+    <description>Pentecôte</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-06-09</date>
+    <description>Lundi de Pentecôte</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-06-23</date>
+    <description>Fête nationale</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-08-15</date>
+    <description>Assomption</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-11-01</date>
+    <description>Toussaint</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-12-25</date>
+    <description>Noël</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2025-12-26</date>
+    <description>Saint Étienne</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
