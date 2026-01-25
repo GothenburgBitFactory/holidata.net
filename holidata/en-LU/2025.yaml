@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-01-01
+    description: New Year
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-04-20
+    description: Easter
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-04-21
+    description: Easter Monday
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-05-01
+    description: Mayday
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-05-09
+    description: Europe Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-05-29
+    description: Ascension Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-06-08
+    description: Pentecost
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-06-09
+    description: Whit Monday
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-06-23
+    description: National Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-08-15
+    description: Assumption
+    type: NRF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-11-01
+    description: All Saints
+    type: NRF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-12-25
+    description: Christmas
+    type: NRF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2025-12-26
+    description: Boxing Day
+    type: NRF
+    notes:
+...
