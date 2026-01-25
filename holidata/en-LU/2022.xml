@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-01-01</date>
+    <description>New Year</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-04-17</date>
+    <description>Easter</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-04-18</date>
+    <description>Easter Monday</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-05-01</date>
+    <description>Mayday</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-05-09</date>
+    <description>Europe Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-05-26</date>
+    <description>Ascension Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-06-05</date>
+    <description>Pentecost</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-06-06</date>
+    <description>Whit Monday</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-06-23</date>
+    <description>National Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-08-15</date>
+    <description>Assumption</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-11-01</date>
+    <description>All Saints</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-12-25</date>
+    <description>Christmas</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-LU</locale>
+    <region></region>
+    <date>2022-12-26</date>
+    <description>Boxing Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

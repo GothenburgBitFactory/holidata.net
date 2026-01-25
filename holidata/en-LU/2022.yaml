@@ -1,0 +1,94 @@
+%YAML 1.1
+---
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-01-01
+    description: New Year
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-04-17
+    description: Easter
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-04-18
+    description: Easter Monday
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-05-01
+    description: Mayday
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-05-09
+    description: Europe Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-05-26
+    description: Ascension Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-06-05
+    description: Pentecost
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-06-06
+    description: Whit Monday
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-06-23
+    description: National Day
+    type: NF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-08-15
+    description: Assumption
+    type: NRF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-11-01
+    description: All Saints
+    type: NRF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-12-25
+    description: Christmas
+    type: NRF
+    notes:
+  holiday:
+    locale: en-LU
+    region:
+    date: 2022-12-26
+    description: Boxing Day
+    type: NRF
+    notes:
+...
