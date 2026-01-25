@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-01-01
+    description: Neujahr
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-04-24
+    description: Ostern
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-04-25
+    description: Ostermontag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-05-01
+    description: 1. Mai
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-06-02
+    description: Christi Himmelfahrt
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-06-12
+    description: Pfingsten
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-06-13
+    description: Pfingstmontag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-06-23
+    description: Nationalfeiertag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-08-15
+    description: Mariä Himmelfahrt
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-11-01
+    description: Allerheiligen
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-12-25
+    description: Weihnachten
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2011-12-26
+    description: 2. Weihnachtsfeiertag
+    type: NRF
+    notes:
+...
