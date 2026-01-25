@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-01-01
+    description: Neujahr
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-04-16
+    description: Ostern
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-04-17
+    description: Ostermontag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-05-01
+    description: 1. Mai
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-05-25
+    description: Christi Himmelfahrt
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-06-04
+    description: Pfingsten
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-06-05
+    description: Pfingstmontag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-06-23
+    description: Nationalfeiertag
+    type: NF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-08-15
+    description: Mariä Himmelfahrt
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-11-01
+    description: Allerheiligen
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-12-25
+    description: Weihnachten
+    type: NRF
+    notes:
+  holiday:
+    locale: de-LU
+    region:
+    date: 2017-12-26
+    description: 2. Weihnachtsfeiertag
+    type: NRF
+    notes:
+...
