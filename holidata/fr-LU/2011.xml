@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-01-01</date>
+    <description>Nouvel An</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-04-24</date>
+    <description>Pâques</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-04-25</date>
+    <description>Lundi de Pâques</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-05-01</date>
+    <description>Premier Mai</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-06-02</date>
+    <description>Ascension</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-06-12</date>
+    <description>Pentecôte</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-06-13</date>
+    <description>Lundi de Pentecôte</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-06-23</date>
+    <description>Fête nationale</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-08-15</date>
+    <description>Assomption</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-11-01</date>
+    <description>Toussaint</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-12-25</date>
+    <description>Noël</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>fr-LU</locale>
+    <region></region>
+    <date>2011-12-26</date>
+    <description>Saint Étienne</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+</holidays>
