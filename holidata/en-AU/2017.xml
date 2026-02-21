@@ -610,6 +610,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2017-09-29</date>
+    <description>Grand Final Eve</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region>ACT</region>
     <date>2017-10-02</date>
     <description>Labour Day</description>
