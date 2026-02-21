@@ -546,6 +546,14 @@
   </holiday>
   <holiday>
     <locale>en-AU</locale>
+    <region>VIC</region>
+    <date>2018-09-28</date>
+    <description>Grand Final Eve</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-AU</locale>
     <region>ACT</region>
     <date>2018-10-01</date>
     <description>Labour Day</description>

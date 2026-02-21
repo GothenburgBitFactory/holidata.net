@@ -478,6 +478,13 @@
     notes:
   holiday:
     locale: en-AU
+    region: VIC
+    date: 2018-09-28
+    description: Grand Final Eve
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
     region: ACT
     date: 2018-10-01
     description: Labour Day
