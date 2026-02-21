@@ -471,6 +471,13 @@
     notes:
   holiday:
     locale: en-AU
+    region: VIC
+    date: 2016-09-30
+    description: Grand Final Eve
+    type: V
+    notes:
+  holiday:
+    locale: en-AU
     region: ACT
     date: 2016-10-03
     description: Labour Day
