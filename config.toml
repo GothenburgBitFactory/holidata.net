@@ -17,6 +17,9 @@ DefaultContentLanguage = "en" # current values: "en" or "de"
 
 # For all color settings, please use the format "#rrggbb".
 
+[security]
+allowContent = ['^text/html$', '^text/markdown$']
+
 # Generic parameters
 [params]
     appendSiteTitle = true # Append site title to title tag on every page. Default false

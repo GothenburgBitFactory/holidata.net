@@ -7,3 +7,10 @@ table caption
 {
   text-align: center;
 }
+
+.latest-news
+{
+  background-color: #fff3cd33;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
