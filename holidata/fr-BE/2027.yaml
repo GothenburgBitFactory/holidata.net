@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-01-01
+    description: Nouvel An
+    type: NF
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-03-28
+    description: Pâques
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-03-29
+    description: Lundi de Pâques
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-05-01
+    description: Fête du Travail
+    type: NF
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-05-06
+    description: Ascension
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-05-16
+    description: Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-05-17
+    description: Lundi de Pentecôte
+    type: NRV
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-07-21
+    description: Fête nationale
+    type: NF
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-08-15
+    description: Assomption
+    type: NRF
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-11-01
+    description: Toussaint
+    type: NRF
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-11-11
+    description: Jour de l'armistice
+    type: NF
+    notes:
+  holiday:
+    locale: fr-BE
+    region:
+    date: 2027-12-25
+    description: Noël
+    type: NRF
+    notes:
+...

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<holidays>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-01-01</date>
+    <description>New Year's Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-01-18</date>
+    <description>Birthday of Martin Luther King, Jr.</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-02-15</date>
+    <description>Washington's Birthday</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region>MA</region>
+    <date>2027-04-19</date>
+    <description>Patriots' Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region>ME</region>
+    <date>2027-04-19</date>
+    <description>Patriots' Day</description>
+    <type>V</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-05-31</date>
+    <description>Memorial Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-06-18</date>
+    <description>Juneteenth National Independence Day (in lieu of)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-06-19</date>
+    <description>Juneteenth National Independence Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-07-04</date>
+    <description>Independence Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-07-05</date>
+    <description>Independence Day (in lieu of)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-09-06</date>
+    <description>Labor Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-10-11</date>
+    <description>Columbus Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-11-11</date>
+    <description>Veterans Day</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-11-25</date>
+    <description>Thanksgiving Day</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-11-26</date>
+    <description>Day after Thanksgiving</description>
+    <type>NV</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-12-24</date>
+    <description>Christmas Day (in lieu of)</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-12-25</date>
+    <description>Christmas Day</description>
+    <type>NRF</type>
+    <notes></notes>
+  </holiday>
+  <holiday>
+    <locale>en-US</locale>
+    <region></region>
+    <date>2027-12-31</date>
+    <description>New Year's Day (in lieu of)</description>
+    <type>NF</type>
+    <notes></notes>
+  </holiday>
+</holidays>

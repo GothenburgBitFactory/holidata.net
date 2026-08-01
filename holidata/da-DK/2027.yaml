@@ -1,0 +1,80 @@
+%YAML 1.1
+---
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-01-01
+    description: Nytårsdag
+    type: NF
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-03-25
+    description: Skærtorsdag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-03-26
+    description: Langfredag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-03-28
+    description: Påskedag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-03-29
+    description: Anden påskedag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-05-06
+    description: Kristi himmelfartsdag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-05-16
+    description: Pinsedag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-05-17
+    description: Anden pinsedag
+    type: NRV
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-06-05
+    description: Grundlovsdag
+    type: NF
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-12-25
+    description: Juledag
+    type: NRF
+    notes:
+  holiday:
+    locale: da-DK
+    region:
+    date: 2027-12-26
+    description: Anden juledag
+    type: NRF
+    notes:
+...
